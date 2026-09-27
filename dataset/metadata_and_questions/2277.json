@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2277",
+    "source": "COCO",
+    "complexity": 2,
+    "category": 2,
+    "target": "airplane"
+  },
+  "base": {
+    "target_description": "the yellow airplane on top of the trailer",
+    "modified_target_description": "the yellow airplane beside the trailer",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the yellow airplane on top of the trailer parked or moving in this scene?",
+      "modified": "Is the yellow airplane on top of the trailer parked or moving in this scene?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the yellow airplane on top of the trailer appear to be secured for transport?",
+      "modified": "Does the yellow airplane on top of the trailer appear to be secured for transport?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Can you see the yellow airplane on top of the trailer from the side?",
+      "modified": "Can you see the yellow airplane on top of the trailer from the side?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the yellow airplane on top of the trailer being carried by a vehicle?",
+      "modified": "Is the yellow airplane beside the trailer being carried by a vehicle?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the yellow airplane on top of the trailer have its wings fully visible?",
+      "modified": "Does the yellow airplane beside the trailer have its wings fully visible?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the yellow airplane on top of the trailer facing toward the right side of the image?",
+      "modified": "Is the yellow airplane beside the trailer facing toward the right side of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the yellow airplane on top of the trailer look like a small aircraft?",
+      "modified": "Does the yellow airplane beside the trailer look like a small aircraft?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the yellow airplane on top of the trailer outdoors on a paved surface?",
+      "modified": "Is the yellow airplane beside the trailer outdoors on a paved surface?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Can you read any markings on the yellow airplane on top of the trailer?",
+      "modified": "Can you read any markings on the yellow airplane beside the trailer?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the yellow airplane on top of the trailer elevated above the ground?",
+      "modified": "Is the yellow airplane beside the trailer elevated above the ground?",
+      "false_premise": true
+    }
+  ]
+}

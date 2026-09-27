@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3481",
+    "source": "Open Images",
+    "complexity": 3,
+    "category": 4,
+    "target": "apples"
+  },
+  "base": {
+    "target_description": "the pile of yellow and green apples",
+    "modified_target_description": "the pile of yellow and green apples on the right",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "How many apples can you roughly see in the pile of yellow and green apples?",
+      "modified": "How many apples can you roughly see in the pile of yellow and green apples?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the pile of yellow and green apples sitting in bright sunlight or mostly in shadow?",
+      "modified": "Is the pile of yellow and green apples sitting in bright sunlight or mostly in shadow?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Are most of the fruits in the pile of yellow and green apples yellow or green?",
+      "modified": "Are most of the fruits in the pile of yellow and green apples yellow or green?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the pile of yellow and green apples look fresh and firm?",
+      "modified": "Does the pile of yellow and green apples on the right look fresh and firm?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Are the apples in the pile of yellow and green apples grouped closely together?",
+      "modified": "Are the apples in the pile of yellow and green apples on the right grouped closely together?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Can you see any stems on the pile of yellow and green apples?",
+      "modified": "Can you see any stems on the pile of yellow and green apples on the right?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the pile of yellow and green apples include both light and darker areas from the lighting?",
+      "modified": "Does the pile of yellow and green apples on the right include both light and darker areas from the lighting?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the pile of yellow and green apples arranged on a flat surface?",
+      "modified": "Is the pile of yellow and green apples on the right arranged on a flat surface?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Do any apples in the pile of yellow and green apples have visible blemishes or spots?",
+      "modified": "Do any apples in the pile of yellow and green apples on the right have visible blemishes or spots?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the pile of yellow and green apples fill most of the frame?",
+      "modified": "Does the pile of yellow and green apples on the right fill most of the frame?",
+      "false_premise": true
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1385",
+    "source": "COCO",
+    "complexity": 1,
+    "category": 3,
+    "target": "dog"
+  },
+  "base": {
+    "target_description": "the light-colored dog sitting on the beach",
+    "modified_target_description": "the light-colored dog sitting on the left side of the beach",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the light-colored dog sitting on the beach doing right now?",
+      "modified": "What is the light-colored dog sitting on the beach doing right now?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the light-colored dog sitting on the beach inside a shape drawn in the sand?",
+      "modified": "Is the light-colored dog sitting on the beach inside a shape drawn in the sand?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the light-colored dog sitting on the beach appear to be facing the camera?",
+      "modified": "Does the light-colored dog sitting on the beach appear to be facing the camera?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the light-colored dog sitting on the beach near the waterline?",
+      "modified": "Is the light-colored dog sitting on the left side of the beach near the waterline?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the light-colored dog sitting on the beach look calm and still?",
+      "modified": "Does the light-colored dog sitting on the left side of the beach look calm and still?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the light-colored dog sitting on the beach the main focus of the scene?",
+      "modified": "Is the light-colored dog sitting on the left side of the beach the main focus of the scene?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Can you see the mouth of the light-colored dog sitting on the beach open?",
+      "modified": "Can you see the mouth of the light-colored dog sitting on the left side of the beach open?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the light-colored dog sitting on the beach positioned near the center of the image?",
+      "modified": "Is the light-colored dog sitting on the left side of the beach positioned near the center of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the light-colored dog sitting on the beach seem to be alone in the scene?",
+      "modified": "Does the light-colored dog sitting on the left side of the beach seem to be alone in the scene?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the light-colored dog sitting on the beach on wet sand?",
+      "modified": "Is the light-colored dog sitting on the left side of the beach on wet sand?",
+      "false_premise": true
+    }
+  ]
+}

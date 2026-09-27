@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3111",
+    "source": "Open Images",
+    "complexity": 3,
+    "category": 1,
+    "target": "woman"
+  },
+  "base": {
+    "target_description": "the older woman in a red patterned shirt",
+    "modified_target_description": "the older man in a red patterned shirt",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the older woman in a red patterned shirt smiling in the scene?",
+      "modified": "Is the older woman in a red patterned shirt smiling in the scene?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "What is the older woman in a red patterned shirt holding in one hand?",
+      "modified": "What is the older woman in a red patterned shirt holding in one hand?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the older woman in a red patterned shirt walking across the street?",
+      "modified": "Is the older woman in a red patterned shirt walking across the street?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the older woman in a red patterned shirt appear to be standing next to a costumed performer?",
+      "modified": "Does the older man in a red patterned shirt appear to be standing next to a costumed performer?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the older woman in a red patterned shirt wearing glasses?",
+      "modified": "Is the older man in a red patterned shirt wearing glasses?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the older woman in a red patterned shirt have a bag hanging across her body?",
+      "modified": "Does the older man in a red patterned shirt have a bag hanging across his body?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "What kind of footwear is the older woman in a red patterned shirt wearing?",
+      "modified": "What kind of footwear is the older man in a red patterned shirt wearing?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the older woman in a red patterned shirt closer to the camera than most other people?",
+      "modified": "Is the older man in a red patterned shirt closer to the camera than most other people?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the older woman in a red patterned shirt appear relaxed and cheerful?",
+      "modified": "Does the older man in a red patterned shirt appear relaxed and cheerful?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the older woman in a red patterned shirt on a crosswalk?",
+      "modified": "Is the older man in a red patterned shirt on a crosswalk?",
+      "false_premise": true
+    }
+  ]
+}

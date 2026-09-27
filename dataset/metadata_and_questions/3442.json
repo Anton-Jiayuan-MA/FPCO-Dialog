@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3442",
+    "source": "COCO",
+    "complexity": 3,
+    "category": 4,
+    "target": "fruit"
+  },
+  "base": {
+    "target_description": "the bunch of bananas in the bowl",
+    "modified_target_description": "the green bunch of bananas in the bowl",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What color is the bunch of bananas in the bowl?",
+      "modified": "What color is the bunch of bananas in the bowl?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the bunch of bananas in the bowl ripe or still green?",
+      "modified": "Is the bunch of bananas in the bowl ripe or still green?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "How many bananas are visible in the bunch of bananas in the bowl?",
+      "modified": "How many bananas are visible in the bunch of bananas in the bowl?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the bunch of bananas in the bowl resting on top of the other fruit?",
+      "modified": "Is the green bunch of bananas in the bowl resting on top of the other fruit?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the bunch of bananas in the bowl look curved around the center of the bowl?",
+      "modified": "Does the green bunch of bananas in the bowl look curved around the center of the bowl?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the bunch of bananas in the bowl the most prominent fruit in the image?",
+      "modified": "Is the green bunch of bananas in the bowl the most prominent fruit in the image?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Are there any dark spots visible on the bunch of bananas in the bowl?",
+      "modified": "Are there any dark spots visible on the green bunch of bananas in the bowl?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the bunch of bananas in the bowl placed near some apples?",
+      "modified": "Is the green bunch of bananas in the bowl placed near some apples?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the bunch of bananas in the bowl appear to fill much of the bowl?",
+      "modified": "Does the green bunch of bananas in the bowl appear to fill much of the bowl?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the bunch of bananas in the bowl indoors on a table or counter?",
+      "modified": "Is the green bunch of bananas in the bowl indoors on a table or counter?",
+      "false_premise": true
+    }
+  ]
+}

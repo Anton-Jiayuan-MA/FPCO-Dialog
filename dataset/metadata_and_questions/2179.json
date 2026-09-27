@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2179",
+    "source": "COCO",
+    "complexity": 2,
+    "category": 1,
+    "target": "man"
+  },
+  "base": {
+    "target_description": "the man in the blue shirt holding a bat",
+    "modified_target_description": "the man near home plate holding a bat",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the man in the blue shirt holding a bat doing in this scene?",
+      "modified": "What is the man in the blue shirt holding a bat doing in this scene?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the man in the blue shirt holding a bat standing in the batter's box?",
+      "modified": "Is the man in the blue shirt holding a bat standing in the batter's box?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the man in the blue shirt holding a bat appear ready to swing?",
+      "modified": "Does the man in the blue shirt holding a bat appear ready to swing?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "What is the man in the blue shirt holding a bat looking toward?",
+      "modified": "What is the man near home plate holding a bat looking toward?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the man in the blue shirt holding a bat wearing a helmet?",
+      "modified": "Is the man near home plate holding a bat wearing a helmet?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "What number is on the back of the man in the blue shirt holding a bat?",
+      "modified": "What number is on the back of the man near home plate holding a bat?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the man in the blue shirt holding a bat near home plate?",
+      "modified": "Is the man near home plate holding a bat near home plate?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the man in the blue shirt holding a bat seem to be waiting for the pitch?",
+      "modified": "Does the man near home plate holding a bat seem to be waiting for the pitch?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the man in the blue shirt holding a bat facing the catcher?",
+      "modified": "Is the man near home plate holding a bat facing the catcher?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "What sport is the man in the blue shirt holding a bat playing?",
+      "modified": "What sport is the man near home plate holding a bat playing?",
+      "false_premise": true
+    }
+  ]
+}

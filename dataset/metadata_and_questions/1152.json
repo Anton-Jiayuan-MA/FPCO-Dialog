@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1152",
+    "source": "Open Images",
+    "complexity": 1,
+    "category": 1,
+    "target": "man"
+  },
+  "base": {
+    "target_description": "the dark-haired man holding a microphone",
+    "modified_target_description": "the blond-haired man holding a microphone",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the dark-haired man holding a microphone doing in this scene?",
+      "modified": "What is the dark-haired man holding a microphone doing in this scene?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the dark-haired man holding a microphone looking upward?",
+      "modified": "Is the dark-haired man holding a microphone looking upward?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "What is the dark-haired man holding a microphone wearing?",
+      "modified": "What is the dark-haired man holding a microphone wearing?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the dark-haired man holding a microphone appear to be performing on stage?",
+      "modified": "Does the blond-haired man holding a microphone appear to be performing on stage?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "How close is the camera to the dark-haired man holding a microphone?",
+      "modified": "How close is the camera to the blond-haired man holding a microphone?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the dark-haired man holding a microphone under bright colored lighting?",
+      "modified": "Is the blond-haired man holding a microphone under bright colored lighting?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "What expression does the dark-haired man holding a microphone have?",
+      "modified": "What expression does the blond-haired man holding a microphone have?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the dark-haired man holding a microphone singing into the microphone?",
+      "modified": "Is the blond-haired man holding a microphone singing into the microphone?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Which direction is the dark-haired man holding a microphone facing?",
+      "modified": "Which direction is the blond-haired man holding a microphone facing?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Can you see the hand of the dark-haired man holding a microphone gripping the microphone?",
+      "modified": "Can you see the hand of the blond-haired man holding a microphone gripping the microphone?",
+      "false_premise": true
+    }
+  ]
+}

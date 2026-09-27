@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2103",
+    "source": "Open Images",
+    "complexity": 2,
+    "category": 1,
+    "target": "woman"
+  },
+  "base": {
+    "target_description": "the woman in a pink top",
+    "modified_target_description": "the man in a pink top",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the woman in a pink top standing between two cardboard figures?",
+      "modified": "Is the woman in a pink top standing between two cardboard figures?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the woman in a pink top appear to be facing the camera?",
+      "modified": "Does the woman in a pink top appear to be facing the camera?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the woman in a pink top indoors in this scene?",
+      "modified": "Is the woman in a pink top indoors in this scene?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the woman in a pink top have long hair?",
+      "modified": "Does the man in a pink top have long hair?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the woman in a pink top positioned in the center of the image?",
+      "modified": "Is the man in a pink top positioned in the center of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the woman in a pink top standing in front of a white screen?",
+      "modified": "Is the man in a pink top standing in front of a white screen?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the woman in a pink top look like she is posing for a photo?",
+      "modified": "Does the man in a pink top look like he is posing for a photo?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the woman in a pink top closer to the camera than the figures behind her?",
+      "modified": "Is the man in a pink top closer to the camera than the figures behind him?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the woman in a pink top wearing hoop earrings?",
+      "modified": "Is the man in a pink top wearing hoop earrings?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the woman in a pink top have her arms down by her sides?",
+      "modified": "Does the man in a pink top have his arms down by his sides?",
+      "false_premise": true
+    }
+  ]
+}

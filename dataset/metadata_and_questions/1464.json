@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1464",
+    "source": "COCO",
+    "complexity": 1,
+    "category": 4,
+    "target": "pizza"
+  },
+  "base": {
+    "target_description": "the large cheese pizza on a black tray",
+    "modified_target_description": "the large cheese pizza on a black tray near an oven",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What toppings can you see on the large cheese pizza on a black tray?",
+      "modified": "What toppings can you see on the large cheese pizza on a black tray?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the large cheese pizza on a black tray fully baked?",
+      "modified": "Is the large cheese pizza on a black tray fully baked?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the large cheese pizza on a black tray look ready to be served?",
+      "modified": "Does the large cheese pizza on a black tray look ready to be served?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "What color is the crust of the large cheese pizza on a black tray?",
+      "modified": "What color is the crust of the large cheese pizza on a black tray near an oven?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the large cheese pizza on a black tray sitting near an oven?",
+      "modified": "Is the large cheese pizza on a black tray near an oven sitting near an oven?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the large cheese pizza on a black tray appear to have a thick or thin crust?",
+      "modified": "Does the large cheese pizza on a black tray near an oven appear to have a thick or thin crust?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the large cheese pizza on a black tray the main food item in the foreground?",
+      "modified": "Is the large cheese pizza on a black tray near an oven the main food item in the foreground?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the large cheese pizza on a black tray look freshly made?",
+      "modified": "Does the large cheese pizza on a black tray near an oven look freshly made?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the large cheese pizza on a black tray whole or already sliced?",
+      "modified": "Is the large cheese pizza on a black tray near an oven whole or already sliced?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "How much of the large cheese pizza on a black tray is visible in the image?",
+      "modified": "How much of the large cheese pizza on a black tray near an oven is visible in the image?",
+      "false_premise": true
+    }
+  ]
+}

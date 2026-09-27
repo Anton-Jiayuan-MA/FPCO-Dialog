@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1370",
+    "source": "Open Images",
+    "complexity": 1,
+    "category": 3,
+    "target": "cat"
+  },
+  "base": {
+    "target_description": "the orange kitten with white fur",
+    "modified_target_description": "the orange kitten with white fur on the right",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Where is the orange kitten with white fur sitting in the image?",
+      "modified": "Where is the orange kitten with white fur sitting in the image?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the orange kitten with white fur between two bicycles?",
+      "modified": "Is the orange kitten with white fur between two bicycles?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "What is the orange kitten with white fur looking at?",
+      "modified": "What is the orange kitten with white fur looking at?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the orange kitten with white fur sitting or standing?",
+      "modified": "Is the orange kitten with white fur on the right sitting or standing?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the orange kitten with white fur appear small and young?",
+      "modified": "Does the orange kitten with white fur on the right appear small and young?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "What kind of expression does the orange kitten with white fur have?",
+      "modified": "What kind of expression does the orange kitten with white fur on the right have?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the orange kitten with white fur on a striped rug?",
+      "modified": "Is the orange kitten with white fur on the right on a striped rug?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Are the ears of the orange kitten with white fur pointed upward?",
+      "modified": "Are the ears of the orange kitten with white fur on the right pointed upward?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the orange kitten with white fur seem tucked into a narrow space?",
+      "modified": "Does the orange kitten with white fur on the right seem tucked into a narrow space?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the orange kitten with white fur facing toward the camera?",
+      "modified": "Is the orange kitten with white fur on the right facing toward the camera?",
+      "false_premise": true
+    }
+  ]
+}

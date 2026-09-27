@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1468",
+    "source": "COCO",
+    "complexity": 1,
+    "category": 4,
+    "target": "cake"
+  },
+  "base": {
+    "target_description": "the blue ocean-themed cake",
+    "modified_target_description": "the blue ocean-themed cake on the right",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What name is written on the blue ocean-themed cake?",
+      "modified": "What name is written on the blue ocean-themed cake?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "What color frosting covers the blue ocean-themed cake?",
+      "modified": "What color frosting covers the blue ocean-themed cake?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the blue ocean-themed cake decorated with sea creatures?",
+      "modified": "Is the blue ocean-themed cake decorated with sea creatures?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is there a dolphin on top of the blue ocean-themed cake?",
+      "modified": "Is there a dolphin on top of the blue ocean-themed cake on the right?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the blue ocean-themed cake appear to be homemade?",
+      "modified": "Does the blue ocean-themed cake on the right appear to be homemade?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "What shape is the blue ocean-themed cake?",
+      "modified": "What shape is the blue ocean-themed cake on the right?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the blue ocean-themed cake sitting on a white plate?",
+      "modified": "Is the blue ocean-themed cake on the right sitting on a white plate?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Are there bright red decorations on the blue ocean-themed cake?",
+      "modified": "Are there bright red decorations on the blue ocean-themed cake on the right?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the blue ocean-themed cake look like it is meant for a birthday celebration?",
+      "modified": "Does the blue ocean-themed cake on the right look like it is meant for a birthday celebration?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the blue ocean-themed cake viewed from the front and slightly above?",
+      "modified": "Is the blue ocean-themed cake on the right viewed from the front and slightly above?",
+      "false_premise": true
+    }
+  ]
+}

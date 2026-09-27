@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2475",
+    "source": "COCO",
+    "complexity": 2,
+    "category": 4,
+    "target": "vegetables"
+  },
+  "base": {
+    "target_description": "the chopped broccoli florets",
+    "modified_target_description": "the chopped broccoli florets on the right side of the board",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Are the chopped broccoli florets spread out on the cutting board?",
+      "modified": "Are the chopped broccoli florets spread out on the cutting board?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Do the chopped broccoli florets look fresh and green?",
+      "modified": "Do the chopped broccoli florets look fresh and green?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Are the chopped broccoli florets cut into small pieces?",
+      "modified": "Are the chopped broccoli florets cut into small pieces?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Are the chopped broccoli florets sitting beside other chopped ingredients?",
+      "modified": "Are the chopped broccoli florets on the right side of the board sitting beside other chopped ingredients?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Do the chopped broccoli florets take up the left side of the board?",
+      "modified": "Do the chopped broccoli florets on the right side of the board take up the left side of the board?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Are the chopped broccoli florets piled loosely rather than neatly stacked?",
+      "modified": "Are the chopped broccoli florets on the right side of the board piled loosely rather than neatly stacked?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Do the chopped broccoli florets appear ready to be cooked?",
+      "modified": "Do the chopped broccoli florets on the right side of the board appear ready to be cooked?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Are the chopped broccoli florets on a wooden surface?",
+      "modified": "Are the chopped broccoli florets on the right side of the board on a wooden surface?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Do the chopped broccoli florets look raw in this image?",
+      "modified": "Do the chopped broccoli florets on the right side of the board look raw in this image?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Are the chopped broccoli florets one of several prepared foods on the board?",
+      "modified": "Are the chopped broccoli florets on the right side of the board one of several prepared foods on the board?",
+      "false_premise": true
+    }
+  ]
+}

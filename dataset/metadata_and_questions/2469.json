@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2469",
+    "source": "Open Images",
+    "complexity": 2,
+    "category": 4,
+    "target": "carrots"
+  },
+  "base": {
+    "target_description": "the bunches of orange carrots on white plates",
+    "modified_target_description": "the bunches of orange carrots on white plates on the right",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "How many of the bunches of orange carrots on white plates are visible in the display?",
+      "modified": "How many of the bunches of orange carrots on white plates are visible in the display?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Are the bunches of orange carrots on white plates arranged for judging or sale?",
+      "modified": "Are the bunches of orange carrots on white plates arranged for judging or sale?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Do the bunches of orange carrots on white plates still have some green tops attached?",
+      "modified": "Do the bunches of orange carrots on white plates still have some green tops attached?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Are the bunches of orange carrots on white plates spread across the green-covered tables?",
+      "modified": "Are the bunches of orange carrots on white plates on the right spread across the green-covered tables?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Do the bunches of orange carrots on white plates appear to be grouped by size?",
+      "modified": "Do the bunches of orange carrots on white plates on the right appear to be grouped by size?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Are any ribbons placed near the bunches of orange carrots on white plates?",
+      "modified": "Are any ribbons placed near the bunches of orange carrots on white plates on the right?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Do the bunches of orange carrots on white plates look freshly harvested?",
+      "modified": "Do the bunches of orange carrots on white plates on the right look freshly harvested?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Are the bunches of orange carrots on white plates the main focus of the scene?",
+      "modified": "Are the bunches of orange carrots on white plates on the right the main focus of the scene?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Do the bunches of orange carrots on white plates appear clean and trimmed?",
+      "modified": "Do the bunches of orange carrots on white plates on the right appear clean and trimmed?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Are the bunches of orange carrots on white plates displayed indoors?",
+      "modified": "Are the bunches of orange carrots on white plates on the right displayed indoors?",
+      "false_premise": true
+    }
+  ]
+}

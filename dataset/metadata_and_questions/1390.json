@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1390",
+    "source": "COCO",
+    "complexity": 1,
+    "category": 3,
+    "target": "dog"
+  },
+  "base": {
+    "target_description": "the small brown and white dog on the toilet",
+    "modified_target_description": "the small brown and white dog by the toilet",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the small brown and white dog on the toilet looking at?",
+      "modified": "What is the small brown and white dog on the toilet looking at?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the small brown and white dog on the toilet standing or sitting?",
+      "modified": "Is the small brown and white dog on the toilet standing or sitting?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the small brown and white dog on the toilet appear to be indoors?",
+      "modified": "Does the small brown and white dog on the toilet appear to be indoors?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the small brown and white dog on the toilet wearing a collar?",
+      "modified": "Is the small brown and white dog by the toilet wearing a collar?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the small brown and white dog on the toilet look toward the camera?",
+      "modified": "Does the small brown and white dog by the toilet look toward the camera?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Are all four paws of the small brown and white dog on the toilet visible?",
+      "modified": "Are all four paws of the small brown and white dog by the toilet visible?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the small brown and white dog on the toilet seem calm?",
+      "modified": "Does the small brown and white dog by the toilet seem calm?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the small brown and white dog on the toilet positioned near the front edge?",
+      "modified": "Is the small brown and white dog by the toilet positioned near the front edge?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the small brown and white dog on the toilet have long facial hair?",
+      "modified": "Does the small brown and white dog by the toilet have long facial hair?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the small brown and white dog on the toilet facing slightly to one side?",
+      "modified": "Is the small brown and white dog by the toilet facing slightly to one side?",
+      "false_premise": true
+    }
+  ]
+}

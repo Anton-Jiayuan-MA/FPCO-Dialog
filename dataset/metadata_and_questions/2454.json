@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2454",
+    "source": "COCO",
+    "complexity": 2,
+    "category": 4,
+    "target": "soup"
+  },
+  "base": {
+    "target_description": "the creamy broccoli soup in a white bowl",
+    "modified_target_description": "the chunky broccoli soup in a white bowl",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What color is the creamy broccoli soup in a white bowl?",
+      "modified": "What color is the creamy broccoli soup in a white bowl?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the creamy broccoli soup in a white bowl look hot?",
+      "modified": "Does the creamy broccoli soup in a white bowl look hot?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "What vegetable is visible in the creamy broccoli soup in a white bowl?",
+      "modified": "What vegetable is visible in the creamy broccoli soup in a white bowl?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the creamy broccoli soup in a white bowl served in a deep dish or a shallow one?",
+      "modified": "Is the chunky broccoli soup in a white bowl served in a deep dish or a shallow one?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the creamy broccoli soup in a white bowl appear smooth or chunky?",
+      "modified": "Does the chunky broccoli soup in a white bowl appear smooth or chunky?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the creamy broccoli soup in a white bowl sitting on a wooden table?",
+      "modified": "Is the chunky broccoli soup in a white bowl sitting on a wooden table?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Are there large pieces of broccoli in the creamy broccoli soup in a white bowl?",
+      "modified": "Are there large pieces of broccoli in the chunky broccoli soup in a white bowl?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the creamy broccoli soup in a white bowl closer to the front or the back of the image?",
+      "modified": "Is the chunky broccoli soup in a white bowl closer to the front or the back of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the creamy broccoli soup in a white bowl look like a main dish or a side dish?",
+      "modified": "Does the chunky broccoli soup in a white bowl look like a main dish or a side dish?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the creamy broccoli soup in a white bowl placed near a spoon?",
+      "modified": "Is the chunky broccoli soup in a white bowl placed near a spoon?",
+      "false_premise": true
+    }
+  ]
+}

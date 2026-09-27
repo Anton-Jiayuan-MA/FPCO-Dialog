@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1315",
+    "source": "COCO",
+    "complexity": 1,
+    "category": 3,
+    "target": "horse"
+  },
+  "base": {
+    "target_description": "the white horse with a bridle",
+    "modified_target_description": "the white cow with a bridle",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the white horse with a bridle facing toward the right side of the image?",
+      "modified": "Is the white horse with a bridle facing toward the right side of the image?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the white horse with a bridle appear to be indoors?",
+      "modified": "Does the white horse with a bridle appear to be indoors?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Can you see the head and neck of the white horse with a bridle clearly?",
+      "modified": "Can you see the head and neck of the white horse with a bridle clearly?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the white horse with a bridle have its ears standing upright?",
+      "modified": "Does the white cow with a bridle have its ears standing upright?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the white horse with a bridle wearing any decorative ribbons?",
+      "modified": "Is the white cow with a bridle wearing any decorative ribbons?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the white horse with a bridle look calm in the scene?",
+      "modified": "Does the white cow with a bridle look calm in the scene?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the white horse with a bridle shown close up rather than far away?",
+      "modified": "Is the white cow with a bridle shown close up rather than far away?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Can you see one eye of the white horse with a bridle prominently?",
+      "modified": "Can you see one eye of the white cow with a bridle prominently?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the mane of the white horse with a bridle hanging down along its neck?",
+      "modified": "Is the mane of the white cow with a bridle hanging down along its neck?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the white horse with a bridle take up most of the image?",
+      "modified": "Does the white cow with a bridle take up most of the image?",
+      "false_premise": true
+    }
+  ]
+}

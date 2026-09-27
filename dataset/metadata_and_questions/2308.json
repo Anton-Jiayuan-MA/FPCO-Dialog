@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2308",
+    "source": "COCO",
+    "complexity": 2,
+    "category": 3,
+    "target": "cat"
+  },
+  "base": {
+    "target_description": "the black and white cat on the sink",
+    "modified_target_description": "the black and white dog on the sink",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the black and white cat on the sink doing in the image?",
+      "modified": "What is the black and white cat on the sink doing in the image?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the black and white cat on the sink standing or sitting?",
+      "modified": "Is the black and white cat on the sink standing or sitting?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the black and white cat on the sink appear to be looking down into the basin?",
+      "modified": "Does the black and white cat on the sink appear to be looking down into the basin?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Where is the black and white cat on the sink positioned in relation to the other cat?",
+      "modified": "Where is the black and white dog on the sink positioned in relation to the other cat?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Can you see the paws of the black and white cat on the sink clearly?",
+      "modified": "Can you see the paws of the black and white dog on the sink clearly?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the black and white cat on the sink seem calm in this scene?",
+      "modified": "Does the black and white dog on the sink seem calm in this scene?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the black and white cat on the sink partly over the edge of the basin?",
+      "modified": "Is the black and white dog on the sink partly over the edge of the basin?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "What color markings are visible on the black and white cat on the sink?",
+      "modified": "What color markings are visible on the black and white dog on the sink?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the black and white cat on the sink facing toward the left side of the image?",
+      "modified": "Is the black and white dog on the sink facing toward the left side of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the black and white cat on the sink share the sink area with another animal?",
+      "modified": "Does the black and white dog on the sink share the sink area with another animal?",
+      "false_premise": true
+    }
+  ]
+}

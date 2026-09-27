@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3154",
+    "source": "COCO",
+    "complexity": 3,
+    "category": 1,
+    "target": "person"
+  },
+  "base": {
+    "target_description": "the woman with red hair and a red backpack",
+    "modified_target_description": "the woman with blonde hair and a red backpack",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the woman with red hair and a red backpack doing at the edge of the sidewalk?",
+      "modified": "What is the woman with red hair and a red backpack doing at the edge of the sidewalk?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the woman with red hair and a red backpack standing alone or with the group nearby?",
+      "modified": "Is the woman with red hair and a red backpack standing alone or with the group nearby?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "What is the woman with red hair and a red backpack facing toward?",
+      "modified": "What is the woman with red hair and a red backpack facing toward?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the woman with red hair and a red backpack closer to the car or closer to the cluster of people?",
+      "modified": "Is the woman with blonde hair and a red backpack closer to the car or closer to the cluster of people?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the woman with red hair and a red backpack appear to be waiting to cross the street?",
+      "modified": "Does the woman with blonde hair and a red backpack appear to be waiting to cross the street?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "What is the woman with red hair and a red backpack wearing besides the backpack?",
+      "modified": "What is the woman with blonde hair and a red backpack wearing besides the backpack?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the woman with red hair and a red backpack positioned near the row of short gray posts?",
+      "modified": "Is the woman with blonde hair and a red backpack positioned near the row of short gray posts?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the woman with red hair and a red backpack seem to be moving or standing still?",
+      "modified": "Does the woman with blonde hair and a red backpack seem to be moving or standing still?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the woman with red hair and a red backpack on the left side of the image?",
+      "modified": "Is the woman with blonde hair and a red backpack on the left side of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "About how far is the woman with red hair and a red backpack from the main group of people?",
+      "modified": "About how far is the woman with blonde hair and a red backpack from the main group of people?",
+      "false_premise": true
+    }
+  ]
+}

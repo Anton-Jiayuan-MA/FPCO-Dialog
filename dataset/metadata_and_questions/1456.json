@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1456",
+    "source": "Open Images",
+    "complexity": 1,
+    "category": 4,
+    "target": "shrimp"
+  },
+  "base": {
+    "target_description": "the browned shrimp on the white plate",
+    "modified_target_description": "the pink shrimp on the white plate",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "How many pieces of the browned shrimp on the white plate are visible?",
+      "modified": "How many pieces of the browned shrimp on the white plate are visible?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the browned shrimp on the white plate arranged around the sauce in the middle?",
+      "modified": "Is the browned shrimp on the white plate arranged around the sauce in the middle?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the browned shrimp on the white plate look cooked and lightly seared?",
+      "modified": "Does the browned shrimp on the white plate look cooked and lightly seared?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the browned shrimp on the white plate being served as part of a plated dish?",
+      "modified": "Is the pink shrimp on the white plate being served as part of a plated dish?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Are there small green garnishes placed near the browned shrimp on the white plate?",
+      "modified": "Are there small green garnishes placed near the pink shrimp on the white plate?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the browned shrimp on the white plate appear to be the main food item in the image?",
+      "modified": "Does the pink shrimp on the white plate appear to be the main food item in the image?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the browned shrimp on the white plate sitting close together in a circular arrangement?",
+      "modified": "Is the pink shrimp on the white plate sitting close together in a circular arrangement?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the browned shrimp on the white plate have golden-brown tops?",
+      "modified": "Does the pink shrimp on the white plate have golden-brown tops?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the browned shrimp on the white plate shown from a slightly overhead angle?",
+      "modified": "Is the pink shrimp on the white plate shown from a slightly overhead angle?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the browned shrimp on the white plate presented in a restaurant-style way?",
+      "modified": "Is the pink shrimp on the white plate presented in a restaurant-style way?",
+      "false_premise": true
+    }
+  ]
+}

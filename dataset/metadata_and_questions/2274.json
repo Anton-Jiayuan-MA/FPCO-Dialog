@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2274",
+    "source": "COCO",
+    "complexity": 2,
+    "category": 2,
+    "target": "truck"
+  },
+  "base": {
+    "target_description": "the white semi truck pulling a flatbed trailer",
+    "modified_target_description": "the white semi truck pulling a flatbed trailer on the left",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the white semi truck pulling a flatbed trailer driving on a highway?",
+      "modified": "Is the white semi truck pulling a flatbed trailer driving on a highway?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the white semi truck pulling a flatbed trailer appear to be moving in traffic?",
+      "modified": "Does the white semi truck pulling a flatbed trailer appear to be moving in traffic?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "What is loaded on the white semi truck pulling a flatbed trailer?",
+      "modified": "What is loaded on the white semi truck pulling a flatbed trailer?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the white semi truck pulling a flatbed trailer seen from behind?",
+      "modified": "Is the white semi truck pulling a flatbed trailer on the left seen from behind?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the white semi truck pulling a flatbed trailer have cargo covered with tarps?",
+      "modified": "Does the white semi truck pulling a flatbed trailer on the left have cargo covered with tarps?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the white semi truck pulling a flatbed trailer in the right lane?",
+      "modified": "Is the white semi truck pulling a flatbed trailer on the left in the right lane?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the white semi truck pulling a flatbed trailer look larger than the nearby cars?",
+      "modified": "Does the white semi truck pulling a flatbed trailer on the left look larger than the nearby cars?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the white semi truck pulling a flatbed trailer traveling in the same direction as the other vehicles?",
+      "modified": "Is the white semi truck pulling a flatbed trailer on the left traveling in the same direction as the other vehicles?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Can you see the rear wheels of the white semi truck pulling a flatbed trailer?",
+      "modified": "Can you see the rear wheels of the white semi truck pulling a flatbed trailer on the left?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the white semi truck pulling a flatbed trailer closer to the camera than the box truck ahead?",
+      "modified": "Is the white semi truck pulling a flatbed trailer on the left closer to the camera than the box truck ahead?",
+      "false_premise": true
+    }
+  ]
+}

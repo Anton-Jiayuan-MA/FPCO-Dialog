@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1176",
+    "source": "COCO",
+    "complexity": 1,
+    "category": 1,
+    "target": "woman"
+  },
+  "base": {
+    "target_description": "the smiling woman with a pink umbrella",
+    "modified_target_description": "the smiling woman with a pink umbrella on the right",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the smiling woman with a pink umbrella holding?",
+      "modified": "What is the smiling woman with a pink umbrella holding?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the smiling woman with a pink umbrella standing outdoors?",
+      "modified": "Is the smiling woman with a pink umbrella standing outdoors?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "What kind of outfit is the smiling woman with a pink umbrella wearing?",
+      "modified": "What kind of outfit is the smiling woman with a pink umbrella wearing?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the smiling woman with a pink umbrella appear to be enjoying the moment?",
+      "modified": "Does the smiling woman with a pink umbrella on the right appear to be enjoying the moment?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the smiling woman with a pink umbrella looking toward the camera or away from it?",
+      "modified": "Is the smiling woman with a pink umbrella on the right looking toward the camera or away from it?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Where is the smiling woman with a pink umbrella positioned in the scene?",
+      "modified": "Where is the smiling woman with a pink umbrella on the right positioned in the scene?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the smiling woman with a pink umbrella seem to be near the water?",
+      "modified": "Does the smiling woman with a pink umbrella on the right seem to be near the water?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "What is behind the smiling woman with a pink umbrella?",
+      "modified": "What is behind the smiling woman with a pink umbrella on the right?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the smiling woman with a pink umbrella in bright sunlight?",
+      "modified": "Is the smiling woman with a pink umbrella on the right in bright sunlight?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "How is the smiling woman with a pink umbrella posing in the image?",
+      "modified": "How is the smiling woman with a pink umbrella on the right posing in the image?",
+      "false_premise": true
+    }
+  ]
+}

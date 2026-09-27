@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2389",
+    "source": "COCO",
+    "complexity": 2,
+    "category": 3,
+    "target": "duck"
+  },
+  "base": {
+    "target_description": "the dark duck in the water",
+    "modified_target_description": "the dark duck on the left",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the dark duck in the water swimming or standing still?",
+      "modified": "Is the dark duck in the water swimming or standing still?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the dark duck in the water appear to be part of a larger group?",
+      "modified": "Does the dark duck in the water appear to be part of a larger group?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the dark duck in the water facing toward the left or the right?",
+      "modified": "Is the dark duck in the water facing toward the left or the right?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Can you see the dark duck in the water clearly against the lighter water?",
+      "modified": "Can you see the dark duck on the left clearly against the lighter water?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the dark duck in the water look close to the other ducks nearby?",
+      "modified": "Does the dark duck on the left look close to the other ducks nearby?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the dark duck in the water floating calmly on the surface?",
+      "modified": "Is the dark duck on the left floating calmly on the surface?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the dark duck in the water have most of its body above the waterline?",
+      "modified": "Does the dark duck on the left have most of its body above the waterline?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the dark duck in the water near the center of the scene or closer to an edge?",
+      "modified": "Is the dark duck on the left near the center of the scene or closer to an edge?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the dark duck in the water seem to be moving in the same direction as the others?",
+      "modified": "Does the dark duck on the left seem to be moving in the same direction as the others?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the dark duck in the water one of many ducks visible in the image?",
+      "modified": "Is the dark duck on the left one of many ducks visible in the image?",
+      "false_premise": true
+    }
+  ]
+}

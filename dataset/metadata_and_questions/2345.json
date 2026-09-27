@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2345",
+    "source": "COCO",
+    "complexity": 2,
+    "category": 3,
+    "target": "bear"
+  },
+  "base": {
+    "target_description": "the white bear on the rock",
+    "modified_target_description": "the black bear on the rock",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the white bear on the rock sitting or standing?",
+      "modified": "Is the white bear on the rock sitting or standing?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the white bear on the rock look relaxed in this scene?",
+      "modified": "Does the white bear on the rock look relaxed in this scene?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the white bear on the rock facing toward the camera?",
+      "modified": "Is the white bear on the rock facing toward the camera?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Are the front paws of the white bear on the rock resting over the edge?",
+      "modified": "Are the front paws of the black bear on the rock resting over the edge?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the white bear on the rock appear to be outdoors?",
+      "modified": "Does the black bear on the rock appear to be outdoors?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the white bear on the rock positioned higher than the other bear?",
+      "modified": "Is the black bear on the rock positioned higher than the other bear?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the white bear on the rock have its mouth slightly open?",
+      "modified": "Does the black bear on the rock have its mouth slightly open?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the white bear on the rock surrounded by large rocks?",
+      "modified": "Is the black bear on the rock surrounded by large rocks?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the white bear on the rock seem to be resting on a ledge?",
+      "modified": "Does the black bear on the rock seem to be resting on a ledge?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the white bear on the rock near some trees in the background?",
+      "modified": "Is the black bear on the rock near some trees in the background?",
+      "false_premise": true
+    }
+  ]
+}

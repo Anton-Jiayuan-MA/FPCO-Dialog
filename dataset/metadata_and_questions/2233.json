@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2233",
+    "source": "Open Images",
+    "complexity": 2,
+    "category": 2,
+    "target": "boat"
+  },
+  "base": {
+    "target_description": "the colorful blue and yellow boat",
+    "modified_target_description": "the colorful red and yellow boat",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the colorful blue and yellow boat floating on the water?",
+      "modified": "Is the colorful blue and yellow boat floating on the water?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the colorful blue and yellow boat appear to be empty?",
+      "modified": "Does the colorful blue and yellow boat appear to be empty?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the colorful blue and yellow boat positioned to the right of another boat?",
+      "modified": "Is the colorful blue and yellow boat positioned to the right of another boat?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the colorful blue and yellow boat look still rather than moving?",
+      "modified": "Does the colorful red and yellow boat look still rather than moving?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the colorful blue and yellow boat close to a group of white birds?",
+      "modified": "Is the colorful red and yellow boat close to a group of white birds?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Can you see the colorful blue and yellow boat near the middle of the image?",
+      "modified": "Can you see the colorful red and yellow boat near the middle of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the colorful blue and yellow boat have bright painted stripes along its side?",
+      "modified": "Does the colorful red and yellow boat have bright painted stripes along its side?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the colorful blue and yellow boat facing toward the left side of the image?",
+      "modified": "Is the colorful red and yellow boat facing toward the left side of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the colorful blue and yellow boat appear larger than the boat beside it?",
+      "modified": "Does the colorful red and yellow boat appear larger than the boat beside it?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the colorful blue and yellow boat in shallow, calm water?",
+      "modified": "Is the colorful red and yellow boat in shallow, calm water?",
+      "false_premise": true
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2323",
+    "source": "Open Images",
+    "complexity": 2,
+    "category": 3,
+    "target": "sheep"
+  },
+  "base": {
+    "target_description": "the standing woolly sheep",
+    "modified_target_description": "the standing woolly goat",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What color is the standing woolly sheep?",
+      "modified": "What color is the standing woolly sheep?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the standing woolly sheep facing toward the camera?",
+      "modified": "Is the standing woolly sheep facing toward the camera?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the standing woolly sheep appear to be an adult?",
+      "modified": "Does the standing woolly sheep appear to be an adult?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the standing woolly sheep standing on grass?",
+      "modified": "Is the standing woolly goat standing on grass?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the standing woolly sheep have thick fleece?",
+      "modified": "Does the standing woolly goat have thick fleece?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the standing woolly sheep near a small lamb?",
+      "modified": "Is the standing woolly goat near a small lamb?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Can you see the face of the standing woolly sheep clearly?",
+      "modified": "Can you see the face of the standing woolly goat clearly?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the standing woolly sheep look calm in the scene?",
+      "modified": "Does the standing woolly goat look calm in the scene?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the standing woolly sheep positioned near the center of the image?",
+      "modified": "Is the standing woolly goat positioned near the center of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the standing woolly sheep have all four legs visible?",
+      "modified": "Does the standing woolly goat have all four legs visible?",
+      "false_premise": true
+    }
+  ]
+}

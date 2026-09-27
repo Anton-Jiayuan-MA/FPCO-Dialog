@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1487",
+    "source": "Open Images",
+    "complexity": 1,
+    "category": 4,
+    "target": "drink"
+  },
+  "base": {
+    "target_description": "a tall glass of fizzy drink with lemon",
+    "modified_target_description": "a tall glass of fizzy drink with lemon on the left",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What color is a tall glass of fizzy drink with lemon?",
+      "modified": "What color is a tall glass of fizzy drink with lemon?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is a tall glass of fizzy drink with lemon being held by someone?",
+      "modified": "Is a tall glass of fizzy drink with lemon being held by someone?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does a tall glass of fizzy drink with lemon have ice in it?",
+      "modified": "Does a tall glass of fizzy drink with lemon have ice in it?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is a tall glass of fizzy drink with lemon on a table indoors?",
+      "modified": "Is a tall glass of fizzy drink with lemon on the left on a table indoors?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is a tall glass of fizzy drink with lemon bubbling?",
+      "modified": "Is a tall glass of fizzy drink with lemon on the left bubbling?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is someone pointing at a tall glass of fizzy drink with lemon?",
+      "modified": "Is someone pointing at a tall glass of fizzy drink with lemon on the left?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does a tall glass of fizzy drink with lemon look cold?",
+      "modified": "Does a tall glass of fizzy drink with lemon on the left look cold?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the lemon slice in a tall glass of fizzy drink with lemon near the top?",
+      "modified": "Is the lemon slice in a tall glass of fizzy drink with lemon on the left near the top?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is a tall glass of fizzy drink with lemon in front of the person?",
+      "modified": "Is a tall glass of fizzy drink with lemon on the left in front of the person?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Would you say a tall glass of fizzy drink with lemon is in a transparent cup?",
+      "modified": "Would you say a tall glass of fizzy drink with lemon on the left is in a transparent cup?",
+      "false_premise": true
+    }
+  ]
+}

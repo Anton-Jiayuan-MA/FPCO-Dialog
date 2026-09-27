@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1108",
+    "source": "COCO",
+    "complexity": 1,
+    "category": 1,
+    "target": "man"
+  },
+  "base": {
+    "target_description": "the man with a hat and long hair",
+    "modified_target_description": "the woman with a hat and long hair",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the man with a hat and long hair holding in his hands?",
+      "modified": "What is the man with a hat and long hair holding in his hands?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the man with a hat and long hair taking a mirror photo?",
+      "modified": "Is the man with a hat and long hair taking a mirror photo?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "What kind of expression does the man with a hat and long hair have?",
+      "modified": "What kind of expression does the man with a hat and long hair have?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the man with a hat and long hair wearing a scarf?",
+      "modified": "Is the woman with a hat and long hair wearing a scarf?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Where is the man with a hat and long hair standing?",
+      "modified": "Where is the woman with a hat and long hair standing?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the man with a hat and long hair appear to be inside an elevator?",
+      "modified": "Does the woman with a hat and long hair appear to be inside an elevator?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "What is the man with a hat and long hair wearing on his head?",
+      "modified": "What is the woman with a hat and long hair wearing on her head?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the man with a hat and long hair looking toward the camera?",
+      "modified": "Is the woman with a hat and long hair looking toward the camera?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "What color is the coat worn by the man with a hat and long hair?",
+      "modified": "What color is the coat worn by the woman with a hat and long hair?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the man with a hat and long hair carrying a striped box?",
+      "modified": "Is the woman with a hat and long hair carrying a striped box?",
+      "false_premise": true
+    }
+  ]
+}

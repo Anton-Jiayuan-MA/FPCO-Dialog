@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3281",
+    "source": "Open Images",
+    "complexity": 3,
+    "category": 2,
+    "target": "ambulance"
+  },
+  "base": {
+    "target_description": "the white ambulance with red stripes",
+    "modified_target_description": "the white ambulance with red stripes on the left",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the white ambulance with red stripes parked indoors?",
+      "modified": "Is the white ambulance with red stripes parked indoors?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the white ambulance with red stripes have emergency lights on the roof?",
+      "modified": "Does the white ambulance with red stripes have emergency lights on the roof?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the white ambulance with red stripes facing toward the left side of the image?",
+      "modified": "Is the white ambulance with red stripes facing toward the left side of the image?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Can you see the side of the white ambulance with red stripes clearly?",
+      "modified": "Can you see the side of the white ambulance with red stripes on the left clearly?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the white ambulance with red stripes closer to the camera than the other ambulance?",
+      "modified": "Is the white ambulance with red stripes on the left closer to the camera than the other ambulance?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the white ambulance with red stripes appear to be stationary?",
+      "modified": "Does the white ambulance with red stripes on the left appear to be stationary?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the white ambulance with red stripes parked beside another ambulance?",
+      "modified": "Is the white ambulance with red stripes on the left parked beside another ambulance?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the white ambulance with red stripes have tinted side windows?",
+      "modified": "Does the white ambulance with red stripes on the left have tinted side windows?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the white ambulance with red stripes inside a garage-like area?",
+      "modified": "Is the white ambulance with red stripes on the left inside a garage-like area?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Can you read ambulance service text on the white ambulance with red stripes?",
+      "modified": "Can you read ambulance service text on the white ambulance with red stripes on the left?",
+      "false_premise": true
+    }
+  ]
+}

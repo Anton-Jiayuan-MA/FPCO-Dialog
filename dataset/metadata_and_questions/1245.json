@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1245",
+    "source": "Open Images",
+    "complexity": 1,
+    "category": 2,
+    "target": "boat"
+  },
+  "base": {
+    "target_description": "the large black sailing boat",
+    "modified_target_description": "the large white sailing boat",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the large black sailing boat docked by the water?",
+      "modified": "Is the large black sailing boat docked by the water?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the large black sailing boat have multiple tall masts?",
+      "modified": "Does the large black sailing boat have multiple tall masts?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the large black sailing boat seen from the side at an angle?",
+      "modified": "Is the large black sailing boat seen from the side at an angle?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the large black sailing boat appear to be an older style vessel?",
+      "modified": "Does the large white sailing boat appear to be an older style vessel?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the large black sailing boat tied up rather than moving?",
+      "modified": "Is the large white sailing boat tied up rather than moving?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Can you see ropes and rigging on the large black sailing boat?",
+      "modified": "Can you see ropes and rigging on the large white sailing boat?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the large black sailing boat occupying most of the image?",
+      "modified": "Is the large white sailing boat occupying most of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the large black sailing boat have a light-colored lower hull?",
+      "modified": "Does the large white sailing boat have a light-colored lower hull?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the large black sailing boat sitting in a harbor area?",
+      "modified": "Is the large white sailing boat sitting in a harbor area?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Are the masts of the large black sailing boat extending high into the sky?",
+      "modified": "Are the masts of the large white sailing boat extending high into the sky?",
+      "false_premise": true
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2311",
+    "source": "COCO",
+    "complexity": 2,
+    "category": 3,
+    "target": "horse"
+  },
+  "base": {
+    "target_description": "the brown horse with a dark mane",
+    "modified_target_description": "the brown dog with a dark mane",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the brown horse with a dark mane doing in the field?",
+      "modified": "What is the brown horse with a dark mane doing in the field?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the brown horse with a dark mane standing close to another horse?",
+      "modified": "Is the brown horse with a dark mane standing close to another horse?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Which direction is the brown horse with a dark mane facing?",
+      "modified": "Which direction is the brown horse with a dark mane facing?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the brown horse with a dark mane have its head lowered toward the other horse?",
+      "modified": "Does the brown dog with a dark mane have its head lowered toward the other horse?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the brown horse with a dark mane out in a grassy area?",
+      "modified": "Is the brown dog with a dark mane out in a grassy area?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the brown horse with a dark mane appear calm?",
+      "modified": "Does the brown dog with a dark mane appear calm?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the brown horse with a dark mane touching noses with the other horse?",
+      "modified": "Is the brown dog with a dark mane touching noses with the other horse?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Can you see the full body of the brown horse with a dark mane?",
+      "modified": "Can you see the full body of the brown dog with a dark mane?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the brown horse with a dark mane standing in sunlight?",
+      "modified": "Is the brown dog with a dark mane standing in sunlight?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the brown horse with a dark mane look smaller than the other horse beside it?",
+      "modified": "Does the brown dog with a dark mane look smaller than the other horse beside it?",
+      "false_premise": true
+    }
+  ]
+}

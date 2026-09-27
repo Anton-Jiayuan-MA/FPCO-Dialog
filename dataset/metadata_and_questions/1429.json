@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1429",
+    "source": "COCO",
+    "complexity": 1,
+    "category": 4,
+    "target": "salad"
+  },
+  "base": {
+    "target_description": "the chopped salad in a white bowl",
+    "modified_target_description": "the chopped pasta in a white bowl",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What ingredients can you see in the chopped salad in a white bowl?",
+      "modified": "What ingredients can you see in the chopped salad in a white bowl?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the chopped salad in a white bowl look freshly prepared?",
+      "modified": "Does the chopped salad in a white bowl look freshly prepared?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the chopped salad in a white bowl topped with green onions?",
+      "modified": "Is the chopped salad in a white bowl topped with green onions?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the chopped salad in a white bowl appear to be served hot or cold?",
+      "modified": "Does the chopped pasta in a white bowl appear to be served hot or cold?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the chopped salad in a white bowl heavily seasoned?",
+      "modified": "Is the chopped pasta in a white bowl heavily seasoned?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Are there cube-shaped pieces mixed into the chopped salad in a white bowl?",
+      "modified": "Are there cube-shaped pieces mixed into the chopped pasta in a white bowl?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the chopped salad in a white bowl look like a main dish or a side dish?",
+      "modified": "Does the chopped pasta in a white bowl look like a main dish or a side dish?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the chopped salad in a white bowl arranged neatly for serving?",
+      "modified": "Is the chopped pasta in a white bowl arranged neatly for serving?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the chopped salad in a white bowl include leafy greens?",
+      "modified": "Does the chopped pasta in a white bowl include leafy greens?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Would you describe the chopped salad in a white bowl as colorful?",
+      "modified": "Would you describe the chopped pasta in a white bowl as colorful?",
+      "false_premise": true
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2335",
+    "source": "Open Images",
+    "complexity": 2,
+    "category": 3,
+    "target": "sheep"
+  },
+  "base": {
+    "target_description": "the black-faced sheep on the right",
+    "modified_target_description": "the white-faced sheep on the right",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the black-faced sheep on the right lying down on the grass?",
+      "modified": "Is the black-faced sheep on the right lying down on the grass?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the black-faced sheep on the right facing toward the left side of the image?",
+      "modified": "Is the black-faced sheep on the right facing toward the left side of the image?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the black-faced sheep on the right have thick wool?",
+      "modified": "Does the black-faced sheep on the right have thick wool?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the black-faced sheep on the right closer to the camera than the other sheep?",
+      "modified": "Is the white-faced sheep on the right closer to the camera than the other sheep?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the black-faced sheep on the right appear relaxed in the scene?",
+      "modified": "Does the white-faced sheep on the right appear relaxed in the scene?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Can you see an ear tag on the black-faced sheep on the right?",
+      "modified": "Can you see an ear tag on the white-faced sheep on the right?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the black-faced sheep on the right separated from the other two sheep?",
+      "modified": "Is the white-faced sheep on the right separated from the other two sheep?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the black-faced sheep on the right have a mostly light-colored body?",
+      "modified": "Does the white-faced sheep on the right have a mostly light-colored body?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the black-faced sheep on the right looking across the grass?",
+      "modified": "Is the white-faced sheep on the right looking across the grass?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the black-faced sheep on the right appear larger than the sheep in the foreground?",
+      "modified": "Does the white-faced sheep on the right appear larger than the sheep in the foreground?",
+      "false_premise": true
+    }
+  ]
+}

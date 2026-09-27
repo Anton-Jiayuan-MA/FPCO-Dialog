@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2188",
+    "source": "COCO",
+    "complexity": 2,
+    "category": 1,
+    "target": "person"
+  },
+  "base": {
+    "target_description": "the man in a blue sweater",
+    "modified_target_description": "the man in a blue sweater on the left",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the man in a blue sweater doing with his hand?",
+      "modified": "What is the man in a blue sweater doing with his hand?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the man in a blue sweater looking at the laptop?",
+      "modified": "Is the man in a blue sweater looking at the laptop?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the man in a blue sweater seem to be sitting at a desk?",
+      "modified": "Does the man in a blue sweater seem to be sitting at a desk?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the man in a blue sweater next to another person?",
+      "modified": "Is the man in a blue sweater on the left next to another person?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "What is the man in a blue sweater leaning toward?",
+      "modified": "What is the man in a blue sweater on the left leaning toward?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the man in a blue sweater appear focused or distracted?",
+      "modified": "Does the man in a blue sweater on the left appear focused or distracted?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the man in a blue sweater smiling in the image?",
+      "modified": "Is the man in a blue sweater on the left smiling in the image?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "What is in front of the man in a blue sweater?",
+      "modified": "What is in front of the man in a blue sweater on the left?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the man in a blue sweater indoors or outdoors?",
+      "modified": "Is the man in a blue sweater on the left indoors or outdoors?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "What color is the clothing worn by the man in a blue sweater?",
+      "modified": "What color is the clothing worn by the man in a blue sweater on the left?",
+      "false_premise": true
+    }
+  ]
+}

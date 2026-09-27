@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2223",
+    "source": "Open Images",
+    "complexity": 2,
+    "category": 2,
+    "target": "truck"
+  },
+  "base": {
+    "target_description": "the white dump truck with a blue trailer",
+    "modified_target_description": "the white car with a blue trailer",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What direction is the white dump truck with a blue trailer traveling in the road?",
+      "modified": "What direction is the white dump truck with a blue trailer traveling in the road?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the white dump truck with a blue trailer occupying one lane or crossing between lanes?",
+      "modified": "Is the white dump truck with a blue trailer occupying one lane or crossing between lanes?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the white dump truck with a blue trailer appear to be moving on a paved street?",
+      "modified": "Does the white dump truck with a blue trailer appear to be moving on a paved street?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the white dump truck with a blue trailer closer to the camera than the cars behind it?",
+      "modified": "Is the white car with a blue trailer closer to the camera than the cars behind it?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Can you see the front cab clearly on the white dump truck with a blue trailer?",
+      "modified": "Can you see the front cab clearly on the white car with a blue trailer?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the white dump truck with a blue trailer have more than two axles visible?",
+      "modified": "Does the white car with a blue trailer have more than two axles visible?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the white dump truck with a blue trailer carrying an enclosed load under a cover?",
+      "modified": "Is the white car with a blue trailer carrying an enclosed load under a cover?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the white dump truck with a blue trailer take up a large portion of the image?",
+      "modified": "Does the white car with a blue trailer take up a large portion of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the white dump truck with a blue trailer driving beside a line of greenery?",
+      "modified": "Is the white car with a blue trailer driving beside a line of greenery?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Are any markings or company text visible on the white dump truck with a blue trailer?",
+      "modified": "Are any markings or company text visible on the white car with a blue trailer?",
+      "false_premise": true
+    }
+  ]
+}

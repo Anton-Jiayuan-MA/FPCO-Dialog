@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1488",
+    "source": "Open Images",
+    "complexity": 1,
+    "category": 4,
+    "target": "steak"
+  },
+  "base": {
+    "target_description": "the fried steak on the plate",
+    "modified_target_description": "the fried steak on the left",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the fried steak on the plate served on top of a light-colored base?",
+      "modified": "Is the fried steak on the plate served on top of a light-colored base?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the fried steak on the plate look crispy on the outside?",
+      "modified": "Does the fried steak on the plate look crispy on the outside?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the fried steak on the plate next to a piece of baby corn?",
+      "modified": "Is the fried steak on the plate next to a piece of baby corn?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the fried steak on the plate have dark sauce around it?",
+      "modified": "Does the fried steak on the left have dark sauce around it?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the fried steak on the plate presented as part of a plated meal?",
+      "modified": "Is the fried steak on the left presented as part of a plated meal?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the fried steak on the plate appear to be cooked and ready to eat?",
+      "modified": "Does the fried steak on the left appear to be cooked and ready to eat?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the fried steak on the plate stacked in more than one piece?",
+      "modified": "Is the fried steak on the left stacked in more than one piece?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the fried steak on the plate sit near the center of the dish?",
+      "modified": "Does the fried steak on the left sit near the center of the dish?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the fried steak on the plate accompanied by garnish or vegetables?",
+      "modified": "Is the fried steak on the left accompanied by garnish or vegetables?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the fried steak on the plate look golden brown?",
+      "modified": "Does the fried steak on the left look golden brown?",
+      "false_premise": true
+    }
+  ]
+}

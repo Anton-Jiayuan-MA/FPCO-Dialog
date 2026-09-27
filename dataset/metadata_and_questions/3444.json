@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3444",
+    "source": "Open Images",
+    "complexity": 3,
+    "category": 4,
+    "target": "cheese"
+  },
+  "base": {
+    "target_description": "the white cheese cubes on the plate",
+    "modified_target_description": "the yellow cheese cubes on the plate",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Are the white cheese cubes on the plate cut into small bite-sized pieces?",
+      "modified": "Are the white cheese cubes on the plate cut into small bite-sized pieces?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Do the white cheese cubes on the plate look soft or firm?",
+      "modified": "Do the white cheese cubes on the plate look soft or firm?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Are the white cheese cubes on the plate grouped together in the middle of the plate?",
+      "modified": "Are the white cheese cubes on the plate grouped together in the middle of the plate?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Do the white cheese cubes on the plate appear to be served as part of a snack or appetizer?",
+      "modified": "Do the yellow cheese cubes on the plate appear to be served as part of a snack or appetizer?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Are the white cheese cubes on the plate sitting next to red jelly-like cubes?",
+      "modified": "Are the yellow cheese cubes on the plate sitting next to red jelly-like cubes?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Do the white cheese cubes on the plate have uneven, slightly rough edges?",
+      "modified": "Do the yellow cheese cubes on the plate have uneven, slightly rough edges?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Are the white cheese cubes on the plate the main food item visible in the image?",
+      "modified": "Are the yellow cheese cubes on the plate the main food item visible in the image?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Do the white cheese cubes on the plate look like they were recently cut?",
+      "modified": "Do the yellow cheese cubes on the plate look like they were recently cut?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Are the white cheese cubes on the plate spread across more than one area of the plate?",
+      "modified": "Are the yellow cheese cubes on the plate spread across more than one area of the plate?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Do the white cheese cubes on the plate appear plain rather than seasoned?",
+      "modified": "Do the yellow cheese cubes on the plate appear plain rather than seasoned?",
+      "false_premise": true
+    }
+  ]
+}

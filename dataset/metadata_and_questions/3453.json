@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3453",
+    "source": "Open Images",
+    "complexity": 3,
+    "category": 4,
+    "target": "apple"
+  },
+  "base": {
+    "target_description": "the pale yellow apple",
+    "modified_target_description": "the red apple",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the pale yellow apple sitting in a pile of other apples?",
+      "modified": "Is the pale yellow apple sitting in a pile of other apples?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the pale yellow apple look smooth and round?",
+      "modified": "Does the pale yellow apple look smooth and round?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the pale yellow apple inside a green container?",
+      "modified": "Is the pale yellow apple inside a green container?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the pale yellow apple have any pinkish blush on its skin?",
+      "modified": "Does the red apple have any pinkish blush on its skin?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the pale yellow apple shown close up in the image?",
+      "modified": "Is the red apple shown close up in the image?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the pale yellow apple appear ripe?",
+      "modified": "Does the red apple appear ripe?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the pale yellow apple lit by sunlight?",
+      "modified": "Is the red apple lit by sunlight?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Can you see the top dimple on the pale yellow apple?",
+      "modified": "Can you see the top dimple on the red apple?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the pale yellow apple near other fruit of the same kind?",
+      "modified": "Is the red apple near other fruit of the same kind?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the pale yellow apple look like it is resting rather than being held?",
+      "modified": "Does the red apple look like it is resting rather than being held?",
+      "false_premise": true
+    }
+  ]
+}

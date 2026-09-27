@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3345",
+    "source": "Open Images",
+    "complexity": 3,
+    "category": 3,
+    "target": "sheep"
+  },
+  "base": {
+    "target_description": "the cream-colored sheep with floppy ears",
+    "modified_target_description": "the black sheep with floppy ears",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the cream-colored sheep with floppy ears standing close to other sheep?",
+      "modified": "Is the cream-colored sheep with floppy ears standing close to other sheep?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Can you see the cream-colored sheep with floppy ears facing toward the camera?",
+      "modified": "Can you see the cream-colored sheep with floppy ears facing toward the camera?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the cream-colored sheep with floppy ears appear to be part of a large flock?",
+      "modified": "Does the cream-colored sheep with floppy ears appear to be part of a large flock?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the cream-colored sheep with floppy ears outdoors in a grassy area?",
+      "modified": "Is the black sheep with floppy ears outdoors in a grassy area?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the cream-colored sheep with floppy ears have thick wool?",
+      "modified": "Does the black sheep with floppy ears have thick wool?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the cream-colored sheep with floppy ears standing still in the scene?",
+      "modified": "Is the black sheep with floppy ears standing still in the scene?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Can you tell whether the cream-colored sheep with floppy ears is surrounded by many other animals?",
+      "modified": "Can you tell whether the black sheep with floppy ears is surrounded by many other animals?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the cream-colored sheep with floppy ears near a fallen tree trunk?",
+      "modified": "Is the black sheep with floppy ears near a fallen tree trunk?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the cream-colored sheep with floppy ears look calm in the image?",
+      "modified": "Does the black sheep with floppy ears look calm in the image?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the cream-colored sheep with floppy ears shown from the side rather than straight on?",
+      "modified": "Is the black sheep with floppy ears shown from the side rather than straight on?",
+      "false_premise": true
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2216",
+    "source": "COCO",
+    "complexity": 2,
+    "category": 2,
+    "target": "boat"
+  },
+  "base": {
+    "target_description": "the long white sightseeing boat",
+    "modified_target_description": "the long white sightseeing train",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What direction is the long white sightseeing boat moving in the river?",
+      "modified": "What direction is the long white sightseeing boat moving in the river?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the long white sightseeing boat carrying passengers?",
+      "modified": "Is the long white sightseeing boat carrying passengers?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the long white sightseeing boat have a covered seating area?",
+      "modified": "Does the long white sightseeing boat have a covered seating area?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the long white sightseeing boat close to the camera?",
+      "modified": "Is the long white sightseeing train close to the camera?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "What part of the long white sightseeing boat is creating the wake in the water?",
+      "modified": "What part of the long white sightseeing train is creating the wake in the water?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the long white sightseeing boat appear to be moving quickly or slowly?",
+      "modified": "Does the long white sightseeing train appear to be moving quickly or slowly?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the long white sightseeing boat traveling near the center of the river?",
+      "modified": "Is the long white sightseeing train traveling near the center of the river?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Can you see inside the long white sightseeing boat through its windows?",
+      "modified": "Can you see inside the long white sightseeing train through its windows?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the long white sightseeing boat larger than the other boats in the background?",
+      "modified": "Is the long white sightseeing train larger than the other boats in the background?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the long white sightseeing boat look like it is used for tours?",
+      "modified": "Does the long white sightseeing train look like it is used for tours?",
+      "false_premise": true
+    }
+  ]
+}

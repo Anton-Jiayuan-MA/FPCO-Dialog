@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2434",
+    "source": "Open Images",
+    "complexity": 2,
+    "category": 4,
+    "target": "sushi"
+  },
+  "base": {
+    "target_description": "the sushi rolls with orange topping",
+    "modified_target_description": "the sushi rolls with green topping",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "How many pieces of the sushi rolls with orange topping are visible in the container?",
+      "modified": "How many pieces of the sushi rolls with orange topping are visible in the container?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Are the sushi rolls with orange topping arranged neatly or a bit messily?",
+      "modified": "Are the sushi rolls with orange topping arranged neatly or a bit messily?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Do the sushi rolls with orange topping appear to have sauce drizzled over them?",
+      "modified": "Do the sushi rolls with orange topping appear to have sauce drizzled over them?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Are the sushi rolls with orange topping sitting inside a plastic tray?",
+      "modified": "Are the sushi rolls with green topping sitting inside a plastic tray?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Do the sushi rolls with orange topping look freshly prepared or partly disturbed?",
+      "modified": "Do the sushi rolls with green topping look freshly prepared or partly disturbed?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Can you see any nuts placed on the sushi rolls with orange topping?",
+      "modified": "Can you see any nuts placed on the sushi rolls with green topping?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Are the sushi rolls with orange topping topped with anything besides the orange garnish?",
+      "modified": "Are the sushi rolls with green topping topped with anything besides the orange garnish?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Do the sushi rolls with orange topping look like they are ready to be eaten?",
+      "modified": "Do the sushi rolls with green topping look like they are ready to be eaten?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Are the sushi rolls with orange topping clustered together in one section of the tray?",
+      "modified": "Are the sushi rolls with green topping clustered together in one section of the tray?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the sushi rolls with orange topping fill most of the visible tray area?",
+      "modified": "Does the sushi rolls with green topping fill most of the visible tray area?",
+      "false_premise": true
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1371",
+    "source": "COCO",
+    "complexity": 1,
+    "category": 3,
+    "target": "zebra"
+  },
+  "base": {
+    "target_description": "the striped zebra grazing on grass",
+    "modified_target_description": "the striped zebra in the background",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the striped zebra grazing on grass doing in the scene?",
+      "modified": "What is the striped zebra grazing on grass doing in the scene?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the striped zebra grazing on grass standing with its head lowered?",
+      "modified": "Is the striped zebra grazing on grass standing with its head lowered?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Which direction is the striped zebra grazing on grass facing?",
+      "modified": "Which direction is the striped zebra grazing on grass facing?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the striped zebra grazing on grass appear to be eating?",
+      "modified": "Does the striped zebra in the background appear to be eating?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the striped zebra grazing on grass out in an open grassy area?",
+      "modified": "Is the striped zebra in the background out in an open grassy area?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Can you see the striped zebra grazing on grass in side view?",
+      "modified": "Can you see the striped zebra in the background in side view?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the striped zebra grazing on grass have its mane standing upright?",
+      "modified": "Does the striped zebra in the background have its mane standing upright?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the striped zebra grazing on grass walking or staying still?",
+      "modified": "Is the striped zebra in the background walking or staying still?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "How much of the striped zebra grazing on grass is visible in the image?",
+      "modified": "How much of the striped zebra in the background is visible in the image?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the striped zebra grazing on grass look calm and relaxed?",
+      "modified": "Does the striped zebra in the background look calm and relaxed?",
+      "false_premise": true
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1148",
+    "source": "Open Images",
+    "complexity": 1,
+    "category": 1,
+    "target": "child"
+  },
+  "base": {
+    "target_description": "the child in a pink shirt",
+    "modified_target_description": "the child in a blue shirt",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the child in a pink shirt doing in the water?",
+      "modified": "What is the child in a pink shirt doing in the water?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the child in a pink shirt looking up toward the camera?",
+      "modified": "Is the child in a pink shirt looking up toward the camera?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "How far is the child in a pink shirt from the edge of the pool?",
+      "modified": "How far is the child in a pink shirt from the edge of the pool?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the child in a pink shirt appear to be swimming or standing?",
+      "modified": "Does the child in a blue shirt appear to be swimming or standing?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the child in a pink shirt fully underwater or above the surface?",
+      "modified": "Is the child in a blue shirt fully underwater or above the surface?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "What expression does the child in a pink shirt seem to have?",
+      "modified": "What expression does the child in a blue shirt seem to have?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the child in a pink shirt near the side of the pool?",
+      "modified": "Is the child in a blue shirt near the side of the pool?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Can you see the arms of the child in a pink shirt in the water?",
+      "modified": "Can you see the arms of the child in a blue shirt in the water?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the child in a pink shirt have wet hair?",
+      "modified": "Does the child in a blue shirt have wet hair?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the child in a pink shirt facing the camera?",
+      "modified": "Is the child in a blue shirt facing the camera?",
+      "false_premise": true
+    }
+  ]
+}

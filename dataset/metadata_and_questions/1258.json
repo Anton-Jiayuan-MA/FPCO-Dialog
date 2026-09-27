@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1258",
+    "source": "Open Images",
+    "complexity": 1,
+    "category": 2,
+    "target": "car"
+  },
+  "base": {
+    "target_description": "the black vintage car with raindrops",
+    "modified_target_description": "the white vintage car with raindrops",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the black vintage car with raindrops parked on grass?",
+      "modified": "Is the black vintage car with raindrops parked on grass?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the black vintage car with raindrops appear to be viewed from the front side?",
+      "modified": "Does the black vintage car with raindrops appear to be viewed from the front side?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the black vintage car with raindrops a two-door model?",
+      "modified": "Is the black vintage car with raindrops a two-door model?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Can you see a paper resting inside the windshield of the black vintage car with raindrops?",
+      "modified": "Can you see a paper resting inside the windshield of the white vintage car with raindrops?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the black vintage car with raindrops have its headlights visible from this angle?",
+      "modified": "Does the white vintage car with raindrops have its headlights visible from this angle?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the hood of the black vintage car with raindrops covered in water droplets?",
+      "modified": "Is the hood of the white vintage car with raindrops covered in water droplets?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the black vintage car with raindrops look stationary in this scene?",
+      "modified": "Does the white vintage car with raindrops look stationary in this scene?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is another car parked beside the black vintage car with raindrops?",
+      "modified": "Is another car parked beside the white vintage car with raindrops?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Can you see the front wheel of the black vintage car with raindrops?",
+      "modified": "Can you see the front wheel of the white vintage car with raindrops?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the black vintage car with raindrops appear to be outdoors?",
+      "modified": "Does the white vintage car with raindrops appear to be outdoors?",
+      "false_premise": true
+    }
+  ]
+}

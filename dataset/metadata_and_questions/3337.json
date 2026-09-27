@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3337",
+    "source": "Open Images",
+    "complexity": 3,
+    "category": 3,
+    "target": "horse"
+  },
+  "base": {
+    "target_description": "the brown horse behind the llama",
+    "modified_target_description": "the black horse behind the llama",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the brown horse behind the llama standing still in the image?",
+      "modified": "Is the brown horse behind the llama standing still in the image?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Can you mostly see the head and back of the brown horse behind the llama?",
+      "modified": "Can you mostly see the head and back of the brown horse behind the llama?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the brown horse behind the llama facing toward the left side of the image?",
+      "modified": "Is the brown horse behind the llama facing toward the left side of the image?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the brown horse behind the llama appear to be close to the llama?",
+      "modified": "Does the black horse behind the llama appear to be close to the llama?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the brown horse behind the llama outdoors?",
+      "modified": "Is the black horse behind the llama outdoors?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the brown horse behind the llama have a dark mane?",
+      "modified": "Does the black horse behind the llama have a dark mane?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the brown horse behind the llama partially blocked from view?",
+      "modified": "Is the black horse behind the llama partially blocked from view?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the brown horse behind the llama look larger than the llama?",
+      "modified": "Does the black horse behind the llama look larger than the llama?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the brown horse behind the llama in a grassy area?",
+      "modified": "Is the black horse behind the llama in a grassy area?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Can you see the brown horse behind the llama from the side?",
+      "modified": "Can you see the black horse behind the llama from the side?",
+      "false_premise": true
+    }
+  ]
+}

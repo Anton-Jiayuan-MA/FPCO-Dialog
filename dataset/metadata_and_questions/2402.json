@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2402",
+    "source": "COCO",
+    "complexity": 2,
+    "category": 4,
+    "target": "pizza"
+  },
+  "base": {
+    "target_description": "the pizza with broccoli and olives",
+    "modified_target_description": "the sandwich with broccoli and olives",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What toppings can you see on the pizza with broccoli and olives?",
+      "modified": "What toppings can you see on the pizza with broccoli and olives?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the pizza with broccoli and olives cut into slices yet?",
+      "modified": "Is the pizza with broccoli and olives cut into slices yet?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the pizza with broccoli and olives look freshly baked?",
+      "modified": "Does the pizza with broccoli and olives look freshly baked?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "What kind of crust does the pizza with broccoli and olives have?",
+      "modified": "What kind of crust does the sandwich with broccoli and olives have?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the pizza with broccoli and olives topped with melted cheese?",
+      "modified": "Is the sandwich with broccoli and olives topped with melted cheese?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Are there any meat toppings on the pizza with broccoli and olives?",
+      "modified": "Are there any meat toppings on the sandwich with broccoli and olives?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Where is the pizza with broccoli and olives positioned in the image?",
+      "modified": "Where is the sandwich with broccoli and olives positioned in the image?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the pizza with broccoli and olives appear larger than the other pizza?",
+      "modified": "Does the sandwich with broccoli and olives appear larger than the other pizza?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the pizza with broccoli and olives sitting on a wooden surface?",
+      "modified": "Is the sandwich with broccoli and olives sitting on a wooden surface?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Would you say the pizza with broccoli and olives looks thick or thin?",
+      "modified": "Would you say the sandwich with broccoli and olives looks thick or thin?",
+      "false_premise": true
+    }
+  ]
+}

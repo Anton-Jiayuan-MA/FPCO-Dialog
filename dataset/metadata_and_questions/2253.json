@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2253",
+    "source": "COCO",
+    "complexity": 2,
+    "category": 2,
+    "target": "carriage"
+  },
+  "base": {
+    "target_description": "the horse-drawn carriage with two men",
+    "modified_target_description": "the horse-drawn carriage with three men",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What direction is the horse-drawn carriage with two men moving in?",
+      "modified": "What direction is the horse-drawn carriage with two men moving in?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the horse-drawn carriage with two men out on a road or in a field?",
+      "modified": "Is the horse-drawn carriage with two men out on a road or in a field?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the horse-drawn carriage with two men appear to be part of a parade or public event?",
+      "modified": "Does the horse-drawn carriage with two men appear to be part of a parade or public event?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Are the riders in the horse-drawn carriage with two men dressed formally?",
+      "modified": "Are the riders in the horse-drawn carriage with three men dressed formally?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the horse-drawn carriage with two men being pulled by more than one horse?",
+      "modified": "Is the horse-drawn carriage with three men being pulled by more than one horse?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "What is positioned beside the horse-drawn carriage with two men?",
+      "modified": "What is positioned beside the horse-drawn carriage with three men?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the horse-drawn carriage with two men look old-fashioned compared with the other vehicle nearby?",
+      "modified": "Does the horse-drawn carriage with three men look old-fashioned compared with the other vehicle nearby?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the horse-drawn carriage with two men closer to the camera than the large tractor?",
+      "modified": "Is the horse-drawn carriage with three men closer to the camera than the large tractor?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Are the wheels of the horse-drawn carriage with two men clearly visible?",
+      "modified": "Are the wheels of the horse-drawn carriage with three men clearly visible?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the horse-drawn carriage with two men appear to be carrying passengers rather than cargo?",
+      "modified": "Does the horse-drawn carriage with three men appear to be carrying passengers rather than cargo?",
+      "false_premise": true
+    }
+  ]
+}

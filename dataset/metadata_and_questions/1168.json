@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1168",
+    "source": "Open Images",
+    "complexity": 1,
+    "category": 1,
+    "target": "woman"
+  },
+  "base": {
+    "target_description": "the smiling woman in sunglasses and an orange jacket",
+    "modified_target_description": "the smiling woman in sunglasses and an orange jacket on the right",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the smiling woman in sunglasses and an orange jacket doing in the scene?",
+      "modified": "What is the smiling woman in sunglasses and an orange jacket doing in the scene?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the smiling woman in sunglasses and an orange jacket facing the camera?",
+      "modified": "Is the smiling woman in sunglasses and an orange jacket facing the camera?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "What is the facial expression of the smiling woman in sunglasses and an orange jacket?",
+      "modified": "What is the facial expression of the smiling woman in sunglasses and an orange jacket?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Where is the smiling woman in sunglasses and an orange jacket standing?",
+      "modified": "Where is the smiling woman in sunglasses and an orange jacket on the right standing?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "What is behind the smiling woman in sunglasses and an orange jacket?",
+      "modified": "What is behind the smiling woman in sunglasses and an orange jacket on the right?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the smiling woman in sunglasses and an orange jacket wearing any accessories?",
+      "modified": "Is the smiling woman in sunglasses and an orange jacket on the right wearing any accessories?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the smiling woman in sunglasses and an orange jacket appear to be outdoors?",
+      "modified": "Does the smiling woman in sunglasses and an orange jacket on the right appear to be outdoors?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the smiling woman in sunglasses and an orange jacket close to a fruit display?",
+      "modified": "Is the smiling woman in sunglasses and an orange jacket on the right close to a fruit display?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "What color is the jacket worn by the smiling woman in sunglasses and an orange jacket?",
+      "modified": "What color is the jacket worn by the smiling woman in sunglasses and an orange jacket on the right?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the smiling woman in sunglasses and an orange jacket look happy?",
+      "modified": "Does the smiling woman in sunglasses and an orange jacket on the right look happy?",
+      "false_premise": true
+    }
+  ]
+}

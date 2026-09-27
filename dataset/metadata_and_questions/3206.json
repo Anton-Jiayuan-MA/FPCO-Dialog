@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3206",
+    "source": "COCO",
+    "complexity": 3,
+    "category": 2,
+    "target": "bus"
+  },
+  "base": {
+    "target_description": "the blue city bus with route 450",
+    "modified_target_description": "the blue city truck with route 450",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What direction is the blue city bus with route 450 facing in the street?",
+      "modified": "What direction is the blue city bus with route 450 facing in the street?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the blue city bus with route 450 moving toward the camera?",
+      "modified": "Is the blue city bus with route 450 moving toward the camera?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "What lane is the blue city bus with route 450 occupying?",
+      "modified": "What lane is the blue city bus with route 450 occupying?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Are the headlights on for the blue city bus with route 450?",
+      "modified": "Are the headlights on for the blue city truck with route 450?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the blue city bus with route 450 appear to be in downtown traffic?",
+      "modified": "Does the blue city truck with route 450 appear to be in downtown traffic?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the front of the blue city bus with route 450 fully visible?",
+      "modified": "Is the front of the blue city truck with route 450 fully visible?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "What destination is displayed on the blue city bus with route 450?",
+      "modified": "What destination is displayed on the blue city truck with route 450?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the blue city bus with route 450 have a bike rack mounted on the front?",
+      "modified": "Does the blue city truck with route 450 have a bike rack mounted on the front?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the blue city bus with route 450 closer to the camera than the other vehicles?",
+      "modified": "Is the blue city truck with route 450 closer to the camera than the other vehicles?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Are there tall buildings behind the blue city bus with route 450?",
+      "modified": "Are there tall buildings behind the blue city truck with route 450?",
+      "false_premise": true
+    }
+  ]
+}

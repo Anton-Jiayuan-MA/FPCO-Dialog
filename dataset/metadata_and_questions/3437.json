@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3437",
+    "source": "COCO",
+    "complexity": 3,
+    "category": 4,
+    "target": "donut"
+  },
+  "base": {
+    "target_description": "the sugar-coated donut on the plate",
+    "modified_target_description": "the chocolate-coated donut on the plate",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What color is the sugar-coated donut on the plate?",
+      "modified": "What color is the sugar-coated donut on the plate?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the sugar-coated donut on the plate have a hole in the middle?",
+      "modified": "Does the sugar-coated donut on the plate have a hole in the middle?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the sugar-coated donut on the plate stacked on top of another donut?",
+      "modified": "Is the sugar-coated donut on the plate stacked on top of another donut?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the sugar-coated donut on the plate look heavily covered in cinnamon sugar?",
+      "modified": "Does the chocolate-coated donut on the plate look heavily covered in cinnamon sugar?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the sugar-coated donut on the plate sitting near the center of the plate?",
+      "modified": "Is the chocolate-coated donut on the plate sitting near the center of the plate?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the sugar-coated donut on the plate appear round and thick?",
+      "modified": "Does the chocolate-coated donut on the plate appear round and thick?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the sugar-coated donut on the plate the most prominent donut in the image?",
+      "modified": "Is the chocolate-coated donut on the plate the most prominent donut in the image?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the sugar-coated donut on the plate look freshly baked or fried?",
+      "modified": "Does the chocolate-coated donut on the plate look freshly baked or fried?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the sugar-coated donut on the plate resting flat, or is it tilted slightly?",
+      "modified": "Is the chocolate-coated donut on the plate resting flat, or is it tilted slightly?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Can you clearly see the surface texture of the sugar-coated donut on the plate?",
+      "modified": "Can you clearly see the surface texture of the chocolate-coated donut on the plate?",
+      "false_premise": true
+    }
+  ]
+}

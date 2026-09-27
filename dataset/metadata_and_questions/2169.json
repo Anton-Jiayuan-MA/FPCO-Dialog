@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2169",
+    "source": "COCO",
+    "complexity": 2,
+    "category": 1,
+    "target": "man"
+  },
+  "base": {
+    "target_description": "the man in a flat cap and black jacket",
+    "modified_target_description": "the man on the right in a flat cap and black jacket",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the man in a flat cap and black jacket holding in his hand?",
+      "modified": "What is the man in a flat cap and black jacket holding in his hand?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the man in a flat cap and black jacket standing beside a woman?",
+      "modified": "Is the man in a flat cap and black jacket standing beside a woman?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the man in a flat cap and black jacket appear to be talking?",
+      "modified": "Does the man in a flat cap and black jacket appear to be talking?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "What kind of expression does the man in a flat cap and black jacket have?",
+      "modified": "What kind of expression does the man on the right in a flat cap and black jacket have?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the man in a flat cap and black jacket wearing a scarf?",
+      "modified": "Is the man on the right in a flat cap and black jacket wearing a scarf?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the man in a flat cap and black jacket dressed casually or formally?",
+      "modified": "Is the man on the right in a flat cap and black jacket dressed casually or formally?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the man in a flat cap and black jacket look like he is walking or standing still?",
+      "modified": "Does the man on the right in a flat cap and black jacket look like he is walking or standing still?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the man in a flat cap and black jacket facing toward the camera or away from it?",
+      "modified": "Is the man on the right in a flat cap and black jacket facing toward the camera or away from it?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "What is the man in a flat cap and black jacket doing with his mouth?",
+      "modified": "What is the man on the right in a flat cap and black jacket doing with his mouth?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the man in a flat cap and black jacket outdoors?",
+      "modified": "Is the man on the right in a flat cap and black jacket outdoors?",
+      "false_premise": true
+    }
+  ]
+}

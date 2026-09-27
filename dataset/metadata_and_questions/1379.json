@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1379",
+    "source": "COCO",
+    "complexity": 1,
+    "category": 3,
+    "target": "cat"
+  },
+  "base": {
+    "target_description": "the gray and white cat on the car roof",
+    "modified_target_description": "the gray and white cat under the car roof",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the gray and white cat on the car roof doing?",
+      "modified": "What is the gray and white cat on the car roof doing?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the gray and white cat on the car roof sitting or standing?",
+      "modified": "Is the gray and white cat on the car roof sitting or standing?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Which way is the gray and white cat on the car roof looking?",
+      "modified": "Which way is the gray and white cat on the car roof looking?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the gray and white cat on the car roof appear alert?",
+      "modified": "Does the gray and white cat under the car roof appear alert?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the gray and white cat on the car roof outdoors?",
+      "modified": "Is the gray and white cat under the car roof outdoors?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the gray and white cat on the car roof have its paws tucked under its body?",
+      "modified": "Does the gray and white cat under the car roof have its paws tucked under its body?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the gray and white cat on the car roof facing the camera?",
+      "modified": "Is the gray and white cat under the car roof facing the camera?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "What color markings does the gray and white cat on the car roof have?",
+      "modified": "What color markings does the gray and white cat under the car roof have?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the gray and white cat on the car roof alone in the image?",
+      "modified": "Is the gray and white cat under the car roof alone in the image?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the gray and white cat on the car roof look calm or tense?",
+      "modified": "Does the gray and white cat under the car roof look calm or tense?",
+      "false_premise": true
+    }
+  ]
+}

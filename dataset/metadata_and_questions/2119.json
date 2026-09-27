@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2119",
+    "source": "Open Images",
+    "complexity": 2,
+    "category": 1,
+    "target": "man"
+  },
+  "base": {
+    "target_description": "the man in the white T-shirt",
+    "modified_target_description": "the woman in the white T-shirt",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the man in the white T-shirt smiling at the camera?",
+      "modified": "Is the man in the white T-shirt smiling at the camera?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the man in the white T-shirt standing next to a woman?",
+      "modified": "Is the man in the white T-shirt standing next to a woman?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the man in the white T-shirt have his arm around the woman?",
+      "modified": "Does the man in the white T-shirt have his arm around the woman?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the man in the white T-shirt facing forward in the photo?",
+      "modified": "Is the woman in the white T-shirt facing forward in the photo?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the man in the white T-shirt appear indoors?",
+      "modified": "Does the woman in the white T-shirt appear indoors?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the man in the white T-shirt wearing a shirt with a picture printed on it?",
+      "modified": "Is the woman in the white T-shirt wearing a shirt with a picture printed on it?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the man in the white T-shirt have short dark hair?",
+      "modified": "Does the woman in the white T-shirt have short dark hair?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the man in the white T-shirt posing for a portrait-style picture?",
+      "modified": "Is the woman in the white T-shirt posing for a portrait-style picture?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the man in the white T-shirt look relaxed?",
+      "modified": "Does the woman in the white T-shirt look relaxed?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the man in the white T-shirt close to the center-right side of the image?",
+      "modified": "Is the woman in the white T-shirt close to the center-right side of the image?",
+      "false_premise": true
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1351",
+    "source": "Open Images",
+    "complexity": 1,
+    "category": 3,
+    "target": "frog"
+  },
+  "base": {
+    "target_description": "the green frog on a leaf",
+    "modified_target_description": "the brown frog on a leaf",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the green frog on a leaf doing in this image?",
+      "modified": "What is the green frog on a leaf doing in this image?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the green frog on a leaf shown from the side or from the front?",
+      "modified": "Is the green frog on a leaf shown from the side or from the front?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the green frog on a leaf appear to be climbing or resting?",
+      "modified": "Does the green frog on a leaf appear to be climbing or resting?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the green frog on a leaf brightly lit against a dark background?",
+      "modified": "Is the brown frog on a leaf brightly lit against a dark background?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Can you see the legs of the green frog on a leaf clearly?",
+      "modified": "Can you see the legs of the brown frog on a leaf clearly?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the green frog on a leaf have a swollen throat pouch visible?",
+      "modified": "Does the brown frog on a leaf have a swollen throat pouch visible?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the green frog on a leaf facing toward the left side of the image?",
+      "modified": "Is the brown frog on a leaf facing toward the left side of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the green frog on a leaf take up most of the frame?",
+      "modified": "Does the brown frog on a leaf take up most of the frame?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the green frog on a leaf perched low and close to the surface?",
+      "modified": "Is the brown frog on a leaf perched low and close to the surface?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the green frog on a leaf look like it is calling?",
+      "modified": "Does the brown frog on a leaf look like it is calling?",
+      "false_premise": true
+    }
+  ]
+}

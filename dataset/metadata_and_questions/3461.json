@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3461",
+    "source": "Open Images",
+    "complexity": 3,
+    "category": 4,
+    "target": "apple"
+  },
+  "base": {
+    "target_description": "the red apple with yellow writing",
+    "modified_target_description": "the red apple with yellow writing on the left",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is written on the red apple with yellow writing?",
+      "modified": "What is written on the red apple with yellow writing?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the red apple with yellow writing sitting among many other apples?",
+      "modified": "Is the red apple with yellow writing sitting among many other apples?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the red apple with yellow writing look fresh?",
+      "modified": "Does the red apple with yellow writing look fresh?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the red apple with yellow writing whole or cut open?",
+      "modified": "Is the red apple with yellow writing on the left whole or cut open?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the red apple with yellow writing have a smooth surface?",
+      "modified": "Does the red apple with yellow writing on the left have a smooth surface?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the red apple with yellow writing closer to the center of the image or the edge?",
+      "modified": "Is the red apple with yellow writing on the left closer to the center of the image or the edge?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the red apple with yellow writing appear large compared with the surrounding apples?",
+      "modified": "Does the red apple with yellow writing on the left appear large compared with the surrounding apples?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the red apple with yellow writing touching other apples around it?",
+      "modified": "Is the red apple with yellow writing on the left touching other apples around it?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the red apple with yellow writing part of a display of fruit?",
+      "modified": "Is the red apple with yellow writing on the left part of a display of fruit?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Can you clearly see the front of the red apple with yellow writing?",
+      "modified": "Can you clearly see the front of the red apple with yellow writing on the left?",
+      "false_premise": true
+    }
+  ]
+}

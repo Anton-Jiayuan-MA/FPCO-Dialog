@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1149",
+    "source": "Open Images",
+    "complexity": 1,
+    "category": 1,
+    "target": "woman"
+  },
+  "base": {
+    "target_description": "the woman behind the wooden podium",
+    "modified_target_description": "the woman behind the metal podium",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the woman behind the wooden podium doing in the scene?",
+      "modified": "What is the woman behind the wooden podium doing in the scene?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the woman behind the wooden podium speaking into a microphone?",
+      "modified": "Is the woman behind the wooden podium speaking into a microphone?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "What kind of expression does the woman behind the wooden podium have?",
+      "modified": "What kind of expression does the woman behind the wooden podium have?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the woman behind the wooden podium indoors?",
+      "modified": "Is the woman behind the metal podium indoors?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the woman behind the wooden podium appear to be giving a speech?",
+      "modified": "Does the woman behind the metal podium appear to be giving a speech?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "What is the woman behind the wooden podium wearing?",
+      "modified": "What is the woman behind the metal podium wearing?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the woman behind the wooden podium looking toward the audience?",
+      "modified": "Is the woman behind the metal podium looking toward the audience?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the woman behind the wooden podium have one hand resting on the podium?",
+      "modified": "Does the woman behind the metal podium have one hand resting on the podium?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Are there microphones positioned near the woman behind the wooden podium?",
+      "modified": "Are there microphones positioned near the woman behind the metal podium?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the woman behind the wooden podium appear to be at a formal event?",
+      "modified": "Does the woman behind the metal podium appear to be at a formal event?",
+      "false_premise": true
+    }
+  ]
+}

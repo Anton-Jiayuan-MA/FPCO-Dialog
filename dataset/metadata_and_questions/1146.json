@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1146",
+    "source": "Open Images",
+    "complexity": 1,
+    "category": 1,
+    "target": "man"
+  },
+  "base": {
+    "target_description": "the smiling man in a straw hat and glasses",
+    "modified_target_description": "the frowning man in a straw hat and glasses",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the smiling man in a straw hat and glasses holding up to his ear?",
+      "modified": "What is the smiling man in a straw hat and glasses holding up to his ear?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the smiling man in a straw hat and glasses talking on the phone?",
+      "modified": "Is the smiling man in a straw hat and glasses talking on the phone?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "What kind of expression does the smiling man in a straw hat and glasses have?",
+      "modified": "What kind of expression does the smiling man in a straw hat and glasses have?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the smiling man in a straw hat and glasses surrounded by flowers?",
+      "modified": "Is the frowning man in a straw hat and glasses surrounded by flowers?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "What is the smiling man in a straw hat and glasses wearing on his head?",
+      "modified": "What is the frowning man in a straw hat and glasses wearing on his head?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the smiling man in a straw hat and glasses appear to be outdoors?",
+      "modified": "Does the frowning man in a straw hat and glasses appear to be outdoors?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the smiling man in a straw hat and glasses wearing a button-up shirt?",
+      "modified": "Is the frowning man in a straw hat and glasses wearing a button-up shirt?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "What is the smiling man in a straw hat and glasses doing with his right hand?",
+      "modified": "What is the frowning man in a straw hat and glasses doing with his right hand?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the smiling man in a straw hat and glasses look happy?",
+      "modified": "Does the frowning man in a straw hat and glasses look happy?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the smiling man in a straw hat and glasses near bright pink flowers?",
+      "modified": "Is the frowning man in a straw hat and glasses near bright pink flowers?",
+      "false_premise": true
+    }
+  ]
+}

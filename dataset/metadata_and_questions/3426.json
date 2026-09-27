@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3426",
+    "source": "Open Images",
+    "complexity": 3,
+    "category": 4,
+    "target": "apple"
+  },
+  "base": {
+    "target_description": "the green and pink apple on the branch",
+    "modified_target_description": "the green and pink pear on the branch",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the green and pink apple on the branch still attached to the tree?",
+      "modified": "Is the green and pink apple on the branch still attached to the tree?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the green and pink apple on the branch look ripe or still unripe?",
+      "modified": "Does the green and pink apple on the branch look ripe or still unripe?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Are there leaves partly covering the green and pink apple on the branch?",
+      "modified": "Are there leaves partly covering the green and pink apple on the branch?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the green and pink apple on the branch hanging among several other apples?",
+      "modified": "Is the green and pink pear on the branch hanging among several other apples?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the green and pink apple on the branch appear smooth and round?",
+      "modified": "Does the green and pink pear on the branch appear smooth and round?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the green and pink apple on the branch closer to the center or the edge of the image?",
+      "modified": "Is the green and pink pear on the branch closer to the center or the edge of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the green and pink apple on the branch have a light blush of pink on one side?",
+      "modified": "Does the green and pink pear on the branch have a light blush of pink on one side?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the green and pink apple on the branch growing near dark green leaves?",
+      "modified": "Is the green and pink pear on the branch growing near dark green leaves?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Would you say the green and pink apple on the branch looks fresh?",
+      "modified": "Would you say the green and pink pear on the branch looks fresh?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the green and pink apple on the branch one of many apples visible in the scene?",
+      "modified": "Is the green and pink pear on the branch one of many apples visible in the scene?",
+      "false_premise": true
+    }
+  ]
+}

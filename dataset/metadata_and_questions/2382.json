@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2382",
+    "source": "Open Images",
+    "complexity": 2,
+    "category": 3,
+    "target": "stork"
+  },
+  "base": {
+    "target_description": "the large stork with a long beak",
+    "modified_target_description": "the large stork with a long beak on the right",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the large stork with a long beak standing on grass?",
+      "modified": "Is the large stork with a long beak standing on grass?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the large stork with a long beak appear to be walking?",
+      "modified": "Does the large stork with a long beak appear to be walking?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the large stork with a long beak facing to the right?",
+      "modified": "Is the large stork with a long beak facing to the right?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the large stork with a long beak have mostly dark wings?",
+      "modified": "Does the large stork with a long beak on the right have mostly dark wings?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the large stork with a long beak near the water?",
+      "modified": "Is the large stork with a long beak on the right near the water?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the large stork with a long beak have long pale legs?",
+      "modified": "Does the large stork with a long beak on the right have long pale legs?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the large stork with a long beak shown outdoors?",
+      "modified": "Is the large stork with a long beak on the right shown outdoors?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the large stork with a long beak have its head lowered?",
+      "modified": "Does the large stork with a long beak on the right have its head lowered?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the large stork with a long beak beside another bird?",
+      "modified": "Is the large stork with a long beak on the right beside another bird?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the large stork with a long beak look larger than the surrounding grass?",
+      "modified": "Does the large stork with a long beak on the right look larger than the surrounding grass?",
+      "false_premise": true
+    }
+  ]
+}

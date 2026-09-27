@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2114",
+    "source": "Open Images",
+    "complexity": 2,
+    "category": 1,
+    "target": "man"
+  },
+  "base": {
+    "target_description": "the man in a dark suit and tie",
+    "modified_target_description": "the woman in a dark suit and tie",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the man in a dark suit and tie sitting down?",
+      "modified": "Is the man in a dark suit and tie sitting down?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the man in a dark suit and tie smiling slightly?",
+      "modified": "Is the man in a dark suit and tie smiling slightly?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the man in a dark suit and tie appear to be indoors?",
+      "modified": "Does the man in a dark suit and tie appear to be indoors?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the man in a dark suit and tie seated next to a woman in blue?",
+      "modified": "Is the woman in a dark suit and tie seated next to a woman in blue?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Are the hands of the man in a dark suit and tie resting in his lap?",
+      "modified": "Are the hands of the woman in a dark suit and tie resting in her lap?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the man in a dark suit and tie looking toward the camera?",
+      "modified": "Is the woman in a dark suit and tie looking toward the camera?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the man in a dark suit and tie have one leg crossed over the other?",
+      "modified": "Does the woman in a dark suit and tie have one leg crossed over the other?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the man in a dark suit and tie wearing a light-colored shirt?",
+      "modified": "Is the woman in a dark suit and tie wearing a light-colored shirt?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the man in a dark suit and tie appear to be in a theater or auditorium?",
+      "modified": "Does the woman in a dark suit and tie appear to be in a theater or auditorium?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the man in a dark suit and tie sitting in one of the front seats?",
+      "modified": "Is the woman in a dark suit and tie sitting in one of the front seats?",
+      "false_premise": true
+    }
+  ]
+}

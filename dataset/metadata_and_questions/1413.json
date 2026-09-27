@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1413",
+    "source": "Open Images",
+    "complexity": 1,
+    "category": 4,
+    "target": "sandwich"
+  },
+  "base": {
+    "target_description": "the toasted meat sandwich",
+    "modified_target_description": "the toasted meat taco",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What kind of filling is visible inside the toasted meat sandwich?",
+      "modified": "What kind of filling is visible inside the toasted meat sandwich?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the toasted meat sandwich look like it has been partly eaten?",
+      "modified": "Does the toasted meat sandwich look like it has been partly eaten?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the toasted meat sandwich sitting on a wrapper or plate?",
+      "modified": "Is the toasted meat sandwich sitting on a wrapper or plate?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the toasted meat sandwich appear warm and freshly made?",
+      "modified": "Does the toasted meat taco appear warm and freshly made?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Can you see any greens or herbs tucked into the toasted meat sandwich?",
+      "modified": "Can you see any greens or herbs tucked into the toasted meat taco?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the bread on the toasted meat sandwich lightly browned on top?",
+      "modified": "Is the bread on the toasted meat taco lightly browned on top?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the toasted meat sandwich look soft or crunchy from the outside?",
+      "modified": "Does the toasted meat taco look soft or crunchy from the outside?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the toasted meat sandwich cut open enough to show the inside?",
+      "modified": "Is the toasted meat taco cut open enough to show the inside?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the toasted meat sandwich seem large enough for a full meal?",
+      "modified": "Does the toasted meat taco seem large enough for a full meal?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Are there any sauces or juices visible around the toasted meat sandwich?",
+      "modified": "Are there any sauces or juices visible around the toasted meat taco?",
+      "false_premise": true
+    }
+  ]
+}

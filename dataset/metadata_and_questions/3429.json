@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3429",
+    "source": "Open Images",
+    "complexity": 3,
+    "category": 4,
+    "target": "apple"
+  },
+  "base": {
+    "target_description": "the apples in the glass bowl",
+    "modified_target_description": "the oranges in the glass bowl",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What color are the apples in the glass bowl?",
+      "modified": "What color are the apples in the glass bowl?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Are the apples in the glass bowl whole or cut up?",
+      "modified": "Are the apples in the glass bowl whole or cut up?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Do the apples in the glass bowl look fresh?",
+      "modified": "Do the apples in the glass bowl look fresh?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Are the apples in the glass bowl wet with droplets?",
+      "modified": "Are the oranges in the glass bowl wet with droplets?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "How many apples in the glass bowl are visible?",
+      "modified": "How many oranges in the glass bowl are visible?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Are the apples in the glass bowl mostly red, green, or yellow?",
+      "modified": "Are the oranges in the glass bowl mostly red, green, or yellow?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Do the apples in the glass bowl fill most of the bowl?",
+      "modified": "Do the oranges in the glass bowl fill most of the bowl?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Are the apples in the glass bowl sitting on a wooden surface?",
+      "modified": "Are the oranges in the glass bowl sitting on a wooden surface?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is there a peeled apple near the apples in the glass bowl?",
+      "modified": "Is there a peeled apple near the oranges in the glass bowl?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Are the apples in the glass bowl being prepared for cooking or eating?",
+      "modified": "Are the oranges in the glass bowl being prepared for cooking or eating?",
+      "false_premise": true
+    }
+  ]
+}

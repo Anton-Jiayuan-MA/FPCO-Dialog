@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3352",
+    "source": "Open Images",
+    "complexity": 3,
+    "category": 3,
+    "target": "duck"
+  },
+  "base": {
+    "target_description": "the brown duck on the grass",
+    "modified_target_description": "the white duck on the grass",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the brown duck on the grass standing still or moving?",
+      "modified": "Is the brown duck on the grass standing still or moving?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the brown duck on the grass appear to be facing to the left?",
+      "modified": "Does the brown duck on the grass appear to be facing to the left?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the brown duck on the grass surrounded by several ducklings?",
+      "modified": "Is the brown duck on the grass surrounded by several ducklings?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "What is the brown duck on the grass doing in this scene?",
+      "modified": "What is the white duck on the grass doing in this scene?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the brown duck on the grass look larger than the ducklings nearby?",
+      "modified": "Does the white duck on the grass look larger than the ducklings nearby?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the brown duck on the grass out in an open grassy area?",
+      "modified": "Is the white duck on the grass out in an open grassy area?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Can you see the side of the brown duck on the grass clearly?",
+      "modified": "Can you see the side of the white duck on the grass clearly?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the brown duck on the grass have patterned feathers on its body?",
+      "modified": "Does the white duck on the grass have patterned feathers on its body?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the brown duck on the grass positioned to the right of the ducklings?",
+      "modified": "Is the white duck on the grass positioned to the right of the ducklings?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the brown duck on the grass seem to be watching over the young ducks?",
+      "modified": "Does the white duck on the grass seem to be watching over the young ducks?",
+      "false_premise": true
+    }
+  ]
+}

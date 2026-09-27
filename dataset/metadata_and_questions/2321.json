@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2321",
+    "source": "Open Images",
+    "complexity": 2,
+    "category": 3,
+    "target": "dog"
+  },
+  "base": {
+    "target_description": "the white dog with its tongue out",
+    "modified_target_description": "the white cat with its tongue out",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the white dog with its tongue out standing on the grass?",
+      "modified": "Is the white dog with its tongue out standing on the grass?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the white dog with its tongue out appear to be panting?",
+      "modified": "Does the white dog with its tongue out appear to be panting?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the white dog with its tongue out facing toward the camera?",
+      "modified": "Is the white dog with its tongue out facing toward the camera?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the white dog with its tongue out standing next to another dog?",
+      "modified": "Is the white cat with its tongue out standing next to another dog?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the white dog with its tongue out have pointed ears?",
+      "modified": "Does the white cat with its tongue out have pointed ears?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the white dog with its tongue out wearing a collar?",
+      "modified": "Is the white cat with its tongue out wearing a collar?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the white dog with its tongue out look relaxed?",
+      "modified": "Does the white cat with its tongue out look relaxed?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the white dog with its tongue out outdoors in a grassy area?",
+      "modified": "Is the white cat with its tongue out outdoors in a grassy area?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the white dog with its tongue out larger than the other dog beside it?",
+      "modified": "Is the white cat with its tongue out larger than the other dog beside it?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the white dog with its tongue out have all four paws on the ground?",
+      "modified": "Does the white cat with its tongue out have all four paws on the ground?",
+      "false_premise": true
+    }
+  ]
+}

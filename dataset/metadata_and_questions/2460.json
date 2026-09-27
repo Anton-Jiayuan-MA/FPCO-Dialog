@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2460",
+    "source": "Open Images",
+    "complexity": 2,
+    "category": 4,
+    "target": "orange"
+  },
+  "base": {
+    "target_description": "the orange fruit in the plastic bag",
+    "modified_target_description": "the green fruit in the plastic bag",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the orange fruit in the plastic bag whole or cut open?",
+      "modified": "Is the orange fruit in the plastic bag whole or cut open?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the orange fruit in the plastic bag look ripe?",
+      "modified": "Does the orange fruit in the plastic bag look ripe?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the orange fruit in the plastic bag next to a jar of Nutella?",
+      "modified": "Is the orange fruit in the plastic bag next to a jar of Nutella?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Can you see more than one piece of the orange fruit in the plastic bag?",
+      "modified": "Can you see more than one piece of the green fruit in the plastic bag?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the orange fruit in the plastic bag have a smooth peel?",
+      "modified": "Does the green fruit in the plastic bag have a smooth peel?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the orange fruit in the plastic bag resting on a dark surface?",
+      "modified": "Is the green fruit in the plastic bag resting on a dark surface?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the orange fruit in the plastic bag appear to be fresh?",
+      "modified": "Does the green fruit in the plastic bag appear to be fresh?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the orange fruit in the plastic bag placed to the right of the Nutella jar?",
+      "modified": "Is the green fruit in the plastic bag placed to the right of the Nutella jar?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Can you clearly see the color of the orange fruit in the plastic bag?",
+      "modified": "Can you clearly see the color of the green fruit in the plastic bag?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the orange fruit in the plastic bag inside a transparent plastic bag?",
+      "modified": "Is the green fruit in the plastic bag inside a transparent plastic bag?",
+      "false_premise": true
+    }
+  ]
+}

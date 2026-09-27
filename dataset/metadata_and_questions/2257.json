@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2257",
+    "source": "COCO",
+    "complexity": 2,
+    "category": 2,
+    "target": "bicycle"
+  },
+  "base": {
+    "target_description": "the bicycle parked by the curb",
+    "modified_target_description": "the red bicycle parked by the curb",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What color is the bicycle parked by the curb?",
+      "modified": "What color is the bicycle parked by the curb?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the bicycle parked by the curb leaning against something?",
+      "modified": "Is the bicycle parked by the curb leaning against something?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the bicycle parked by the curb appear to be part of a row of bikes?",
+      "modified": "Does the bicycle parked by the curb appear to be part of a row of bikes?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the bicycle parked by the curb on the street or on the sidewalk?",
+      "modified": "Is the red bicycle parked by the curb on the street or on the sidewalk?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the bicycle parked by the curb have another bicycle parked close beside it?",
+      "modified": "Does the red bicycle parked by the curb have another bicycle parked close beside it?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the bicycle parked by the curb upright or fallen over?",
+      "modified": "Is the red bicycle parked by the curb upright or fallen over?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Can you see both wheels of the bicycle parked by the curb?",
+      "modified": "Can you see both wheels of the red bicycle parked by the curb?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the bicycle parked by the curb near any parked cars?",
+      "modified": "Is the red bicycle parked by the curb near any parked cars?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the bicycle parked by the curb look like it is locked to a rack?",
+      "modified": "Does the red bicycle parked by the curb look like it is locked to a rack?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the bicycle parked by the curb closer to the bottom or the top of the image?",
+      "modified": "Is the red bicycle parked by the curb closer to the bottom or the top of the image?",
+      "false_premise": true
+    }
+  ]
+}

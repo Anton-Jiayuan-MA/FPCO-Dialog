@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3484",
+    "source": "Open Images",
+    "complexity": 3,
+    "category": 4,
+    "target": "bottled drinks"
+  },
+  "base": {
+    "target_description": "the bottled drinks in the vending machine",
+    "modified_target_description": "the bottled drinks beside the vending machine",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "How many rows of the bottled drinks in the vending machine are visible?",
+      "modified": "How many rows of the bottled drinks in the vending machine are visible?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Are the bottled drinks in the vending machine mostly water bottles?",
+      "modified": "Are the bottled drinks in the vending machine mostly water bottles?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Do the bottled drinks in the vending machine appear to be chilled behind glass?",
+      "modified": "Do the bottled drinks in the vending machine appear to be chilled behind glass?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Are the bottled drinks in the vending machine arranged in separate slots?",
+      "modified": "Are the bottled drinks beside the vending machine arranged in separate slots?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Do the bottled drinks in the vending machine have mostly white caps?",
+      "modified": "Do the bottled drinks beside the vending machine have mostly white caps?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Are the bottled drinks in the vending machine all standing upright?",
+      "modified": "Are the bottled drinks beside the vending machine all standing upright?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Do the bottled drinks in the vending machine have different label colors?",
+      "modified": "Do the bottled drinks beside the vending machine have different label colors?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Are the bottled drinks in the vending machine filling most of the machine shelves?",
+      "modified": "Are the bottled drinks beside the vending machine filling most of the machine shelves?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Can you see any empty spaces among the bottled drinks in the vending machine?",
+      "modified": "Can you see any empty spaces among the bottled drinks beside the vending machine?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Are the bottled drinks in the vending machine shown from the front through the machine door?",
+      "modified": "Are the bottled drinks beside the vending machine shown from the front through the machine door?",
+      "false_premise": true
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1489",
+    "source": "Open Images",
+    "complexity": 1,
+    "category": 4,
+    "target": "spinach"
+  },
+  "base": {
+    "target_description": "the cooked green spinach in a bowl",
+    "modified_target_description": "the cooked green spinach on the left",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What color is the cooked green spinach in a bowl?",
+      "modified": "What color is the cooked green spinach in a bowl?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the cooked green spinach in a bowl look freshly cooked?",
+      "modified": "Does the cooked green spinach in a bowl look freshly cooked?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the cooked green spinach in a bowl piled high?",
+      "modified": "Is the cooked green spinach in a bowl piled high?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the cooked green spinach in a bowl appear seasoned?",
+      "modified": "Does the cooked green spinach on the left appear seasoned?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the cooked green spinach in a bowl the main food shown in the image?",
+      "modified": "Is the cooked green spinach on the left the main food shown in the image?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the cooked green spinach in a bowl look glossy?",
+      "modified": "Does the cooked green spinach on the left look glossy?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the cooked green spinach in a bowl served in a patterned dish?",
+      "modified": "Is the cooked green spinach on the left served in a patterned dish?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the cooked green spinach in a bowl seem ready to eat?",
+      "modified": "Does the cooked green spinach on the left seem ready to eat?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the cooked green spinach in a bowl placed on a table?",
+      "modified": "Is the cooked green spinach on the left placed on a table?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the cooked green spinach in a bowl take up most of the center of the image?",
+      "modified": "Does the cooked green spinach on the left take up most of the center of the image?",
+      "false_premise": true
+    }
+  ]
+}

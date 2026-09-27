@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1320",
+    "source": "COCO",
+    "complexity": 1,
+    "category": 3,
+    "target": "giraffe"
+  },
+  "base": {
+    "target_description": "the close-up giraffe with spotted fur",
+    "modified_target_description": "the close-up zebra with spotted fur",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What part of the body of the close-up giraffe with spotted fur is most visible here?",
+      "modified": "What part of the body of the close-up giraffe with spotted fur is most visible here?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the close-up giraffe with spotted fur facing toward the camera or off to the side?",
+      "modified": "Is the close-up giraffe with spotted fur facing toward the camera or off to the side?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the close-up giraffe with spotted fur have its mouth slightly open?",
+      "modified": "Does the close-up giraffe with spotted fur have its mouth slightly open?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Can you clearly see the eye of the close-up giraffe with spotted fur in this image?",
+      "modified": "Can you clearly see the eye of the close-up zebra with spotted fur in this image?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the close-up giraffe with spotted fur indoors or outdoors?",
+      "modified": "Is the close-up zebra with spotted fur indoors or outdoors?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the close-up giraffe with spotted fur fill most of the frame?",
+      "modified": "Does the close-up zebra with spotted fur fill most of the frame?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Are the ears of the close-up giraffe with spotted fur visible in the shot?",
+      "modified": "Are the ears of the close-up zebra with spotted fur visible in the shot?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the neck of the close-up giraffe with spotted fur only partly shown?",
+      "modified": "Is the neck of the close-up zebra with spotted fur only partly shown?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the close-up giraffe with spotted fur appear calm in this scene?",
+      "modified": "Does the close-up zebra with spotted fur appear calm in this scene?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the close-up giraffe with spotted fur standing near a reddish wall or panel?",
+      "modified": "Is the close-up zebra with spotted fur standing near a reddish wall or panel?",
+      "false_premise": true
+    }
+  ]
+}

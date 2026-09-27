@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1341",
+    "source": "Open Images",
+    "complexity": 1,
+    "category": 3,
+    "target": "dog"
+  },
+  "base": {
+    "target_description": "the fluffy white dog on the stairs",
+    "modified_target_description": "the fluffy black dog on the stairs",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the fluffy white dog on the stairs facing toward the camera?",
+      "modified": "Is the fluffy white dog on the stairs facing toward the camera?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the fluffy white dog on the stairs look like it is standing still?",
+      "modified": "Does the fluffy white dog on the stairs look like it is standing still?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the fluffy white dog on the stairs indoors?",
+      "modified": "Is the fluffy white dog on the stairs indoors?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the fluffy white dog on the stairs have its mouth open?",
+      "modified": "Does the fluffy black dog on the stairs have its mouth open?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the fluffy white dog on the stairs positioned between two railings?",
+      "modified": "Is the fluffy black dog on the stairs positioned between two railings?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the fluffy white dog on the stairs appear to be wearing a collar?",
+      "modified": "Does the fluffy black dog on the stairs appear to be wearing a collar?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the fluffy white dog on the stairs near the top of the staircase?",
+      "modified": "Is the fluffy black dog on the stairs near the top of the staircase?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the fluffy white dog on the stairs look directly ahead?",
+      "modified": "Does the fluffy black dog on the stairs look directly ahead?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the fluffy white dog on the stairs in front of a large framed painting?",
+      "modified": "Is the fluffy black dog on the stairs in front of a large framed painting?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the fluffy white dog on the stairs take up the center of the scene?",
+      "modified": "Does the fluffy black dog on the stairs take up the center of the scene?",
+      "false_premise": true
+    }
+  ]
+}

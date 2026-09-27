@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3358",
+    "source": "COCO",
+    "complexity": 3,
+    "category": 3,
+    "target": "horse"
+  },
+  "base": {
+    "target_description": "the white and brown horse on the beach",
+    "modified_target_description": "the black and brown horse on the beach",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the white and brown horse on the beach standing still?",
+      "modified": "Is the white and brown horse on the beach standing still?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the white and brown horse on the beach facing toward the left side of the image?",
+      "modified": "Is the white and brown horse on the beach facing toward the left side of the image?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the white and brown horse on the beach appear to be in front of another horse?",
+      "modified": "Does the white and brown horse on the beach appear to be in front of another horse?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the white and brown horse on the beach close to the water?",
+      "modified": "Is the black and brown horse on the beach close to the water?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the white and brown horse on the beach have its head lowered?",
+      "modified": "Does the black and brown horse on the beach have its head lowered?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the white and brown horse on the beach the most centered animal in the scene?",
+      "modified": "Is the black and brown horse on the beach the most centered animal in the scene?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the white and brown horse on the beach look larger than the horse behind it?",
+      "modified": "Does the black and brown horse on the beach look larger than the horse behind it?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the white and brown horse on the beach standing on sand?",
+      "modified": "Is the black and brown horse on the beach standing on sand?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Can you see the full body of the white and brown horse on the beach?",
+      "modified": "Can you see the full body of the black and brown horse on the beach?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the white and brown horse on the beach positioned between two other horses?",
+      "modified": "Is the black and brown horse on the beach positioned between two other horses?",
+      "false_premise": true
+    }
+  ]
+}

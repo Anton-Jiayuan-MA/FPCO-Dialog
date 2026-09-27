@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3231",
+    "source": "COCO",
+    "complexity": 3,
+    "category": 2,
+    "target": "motorcycle"
+  },
+  "base": {
+    "target_description": "the white three-wheeled motorcycle",
+    "modified_target_description": "the black three-wheeled motorcycle",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the white three-wheeled motorcycle parked in a parking lot?",
+      "modified": "Is the white three-wheeled motorcycle parked in a parking lot?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the white three-wheeled motorcycle have a windshield on the front?",
+      "modified": "Does the white three-wheeled motorcycle have a windshield on the front?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the white three-wheeled motorcycle attached to a small trailer?",
+      "modified": "Is the white three-wheeled motorcycle attached to a small trailer?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the white three-wheeled motorcycle appear to be stationary?",
+      "modified": "Does the black three-wheeled motorcycle appear to be stationary?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the white three-wheeled motorcycle positioned near other parked vehicles?",
+      "modified": "Is the black three-wheeled motorcycle positioned near other parked vehicles?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Can you see storage compartments on the white three-wheeled motorcycle?",
+      "modified": "Can you see storage compartments on the black three-wheeled motorcycle?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the white three-wheeled motorcycle facing toward the left side of the image?",
+      "modified": "Is the black three-wheeled motorcycle facing toward the left side of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the white three-wheeled motorcycle look larger than the nearby black motorcycle?",
+      "modified": "Does the black three-wheeled motorcycle look larger than the nearby black motorcycle?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the white three-wheeled motorcycle occupying a marked parking space?",
+      "modified": "Is the black three-wheeled motorcycle occupying a marked parking space?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the white three-wheeled motorcycle have a seat with a backrest?",
+      "modified": "Does the black three-wheeled motorcycle have a seat with a backrest?",
+      "false_premise": true
+    }
+  ]
+}

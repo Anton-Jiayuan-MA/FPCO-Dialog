@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2164",
+    "source": "COCO",
+    "complexity": 2,
+    "category": 1,
+    "target": "man"
+  },
+  "base": {
+    "target_description": "the smiling man in a dark T-shirt and white cap",
+    "modified_target_description": "the smiling man in a dark T-shirt and white cap on the left",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the smiling man in a dark T-shirt and white cap holding in one hand?",
+      "modified": "What is the smiling man in a dark T-shirt and white cap holding in one hand?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the smiling man in a dark T-shirt and white cap standing close to someone?",
+      "modified": "Is the smiling man in a dark T-shirt and white cap standing close to someone?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the smiling man in a dark T-shirt and white cap look happy in the scene?",
+      "modified": "Does the smiling man in a dark T-shirt and white cap look happy in the scene?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "What is the smiling man in a dark T-shirt and white cap wearing on his head?",
+      "modified": "What is the smiling man in a dark T-shirt and white cap on the left wearing on his head?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the smiling man in a dark T-shirt and white cap outdoors?",
+      "modified": "Is the smiling man in a dark T-shirt and white cap on the left outdoors?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "What color is the shirt on the smiling man in a dark T-shirt and white cap?",
+      "modified": "What color is the shirt on the smiling man in a dark T-shirt and white cap on the left?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the smiling man in a dark T-shirt and white cap being hugged by someone?",
+      "modified": "Is the smiling man in a dark T-shirt and white cap on the left being hugged by someone?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the smiling man in a dark T-shirt and white cap appear to be relaxing or playing a sport?",
+      "modified": "Does the smiling man in a dark T-shirt and white cap on the left appear to be relaxing or playing a sport?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Where is the smiling man in a dark T-shirt and white cap standing?",
+      "modified": "Where is the smiling man in a dark T-shirt and white cap on the left standing?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the smiling man in a dark T-shirt and white cap next to a grassy area?",
+      "modified": "Is the smiling man in a dark T-shirt and white cap on the left next to a grassy area?",
+      "false_premise": true
+    }
+  ]
+}

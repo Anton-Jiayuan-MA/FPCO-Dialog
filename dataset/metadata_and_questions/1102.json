@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1102",
+    "source": "COCO",
+    "complexity": 1,
+    "category": 1,
+    "target": "child"
+  },
+  "base": {
+    "target_description": "the young boy in a white tank top",
+    "modified_target_description": "the young girl in a white tank top",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the young boy in a white tank top holding in his hand?",
+      "modified": "What is the young boy in a white tank top holding in his hand?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the young boy in a white tank top looking toward the camera?",
+      "modified": "Is the young boy in a white tank top looking toward the camera?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the young boy in a white tank top seem to be smiling?",
+      "modified": "Does the young boy in a white tank top seem to be smiling?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the young boy in a white tank top shown close up in the image?",
+      "modified": "Is the young girl in a white tank top shown close up in the image?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "What expression does the young boy in a white tank top have on his face?",
+      "modified": "What expression does the young girl in a white tank top have on her face?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the young boy in a white tank top indoors?",
+      "modified": "Is the young girl in a white tank top indoors?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Can you see the eyes of the young boy in a white tank top clearly?",
+      "modified": "Can you see the eyes of the young girl in a white tank top clearly?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the young boy in a white tank top turned slightly to one side?",
+      "modified": "Is the young girl in a white tank top turned slightly to one side?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "What color is the shirt worn by the young boy in a white tank top?",
+      "modified": "What color is the shirt worn by the young girl in a white tank top?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the young boy in a white tank top appear to be standing near the camera?",
+      "modified": "Does the young girl in a white tank top appear to be standing near the camera?",
+      "false_premise": true
+    }
+  ]
+}

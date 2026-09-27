@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2379",
+    "source": "Open Images",
+    "complexity": 2,
+    "category": 3,
+    "target": "bird"
+  },
+  "base": {
+    "target_description": "the gray crested bird with orange eyes",
+    "modified_target_description": "the gray crested bird with orange eyes in the background",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the gray crested bird with orange eyes standing on the ground?",
+      "modified": "Is the gray crested bird with orange eyes standing on the ground?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the gray crested bird with orange eyes appear to be near a small puddle?",
+      "modified": "Does the gray crested bird with orange eyes appear to be near a small puddle?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the gray crested bird with orange eyes facing toward the left side of the image?",
+      "modified": "Is the gray crested bird with orange eyes facing toward the left side of the image?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the gray crested bird with orange eyes have patterned feathers on its wing?",
+      "modified": "Does the gray crested bird with orange eyes in the background have patterned feathers on its wing?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the gray crested bird with orange eyes shown in the foreground?",
+      "modified": "Is the gray crested bird with orange eyes in the background shown in the foreground?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the gray crested bird with orange eyes look calm in the scene?",
+      "modified": "Does the gray crested bird with orange eyes in the background look calm in the scene?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Can you clearly see the crest on the gray crested bird with orange eyes?",
+      "modified": "Can you clearly see the crest on the gray crested bird with orange eyes in the background?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the gray crested bird with orange eyes illuminated by sunlight?",
+      "modified": "Is the gray crested bird with orange eyes in the background illuminated by sunlight?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the gray crested bird with orange eyes have pinkish legs visible?",
+      "modified": "Does the gray crested bird with orange eyes in the background have pinkish legs visible?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the gray crested bird with orange eyes beside another bird?",
+      "modified": "Is the gray crested bird with orange eyes in the background beside another bird?",
+      "false_premise": true
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3331",
+    "source": "COCO",
+    "complexity": 3,
+    "category": 3,
+    "target": "horse"
+  },
+  "base": {
+    "target_description": "the brown horse with a neon yellow blanket",
+    "modified_target_description": "the brown horse with a neon green blanket",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the brown horse with a neon yellow blanket standing on?",
+      "modified": "What is the brown horse with a neon yellow blanket standing on?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the brown horse with a neon yellow blanket being ridden by a police officer?",
+      "modified": "Is the brown horse with a neon yellow blanket being ridden by a police officer?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Which direction is the brown horse with a neon yellow blanket facing?",
+      "modified": "Which direction is the brown horse with a neon yellow blanket facing?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the brown horse with a neon yellow blanket appear to be standing still?",
+      "modified": "Does the brown horse with a neon green blanket appear to be standing still?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "What color are the legs of the brown horse with a neon yellow blanket near the hooves?",
+      "modified": "What color are the legs of the brown horse with a neon green blanket near the hooves?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the brown horse with a neon yellow blanket next to another horse?",
+      "modified": "Is the brown horse with a neon green blanket next to another horse?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the brown horse with a neon yellow blanket have its head raised or lowered?",
+      "modified": "Does the brown horse with a neon green blanket have its head raised or lowered?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the brown horse with a neon yellow blanket near the curb?",
+      "modified": "Is the brown horse with a neon green blanket near the curb?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "What is covering the back of the brown horse with a neon yellow blanket?",
+      "modified": "What is covering the back of the brown horse with a neon green blanket?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the brown horse with a neon yellow blanket in a city street scene?",
+      "modified": "Is the brown horse with a neon green blanket in a city street scene?",
+      "false_premise": true
+    }
+  ]
+}

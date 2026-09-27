@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2156",
+    "source": "COCO",
+    "complexity": 2,
+    "category": 1,
+    "target": "man"
+  },
+  "base": {
+    "target_description": "the smiling man in a dark suit with an orange tie",
+    "modified_target_description": "the smiling man in a dark suit with a blue tie",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the smiling man in a dark suit with an orange tie holding in his hands?",
+      "modified": "What is the smiling man in a dark suit with an orange tie holding in his hands?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Why does the smiling man in a dark suit with an orange tie look amused?",
+      "modified": "Why does the smiling man in a dark suit with an orange tie look amused?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the smiling man in a dark suit with an orange tie standing beside a woman in uniform?",
+      "modified": "Is the smiling man in a dark suit with an orange tie standing beside a woman in uniform?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "What is pointed toward the smiling man in a dark suit with an orange tie?",
+      "modified": "What is pointed toward the smiling man in a dark suit with a blue tie?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the smiling man in a dark suit with an orange tie appear to be indoors?",
+      "modified": "Does the smiling man in a dark suit with a blue tie appear to be indoors?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the smiling man in a dark suit with an orange tie looking toward the camera or off to the side?",
+      "modified": "Is the smiling man in a dark suit with a blue tie looking toward the camera or off to the side?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "What color is the tie worn by the smiling man in a dark suit with an orange tie?",
+      "modified": "What color is the tie worn by the smiling man in a dark suit with a blue tie?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the smiling man in a dark suit with an orange tie participating in a ceremonial moment?",
+      "modified": "Is the smiling man in a dark suit with a blue tie participating in a ceremonial moment?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "What is the facial expression of the smiling man in a dark suit with an orange tie?",
+      "modified": "What is the facial expression of the smiling man in a dark suit with a blue tie?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the smiling man in a dark suit with an orange tie standing in front of large flags?",
+      "modified": "Is the smiling man in a dark suit with a blue tie standing in front of large flags?",
+      "false_premise": true
+    }
+  ]
+}

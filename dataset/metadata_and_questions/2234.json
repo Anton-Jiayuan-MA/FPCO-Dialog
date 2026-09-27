@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2234",
+    "source": "Open Images",
+    "complexity": 2,
+    "category": 2,
+    "target": "car"
+  },
+  "base": {
+    "target_description": "the orange sports car with its door open",
+    "modified_target_description": "the blue sports car with its door open",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What color is the orange sports car with its door open?",
+      "modified": "What color is the orange sports car with its door open?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the orange sports car with its door open parked or moving?",
+      "modified": "Is the orange sports car with its door open parked or moving?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the orange sports car with its door open appear closer to the camera than the other car?",
+      "modified": "Does the orange sports car with its door open appear closer to the camera than the other car?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the orange sports car with its door open a convertible?",
+      "modified": "Is the blue sports car with its door open a convertible?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Can you see a person inside the orange sports car with its door open?",
+      "modified": "Can you see a person inside the blue sports car with its door open?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the orange sports car with its door open facing toward the left side of the image?",
+      "modified": "Is the blue sports car with its door open facing toward the left side of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the orange sports car with its door open have its rear section lifted up?",
+      "modified": "Does the blue sports car with its door open have its rear section lifted up?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the orange sports car with its door open positioned on a paved surface?",
+      "modified": "Is the blue sports car with its door open positioned on a paved surface?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Are the wheels of the orange sports car with its door open visible?",
+      "modified": "Are the wheels of the blue sports car with its door open visible?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the orange sports car with its door open in front of a green hedge?",
+      "modified": "Is the blue sports car with its door open in front of a green hedge?",
+      "false_premise": true
+    }
+  ]
+}

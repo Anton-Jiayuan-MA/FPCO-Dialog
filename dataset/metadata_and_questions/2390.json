@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2390",
+    "source": "COCO",
+    "complexity": 2,
+    "category": 3,
+    "target": "horse"
+  },
+  "base": {
+    "target_description": "the brown horse grazing in the field",
+    "modified_target_description": "the brown horse in the background",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the brown horse grazing in the field doing right now?",
+      "modified": "What is the brown horse grazing in the field doing right now?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the brown horse grazing in the field standing with its head down?",
+      "modified": "Is the brown horse grazing in the field standing with its head down?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the brown horse grazing in the field appear to be eating grass?",
+      "modified": "Does the brown horse grazing in the field appear to be eating grass?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Where is the brown horse grazing in the field located in the scene?",
+      "modified": "Where is the brown horse in the background located in the scene?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the brown horse grazing in the field closer to the camera than the other horse?",
+      "modified": "Is the brown horse in the background closer to the camera than the other horse?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the brown horse grazing in the field have any white markings on its legs?",
+      "modified": "Does the brown horse in the background have any white markings on its legs?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the brown horse grazing in the field facing to the right or to the left?",
+      "modified": "Is the brown horse in the background facing to the right or to the left?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the brown horse grazing in the field look calm?",
+      "modified": "Does the brown horse in the background look calm?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the brown horse grazing in the field out in an open grassy area?",
+      "modified": "Is the brown horse in the background out in an open grassy area?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Can you clearly see the body of the brown horse grazing in the field?",
+      "modified": "Can you clearly see the body of the brown horse in the background?",
+      "false_premise": true
+    }
+  ]
+}

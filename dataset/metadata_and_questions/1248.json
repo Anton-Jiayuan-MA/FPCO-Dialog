@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1248",
+    "source": "Open Images",
+    "complexity": 1,
+    "category": 2,
+    "target": "car"
+  },
+  "base": {
+    "target_description": "the vintage black car with whitewall tires",
+    "modified_target_description": "the vintage red car with whitewall tires",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the vintage black car with whitewall tires parked on a road?",
+      "modified": "Is the vintage black car with whitewall tires parked on a road?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the vintage black car with whitewall tires have a person sitting inside it?",
+      "modified": "Does the vintage black car with whitewall tires have a person sitting inside it?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the vintage black car with whitewall tires shown from the side?",
+      "modified": "Is the vintage black car with whitewall tires shown from the side?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the vintage black car with whitewall tires appear to be an older model?",
+      "modified": "Does the vintage red car with whitewall tires appear to be an older model?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the vintage black car with whitewall tires near a rocky hillside?",
+      "modified": "Is the vintage red car with whitewall tires near a rocky hillside?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Can you see the spare tire on the back of the vintage black car with whitewall tires?",
+      "modified": "Can you see the spare tire on the back of the vintage red car with whitewall tires?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Are the windows of the vintage black car with whitewall tires closed or open?",
+      "modified": "Are the windows of the vintage red car with whitewall tires closed or open?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the vintage black car with whitewall tires look like it is stopped rather than moving?",
+      "modified": "Does the vintage red car with whitewall tires look like it is stopped rather than moving?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the vintage black car with whitewall tires facing toward the left side of the image?",
+      "modified": "Is the vintage red car with whitewall tires facing toward the left side of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the vintage black car with whitewall tires take up most of the image?",
+      "modified": "Does the vintage red car with whitewall tires take up most of the image?",
+      "false_premise": true
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1359",
+    "source": "Open Images",
+    "complexity": 1,
+    "category": 3,
+    "target": "dog"
+  },
+  "base": {
+    "target_description": "the small white fluffy dog",
+    "modified_target_description": "the small black fluffy dog",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What direction is the small white fluffy dog facing?",
+      "modified": "What direction is the small white fluffy dog facing?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the small white fluffy dog looking toward the camera?",
+      "modified": "Is the small white fluffy dog looking toward the camera?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "What expression does the small white fluffy dog seem to have?",
+      "modified": "What expression does the small white fluffy dog seem to have?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Can you clearly see the eyes of the small white fluffy dog?",
+      "modified": "Can you clearly see the eyes of the small black fluffy dog?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the small white fluffy dog appear to be indoors?",
+      "modified": "Does the small black fluffy dog appear to be indoors?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the small white fluffy dog shown in a close-up view?",
+      "modified": "Is the small black fluffy dog shown in a close-up view?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "What color is the nose of the small white fluffy dog?",
+      "modified": "What color is the nose of the small black fluffy dog?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the fur of the small white fluffy dog look well groomed?",
+      "modified": "Does the fur of the small black fluffy dog look well groomed?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the small white fluffy dog taking up most of the image?",
+      "modified": "Is the small black fluffy dog taking up most of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Can you see both ears of the small white fluffy dog clearly?",
+      "modified": "Can you see both ears of the small black fluffy dog clearly?",
+      "false_premise": true
+    }
+  ]
+}

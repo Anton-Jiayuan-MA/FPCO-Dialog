@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3333",
+    "source": "COCO",
+    "complexity": 3,
+    "category": 3,
+    "target": "sheep"
+  },
+  "base": {
+    "target_description": "the small sheep in the left background",
+    "modified_target_description": "the large sheep in the left background",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "How many animals can you make out around the small sheep in the left background?",
+      "modified": "How many animals can you make out around the small sheep in the left background?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the small sheep in the left background standing close together as a group?",
+      "modified": "Is the small sheep in the left background standing close together as a group?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the small sheep in the left background appear far from the wagon scene?",
+      "modified": "Does the small sheep in the left background appear far from the wagon scene?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Can you see the small sheep in the left background grazing or just standing there?",
+      "modified": "Can you see the large sheep in the left background grazing or just standing there?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the small sheep in the left background positioned near the fence line?",
+      "modified": "Is the large sheep in the left background positioned near the fence line?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Would you say the small sheep in the left background looks tiny because it is far away?",
+      "modified": "Would you say the large sheep in the left background looks tiny because it is far away?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Are the small sheep in the left background gathered on open ground?",
+      "modified": "Are the large sheep in the left background gathered on open ground?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Do the small sheep in the left background appear to be off to the side of the main action?",
+      "modified": "Do the large sheep in the left background appear to be off to the side of the main action?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the small sheep in the left background easy to miss at first glance?",
+      "modified": "Is the large sheep in the left background easy to miss at first glance?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the small sheep in the left background help show depth in the scene?",
+      "modified": "Does the large sheep in the left background help show depth in the scene?",
+      "false_premise": true
+    }
+  ]
+}

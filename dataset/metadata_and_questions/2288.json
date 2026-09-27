@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2288",
+    "source": "Open Images",
+    "complexity": 2,
+    "category": 2,
+    "target": "bicycle"
+  },
+  "base": {
+    "target_description": "the blue bicycle with thick tires",
+    "modified_target_description": "the blue bicycle with thick tires on the right",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the blue bicycle with thick tires being carried by someone in the image?",
+      "modified": "Is the blue bicycle with thick tires being carried by someone in the image?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the blue bicycle with thick tires appear to be lifted off the ground?",
+      "modified": "Does the blue bicycle with thick tires appear to be lifted off the ground?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the blue bicycle with thick tires positioned on the right side of the scene?",
+      "modified": "Is the blue bicycle with thick tires positioned on the right side of the scene?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Can you see both wheels of the blue bicycle with thick tires clearly?",
+      "modified": "Can you see both wheels of the blue bicycle with thick tires on the right clearly?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the blue bicycle with thick tires look like a mountain bike?",
+      "modified": "Does the blue bicycle with thick tires on the right look like a mountain bike?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the blue bicycle with thick tires angled diagonally in the picture?",
+      "modified": "Is the blue bicycle with thick tires on the right angled diagonally in the picture?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the blue bicycle with thick tires have a dark seat?",
+      "modified": "Does the blue bicycle with thick tires on the right have a dark seat?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the frame of the blue bicycle with thick tires mostly blue?",
+      "modified": "Is the frame of the blue bicycle with thick tires on the right mostly blue?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the blue bicycle with thick tires appear larger than the yellow bicycle beside it?",
+      "modified": "Does the blue bicycle with thick tires on the right appear larger than the yellow bicycle beside it?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the blue bicycle with thick tires being held near a person's shoulder?",
+      "modified": "Is the blue bicycle with thick tires on the right being held near a person's shoulder?",
+      "false_premise": true
+    }
+  ]
+}

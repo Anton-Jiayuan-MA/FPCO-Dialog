@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1273",
+    "source": "Open Images",
+    "complexity": 1,
+    "category": 2,
+    "target": "car"
+  },
+  "base": {
+    "target_description": "the white BMW car",
+    "modified_target_description": "the white BMW car on the right",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the white BMW car parked indoors?",
+      "modified": "Is the white BMW car parked indoors?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the white BMW car appear to be viewed mostly from the rear side?",
+      "modified": "Does the white BMW car appear to be viewed mostly from the rear side?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the white BMW car sitting within marked parking lines?",
+      "modified": "Is the white BMW car sitting within marked parking lines?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the white BMW car have tinted rear windows?",
+      "modified": "Does the white BMW car on the right have tinted rear windows?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the white BMW car facing toward the left side of the image?",
+      "modified": "Is the white BMW car on the right facing toward the left side of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the white BMW car look a little dirty near the back wheel area?",
+      "modified": "Does the white BMW car on the right look a little dirty near the back wheel area?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Can you see the license plate on the white BMW car?",
+      "modified": "Can you see the license plate on the white BMW car on the right?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the white BMW car parked next to another vehicle?",
+      "modified": "Is the white BMW car on the right parked next to another vehicle?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the white BMW car have visible red taillights?",
+      "modified": "Does the white BMW car on the right have visible red taillights?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the white BMW car stationary in this scene?",
+      "modified": "Is the white BMW car on the right stationary in this scene?",
+      "false_premise": true
+    }
+  ]
+}

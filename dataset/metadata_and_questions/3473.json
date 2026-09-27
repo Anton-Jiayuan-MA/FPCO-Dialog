@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3473",
+    "source": "COCO",
+    "complexity": 3,
+    "category": 4,
+    "target": "banana"
+  },
+  "base": {
+    "target_description": "the bunch of yellow bananas",
+    "modified_target_description": "the bunch of yellow bananas on the right",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "How many pieces seem to be in the bunch of yellow bananas?",
+      "modified": "How many pieces seem to be in the bunch of yellow bananas?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the bunch of yellow bananas resting on a plate?",
+      "modified": "Is the bunch of yellow bananas resting on a plate?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the bunch of yellow bananas look ripe enough to eat?",
+      "modified": "Does the bunch of yellow bananas look ripe enough to eat?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the bunch of yellow bananas next to a jar of honey?",
+      "modified": "Is the bunch of yellow bananas on the right next to a jar of honey?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Are there any noticeable brown spots on the bunch of yellow bananas?",
+      "modified": "Are there any noticeable brown spots on the bunch of yellow bananas on the right?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the bunch of yellow bananas arranged in a pile rather than spread out?",
+      "modified": "Is the bunch of yellow bananas on the right arranged in a pile rather than spread out?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the bunch of yellow bananas appear to be indoors on a kitchen counter?",
+      "modified": "Does the bunch of yellow bananas on the right appear to be indoors on a kitchen counter?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the bunch of yellow bananas partially behind a spice container?",
+      "modified": "Is the bunch of yellow bananas on the right partially behind a spice container?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the bunch of yellow bananas look fresh and firm?",
+      "modified": "Does the bunch of yellow bananas on the right look fresh and firm?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the bunch of yellow bananas the most prominent food item in the image?",
+      "modified": "Is the bunch of yellow bananas on the right the most prominent food item in the image?",
+      "false_premise": true
+    }
+  ]
+}

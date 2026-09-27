@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1354",
+    "source": "Open Images",
+    "complexity": 1,
+    "category": 3,
+    "target": "kangaroo"
+  },
+  "base": {
+    "target_description": "the tan kangaroo lying on the grass",
+    "modified_target_description": "the gray kangaroo lying on the grass",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the tan kangaroo lying on the grass doing in this scene?",
+      "modified": "What is the tan kangaroo lying on the grass doing in this scene?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the tan kangaroo lying on the grass facing toward the camera or away from it?",
+      "modified": "Is the tan kangaroo lying on the grass facing toward the camera or away from it?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the tan kangaroo lying on the grass look relaxed or alert?",
+      "modified": "Does the tan kangaroo lying on the grass look relaxed or alert?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Are the ears of the tan kangaroo lying on the grass standing upright?",
+      "modified": "Are the ears of the gray kangaroo lying on the grass standing upright?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the tan kangaroo lying on the grass resting on its side or sitting up?",
+      "modified": "Is the gray kangaroo lying on the grass resting on its side or sitting up?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "What color is the fur of the tan kangaroo lying on the grass?",
+      "modified": "What color is the fur of the gray kangaroo lying on the grass?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Can you see the full body of the tan kangaroo lying on the grass, or only part of it?",
+      "modified": "Can you see the full body of the gray kangaroo lying on the grass, or only part of it?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the tan kangaroo lying on the grass in a grassy outdoor area?",
+      "modified": "Is the gray kangaroo lying on the grass in a grassy outdoor area?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the tan kangaroo lying on the grass appear close to the camera?",
+      "modified": "Does the gray kangaroo lying on the grass appear close to the camera?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the tan kangaroo lying on the grass looking slightly to one side?",
+      "modified": "Is the gray kangaroo lying on the grass looking slightly to one side?",
+      "false_premise": true
+    }
+  ]
+}

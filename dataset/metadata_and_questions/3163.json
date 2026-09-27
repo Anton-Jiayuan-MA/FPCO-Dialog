@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3163",
+    "source": "Open Images",
+    "complexity": 3,
+    "category": 1,
+    "target": "person"
+  },
+  "base": {
+    "target_description": "the man in a black cape and boots",
+    "modified_target_description": "the man in a black cape and boots on the left",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the man in a black cape and boots doing with his arms in this scene?",
+      "modified": "What is the man in a black cape and boots doing with his arms in this scene?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the man in a black cape and boots appear to be shouting or speaking loudly?",
+      "modified": "Does the man in a black cape and boots appear to be shouting or speaking loudly?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the man in a black cape and boots standing near a woman in a red dress?",
+      "modified": "Is the man in a black cape and boots standing near a woman in a red dress?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the man in a black cape and boots look like he is part of a staged performance?",
+      "modified": "Does the man in a black cape and boots on the left look like he is part of a staged performance?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "What kind of expression does the man in a black cape and boots have on his face?",
+      "modified": "What kind of expression does the man in a black cape and boots on the left have on his face?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the man in a black cape and boots holding or reaching toward a sword?",
+      "modified": "Is the man in a black cape and boots on the left holding or reaching toward a sword?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Which direction is the man in a black cape and boots facing?",
+      "modified": "Which direction is the man in a black cape and boots on the left facing?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the man in a black cape and boots seem to be in motion or standing still?",
+      "modified": "Does the man in a black cape and boots on the left seem to be in motion or standing still?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the man in a black cape and boots positioned near the center of the image?",
+      "modified": "Is the man in a black cape and boots on the left positioned near the center of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "What is the man in a black cape and boots wearing besides the cape and boots?",
+      "modified": "What is the man in a black cape and boots on the left wearing besides the cape and boots?",
+      "false_premise": true
+    }
+  ]
+}

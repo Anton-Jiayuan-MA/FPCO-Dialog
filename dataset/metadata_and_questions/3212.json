@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3212",
+    "source": "COCO",
+    "complexity": 3,
+    "category": 2,
+    "target": "car"
+  },
+  "base": {
+    "target_description": "the white pickup truck in the foreground",
+    "modified_target_description": "the white sedan in the foreground",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the white pickup truck in the foreground parked along the side of the street?",
+      "modified": "Is the white pickup truck in the foreground parked along the side of the street?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the white pickup truck in the foreground appear closer to the camera than the other vehicles?",
+      "modified": "Does the white pickup truck in the foreground appear closer to the camera than the other vehicles?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the white pickup truck in the foreground facing toward the viewer?",
+      "modified": "Is the white pickup truck in the foreground facing toward the viewer?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Can you see only part of the white pickup truck in the foreground in the image?",
+      "modified": "Can you see only part of the white sedan in the foreground in the image?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the white pickup truck in the foreground positioned on the right side of the image?",
+      "modified": "Is the white sedan in the foreground positioned on the right side of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the white pickup truck in the foreground have a visible windshield?",
+      "modified": "Does the white sedan in the foreground have a visible windshield?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the white pickup truck in the foreground next to a sidewalk?",
+      "modified": "Is the white sedan in the foreground next to a sidewalk?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Can you see the hood of the white pickup truck in the foreground clearly?",
+      "modified": "Can you see the hood of the white sedan in the foreground clearly?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the white pickup truck in the foreground in front of another vehicle farther down the street?",
+      "modified": "Is the white sedan in the foreground in front of another vehicle farther down the street?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the white pickup truck in the foreground look stationary?",
+      "modified": "Does the white sedan in the foreground look stationary?",
+      "false_premise": true
+    }
+  ]
+}

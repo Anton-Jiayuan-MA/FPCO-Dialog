@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3236",
+    "source": "COCO",
+    "complexity": 3,
+    "category": 2,
+    "target": "boat"
+  },
+  "base": {
+    "target_description": "the small white and blue fishing boat",
+    "modified_target_description": "the small red and blue fishing boat",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the small white and blue fishing boat floating in the water at the dock?",
+      "modified": "Is the small white and blue fishing boat floating in the water at the dock?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the small white and blue fishing boat appear to be parked among several other boats?",
+      "modified": "Does the small white and blue fishing boat appear to be parked among several other boats?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Can you see fishing equipment attached to the small white and blue fishing boat?",
+      "modified": "Can you see fishing equipment attached to the small white and blue fishing boat?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the small white and blue fishing boat facing toward the right side of the image?",
+      "modified": "Is the small red and blue fishing boat facing toward the right side of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the small white and blue fishing boat look like it is currently in use or docked?",
+      "modified": "Does the small red and blue fishing boat look like it is currently in use or docked?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the small white and blue fishing boat closer to the foreground than the buildings in the background?",
+      "modified": "Is the small red and blue fishing boat closer to the foreground than the buildings in the background?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the small white and blue fishing boat have ropes connecting it to the dock area?",
+      "modified": "Does the small red and blue fishing boat have ropes connecting it to the dock area?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the small white and blue fishing boat one of the nearest boats visible in the scene?",
+      "modified": "Is the small red and blue fishing boat one of the nearest boats visible in the scene?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the small white and blue fishing boat appear larger than some of the other boats nearby?",
+      "modified": "Does the small red and blue fishing boat appear larger than some of the other boats nearby?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the small white and blue fishing boat sitting calmly on relatively still water?",
+      "modified": "Is the small red and blue fishing boat sitting calmly on relatively still water?",
+      "false_premise": true
+    }
+  ]
+}

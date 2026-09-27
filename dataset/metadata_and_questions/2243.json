@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2243",
+    "source": "Open Images",
+    "complexity": 2,
+    "category": 2,
+    "target": "police van"
+  },
+  "base": {
+    "target_description": "the white police van",
+    "modified_target_description": "the black police van",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the white police van parked along the curb?",
+      "modified": "Is the white police van parked along the curb?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the white police van have police markings on the side?",
+      "modified": "Does the white police van have police markings on the side?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the white police van facing toward the right side of the image?",
+      "modified": "Is the white police van facing toward the right side of the image?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Can you see the front of the white police van clearly?",
+      "modified": "Can you see the front of the black police van clearly?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the white police van on a city street?",
+      "modified": "Is the black police van on a city street?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the white police van appear to be stopped rather than moving?",
+      "modified": "Does the black police van appear to be stopped rather than moving?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the white police van near a large building?",
+      "modified": "Is the black police van near a large building?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Are there other vans lined up behind the white police van?",
+      "modified": "Are there other vans lined up behind the black police van?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the white police van positioned under some trees?",
+      "modified": "Is the black police van positioned under some trees?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the white police van have a light bar on top?",
+      "modified": "Does the black police van have a light bar on top?",
+      "false_premise": true
+    }
+  ]
+}

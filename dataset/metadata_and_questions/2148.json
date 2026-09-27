@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2148",
+    "source": "Open Images",
+    "complexity": 2,
+    "category": 1,
+    "target": "man"
+  },
+  "base": {
+    "target_description": "the bald man in a black T-shirt",
+    "modified_target_description": "the bald man in a white T-shirt",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the bald man in a black T-shirt smiling at the camera?",
+      "modified": "Is the bald man in a black T-shirt smiling at the camera?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the bald man in a black T-shirt standing outdoors?",
+      "modified": "Is the bald man in a black T-shirt standing outdoors?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the bald man in a black T-shirt have one arm around the woman?",
+      "modified": "Does the bald man in a black T-shirt have one arm around the woman?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the bald man in a black T-shirt wearing shorts?",
+      "modified": "Is the bald man in a white T-shirt wearing shorts?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the bald man in a black T-shirt standing to the left of the woman?",
+      "modified": "Is the bald man in a white T-shirt standing to the left of the woman?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the bald man in a black T-shirt appear to be posing for a photo?",
+      "modified": "Does the bald man in a white T-shirt appear to be posing for a photo?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the bald man in a black T-shirt wearing bright blue shoes?",
+      "modified": "Is the bald man in a white T-shirt wearing bright blue shoes?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the bald man in a black T-shirt near the entrance of a building?",
+      "modified": "Is the bald man in a white T-shirt near the entrance of a building?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the bald man in a black T-shirt looking directly at the camera?",
+      "modified": "Is the bald man in a white T-shirt looking directly at the camera?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the bald man in a black T-shirt standing close to two other people?",
+      "modified": "Is the bald man in a white T-shirt standing close to two other people?",
+      "false_premise": true
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3275",
+    "source": "Open Images",
+    "complexity": 3,
+    "category": 2,
+    "target": "bicycle"
+  },
+  "base": {
+    "target_description": "the black bicycle with a large wicker basket",
+    "modified_target_description": "the black bicycle with a large wicker basket on the right",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the black bicycle with a large wicker basket being ridden on a city street?",
+      "modified": "Is the black bicycle with a large wicker basket being ridden on a city street?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the black bicycle with a large wicker basket appear to be moving or stopped?",
+      "modified": "Does the black bicycle with a large wicker basket appear to be moving or stopped?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the black bicycle with a large wicker basket carrying anything on the back?",
+      "modified": "Is the black bicycle with a large wicker basket carrying anything on the back?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the black bicycle with a large wicker basket have thin road-style tires?",
+      "modified": "Does the black bicycle with a large wicker basket on the right have thin road-style tires?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the black bicycle with a large wicker basket positioned next to parked cars?",
+      "modified": "Is the black bicycle with a large wicker basket on the right positioned next to parked cars?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Can you see both wheels of the black bicycle with a large wicker basket?",
+      "modified": "Can you see both wheels of the black bicycle with a large wicker basket on the right?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the black bicycle with a large wicker basket have straight handlebars?",
+      "modified": "Does the black bicycle with a large wicker basket on the right have straight handlebars?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the black bicycle with a large wicker basket angled toward the left side of the image?",
+      "modified": "Is the black bicycle with a large wicker basket on the right angled toward the left side of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the black bicycle with a large wicker basket look like it is being used to transport goods?",
+      "modified": "Does the black bicycle with a large wicker basket on the right look like it is being used to transport goods?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the black bicycle with a large wicker basket fitted with a rear rack?",
+      "modified": "Is the black bicycle with a large wicker basket on the right fitted with a rear rack?",
+      "false_premise": true
+    }
+  ]
+}

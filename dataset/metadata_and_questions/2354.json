@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2354",
+    "source": "COCO",
+    "complexity": 2,
+    "category": 3,
+    "target": "zebra"
+  },
+  "base": {
+    "target_description": "the zebra on the left with its head down",
+    "modified_target_description": "the zebra on the left with its head up",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the zebra on the left with its head down doing?",
+      "modified": "What is the zebra on the left with its head down doing?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the zebra on the left with its head down standing on grass?",
+      "modified": "Is the zebra on the left with its head down standing on grass?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the zebra on the left with its head down appear to be grazing?",
+      "modified": "Does the zebra on the left with its head down appear to be grazing?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the zebra on the left with its head down inside a fenced enclosure?",
+      "modified": "Is the zebra on the left with its head up inside a fenced enclosure?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "How is the zebra on the left with its head down positioned compared with the other zebra?",
+      "modified": "How is the zebra on the left with its head up positioned compared with the other zebra?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the zebra on the left with its head down facing toward the right side of the image?",
+      "modified": "Is the zebra on the left with its head up facing toward the right side of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Can you see the stripes clearly on the zebra on the left with its head down?",
+      "modified": "Can you see the stripes clearly on the zebra on the left with its head up?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the zebra on the left with its head down near the wooden fence in the foreground?",
+      "modified": "Is the zebra on the left with its head up near the wooden fence in the foreground?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the zebra on the left with its head down look calm?",
+      "modified": "Does the zebra on the left with its head up look calm?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the zebra on the left with its head down in an outdoor zoo-like area?",
+      "modified": "Is the zebra on the left with its head up in an outdoor zoo-like area?",
+      "false_premise": true
+    }
+  ]
+}

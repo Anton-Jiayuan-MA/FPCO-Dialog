@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2211",
+    "source": "COCO",
+    "complexity": 2,
+    "category": 2,
+    "target": "train"
+  },
+  "base": {
+    "target_description": "the blue and white train on the right",
+    "modified_target_description": "the blue and white bus on the right",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What direction is the blue and white train on the right facing in the image?",
+      "modified": "What direction is the blue and white train on the right facing in the image?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the blue and white train on the right moving toward the camera or away from it?",
+      "modified": "Is the blue and white train on the right moving toward the camera or away from it?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the blue and white train on the right appear to be pulling several cars behind it?",
+      "modified": "Does the blue and white train on the right appear to be pulling several cars behind it?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "What track is the blue and white train on the right using relative to the other train?",
+      "modified": "What track is the blue and white bus on the right using relative to the other train?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is there any smoke visible above the blue and white train on the right?",
+      "modified": "Is there any smoke visible above the blue and white bus on the right?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "How close is the blue and white train on the right to the gray railcar beside it?",
+      "modified": "How close is the blue and white bus on the right to the gray railcar beside it?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the blue and white train on the right look like a locomotive at the front of a longer train?",
+      "modified": "Does the blue and white bus on the right look like a locomotive at the front of a longer train?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the blue and white train on the right nearer to the grassy roadside or farther from it?",
+      "modified": "Is the blue and white bus on the right nearer to the grassy roadside or farther from it?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "What is directly behind the blue and white train on the right in the scene?",
+      "modified": "What is directly behind the blue and white bus on the right in the scene?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the blue and white train on the right appear larger than the railcar on the left from this angle?",
+      "modified": "Does the blue and white bus on the right appear larger than the railcar on the left from this angle?",
+      "false_premise": true
+    }
+  ]
+}

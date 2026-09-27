@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3176",
+    "source": "Open Images",
+    "complexity": 3,
+    "category": 1,
+    "target": "person"
+  },
+  "base": {
+    "target_description": "the woman in a red dress with short red hair",
+    "modified_target_description": "the woman in a red dress with short red hair on the left",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What direction is the woman in a red dress with short red hair facing?",
+      "modified": "What direction is the woman in a red dress with short red hair facing?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the woman in a red dress with short red hair smiling or keeping a neutral expression?",
+      "modified": "Is the woman in a red dress with short red hair smiling or keeping a neutral expression?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "What is the woman in a red dress with short red hair doing with her mouth?",
+      "modified": "What is the woman in a red dress with short red hair doing with her mouth?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the woman in a red dress with short red hair appear to be performing or dancing?",
+      "modified": "Does the woman in a red dress with short red hair on the left appear to be performing or dancing?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the woman in a red dress with short red hair wearing any visible earrings?",
+      "modified": "Is the woman in a red dress with short red hair on the left wearing any visible earrings?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "How is the woman in a red dress with short red hair holding her arms?",
+      "modified": "How is the woman in a red dress with short red hair on the left holding her arms?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the woman in a red dress with short red hair standing close to another similarly dressed person?",
+      "modified": "Is the woman in a red dress with short red hair on the left standing close to another similarly dressed person?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the woman in a red dress with short red hair seem to be outdoors?",
+      "modified": "Does the woman in a red dress with short red hair on the left seem to be outdoors?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the woman in a red dress with short red hair wearing any black lace on her arms?",
+      "modified": "Is the woman in a red dress with short red hair on the left wearing any black lace on her arms?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "What kind of expression does the woman in a red dress with short red hair have?",
+      "modified": "What kind of expression does the woman in a red dress with short red hair on the left have?",
+      "false_premise": true
+    }
+  ]
+}

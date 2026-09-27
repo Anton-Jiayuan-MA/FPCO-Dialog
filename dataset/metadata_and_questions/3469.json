@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3469",
+    "source": "COCO",
+    "complexity": 3,
+    "category": 4,
+    "target": "wine"
+  },
+  "base": {
+    "target_description": "the dark bottle of wine on the table",
+    "modified_target_description": "the dark bottle of wine on the left side of the table",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What kind of label is on the dark bottle of wine on the table?",
+      "modified": "What kind of label is on the dark bottle of wine on the table?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the dark bottle of wine on the table open or still sealed?",
+      "modified": "Is the dark bottle of wine on the table open or still sealed?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "What is standing next to the dark bottle of wine on the table?",
+      "modified": "What is standing next to the dark bottle of wine on the table?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the dark bottle of wine on the table appear to be full or partly empty?",
+      "modified": "Does the dark bottle of wine on the left side of the table appear to be full or partly empty?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the dark bottle of wine on the table in the center of the dining scene?",
+      "modified": "Is the dark bottle of wine on the left side of the table in the center of the dining scene?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "What color is the glass inside the dark bottle of wine on the table?",
+      "modified": "What color is the glass inside the dark bottle of wine on the left side of the table?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the dark bottle of wine on the table look taller than the nearby drinking glasses?",
+      "modified": "Does the dark bottle of wine on the left side of the table look taller than the nearby drinking glasses?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the dark bottle of wine on the table positioned upright?",
+      "modified": "Is the dark bottle of wine on the left side of the table positioned upright?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Can you read any text on the dark bottle of wine on the table?",
+      "modified": "Can you read any text on the dark bottle of wine on the left side of the table?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the dark bottle of wine on the table placed close to a filled wine glass?",
+      "modified": "Is the dark bottle of wine on the left side of the table placed close to a filled wine glass?",
+      "false_premise": true
+    }
+  ]
+}

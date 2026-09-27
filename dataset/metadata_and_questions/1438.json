@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1438",
+    "source": "COCO",
+    "complexity": 1,
+    "category": 4,
+    "target": "noodles"
+  },
+  "base": {
+    "target_description": "the brown noodles with broccoli",
+    "modified_target_description": "the white noodles with broccoli",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What kind of dish is the brown noodles with broccoli?",
+      "modified": "What kind of dish is the brown noodles with broccoli?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Are the brown noodles with broccoli served in a bowl?",
+      "modified": "Are the brown noodles with broccoli served in a bowl?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Do the brown noodles with broccoli look cooked?",
+      "modified": "Do the brown noodles with broccoli look cooked?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Are the brown noodles with broccoli mixed together?",
+      "modified": "Are the white noodles with broccoli mixed together?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Do the brown noodles with broccoli appear to have sauce on them?",
+      "modified": "Do the white noodles with broccoli appear to have sauce on them?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Are the brown noodles with broccoli shown close up in the image?",
+      "modified": "Are the white noodles with broccoli shown close up in the image?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Do the brown noodles with broccoli include any other vegetables?",
+      "modified": "Do the white noodles with broccoli include any other vegetables?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Are the brown noodles with broccoli arranged neatly or casually?",
+      "modified": "Are the white noodles with broccoli arranged neatly or casually?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Do the brown noodles with broccoli look like a healthy meal?",
+      "modified": "Do the white noodles with broccoli look like a healthy meal?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Are the brown noodles with broccoli taking up most of the image?",
+      "modified": "Are the white noodles with broccoli taking up most of the image?",
+      "false_premise": true
+    }
+  ]
+}

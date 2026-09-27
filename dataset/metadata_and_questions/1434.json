@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1434",
+    "source": "COCO",
+    "complexity": 1,
+    "category": 4,
+    "target": "cake"
+  },
+  "base": {
+    "target_description": "the white frosted cake with a pink candle",
+    "modified_target_description": "the chocolate frosted cake with a pink candle",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the white frosted cake with a pink candle sitting on the table?",
+      "modified": "Is the white frosted cake with a pink candle sitting on the table?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the white frosted cake with a pink candle look homemade?",
+      "modified": "Does the white frosted cake with a pink candle look homemade?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the white frosted cake with a pink candle round in shape?",
+      "modified": "Is the white frosted cake with a pink candle round in shape?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the white frosted cake with a pink candle have flower decorations on it?",
+      "modified": "Does the chocolate frosted cake with a pink candle have flower decorations on it?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the white frosted cake with a pink candle the center of the celebration?",
+      "modified": "Is the chocolate frosted cake with a pink candle the center of the celebration?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the white frosted cake with a pink candle appear to be untouched?",
+      "modified": "Does the chocolate frosted cake with a pink candle appear to be untouched?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the white frosted cake with a pink candle placed close to the children?",
+      "modified": "Is the chocolate frosted cake with a pink candle placed close to the children?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the white frosted cake with a pink candle have thick icing all around it?",
+      "modified": "Does the chocolate frosted cake with a pink candle have thick icing all around it?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the white frosted cake with a pink candle shown from the side?",
+      "modified": "Is the chocolate frosted cake with a pink candle shown from the side?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the white frosted cake with a pink candle ready to be served?",
+      "modified": "Is the chocolate frosted cake with a pink candle ready to be served?",
+      "false_premise": true
+    }
+  ]
+}

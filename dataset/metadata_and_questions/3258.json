@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3258",
+    "source": "COCO",
+    "complexity": 3,
+    "category": 2,
+    "target": "boat"
+  },
+  "base": {
+    "target_description": "the white boat with a blue cover",
+    "modified_target_description": "the white boat with a red cover",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the white boat with a blue cover resting on the shore?",
+      "modified": "Is the white boat with a blue cover resting on the shore?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the white boat with a blue cover appear to be parked among other boats?",
+      "modified": "Does the white boat with a blue cover appear to be parked among other boats?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the white boat with a blue cover facing toward the right side of the image?",
+      "modified": "Is the white boat with a blue cover facing toward the right side of the image?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Can you see the white boat with a blue cover near some red and white buoys?",
+      "modified": "Can you see the white boat with a red cover near some red and white buoys?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the white boat with a blue cover have an outboard motor attached?",
+      "modified": "Does the white boat with a red cover have an outboard motor attached?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the white boat with a blue cover sitting on dry land rather than in the water?",
+      "modified": "Is the white boat with a red cover sitting on dry land rather than in the water?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the white boat with a blue cover look smaller than some of the other boats nearby?",
+      "modified": "Does the white boat with a red cover look smaller than some of the other boats nearby?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the white boat with a blue cover in the foreground of the scene?",
+      "modified": "Is the white boat with a red cover in the foreground of the scene?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Can you clearly see the blue cover on the white boat with a blue cover?",
+      "modified": "Can you clearly see the blue cover on the white boat with a red cover?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the white boat with a blue cover surrounded by several other small boats?",
+      "modified": "Is the white boat with a red cover surrounded by several other small boats?",
+      "false_premise": true
+    }
+  ]
+}

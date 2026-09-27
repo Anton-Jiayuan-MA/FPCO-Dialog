@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2437",
+    "source": "Open Images",
+    "complexity": 2,
+    "category": 4,
+    "target": "apple"
+  },
+  "base": {
+    "target_description": "the shiny green apple",
+    "modified_target_description": "the shiny red apple",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the shiny green apple whole or sliced?",
+      "modified": "Is the shiny green apple whole or sliced?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the shiny green apple still have its stem attached?",
+      "modified": "Does the shiny green apple still have its stem attached?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the shiny green apple resting on a white surface?",
+      "modified": "Is the shiny green apple resting on a white surface?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the shiny green apple look fresh and smooth?",
+      "modified": "Does the shiny red apple look fresh and smooth?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the shiny green apple shown close up in the image?",
+      "modified": "Is the shiny red apple shown close up in the image?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the shiny green apple have any visible bite marks?",
+      "modified": "Does the shiny red apple have any visible bite marks?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the shiny green apple positioned in front of other apples?",
+      "modified": "Is the shiny red apple positioned in front of other apples?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the shiny green apple appear round in shape?",
+      "modified": "Does the shiny red apple appear round in shape?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the shiny green apple brightly lit?",
+      "modified": "Is the shiny red apple brightly lit?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the shiny green apple have a light reflection on its skin?",
+      "modified": "Does the shiny red apple have a light reflection on its skin?",
+      "false_premise": true
+    }
+  ]
+}

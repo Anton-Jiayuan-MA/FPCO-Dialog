@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2270",
+    "source": "COCO",
+    "complexity": 2,
+    "category": 2,
+    "target": "bus"
+  },
+  "base": {
+    "target_description": "the white and blue bus on the right",
+    "modified_target_description": "the white and blue bus on the left",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What route number is shown on the front of the white and blue bus on the right?",
+      "modified": "What route number is shown on the front of the white and blue bus on the right?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the white and blue bus on the right facing toward the camera?",
+      "modified": "Is the white and blue bus on the right facing toward the camera?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the white and blue bus on the right appear to be stopped at a bus stop?",
+      "modified": "Does the white and blue bus on the right appear to be stopped at a bus stop?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "What destination is displayed above the windshield of the white and blue bus on the right?",
+      "modified": "What destination is displayed above the windshield of the white and blue bus on the left?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the white and blue bus on the right closer to the curb than the other bus?",
+      "modified": "Is the white and blue bus on the left closer to the curb than the other bus?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the white and blue bus on the right have passengers visible through the front window?",
+      "modified": "Does the white and blue bus on the left have passengers visible through the front window?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Are the headlights on the white and blue bus on the right visible in the image?",
+      "modified": "Are the headlights on the white and blue bus on the left visible in the image?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the white and blue bus on the right larger in the frame than the other bus?",
+      "modified": "Is the white and blue bus on the left larger in the frame than the other bus?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "What company name is printed on the front of the white and blue bus on the right?",
+      "modified": "What company name is printed on the front of the white and blue bus on the left?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the white and blue bus on the right parked beside the sidewalk?",
+      "modified": "Is the white and blue bus on the left parked beside the sidewalk?",
+      "false_premise": true
+    }
+  ]
+}

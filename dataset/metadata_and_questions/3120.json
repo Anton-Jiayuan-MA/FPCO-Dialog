@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3120",
+    "source": "Open Images",
+    "complexity": 3,
+    "category": 1,
+    "target": "man"
+  },
+  "base": {
+    "target_description": "the man in the blue sweater",
+    "modified_target_description": "the woman in the blue sweater",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the man in the blue sweater looking at?",
+      "modified": "What is the man in the blue sweater looking at?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the man in the blue sweater holding something in his hands?",
+      "modified": "Is the man in the blue sweater holding something in his hands?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the man in the blue sweater appear to be examining a small object closely?",
+      "modified": "Does the man in the blue sweater appear to be examining a small object closely?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the man in the blue sweater standing near other people?",
+      "modified": "Is the woman in the blue sweater standing near other people?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the man in the blue sweater have a backpack on?",
+      "modified": "Does the woman in the blue sweater have a backpack on?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the man in the blue sweater facing downward?",
+      "modified": "Is the woman in the blue sweater facing downward?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "What color is the man in the blue sweater wearing besides blue?",
+      "modified": "What color is the woman in the blue sweater wearing besides blue?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the man in the blue sweater seem focused on what he is holding?",
+      "modified": "Does the woman in the blue sweater seem focused on what she is holding?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the man in the blue sweater indoors or outdoors?",
+      "modified": "Is the woman in the blue sweater indoors or outdoors?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the man in the blue sweater the person closest to the camera?",
+      "modified": "Is the woman in the blue sweater the person closest to the camera?",
+      "false_premise": true
+    }
+  ]
+}

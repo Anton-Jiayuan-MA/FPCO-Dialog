@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2258",
+    "source": "COCO",
+    "complexity": 2,
+    "category": 2,
+    "target": "bus"
+  },
+  "base": {
+    "target_description": "the red bus on the wet street",
+    "modified_target_description": "the blue bus on the wet street",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What route number or destination is displayed on the front of the red bus on the wet street?",
+      "modified": "What route number or destination is displayed on the front of the red bus on the wet street?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the red bus on the wet street driving toward the camera?",
+      "modified": "Is the red bus on the wet street driving toward the camera?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the red bus on the wet street appear to be in the middle of the road or near the curb?",
+      "modified": "Does the red bus on the wet street appear to be in the middle of the road or near the curb?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Are the headlights on the red bus on the wet street visible?",
+      "modified": "Are the headlights on the blue bus on the wet street visible?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the red bus on the wet street look like it is moving or stopped?",
+      "modified": "Does the blue bus on the wet street look like it is moving or stopped?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the red bus on the wet street facing straight ahead?",
+      "modified": "Is the blue bus on the wet street facing straight ahead?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Can you see the windshield clearly on the red bus on the wet street?",
+      "modified": "Can you see the windshield clearly on the blue bus on the wet street?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the red bus on the wet street the most prominent vehicle in the scene?",
+      "modified": "Is the blue bus on the wet street the most prominent vehicle in the scene?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the red bus on the wet street have any text or branding on its front?",
+      "modified": "Does the blue bus on the wet street have any text or branding on its front?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the red bus on the wet street traveling along a rainy city street?",
+      "modified": "Is the blue bus on the wet street traveling along a rainy city street?",
+      "false_premise": true
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3118",
+    "source": "COCO",
+    "complexity": 3,
+    "category": 1,
+    "target": "man"
+  },
+  "base": {
+    "target_description": "the man in a blue striped shirt",
+    "modified_target_description": "the woman in a blue striped shirt",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the man in a blue striped shirt leaning over the counter to look at?",
+      "modified": "What is the man in a blue striped shirt leaning over the counter to look at?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the man in a blue striped shirt standing or sitting in the scene?",
+      "modified": "Is the man in a blue striped shirt standing or sitting in the scene?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the man in a blue striped shirt appear to be interacting with the phone being held up?",
+      "modified": "Does the man in a blue striped shirt appear to be interacting with the phone being held up?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the man in a blue striped shirt closer to the camera than the woman in orange behind him?",
+      "modified": "Is the woman in a blue striped shirt closer to the camera than the woman in orange behind her?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "What direction is the man in a blue striped shirt facing?",
+      "modified": "What direction is the woman in a blue striped shirt facing?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the man in a blue striped shirt look focused on something in front of him?",
+      "modified": "Does the woman in a blue striped shirt look focused on something in front of her?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the man in a blue striped shirt reaching one arm across the counter?",
+      "modified": "Is the woman in a blue striped shirt reaching one arm across the counter?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the man in a blue striped shirt indoors at what looks like a service desk?",
+      "modified": "Is the woman in a blue striped shirt indoors at what looks like a service desk?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "How close is the man in a blue striped shirt to the person holding the flip phone?",
+      "modified": "How close is the woman in a blue striped shirt to the person holding the flip phone?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the man in a blue striped shirt seem to be waiting for assistance or giving assistance?",
+      "modified": "Does the woman in a blue striped shirt seem to be waiting for assistance or giving assistance?",
+      "false_premise": true
+    }
+  ]
+}

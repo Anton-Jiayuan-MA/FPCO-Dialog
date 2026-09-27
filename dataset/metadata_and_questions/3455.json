@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3455",
+    "source": "Open Images",
+    "complexity": 3,
+    "category": 4,
+    "target": "apple"
+  },
+  "base": {
+    "target_description": "the apples in the cardboard boxes",
+    "modified_target_description": "the green apples in the cardboard boxes",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Are the apples in the cardboard boxes mostly red, yellow, or a mix of both?",
+      "modified": "Are the apples in the cardboard boxes mostly red, yellow, or a mix of both?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Do the apples in the cardboard boxes look fresh or slightly bruised?",
+      "modified": "Do the apples in the cardboard boxes look fresh or slightly bruised?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Are the apples in the cardboard boxes piled high in the display?",
+      "modified": "Are the apples in the cardboard boxes piled high in the display?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Do the apples in the cardboard boxes appear to be for sale at an outdoor market?",
+      "modified": "Do the green apples in the cardboard boxes appear to be for sale at an outdoor market?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Are the apples in the cardboard boxes loose or packed in bags?",
+      "modified": "Are the green apples in the cardboard boxes loose or packed in bags?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Do the apples in the cardboard boxes look like they come in different sizes?",
+      "modified": "Do the green apples in the cardboard boxes look like they come in different sizes?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Are the apples in the cardboard boxes next to handwritten price signs?",
+      "modified": "Are the green apples in the cardboard boxes next to handwritten price signs?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Do the apples in the cardboard boxes fill more than one box?",
+      "modified": "Do the green apples in the cardboard boxes fill more than one box?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Are the apples in the cardboard boxes shown close up in the image?",
+      "modified": "Are the green apples in the cardboard boxes shown close up in the image?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Do the apples in the cardboard boxes have any visible blemishes on them?",
+      "modified": "Do the green apples in the cardboard boxes have any visible blemishes on them?",
+      "false_premise": true
+    }
+  ]
+}

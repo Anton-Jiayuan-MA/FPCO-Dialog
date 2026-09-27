@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2138",
+    "source": "Open Images",
+    "complexity": 2,
+    "category": 1,
+    "target": "woman"
+  },
+  "base": {
+    "target_description": "the smiling woman in a blue patterned dress",
+    "modified_target_description": "the smiling woman in a red patterned dress",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the smiling woman in a blue patterned dress doing in the scene?",
+      "modified": "What is the smiling woman in a blue patterned dress doing in the scene?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the smiling woman in a blue patterned dress standing next to another person?",
+      "modified": "Is the smiling woman in a blue patterned dress standing next to another person?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "What kind of expression does the smiling woman in a blue patterned dress have?",
+      "modified": "What kind of expression does the smiling woman in a blue patterned dress have?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the smiling woman in a blue patterned dress wearing any jewelry?",
+      "modified": "Is the smiling woman in a red patterned dress wearing any jewelry?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "What color is the smiling woman in a blue patterned dress's outfit?",
+      "modified": "What color is the smiling woman in a red patterned dress's outfit?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the smiling woman in a blue patterned dress appear to be posing for the camera?",
+      "modified": "Does the smiling woman in a red patterned dress appear to be posing for the camera?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Where is the smiling woman in a blue patterned dress positioned in the image?",
+      "modified": "Where is the smiling woman in a red patterned dress positioned in the image?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the smiling woman in a blue patterned dress indoors or outdoors?",
+      "modified": "Is the smiling woman in a red patterned dress indoors or outdoors?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Can you see the arms of the smiling woman in a blue patterned dress?",
+      "modified": "Can you see the arms of the smiling woman in a red patterned dress?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the smiling woman in a blue patterned dress seem to be at an event or booth?",
+      "modified": "Does the smiling woman in a red patterned dress seem to be at an event or booth?",
+      "false_premise": true
+    }
+  ]
+}

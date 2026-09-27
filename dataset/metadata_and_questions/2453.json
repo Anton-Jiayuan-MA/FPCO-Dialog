@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2453",
+    "source": "COCO",
+    "complexity": 2,
+    "category": 4,
+    "target": "pizza"
+  },
+  "base": {
+    "target_description": "the pizza on stacked plates",
+    "modified_target_description": "the burnt pizza on stacked plates",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What toppings can you see on the pizza on stacked plates?",
+      "modified": "What toppings can you see on the pizza on stacked plates?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the pizza on stacked plates whole or already sliced?",
+      "modified": "Is the pizza on stacked plates whole or already sliced?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the pizza on stacked plates look freshly baked?",
+      "modified": "Does the pizza on stacked plates look freshly baked?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "What kind of crust does the pizza on stacked plates have?",
+      "modified": "What kind of crust does the burnt pizza on stacked plates have?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the pizza on stacked plates near the front of the counter?",
+      "modified": "Is the burnt pizza on stacked plates near the front of the counter?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the pizza on stacked plates have a lot of melted cheese on it?",
+      "modified": "Does the burnt pizza on stacked plates have a lot of melted cheese on it?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Can you see any basil on the pizza on stacked plates?",
+      "modified": "Can you see any basil on the burnt pizza on stacked plates?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the pizza on stacked plates being served or just displayed?",
+      "modified": "Is the burnt pizza on stacked plates being served or just displayed?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "How many stacked plates are under the pizza on stacked plates?",
+      "modified": "How many stacked plates are under the burnt pizza on stacked plates?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the pizza on stacked plates the closest food item to the camera?",
+      "modified": "Is the burnt pizza on stacked plates the closest food item to the camera?",
+      "false_premise": true
+    }
+  ]
+}

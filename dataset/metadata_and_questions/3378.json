@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3378",
+    "source": "Open Images",
+    "complexity": 3,
+    "category": 3,
+    "target": "duck"
+  },
+  "base": {
+    "target_description": "the brown duck in the water",
+    "modified_target_description": "the brown duck on the left side",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the brown duck in the water swimming with several ducklings?",
+      "modified": "Is the brown duck in the water swimming with several ducklings?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the brown duck in the water facing toward the right side of the image?",
+      "modified": "Is the brown duck in the water facing toward the right side of the image?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the brown duck in the water appear to be leading the group?",
+      "modified": "Does the brown duck in the water appear to be leading the group?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the brown duck in the water close to the front edge of the stream?",
+      "modified": "Is the brown duck on the left side close to the front edge of the stream?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the brown duck in the water moving through a narrow waterway?",
+      "modified": "Is the brown duck on the left side moving through a narrow waterway?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Are there plants partially in front of the brown duck in the water?",
+      "modified": "Are there plants partially in front of the brown duck on the left side?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the brown duck in the water near yellow flowers on the left side?",
+      "modified": "Is the brown duck on the left side near yellow flowers on the left side?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the brown duck in the water look like an adult compared with the smaller ducks nearby?",
+      "modified": "Does the brown duck on the left side look like an adult compared with the smaller ducks nearby?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the brown duck in the water surrounded by calm water rather than standing on land?",
+      "modified": "Is the brown duck on the left side surrounded by calm water rather than standing on land?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Can you see the head and beak of the brown duck in the water clearly?",
+      "modified": "Can you see the head and beak of the brown duck on the left side clearly?",
+      "false_premise": true
+    }
+  ]
+}

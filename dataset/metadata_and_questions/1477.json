@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1477",
+    "source": "Open Images",
+    "complexity": 1,
+    "category": 4,
+    "target": "fried chicken"
+  },
+  "base": {
+    "target_description": "the fried chicken on the plate",
+    "modified_target_description": "the fried chicken beside the plate",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "How many pieces of the fried chicken on the plate can you see?",
+      "modified": "How many pieces of the fried chicken on the plate can you see?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the fried chicken on the plate golden brown?",
+      "modified": "Is the fried chicken on the plate golden brown?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the fried chicken on the plate look crispy?",
+      "modified": "Does the fried chicken on the plate look crispy?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the fried chicken on the plate served with corn?",
+      "modified": "Is the fried chicken beside the plate served with corn?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the fried chicken on the plate arranged around a salad?",
+      "modified": "Is the fried chicken beside the plate arranged around a salad?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the fried chicken on the plate have any sauce on top?",
+      "modified": "Does the fried chicken beside the plate have any sauce on top?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the fried chicken on the plate the main food in the dish?",
+      "modified": "Is the fried chicken beside the plate the main food in the dish?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the fried chicken on the plate look freshly cooked?",
+      "modified": "Does the fried chicken beside the plate look freshly cooked?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the fried chicken on the plate covering most of the plate?",
+      "modified": "Is the fried chicken beside the plate covering most of the plate?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the fried chicken on the plate next to leafy greens?",
+      "modified": "Is the fried chicken beside the plate next to leafy greens?",
+      "false_premise": true
+    }
+  ]
+}

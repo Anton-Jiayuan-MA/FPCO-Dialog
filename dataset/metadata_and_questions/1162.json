@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1162",
+    "source": "Open Images",
+    "complexity": 1,
+    "category": 1,
+    "target": "woman"
+  },
+  "base": {
+    "target_description": "the woman with gray hair and a black feather accessory",
+    "modified_target_description": "the woman with gray hair and a black feather accessory on the right",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the woman with gray hair and a black feather accessory doing in the scene?",
+      "modified": "What is the woman with gray hair and a black feather accessory doing in the scene?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the woman with gray hair and a black feather accessory facing toward the camera?",
+      "modified": "Is the woman with gray hair and a black feather accessory facing toward the camera?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "What kind of expression does the woman with gray hair and a black feather accessory have?",
+      "modified": "What kind of expression does the woman with gray hair and a black feather accessory have?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "What is the woman with gray hair and a black feather accessory wearing on her head?",
+      "modified": "What is the woman with gray hair and a black feather accessory on the right wearing on her head?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the woman with gray hair and a black feather accessory appear to be outdoors?",
+      "modified": "Does the woman with gray hair and a black feather accessory on the right appear to be outdoors?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "What color top is the woman with gray hair and a black feather accessory wearing?",
+      "modified": "What color top is the woman with gray hair and a black feather accessory on the right wearing?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the woman with gray hair and a black feather accessory standing in front of a yellow vehicle?",
+      "modified": "Is the woman with gray hair and a black feather accessory on the right standing in front of a yellow vehicle?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the woman with gray hair and a black feather accessory seem to be speaking or singing?",
+      "modified": "Does the woman with gray hair and a black feather accessory on the right seem to be speaking or singing?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the woman with gray hair and a black feather accessory wearing any visible jewelry?",
+      "modified": "Is the woman with gray hair and a black feather accessory on the right wearing any visible jewelry?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "How close is the woman with gray hair and a black feather accessory to the camera?",
+      "modified": "How close is the woman with gray hair and a black feather accessory on the right to the camera?",
+      "false_premise": true
+    }
+  ]
+}

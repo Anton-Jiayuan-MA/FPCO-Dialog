@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2413",
+    "source": "COCO",
+    "complexity": 2,
+    "category": 4,
+    "target": "apple"
+  },
+  "base": {
+    "target_description": "a green apple in the sink",
+    "modified_target_description": "a green pear in the sink",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "How many other fruits are near a green apple in the sink?",
+      "modified": "How many other fruits are near a green apple in the sink?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is a green apple in the sink wet or dry?",
+      "modified": "Is a green apple in the sink wet or dry?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does a green apple in the sink look fresh?",
+      "modified": "Does a green apple in the sink look fresh?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is a green apple in the sink touching any other fruit?",
+      "modified": "Is a green pear in the sink touching any other fruit?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "What color is a green apple in the sink?",
+      "modified": "What color is a green pear in the sink?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is a green apple in the sink closer to the center or the edge?",
+      "modified": "Is a green pear in the sink closer to the center or the edge?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does a green apple in the sink have any visible blemishes?",
+      "modified": "Does a green pear in the sink have any visible blemishes?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is a green apple in the sink next to any lemons?",
+      "modified": "Is a green pear in the sink next to any lemons?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Are there multiple examples of a green apple in the sink?",
+      "modified": "Are there multiple examples of a green pear in the sink?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does a green apple in the sink appear round?",
+      "modified": "Does a green pear in the sink appear round?",
+      "false_premise": true
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3246",
+    "source": "Open Images",
+    "complexity": 3,
+    "category": 2,
+    "target": "bicycle"
+  },
+  "base": {
+    "target_description": "the red bicycle with white tires",
+    "modified_target_description": "the blue bicycle with white tires",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the red bicycle with white tires parked among other bicycles?",
+      "modified": "Is the red bicycle with white tires parked among other bicycles?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the red bicycle with white tires appear to be leaning against a pole?",
+      "modified": "Does the red bicycle with white tires appear to be leaning against a pole?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the red bicycle with white tires on a patch of grass beside the sidewalk?",
+      "modified": "Is the red bicycle with white tires on a patch of grass beside the sidewalk?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Can you see both wheels of the red bicycle with white tires clearly?",
+      "modified": "Can you see both wheels of the blue bicycle with white tires clearly?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the red bicycle with white tires have a rear rack attached?",
+      "modified": "Does the blue bicycle with white tires have a rear rack attached?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the red bicycle with white tires facing toward the right side of the image?",
+      "modified": "Is the blue bicycle with white tires facing toward the right side of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the red bicycle with white tires look like it is stationary?",
+      "modified": "Does the blue bicycle with white tires look like it is stationary?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the red bicycle with white tires positioned in front of a colorful wall?",
+      "modified": "Is the blue bicycle with white tires positioned in front of a colorful wall?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the red bicycle with white tires have its handlebars turned slightly?",
+      "modified": "Does the blue bicycle with white tires have its handlebars turned slightly?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the red bicycle with white tires the most prominent bicycle in the scene?",
+      "modified": "Is the blue bicycle with white tires the most prominent bicycle in the scene?",
+      "false_premise": true
+    }
+  ]
+}

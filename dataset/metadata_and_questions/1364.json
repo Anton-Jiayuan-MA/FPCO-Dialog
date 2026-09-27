@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1364",
+    "source": "Open Images",
+    "complexity": 1,
+    "category": 3,
+    "target": "bird"
+  },
+  "base": {
+    "target_description": "the white bird with a long neck",
+    "modified_target_description": "the white bird with a long neck on the left",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the white bird with a long neck standing in the water?",
+      "modified": "Is the white bird with a long neck standing in the water?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the white bird with a long neck facing toward the left side of the image?",
+      "modified": "Is the white bird with a long neck facing toward the left side of the image?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the white bird with a long neck have its legs partly submerged?",
+      "modified": "Does the white bird with a long neck have its legs partly submerged?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the white bird with a long neck near the shoreline?",
+      "modified": "Is the white bird with a long neck on the left near the shoreline?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the white bird with a long neck appear to be wading rather than flying?",
+      "modified": "Does the white bird with a long neck on the left appear to be wading rather than flying?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the white bird with a long neck alone in the scene?",
+      "modified": "Is the white bird with a long neck on the left alone in the scene?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Can you see the beak of the white bird with a long neck clearly?",
+      "modified": "Can you see the beak of the white bird with a long neck on the left clearly?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the white bird with a long neck surrounded by choppy water?",
+      "modified": "Is the white bird with a long neck on the left surrounded by choppy water?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the white bird with a long neck look like it is searching the water?",
+      "modified": "Does the white bird with a long neck on the left look like it is searching the water?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the white bird with a long neck positioned near the center of the image?",
+      "modified": "Is the white bird with a long neck on the left positioned near the center of the image?",
+      "false_premise": true
+    }
+  ]
+}

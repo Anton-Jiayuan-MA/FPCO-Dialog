@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1383",
+    "source": "COCO",
+    "complexity": 1,
+    "category": 3,
+    "target": "cat"
+  },
+  "base": {
+    "target_description": "the light-colored cat with dark ears",
+    "modified_target_description": "the light-colored cat with dark ears on the right",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the light-colored cat with dark ears lying down on a bed?",
+      "modified": "Is the light-colored cat with dark ears lying down on a bed?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the light-colored cat with dark ears look like it is resting?",
+      "modified": "Does the light-colored cat with dark ears look like it is resting?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Are the eyes of the light-colored cat with dark ears visible in the image?",
+      "modified": "Are the eyes of the light-colored cat with dark ears visible in the image?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the light-colored cat with dark ears stretched out on the blanket?",
+      "modified": "Is the light-colored cat with dark ears on the right stretched out on the blanket?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the light-colored cat with dark ears appear relaxed?",
+      "modified": "Does the light-colored cat with dark ears on the right appear relaxed?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the light-colored cat with dark ears facing toward the camera or away from it?",
+      "modified": "Is the light-colored cat with dark ears on the right facing toward the camera or away from it?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Can you see the front paws of the light-colored cat with dark ears?",
+      "modified": "Can you see the front paws of the light-colored cat with dark ears on the right?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the light-colored cat with dark ears indoors?",
+      "modified": "Is the light-colored cat with dark ears on the right indoors?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the light-colored cat with dark ears take up most of the image?",
+      "modified": "Does the light-colored cat with dark ears on the right take up most of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the light-colored cat with dark ears shown from the side?",
+      "modified": "Is the light-colored cat with dark ears on the right shown from the side?",
+      "false_premise": true
+    }
+  ]
+}

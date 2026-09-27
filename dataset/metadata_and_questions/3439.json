@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3439",
+    "source": "COCO",
+    "complexity": 3,
+    "category": 4,
+    "target": "orange"
+  },
+  "base": {
+    "target_description": "the large orange in the bowl",
+    "modified_target_description": "the small orange in the bowl",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What color is the large orange in the bowl?",
+      "modified": "What color is the large orange in the bowl?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the large orange in the bowl near the back of the fruit arrangement?",
+      "modified": "Is the large orange in the bowl near the back of the fruit arrangement?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the large orange in the bowl appear whole or sliced?",
+      "modified": "Does the large orange in the bowl appear whole or sliced?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the large orange in the bowl sitting among other pieces of fruit?",
+      "modified": "Is the small orange in the bowl sitting among other pieces of fruit?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the large orange in the bowl look bigger than the nearby oranges?",
+      "modified": "Does the small orange in the bowl look bigger than the nearby oranges?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the large orange in the bowl partially blocked by fruit in the foreground?",
+      "modified": "Is the small orange in the bowl partially blocked by fruit in the foreground?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the large orange in the bowl have a smooth peel?",
+      "modified": "Does the small orange in the bowl have a smooth peel?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the large orange in the bowl closer to the left side than the right side of the image?",
+      "modified": "Is the small orange in the bowl closer to the left side than the right side of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Can you see a small dark spot on the large orange in the bowl?",
+      "modified": "Can you see a small dark spot on the small orange in the bowl?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the large orange in the bowl inside a decorative dish?",
+      "modified": "Is the small orange in the bowl inside a decorative dish?",
+      "false_premise": true
+    }
+  ]
+}

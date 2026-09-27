@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2178",
+    "source": "COCO",
+    "complexity": 2,
+    "category": 1,
+    "target": "man"
+  },
+  "base": {
+    "target_description": "the older man in a winter jacket and hat",
+    "modified_target_description": "the older man in a winter jacket and hat in the background",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the older man in a winter jacket and hat doing in the snow?",
+      "modified": "What is the older man in a winter jacket and hat doing in the snow?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the older man in a winter jacket and hat using ski poles?",
+      "modified": "Is the older man in a winter jacket and hat using ski poles?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the older man in a winter jacket and hat appear to be moving toward the camera?",
+      "modified": "Does the older man in a winter jacket and hat appear to be moving toward the camera?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "What expression does the older man in a winter jacket and hat have on his face?",
+      "modified": "What expression does the older man in a winter jacket and hat in the background have on his face?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the older man in a winter jacket and hat in front of another skier?",
+      "modified": "Is the older man in a winter jacket and hat in the background in front of another skier?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "What is the older man in a winter jacket and hat wearing on his hands?",
+      "modified": "What is the older man in a winter jacket and hat in the background wearing on his hands?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the older man in a winter jacket and hat on a forest trail?",
+      "modified": "Is the older man in a winter jacket and hat in the background on a forest trail?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the older man in a winter jacket and hat look like he is cross-country skiing?",
+      "modified": "Does the older man in a winter jacket and hat in the background look like he is cross-country skiing?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "How close is the older man in a winter jacket and hat to the camera compared with the other skier?",
+      "modified": "How close is the older man in a winter jacket and hat in the background to the camera compared with the other skier?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the older man in a winter jacket and hat dressed warmly for the cold weather?",
+      "modified": "Is the older man in a winter jacket and hat in the background dressed warmly for the cold weather?",
+      "false_premise": true
+    }
+  ]
+}

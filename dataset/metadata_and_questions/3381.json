@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3381",
+    "source": "Open Images",
+    "complexity": 3,
+    "category": 3,
+    "target": "crane"
+  },
+  "base": {
+    "target_description": "the gray crane with long legs",
+    "modified_target_description": "the gray crane with long legs on the right",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the gray crane with long legs flying or standing in the image?",
+      "modified": "Is the gray crane with long legs flying or standing in the image?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Are the wings of the gray crane with long legs spread out?",
+      "modified": "Are the wings of the gray crane with long legs spread out?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the gray crane with long legs appear to be above the ground?",
+      "modified": "Does the gray crane with long legs appear to be above the ground?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the gray crane with long legs facing to the left or to the right?",
+      "modified": "Is the gray crane with long legs on the right facing to the left or to the right?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the gray crane with long legs have its legs hanging down while moving?",
+      "modified": "Does the gray crane with long legs on the right have its legs hanging down while moving?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the gray crane with long legs near other cranes in the scene?",
+      "modified": "Is the gray crane with long legs on the right near other cranes in the scene?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the gray crane with long legs appear to be landing?",
+      "modified": "Does the gray crane with long legs on the right appear to be landing?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Can you see the beak of the gray crane with long legs clearly?",
+      "modified": "Can you see the beak of the gray crane with long legs on the right clearly?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the gray crane with long legs positioned over the grassy wetland area?",
+      "modified": "Is the gray crane with long legs on the right positioned over the grassy wetland area?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the gray crane with long legs look larger than the birds standing below?",
+      "modified": "Does the gray crane with long legs on the right look larger than the birds standing below?",
+      "false_premise": true
+    }
+  ]
+}

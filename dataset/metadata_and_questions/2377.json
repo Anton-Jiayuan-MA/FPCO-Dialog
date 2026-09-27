@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2377",
+    "source": "Open Images",
+    "complexity": 2,
+    "category": 3,
+    "target": "bird"
+  },
+  "base": {
+    "target_description": "the white bird with raised wings",
+    "modified_target_description": "the white bird on the left",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the white bird with raised wings flying above the ground?",
+      "modified": "Is the white bird with raised wings flying above the ground?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the white bird with raised wings appear to be landing?",
+      "modified": "Does the white bird with raised wings appear to be landing?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Are the feet of the white bird with raised wings hanging down?",
+      "modified": "Are the feet of the white bird with raised wings hanging down?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the white bird with raised wings facing toward the camera?",
+      "modified": "Is the white bird on the left facing toward the camera?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the white bird with raised wings cast a shadow on the pavement?",
+      "modified": "Does the white bird on the left cast a shadow on the pavement?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Are the wings of the white bird with raised wings spread wide open?",
+      "modified": "Are the wings of the white bird on the left spread wide open?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the white bird with raised wings in front of another bird?",
+      "modified": "Is the white bird on the left in front of another bird?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the white bird with raised wings have black tips on its wings?",
+      "modified": "Does the white bird on the left have black tips on its wings?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the white bird with raised wings centered in the image?",
+      "modified": "Is the white bird on the left centered in the image?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the white bird with raised wings look like it is moving downward?",
+      "modified": "Does the white bird on the left look like it is moving downward?",
+      "false_premise": true
+    }
+  ]
+}

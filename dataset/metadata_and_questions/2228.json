@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2228",
+    "source": "Open Images",
+    "complexity": 2,
+    "category": 2,
+    "target": "boat"
+  },
+  "base": {
+    "target_description": "the blue boat in the canal",
+    "modified_target_description": "the blue car in the canal",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the blue boat in the canal floating near the right side of the image?",
+      "modified": "Is the blue boat in the canal floating near the right side of the image?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the blue boat in the canal appear to be empty?",
+      "modified": "Does the blue boat in the canal appear to be empty?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the blue boat in the canal tied up beside the building?",
+      "modified": "Is the blue boat in the canal tied up beside the building?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Can you see the blue boat in the canal through the metal fence?",
+      "modified": "Can you see the blue car in the canal through the metal fence?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the blue boat in the canal pointed toward the foreground?",
+      "modified": "Is the blue car in the canal pointed toward the foreground?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the blue boat in the canal look narrow and small?",
+      "modified": "Does the blue car in the canal look narrow and small?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the blue boat in the canal close to the wall on the right?",
+      "modified": "Is the blue car in the canal close to the wall on the right?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the blue boat in the canal seem stationary in the water?",
+      "modified": "Does the blue car in the canal seem stationary in the water?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the blue boat in the canal one of several boats visible here?",
+      "modified": "Is the blue car in the canal one of several boats visible here?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Would you say the blue boat in the canal is moored rather than moving?",
+      "modified": "Would you say the blue car in the canal is moored rather than moving?",
+      "false_premise": true
+    }
+  ]
+}

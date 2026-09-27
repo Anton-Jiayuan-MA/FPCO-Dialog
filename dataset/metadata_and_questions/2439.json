@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2439",
+    "source": "COCO",
+    "complexity": 2,
+    "category": 4,
+    "target": "broccoli"
+  },
+  "base": {
+    "target_description": "the green broccoli florets in the yellow container",
+    "modified_target_description": "the purple broccoli florets in the yellow container",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Are the green broccoli florets in the yellow container cooked or raw-looking?",
+      "modified": "Are the green broccoli florets in the yellow container cooked or raw-looking?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Do the green broccoli florets in the yellow container take up most of that section?",
+      "modified": "Do the green broccoli florets in the yellow container take up most of that section?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Are the green broccoli florets in the yellow container next to a brown saucy food item?",
+      "modified": "Are the green broccoli florets in the yellow container next to a brown saucy food item?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Do the green broccoli florets in the yellow container look bright green?",
+      "modified": "Do the purple broccoli florets in the yellow container look bright green?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Are the green broccoli florets in the yellow container packed closely together?",
+      "modified": "Are the purple broccoli florets in the yellow container packed closely together?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Do the green broccoli florets in the yellow container appear to be part of a lunchbox meal?",
+      "modified": "Do the purple broccoli florets in the yellow container appear to be part of a lunchbox meal?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Are the green broccoli florets in the yellow container placed near some cookies?",
+      "modified": "Are the purple broccoli florets in the yellow container placed near some cookies?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Do the green broccoli florets in the yellow container look like a vegetable side?",
+      "modified": "Do the purple broccoli florets in the yellow container look like a vegetable side?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Are the green broccoli florets in the yellow container in the front section of the image?",
+      "modified": "Are the purple broccoli florets in the yellow container in the front section of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Do the green broccoli florets in the yellow container look moist or freshly cooked?",
+      "modified": "Do the purple broccoli florets in the yellow container look moist or freshly cooked?",
+      "false_premise": true
+    }
+  ]
+}

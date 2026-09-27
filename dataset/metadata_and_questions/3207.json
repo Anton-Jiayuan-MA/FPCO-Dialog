@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3207",
+    "source": "COCO",
+    "complexity": 3,
+    "category": 2,
+    "target": "bus"
+  },
+  "base": {
+    "target_description": "the blue double-decker bus",
+    "modified_target_description": "the blue double-decker train",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What route number is shown on the front of the blue double-decker bus?",
+      "modified": "What route number is shown on the front of the blue double-decker bus?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the blue double-decker bus driving on the right side of the yellow bus?",
+      "modified": "Is the blue double-decker bus driving on the right side of the yellow bus?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Can you see people through the front windows of the blue double-decker bus?",
+      "modified": "Can you see people through the front windows of the blue double-decker bus?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the blue double-decker bus facing toward the camera?",
+      "modified": "Is the blue double-decker train facing toward the camera?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "What destination is displayed above the windshield of the blue double-decker bus?",
+      "modified": "What destination is displayed above the windshield of the blue double-decker train?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the blue double-decker bus appear to be on a city street?",
+      "modified": "Does the blue double-decker train appear to be on a city street?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the blue double-decker bus closer to the right edge of the image?",
+      "modified": "Is the blue double-decker train closer to the right edge of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the blue double-decker bus look like it is moving or stopped?",
+      "modified": "Does the blue double-decker train look like it is moving or stopped?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Can you read the license plate on the blue double-decker bus?",
+      "modified": "Can you read the license plate on the blue double-decker train?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the blue double-decker bus next to another double-decker bus?",
+      "modified": "Is the blue double-decker train next to another double-decker bus?",
+      "false_premise": true
+    }
+  ]
+}

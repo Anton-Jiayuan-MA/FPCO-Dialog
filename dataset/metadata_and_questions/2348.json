@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2348",
+    "source": "COCO",
+    "complexity": 2,
+    "category": 3,
+    "target": "horse"
+  },
+  "base": {
+    "target_description": "the white horse on the path",
+    "modified_target_description": "the black horse on the path",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the white horse on the path being ridden by people?",
+      "modified": "Is the white horse on the path being ridden by people?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the white horse on the path moving away from the camera?",
+      "modified": "Is the white horse on the path moving away from the camera?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Can you see the white horse on the path from behind?",
+      "modified": "Can you see the white horse on the path from behind?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the white horse on the path appear to be walking along a dusty track?",
+      "modified": "Does the black horse on the path appear to be walking along a dusty track?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the white horse on the path carrying two riders?",
+      "modified": "Is the black horse on the path carrying two riders?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the white horse on the path in the foreground of the image?",
+      "modified": "Is the black horse on the path in the foreground of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the white horse on the path have its tail visible?",
+      "modified": "Does the black horse on the path have its tail visible?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the white horse on the path surrounded by grazing cows in the field?",
+      "modified": "Is the black horse on the path surrounded by grazing cows in the field?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the white horse on the path seem to be traveling through an open area?",
+      "modified": "Does the black horse on the path seem to be traveling through an open area?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the white horse on the path centered near the lower middle of the image?",
+      "modified": "Is the black horse on the path centered near the lower middle of the image?",
+      "false_premise": true
+    }
+  ]
+}

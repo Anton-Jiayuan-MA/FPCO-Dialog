@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3470",
+    "source": "COCO",
+    "complexity": 3,
+    "category": 4,
+    "target": "sandwich"
+  },
+  "base": {
+    "target_description": "the chicken sandwich on a white plate",
+    "modified_target_description": "the chicken sandwich beside the salad",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What kind of bread is used for the chicken sandwich on a white plate?",
+      "modified": "What kind of bread is used for the chicken sandwich on a white plate?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the chicken sandwich on a white plate look like it is served hot?",
+      "modified": "Does the chicken sandwich on a white plate look like it is served hot?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the chicken sandwich on a white plate cut in half or served whole?",
+      "modified": "Is the chicken sandwich on a white plate cut in half or served whole?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "What filling is visible inside the chicken sandwich on a white plate?",
+      "modified": "What filling is visible inside the chicken sandwich beside the salad?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the chicken sandwich on a white plate have a toothpick holding it together?",
+      "modified": "Does the chicken sandwich beside the salad have a toothpick holding it together?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the chicken sandwich on a white plate placed next to a salad?",
+      "modified": "Is the chicken sandwich beside the salad placed next to a salad?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the chicken sandwich on a white plate look larger than the salad beside it?",
+      "modified": "Does the chicken sandwich beside the salad look larger than the salad beside it?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the top bun of the chicken sandwich on a white plate slightly lifted up?",
+      "modified": "Is the top bun of the chicken sandwich beside the salad slightly lifted up?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the chicken sandwich on a white plate appear to have melted cheese on it?",
+      "modified": "Does the chicken sandwich beside the salad appear to have melted cheese on it?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Would you say the chicken sandwich on a white plate looks freshly served?",
+      "modified": "Would you say the chicken sandwich beside the salad looks freshly served?",
+      "false_premise": true
+    }
+  ]
+}

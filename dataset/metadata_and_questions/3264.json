@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3264",
+    "source": "Open Images",
+    "complexity": 3,
+    "category": 2,
+    "target": "car"
+  },
+  "base": {
+    "target_description": "the black car in the foreground",
+    "modified_target_description": "the black car in the background",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the black car in the foreground parked in the lot?",
+      "modified": "Is the black car in the foreground parked in the lot?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the black car in the foreground facing toward the right side of the image?",
+      "modified": "Is the black car in the foreground facing toward the right side of the image?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the black car in the foreground appear closer to the cyclists than the hotel building?",
+      "modified": "Does the black car in the foreground appear closer to the cyclists than the hotel building?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the black car in the foreground positioned near the bottom right area of the scene?",
+      "modified": "Is the black car in the background positioned near the bottom right area of the scene?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the black car in the foreground look like an older model car?",
+      "modified": "Does the black car in the background look like an older model car?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the black car in the foreground separated from the nearby parked cars by some open pavement?",
+      "modified": "Is the black car in the background separated from the nearby parked cars by some open pavement?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Can you see the side of the black car in the foreground more clearly than its front?",
+      "modified": "Can you see the side of the black car in the background more clearly than its front?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the black car in the foreground darker than most of the nearby vehicles?",
+      "modified": "Is the black car in the background darker than most of the nearby vehicles?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the black car in the foreground appear to be alone rather than in a tight row of cars?",
+      "modified": "Does the black car in the background appear to be alone rather than in a tight row of cars?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the black car in the foreground located in front of the restaurant area with the green roof?",
+      "modified": "Is the black car in the background located in front of the restaurant area with the green roof?",
+      "false_premise": true
+    }
+  ]
+}

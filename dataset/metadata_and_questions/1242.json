@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1242",
+    "source": "COCO",
+    "complexity": 1,
+    "category": 2,
+    "target": "airplane"
+  },
+  "base": {
+    "target_description": "the white Ukraine International airplane",
+    "modified_target_description": "the black Ukraine International airplane",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the white Ukraine International airplane parked on the tarmac?",
+      "modified": "Is the white Ukraine International airplane parked on the tarmac?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the white Ukraine International airplane look like it is getting ready for takeoff?",
+      "modified": "Does the white Ukraine International airplane look like it is getting ready for takeoff?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the white Ukraine International airplane facing toward the right side of the image?",
+      "modified": "Is the white Ukraine International airplane facing toward the right side of the image?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Can you see the landing gear on the white Ukraine International airplane?",
+      "modified": "Can you see the landing gear on the black Ukraine International airplane?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the white Ukraine International airplane have its engines visible from this angle?",
+      "modified": "Does the black Ukraine International airplane have its engines visible from this angle?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the white Ukraine International airplane the main subject of the scene?",
+      "modified": "Is the black Ukraine International airplane the main subject of the scene?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the white Ukraine International airplane appear to be at an airport?",
+      "modified": "Does the black Ukraine International airplane appear to be at an airport?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the white Ukraine International airplane positioned under a dark cloudy sky?",
+      "modified": "Is the black Ukraine International airplane positioned under a dark cloudy sky?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Can you clearly read branding on the white Ukraine International airplane?",
+      "modified": "Can you clearly read branding on the black Ukraine International airplane?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the white Ukraine International airplane shown from the side?",
+      "modified": "Is the black Ukraine International airplane shown from the side?",
+      "false_premise": true
+    }
+  ]
+}

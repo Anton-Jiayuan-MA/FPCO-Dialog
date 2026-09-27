@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1203",
+    "source": "Open Images",
+    "complexity": 1,
+    "category": 2,
+    "target": "truck"
+  },
+  "base": {
+    "target_description": "the red and white ladder truck",
+    "modified_target_description": "the red and white ladder car",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the red and white ladder truck parked outside a building?",
+      "modified": "Is the red and white ladder truck parked outside a building?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the red and white ladder truck have its ladder extended over the top?",
+      "modified": "Does the red and white ladder truck have its ladder extended over the top?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the red and white ladder truck facing toward the right side of the image?",
+      "modified": "Is the red and white ladder truck facing toward the right side of the image?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Can you see multiple wheels on the red and white ladder truck?",
+      "modified": "Can you see multiple wheels on the red and white ladder car?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the red and white ladder truck a fire rescue vehicle?",
+      "modified": "Is the red and white ladder car a fire rescue vehicle?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the red and white ladder truck appear clean and polished?",
+      "modified": "Does the red and white ladder car appear clean and polished?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the red and white ladder truck sitting on a paved driveway?",
+      "modified": "Is the red and white ladder car sitting on a paved driveway?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Can you read markings or lettering on the red and white ladder truck?",
+      "modified": "Can you read markings or lettering on the red and white ladder car?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the red and white ladder truck look large and heavy-duty?",
+      "modified": "Does the red and white ladder car look large and heavy-duty?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the red and white ladder truck positioned near some grass and trees?",
+      "modified": "Is the red and white ladder car positioned near some grass and trees?",
+      "false_premise": true
+    }
+  ]
+}

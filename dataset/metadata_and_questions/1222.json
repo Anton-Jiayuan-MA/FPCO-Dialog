@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1222",
+    "source": "COCO",
+    "complexity": 1,
+    "category": 2,
+    "target": "bicycle"
+  },
+  "base": {
+    "target_description": "the vintage bicycle with a brown seat",
+    "modified_target_description": "the vintage motorcycle with a brown seat",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the vintage bicycle with a brown seat parked on a paved surface?",
+      "modified": "Is the vintage bicycle with a brown seat parked on a paved surface?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the vintage bicycle with a brown seat have a large front wheel visible?",
+      "modified": "Does the vintage bicycle with a brown seat have a large front wheel visible?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the vintage bicycle with a brown seat facing toward the left side of the image?",
+      "modified": "Is the vintage bicycle with a brown seat facing toward the left side of the image?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the vintage bicycle with a brown seat appear to be standing still?",
+      "modified": "Does the vintage motorcycle with a brown seat appear to be standing still?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Can you see the handlebars of the vintage bicycle with a brown seat clearly?",
+      "modified": "Can you see the handlebars of the vintage motorcycle with a brown seat clearly?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the vintage bicycle with a brown seat positioned close to another vehicle?",
+      "modified": "Is the vintage motorcycle with a brown seat positioned close to another vehicle?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the vintage bicycle with a brown seat have a black front tire?",
+      "modified": "Does the vintage motorcycle with a brown seat have a black front tire?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the vintage bicycle with a brown seat shown outdoors?",
+      "modified": "Is the vintage motorcycle with a brown seat shown outdoors?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Can you see mechanical parts attached to the frame of the vintage bicycle with a brown seat?",
+      "modified": "Can you see mechanical parts attached to the frame of the vintage motorcycle with a brown seat?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the vintage bicycle with a brown seat the main vehicle in the image?",
+      "modified": "Is the vintage motorcycle with a brown seat the main vehicle in the image?",
+      "false_premise": true
+    }
+  ]
+}

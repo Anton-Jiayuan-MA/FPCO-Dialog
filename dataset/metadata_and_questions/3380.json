@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3380",
+    "source": "Open Images",
+    "complexity": 3,
+    "category": 3,
+    "target": "horse"
+  },
+  "base": {
+    "target_description": "the black horse with a long mane",
+    "modified_target_description": "the black horse with a long mane on the right",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the black horse with a long mane doing in the grass?",
+      "modified": "What is the black horse with a long mane doing in the grass?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the black horse with a long mane standing still or moving?",
+      "modified": "Is the black horse with a long mane standing still or moving?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the black horse with a long mane have its head lowered?",
+      "modified": "Does the black horse with a long mane have its head lowered?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the black horse with a long mane grazing in the field?",
+      "modified": "Is the black horse with a long mane on the right grazing in the field?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "What is near the black horse with a long mane?",
+      "modified": "What is near the black horse with a long mane on the right?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the black horse with a long mane wearing a halter?",
+      "modified": "Is the black horse with a long mane on the right wearing a halter?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Which direction is the black horse with a long mane facing?",
+      "modified": "Which direction is the black horse with a long mane on the right facing?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the black horse with a long mane alone or beside another horse?",
+      "modified": "Is the black horse with a long mane on the right alone or beside another horse?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the black horse with a long mane appear larger than the nearby foal?",
+      "modified": "Does the black horse with a long mane on the right appear larger than the nearby foal?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the black horse with a long mane out in an open grassy area?",
+      "modified": "Is the black horse with a long mane on the right out in an open grassy area?",
+      "false_premise": true
+    }
+  ]
+}

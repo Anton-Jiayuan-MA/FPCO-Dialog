@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3374",
+    "source": "Open Images",
+    "complexity": 3,
+    "category": 3,
+    "target": "horse"
+  },
+  "base": {
+    "target_description": "the black horse in front",
+    "modified_target_description": "the black horse in back",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the black horse in front running on a racetrack?",
+      "modified": "Is the black horse in front running on a racetrack?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the black horse in front have a jockey riding it?",
+      "modified": "Does the black horse in front have a jockey riding it?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the black horse in front ahead of the other horses?",
+      "modified": "Is the black horse in front ahead of the other horses?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the black horse in front moving quickly in the scene?",
+      "modified": "Is the black horse in back moving quickly in the scene?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the black horse in front appear to be part of a horse race?",
+      "modified": "Does the black horse in back appear to be part of a horse race?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the black horse in front on muddy ground?",
+      "modified": "Is the black horse in back on muddy ground?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the black horse in front have all four legs off the ground at this moment?",
+      "modified": "Does the black horse in back have all four legs off the ground at this moment?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the black horse in front wearing racing gear?",
+      "modified": "Is the black horse in back wearing racing gear?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the black horse in front facing toward the right side of the image?",
+      "modified": "Is the black horse in back facing toward the right side of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the black horse in front look like it is leading the pack?",
+      "modified": "Does the black horse in back look like it is leading the pack?",
+      "false_premise": true
+    }
+  ]
+}

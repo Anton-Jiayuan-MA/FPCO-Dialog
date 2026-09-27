@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1417",
+    "source": "Open Images",
+    "complexity": 1,
+    "category": 4,
+    "target": "noodles"
+  },
+  "base": {
+    "target_description": "the cooked noodles in a black pan",
+    "modified_target_description": "the cooked pasta in a black pan",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Are the cooked noodles in a black pan being stirred or tossed?",
+      "modified": "Are the cooked noodles in a black pan being stirred or tossed?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Do the cooked noodles in a black pan look freshly cooked?",
+      "modified": "Do the cooked noodles in a black pan look freshly cooked?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Are the cooked noodles in a black pan mixed with vegetables?",
+      "modified": "Are the cooked noodles in a black pan mixed with vegetables?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Do the cooked noodles in a black pan appear dry or saucy?",
+      "modified": "Do the cooked pasta in a black pan appear dry or saucy?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Are the cooked noodles in a black pan spread out or piled up?",
+      "modified": "Are the cooked pasta in a black pan spread out or piled up?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Do the cooked noodles in a black pan look hot?",
+      "modified": "Do the cooked pasta in a black pan look hot?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Are the cooked noodles in a black pan filling most of the pan?",
+      "modified": "Are the cooked pasta in a black pan filling most of the pan?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Do the cooked noodles in a black pan have any visible garnish or seasoning?",
+      "modified": "Do the cooked pasta in a black pan have any visible garnish or seasoning?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Are the cooked noodles in a black pan being prepared for serving?",
+      "modified": "Are the cooked pasta in a black pan being prepared for serving?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is there a utensil touching the cooked noodles in a black pan?",
+      "modified": "Is there a utensil touching the cooked pasta in a black pan?",
+      "false_premise": true
+    }
+  ]
+}

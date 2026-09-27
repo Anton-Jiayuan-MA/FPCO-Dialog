@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3485",
+    "source": "Open Images",
+    "complexity": 3,
+    "category": 4,
+    "target": "coffee beans"
+  },
+  "base": {
+    "target_description": "the roasted coffee beans in a bag",
+    "modified_target_description": "the roasted coffee beans on the right",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Are the roasted coffee beans in a bag filling most of the opening?",
+      "modified": "Are the roasted coffee beans in a bag filling most of the opening?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Do the roasted coffee beans in a bag look dark brown?",
+      "modified": "Do the roasted coffee beans in a bag look dark brown?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Are the roasted coffee beans in a bag whole rather than ground?",
+      "modified": "Are the roasted coffee beans in a bag whole rather than ground?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Do the roasted coffee beans in a bag appear shiny or matte?",
+      "modified": "Do the roasted coffee beans on the right appear shiny or matte?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Are the roasted coffee beans in a bag packed closely together?",
+      "modified": "Are the roasted coffee beans on the right packed closely together?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Can you see the roasted coffee beans in a bag from above?",
+      "modified": "Can you see the roasted coffee beans on the right from above?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Do the roasted coffee beans in a bag look freshly roasted?",
+      "modified": "Do the roasted coffee beans on the right look freshly roasted?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Are the roasted coffee beans in a bag inside an opened package?",
+      "modified": "Are the roasted coffee beans on the right inside an opened package?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Do the roasted coffee beans in a bag take up nearly the entire visible space inside the bag?",
+      "modified": "Do the roasted coffee beans on the right take up nearly the entire visible space inside the bag?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Are the roasted coffee beans in a bag the main focus of the image?",
+      "modified": "Are the roasted coffee beans on the right the main focus of the image?",
+      "false_premise": true
+    }
+  ]
+}

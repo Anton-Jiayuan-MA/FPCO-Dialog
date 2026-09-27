@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2304",
+    "source": "COCO",
+    "complexity": 2,
+    "category": 3,
+    "target": "elephant"
+  },
+  "base": {
+    "target_description": "the elephant on the left with long tusks",
+    "modified_target_description": "the giraffe on the left with long tusks",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the elephant on the left with long tusks doing in the scene?",
+      "modified": "What is the elephant on the left with long tusks doing in the scene?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the elephant on the left with long tusks facing another elephant?",
+      "modified": "Is the elephant on the left with long tusks facing another elephant?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the elephant on the left with long tusks appear to be walking forward?",
+      "modified": "Does the elephant on the left with long tusks appear to be walking forward?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Are the tusks of the elephant on the left with long tusks clearly visible?",
+      "modified": "Are the tusks of the giraffe on the left with long tusks clearly visible?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the elephant on the left with long tusks standing on dry ground?",
+      "modified": "Is the giraffe on the left with long tusks standing on dry ground?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the elephant on the left with long tusks look larger than the other elephant?",
+      "modified": "Does the giraffe on the left with long tusks look larger than the other elephant?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the elephant on the left with long tusks near a pile of branches?",
+      "modified": "Is the giraffe on the left with long tusks near a pile of branches?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Can you see the trunk of the elephant on the left with long tusks hanging down?",
+      "modified": "Can you see the trunk of the giraffe on the left with long tusks hanging down?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the elephant on the left with long tusks out in an open, scrubby area?",
+      "modified": "Is the giraffe on the left with long tusks out in an open, scrubby area?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the elephant on the left with long tusks seem close to the other elephant?",
+      "modified": "Does the giraffe on the left with long tusks seem close to the other elephant?",
+      "false_premise": true
+    }
+  ]
+}

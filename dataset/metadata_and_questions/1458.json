@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1458",
+    "source": "Open Images",
+    "complexity": 1,
+    "category": 4,
+    "target": "bread"
+  },
+  "base": {
+    "target_description": "the round loaf of bread",
+    "modified_target_description": "the square loaf of bread",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the round loaf of bread sitting on a table?",
+      "modified": "Is the round loaf of bread sitting on a table?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the round loaf of bread have a crusty exterior?",
+      "modified": "Does the round loaf of bread have a crusty exterior?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the round loaf of bread broken open at the top?",
+      "modified": "Is the round loaf of bread broken open at the top?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the round loaf of bread look freshly baked?",
+      "modified": "Does the square loaf of bread look freshly baked?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the round loaf of bread in the foreground of the image?",
+      "modified": "Is the square loaf of bread in the foreground of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the round loaf of bread have flour dusted on the outside?",
+      "modified": "Does the square loaf of bread have flour dusted on the outside?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the round loaf of bread the main focus of the photo?",
+      "modified": "Is the square loaf of bread the main focus of the photo?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the round loaf of bread appear large in size?",
+      "modified": "Does the square loaf of bread appear large in size?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the round loaf of bread shown close up?",
+      "modified": "Is the square loaf of bread shown close up?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the round loaf of bread have a dark golden-brown crust?",
+      "modified": "Does the square loaf of bread have a dark golden-brown crust?",
+      "false_premise": true
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2346",
+    "source": "COCO",
+    "complexity": 2,
+    "category": 3,
+    "target": "giraffe"
+  },
+  "base": {
+    "target_description": "the tall giraffe under the trees",
+    "modified_target_description": "the short giraffe under the trees",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the tall giraffe under the trees doing with its neck?",
+      "modified": "What is the tall giraffe under the trees doing with its neck?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the tall giraffe under the trees standing still or walking?",
+      "modified": "Is the tall giraffe under the trees standing still or walking?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the tall giraffe under the trees appear closer to the camera than the other giraffe?",
+      "modified": "Does the tall giraffe under the trees appear closer to the camera than the other giraffe?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "What color patterns are visible on the tall giraffe under the trees?",
+      "modified": "What color patterns are visible on the short giraffe under the trees?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the tall giraffe under the trees reaching up toward the branches?",
+      "modified": "Is the short giraffe under the trees reaching up toward the branches?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Which direction is the tall giraffe under the trees facing?",
+      "modified": "Which direction is the short giraffe under the trees facing?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Are all four legs of the tall giraffe under the trees visible in the image?",
+      "modified": "Are all four legs of the short giraffe under the trees visible in the image?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the tall giraffe under the trees partly shaded by the branches above?",
+      "modified": "Is the short giraffe under the trees partly shaded by the branches above?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the tall giraffe under the trees have its head near the top of the image?",
+      "modified": "Does the short giraffe under the trees have its head near the top of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the tall giraffe under the trees the most prominent animal in the scene?",
+      "modified": "Is the short giraffe under the trees the most prominent animal in the scene?",
+      "false_premise": true
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2430",
+    "source": "Open Images",
+    "complexity": 2,
+    "category": 4,
+    "target": "apple"
+  },
+  "base": {
+    "target_description": "the green apples floating in water",
+    "modified_target_description": "the green pears floating in water",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "How many of the green apples floating in water are visible in the image?",
+      "modified": "How many of the green apples floating in water are visible in the image?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Are the green apples floating in water packed closely together or spread far apart?",
+      "modified": "Are the green apples floating in water packed closely together or spread far apart?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Do the green apples floating in water look freshly washed?",
+      "modified": "Do the green apples floating in water look freshly washed?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Are the green apples floating in water inside some kind of processing tank?",
+      "modified": "Are the green pears floating in water inside some kind of processing tank?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Do the green apples floating in water mostly appear to be the same color?",
+      "modified": "Do the green pears floating in water mostly appear to be the same color?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Can you see stems on many of the green apples floating in water?",
+      "modified": "Can you see stems on many of the green pears floating in water?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Do the green apples floating in water fill most of the scene?",
+      "modified": "Do the green pears floating in water fill most of the scene?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Are the green apples floating in water arranged in loose rows?",
+      "modified": "Are the green pears floating in water arranged in loose rows?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Do the green apples floating in water look shiny from being wet?",
+      "modified": "Do the green pears floating in water look shiny from being wet?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Are the green apples floating in water in an indoor facility?",
+      "modified": "Are the green pears floating in water in an indoor facility?",
+      "false_premise": true
+    }
+  ]
+}

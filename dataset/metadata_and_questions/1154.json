@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1154",
+    "source": "Open Images",
+    "complexity": 1,
+    "category": 1,
+    "target": "man"
+  },
+  "base": {
+    "target_description": "the man in a dark hoodie by the railing",
+    "modified_target_description": "the man in a light hoodie by the railing",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the man in a dark hoodie by the railing standing outdoors?",
+      "modified": "Is the man in a dark hoodie by the railing standing outdoors?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "What is the man in a dark hoodie by the railing leaning on?",
+      "modified": "What is the man in a dark hoodie by the railing leaning on?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the man in a dark hoodie by the railing appear to be smiling?",
+      "modified": "Does the man in a dark hoodie by the railing appear to be smiling?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the man in a dark hoodie by the railing facing the camera?",
+      "modified": "Is the man in a light hoodie by the railing facing the camera?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "What is behind the man in a dark hoodie by the railing?",
+      "modified": "What is behind the man in a light hoodie by the railing?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the man in a dark hoodie by the railing standing near a large crater?",
+      "modified": "Is the man in a light hoodie by the railing standing near a large crater?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the man in a dark hoodie by the railing have one hand on the railing?",
+      "modified": "Does the man in a light hoodie by the railing have one hand on the railing?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the man in a dark hoodie by the railing wearing long pants?",
+      "modified": "Is the man in a light hoodie by the railing wearing long pants?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the man in a dark hoodie by the railing look like he is posing for a photo?",
+      "modified": "Does the man in a light hoodie by the railing look like he is posing for a photo?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the man in a dark hoodie by the railing at a scenic overlook?",
+      "modified": "Is the man in a light hoodie by the railing at a scenic overlook?",
+      "false_premise": true
+    }
+  ]
+}

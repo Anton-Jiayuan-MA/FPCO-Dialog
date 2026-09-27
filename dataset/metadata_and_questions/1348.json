@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1348",
+    "source": "Open Images",
+    "complexity": 1,
+    "category": 3,
+    "target": "dog"
+  },
+  "base": {
+    "target_description": "the small white fluffy dog",
+    "modified_target_description": "the small black fluffy dog",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the small white fluffy dog walking on?",
+      "modified": "What is the small white fluffy dog walking on?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the small white fluffy dog facing toward the camera?",
+      "modified": "Is the small white fluffy dog facing toward the camera?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the small white fluffy dog have its tongue sticking out?",
+      "modified": "Does the small white fluffy dog have its tongue sticking out?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the small white fluffy dog outdoors in this scene?",
+      "modified": "Is the small black fluffy dog outdoors in this scene?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the small white fluffy dog appear to be moving forward?",
+      "modified": "Does the small black fluffy dog appear to be moving forward?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Are all four paws of the small white fluffy dog on the wooden surface?",
+      "modified": "Are all four paws of the small black fluffy dog on the wooden surface?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the tail of the small white fluffy dog raised up?",
+      "modified": "Is the tail of the small black fluffy dog raised up?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the small white fluffy dog look clean and well-groomed?",
+      "modified": "Does the small black fluffy dog look clean and well-groomed?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the small white fluffy dog the main focus of the image?",
+      "modified": "Is the small black fluffy dog the main focus of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the small white fluffy dog appear relaxed or playful?",
+      "modified": "Does the small black fluffy dog appear relaxed or playful?",
+      "false_premise": true
+    }
+  ]
+}

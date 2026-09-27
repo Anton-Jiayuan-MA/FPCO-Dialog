@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1357",
+    "source": "Open Images",
+    "complexity": 1,
+    "category": 3,
+    "target": "crocodile"
+  },
+  "base": {
+    "target_description": "the dark crocodile on the grass behind a fence",
+    "modified_target_description": "the light crocodile on the grass behind a fence",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the dark crocodile on the grass behind a fence lying down?",
+      "modified": "Is the dark crocodile on the grass behind a fence lying down?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the dark crocodile on the grass behind a fence look still or active?",
+      "modified": "Does the dark crocodile on the grass behind a fence look still or active?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the dark crocodile on the grass behind a fence in an enclosed area?",
+      "modified": "Is the dark crocodile on the grass behind a fence in an enclosed area?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Can you see the dark crocodile on the grass behind a fence from the side?",
+      "modified": "Can you see the light crocodile on the grass behind a fence from the side?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the dark crocodile on the grass behind a fence resting in the sunlight?",
+      "modified": "Is the light crocodile on the grass behind a fence resting in the sunlight?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the dark crocodile on the grass behind a fence have its mouth closed?",
+      "modified": "Does the light crocodile on the grass behind a fence have its mouth closed?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the dark crocodile on the grass behind a fence stretched out on the ground?",
+      "modified": "Is the light crocodile on the grass behind a fence stretched out on the ground?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Can you clearly see the rough skin of the dark crocodile on the grass behind a fence?",
+      "modified": "Can you clearly see the rough skin of the light crocodile on the grass behind a fence?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the head of the dark crocodile on the grass behind a fence facing to the right?",
+      "modified": "Is the head of the light crocodile on the grass behind a fence facing to the right?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the dark crocodile on the grass behind a fence appear to be alone?",
+      "modified": "Does the light crocodile on the grass behind a fence appear to be alone?",
+      "false_premise": true
+    }
+  ]
+}

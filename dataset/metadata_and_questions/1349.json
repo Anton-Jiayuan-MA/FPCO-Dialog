@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1349",
+    "source": "Open Images",
+    "complexity": 1,
+    "category": 3,
+    "target": "cat"
+  },
+  "base": {
+    "target_description": "the brown tabby cat with its mouth open",
+    "modified_target_description": "the black tabby cat with its mouth open",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the brown tabby cat with its mouth open standing on?",
+      "modified": "What is the brown tabby cat with its mouth open standing on?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the brown tabby cat with its mouth open stretching its front paws forward?",
+      "modified": "Is the brown tabby cat with its mouth open stretching its front paws forward?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the brown tabby cat with its mouth open look like it is hissing or yawning?",
+      "modified": "Does the brown tabby cat with its mouth open look like it is hissing or yawning?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Are the claws of the brown tabby cat with its mouth open visible in the image?",
+      "modified": "Are the claws of the black tabby cat with its mouth open visible in the image?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the brown tabby cat with its mouth open indoors?",
+      "modified": "Is the black tabby cat with its mouth open indoors?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "What color are the eyes of the brown tabby cat with its mouth open?",
+      "modified": "What color are the eyes of the black tabby cat with its mouth open?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the brown tabby cat with its mouth open facing toward the camera?",
+      "modified": "Is the black tabby cat with its mouth open facing toward the camera?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the brown tabby cat with its mouth open have long whiskers?",
+      "modified": "Does the black tabby cat with its mouth open have long whiskers?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the tail of the brown tabby cat with its mouth open raised up?",
+      "modified": "Is the tail of the black tabby cat with its mouth open raised up?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the brown tabby cat with its mouth open appear calm or aggressive?",
+      "modified": "Does the black tabby cat with its mouth open appear calm or aggressive?",
+      "false_premise": true
+    }
+  ]
+}

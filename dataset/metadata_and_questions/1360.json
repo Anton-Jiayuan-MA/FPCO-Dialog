@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1360",
+    "source": "Open Images",
+    "complexity": 1,
+    "category": 3,
+    "target": "insect"
+  },
+  "base": {
+    "target_description": "the orange ant on a flower",
+    "modified_target_description": "the black ant on a flower",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the orange ant on a flower shown in a close-up view?",
+      "modified": "Is the orange ant on a flower shown in a close-up view?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the orange ant on a flower appear to be climbing across the petals?",
+      "modified": "Does the orange ant on a flower appear to be climbing across the petals?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Can you clearly see the legs of the orange ant on a flower?",
+      "modified": "Can you clearly see the legs of the orange ant on a flower?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the orange ant on a flower facing toward the left side of the image?",
+      "modified": "Is the black ant on a flower facing toward the left side of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the orange ant on a flower have a shiny body?",
+      "modified": "Does the black ant on a flower have a shiny body?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Are the antennae of the orange ant on a flower visible in the shot?",
+      "modified": "Are the antennae of the black ant on a flower visible in the shot?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the orange ant on a flower the main focus of the image?",
+      "modified": "Is the black ant on a flower the main focus of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the orange ant on a flower look sharp while the background is blurred?",
+      "modified": "Does the black ant on a flower look sharp while the background is blurred?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the orange ant on a flower standing on pale-colored petals?",
+      "modified": "Is the black ant on a flower standing on pale-colored petals?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Can you see the head and eyes of the orange ant on a flower clearly?",
+      "modified": "Can you see the head and eyes of the black ant on a flower clearly?",
+      "false_premise": true
+    }
+  ]
+}

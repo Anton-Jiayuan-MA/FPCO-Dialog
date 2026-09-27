@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2260",
+    "source": "Open Images",
+    "complexity": 2,
+    "category": 2,
+    "target": "car"
+  },
+  "base": {
+    "target_description": "the silver car parked by the curb",
+    "modified_target_description": "the red car parked by the curb",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the silver car parked by the curb facing toward the camera?",
+      "modified": "Is the silver car parked by the curb facing toward the camera?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the silver car parked by the curb appear to be stationary?",
+      "modified": "Does the silver car parked by the curb appear to be stationary?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the silver car parked by the curb on the left side of the street?",
+      "modified": "Is the silver car parked by the curb on the left side of the street?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Can you see the front of the silver car parked by the curb?",
+      "modified": "Can you see the front of the red car parked by the curb?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the silver car parked by the curb close to the sidewalk?",
+      "modified": "Is the red car parked by the curb close to the sidewalk?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the silver car parked by the curb have its headlights visible?",
+      "modified": "Does the red car parked by the curb have its headlights visible?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the silver car parked by the curb in front of a brick wall?",
+      "modified": "Is the red car parked by the curb in front of a brick wall?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the silver car parked by the curb look like a small hatchback?",
+      "modified": "Does the red car parked by the curb look like a small hatchback?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the silver car parked by the curb positioned near a street sign?",
+      "modified": "Is the red car parked by the curb positioned near a street sign?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the silver car parked by the curb along a residential street?",
+      "modified": "Is the red car parked by the curb along a residential street?",
+      "false_premise": true
+    }
+  ]
+}

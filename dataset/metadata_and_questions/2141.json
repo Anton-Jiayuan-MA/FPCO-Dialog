@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2141",
+    "source": "Open Images",
+    "complexity": 2,
+    "category": 1,
+    "target": "woman"
+  },
+  "base": {
+    "target_description": "the woman in the white shirt and glasses",
+    "modified_target_description": "the woman in the black shirt and glasses",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the woman in the white shirt and glasses sitting at a table?",
+      "modified": "Is the woman in the white shirt and glasses sitting at a table?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the woman in the white shirt and glasses looking toward the man in the hat?",
+      "modified": "Is the woman in the white shirt and glasses looking toward the man in the hat?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the woman in the white shirt and glasses appear to be talking?",
+      "modified": "Does the woman in the white shirt and glasses appear to be talking?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the woman in the white shirt and glasses indoors?",
+      "modified": "Is the woman in the black shirt and glasses indoors?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the woman in the white shirt and glasses have one hand raised near her neck?",
+      "modified": "Does the woman in the black shirt and glasses have one hand raised near her neck?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the woman in the white shirt and glasses wearing earrings?",
+      "modified": "Is the woman in the black shirt and glasses wearing earrings?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the woman in the white shirt and glasses positioned on the left side of the image?",
+      "modified": "Is the woman in the black shirt and glasses positioned on the left side of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the woman in the white shirt and glasses seated beside a drink with a straw?",
+      "modified": "Is the woman in the black shirt and glasses seated beside a drink with a straw?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the woman in the white shirt and glasses seem engaged in conversation?",
+      "modified": "Does the woman in the black shirt and glasses seem engaged in conversation?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the woman in the white shirt and glasses facing to the right?",
+      "modified": "Is the woman in the black shirt and glasses facing to the right?",
+      "false_premise": true
+    }
+  ]
+}

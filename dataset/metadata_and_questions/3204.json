@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3204",
+    "source": "COCO",
+    "complexity": 3,
+    "category": 2,
+    "target": "boat"
+  },
+  "base": {
+    "target_description": "the red fishing boat by the dock",
+    "modified_target_description": "the red truck by the dock",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the red fishing boat by the dock floating on calm water?",
+      "modified": "Is the red fishing boat by the dock floating on calm water?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the red fishing boat by the dock appear to be moored at the pier?",
+      "modified": "Does the red fishing boat by the dock appear to be moored at the pier?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the red fishing boat by the dock facing toward the left side of the image?",
+      "modified": "Is the red fishing boat by the dock facing toward the left side of the image?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the red fishing boat by the dock have tall masts and rigging visible?",
+      "modified": "Does the red truck by the dock have tall masts and rigging visible?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the red fishing boat by the dock the closest boat to the camera?",
+      "modified": "Is the red truck by the dock the closest boat to the camera?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the red fishing boat by the dock look larger than the other boats nearby?",
+      "modified": "Does the red truck by the dock look larger than the other boats nearby?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the red fishing boat by the dock painted in bright colors?",
+      "modified": "Is the red truck by the dock painted in bright colors?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the red fishing boat by the dock seem to be docked in a harbor?",
+      "modified": "Does the red truck by the dock seem to be docked in a harbor?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Can you see reflections of the red fishing boat by the dock in the water?",
+      "modified": "Can you see reflections of the red truck by the dock in the water?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the red fishing boat by the dock positioned on the right side of the image?",
+      "modified": "Is the red truck by the dock positioned on the right side of the image?",
+      "false_premise": true
+    }
+  ]
+}

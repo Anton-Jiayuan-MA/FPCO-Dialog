@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2489",
+    "source": "Open Images",
+    "complexity": 2,
+    "category": 4,
+    "target": "meal"
+  },
+  "base": {
+    "target_description": "the meal on a white plate",
+    "modified_target_description": "the meal on the right",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What foods are included in the meal on a white plate?",
+      "modified": "What foods are included in the meal on a white plate?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the meal on a white plate look like it has more than one side dish?",
+      "modified": "Does the meal on a white plate look like it has more than one side dish?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the meal on a white plate served against a dark background?",
+      "modified": "Is the meal on a white plate served against a dark background?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the meal on a white plate include noodles?",
+      "modified": "Does the meal on the right include noodles?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Are there eggs as part of the meal on a white plate?",
+      "modified": "Are there eggs as part of the meal on the right?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the meal on a white plate appear freshly prepared?",
+      "modified": "Does the meal on the right appear freshly prepared?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the meal on a white plate arranged in separate portions?",
+      "modified": "Is the meal on the right arranged in separate portions?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the meal on a white plate include any fish?",
+      "modified": "Does the meal on the right include any fish?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Would you describe the meal on a white plate as a mixed plate of food?",
+      "modified": "Would you describe the meal on the right as a mixed plate of food?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the meal on a white plate shown from above?",
+      "modified": "Is the meal on the right shown from above?",
+      "false_premise": true
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1159",
+    "source": "Open Images",
+    "complexity": 1,
+    "category": 1,
+    "target": "man"
+  },
+  "base": {
+    "target_description": "the soldier in camouflage uniform and helmet",
+    "modified_target_description": "the soldier in formal uniform and helmet",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the soldier in camouflage uniform and helmet holding in his hand?",
+      "modified": "What is the soldier in camouflage uniform and helmet holding in his hand?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the soldier in camouflage uniform and helmet standing or sitting?",
+      "modified": "Is the soldier in camouflage uniform and helmet standing or sitting?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the soldier in camouflage uniform and helmet appear to be wearing protective gear?",
+      "modified": "Does the soldier in camouflage uniform and helmet appear to be wearing protective gear?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "What kind of expression does the soldier in camouflage uniform and helmet have?",
+      "modified": "What kind of expression does the soldier in formal uniform and helmet have?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the soldier in camouflage uniform and helmet positioned in front of a chain-link fence?",
+      "modified": "Is the soldier in formal uniform and helmet positioned in front of a chain-link fence?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the soldier in camouflage uniform and helmet have a backpack or gear strapped on?",
+      "modified": "Does the soldier in formal uniform and helmet have a backpack or gear strapped on?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the soldier in camouflage uniform and helmet looking toward the camera or away from it?",
+      "modified": "Is the soldier in formal uniform and helmet looking toward the camera or away from it?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "What is attached to the uniform of the soldier in camouflage uniform and helmet?",
+      "modified": "What is attached to the uniform of the soldier in formal uniform and helmet?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the soldier in camouflage uniform and helmet appear to be on duty?",
+      "modified": "Does the soldier in formal uniform and helmet appear to be on duty?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the soldier in camouflage uniform and helmet outdoors?",
+      "modified": "Is the soldier in formal uniform and helmet outdoors?",
+      "false_premise": true
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2445",
+    "source": "COCO",
+    "complexity": 2,
+    "category": 4,
+    "target": "cake"
+  },
+  "base": {
+    "target_description": "the brown loaf cake",
+    "modified_target_description": "the yellow loaf cake",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What shape is the brown loaf cake?",
+      "modified": "What shape is the brown loaf cake?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the brown loaf cake still in its baking paper?",
+      "modified": "Is the brown loaf cake still in its baking paper?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the brown loaf cake look homemade?",
+      "modified": "Does the brown loaf cake look homemade?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Where on the table is the brown loaf cake placed?",
+      "modified": "Where on the table is the yellow loaf cake placed?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the brown loaf cake appear sliced or whole?",
+      "modified": "Does the yellow loaf cake appear sliced or whole?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "What color is the brown loaf cake?",
+      "modified": "What color is the yellow loaf cake?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the brown loaf cake sitting on a plate?",
+      "modified": "Is the yellow loaf cake sitting on a plate?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the brown loaf cake look freshly baked?",
+      "modified": "Does the yellow loaf cake look freshly baked?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the brown loaf cake next to other dishes?",
+      "modified": "Is the yellow loaf cake next to other dishes?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Would you describe the brown loaf cake as dense-looking?",
+      "modified": "Would you describe the yellow loaf cake as dense-looking?",
+      "false_premise": true
+    }
+  ]
+}

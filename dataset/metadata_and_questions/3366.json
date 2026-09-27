@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3366",
+    "source": "Open Images",
+    "complexity": 3,
+    "category": 3,
+    "target": "cow"
+  },
+  "base": {
+    "target_description": "the dark brown cow grazing on the grass",
+    "modified_target_description": "the dark brown cow in the background",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the dark brown cow grazing on the grass doing in the scene?",
+      "modified": "What is the dark brown cow grazing on the grass doing in the scene?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the dark brown cow grazing on the grass standing with its head down?",
+      "modified": "Is the dark brown cow grazing on the grass standing with its head down?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "What color is the dark brown cow grazing on the grass?",
+      "modified": "What color is the dark brown cow grazing on the grass?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the dark brown cow grazing on the grass in a grassy field?",
+      "modified": "Is the dark brown cow in the background in a grassy field?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the dark brown cow grazing on the grass appear to be eating?",
+      "modified": "Does the dark brown cow in the background appear to be eating?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the dark brown cow grazing on the grass shown from the side?",
+      "modified": "Is the dark brown cow in the background shown from the side?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Are there other cows near the dark brown cow grazing on the grass?",
+      "modified": "Are there other cows near the dark brown cow in the background?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Can you see the tail of the dark brown cow grazing on the grass?",
+      "modified": "Can you see the tail of the dark brown cow in the background?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the dark brown cow grazing on the grass the closest cow to the camera?",
+      "modified": "Is the dark brown cow in the background the closest cow to the camera?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the dark brown cow grazing on the grass look like the main focus of the image?",
+      "modified": "Does the dark brown cow in the background look like the main focus of the image?",
+      "false_premise": true
+    }
+  ]
+}

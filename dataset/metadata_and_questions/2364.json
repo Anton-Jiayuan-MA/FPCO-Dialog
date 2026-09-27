@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2364",
+    "source": "Open Images",
+    "complexity": 2,
+    "category": 3,
+    "target": "cat"
+  },
+  "base": {
+    "target_description": "the gray and white cat on the right",
+    "modified_target_description": "the gray and white cat on the left",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the gray and white cat on the right looking off to the side?",
+      "modified": "Is the gray and white cat on the right looking off to the side?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the gray and white cat on the right have its eyes open?",
+      "modified": "Does the gray and white cat on the right have its eyes open?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the gray and white cat on the right sitting close to another cat?",
+      "modified": "Is the gray and white cat on the right sitting close to another cat?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Can you see the pink nose on the gray and white cat on the right?",
+      "modified": "Can you see the pink nose on the gray and white cat on the left?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Are the ears of the gray and white cat on the right upright?",
+      "modified": "Are the ears of the gray and white cat on the left upright?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the gray and white cat on the right appear calm?",
+      "modified": "Does the gray and white cat on the left appear calm?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the gray and white cat on the right facing slightly to the right?",
+      "modified": "Is the gray and white cat on the left facing slightly to the right?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Can you clearly see the whiskers on the gray and white cat on the right?",
+      "modified": "Can you clearly see the whiskers on the gray and white cat on the left?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the gray and white cat on the right indoors?",
+      "modified": "Is the gray and white cat on the left indoors?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the gray and white cat on the right have white fur on its chest?",
+      "modified": "Does the gray and white cat on the left have white fur on its chest?",
+      "false_premise": true
+    }
+  ]
+}

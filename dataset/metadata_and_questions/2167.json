@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2167",
+    "source": "COCO",
+    "complexity": 2,
+    "category": 1,
+    "target": "woman"
+  },
+  "base": {
+    "target_description": "the woman in a green shirt jumping",
+    "modified_target_description": "the woman in a green shirt on the left",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the woman in a green shirt jumping in the air?",
+      "modified": "Is the woman in a green shirt jumping in the air?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "What is the woman in a green shirt jumping holding in one hand?",
+      "modified": "What is the woman in a green shirt jumping holding in one hand?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the woman in a green shirt jumping smiling?",
+      "modified": "Is the woman in a green shirt jumping smiling?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the woman in a green shirt jumping appear to be higher off the ground than the others?",
+      "modified": "Does the woman in a green shirt on the left appear to be higher off the ground than the others?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the woman in a green shirt jumping facing toward the camera?",
+      "modified": "Is the woman in a green shirt on the left facing toward the camera?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "What color are the pants of the woman in a green shirt jumping?",
+      "modified": "What color are the pants of the woman in a green shirt on the left?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the woman in a green shirt jumping near the center of the group?",
+      "modified": "Is the woman in a green shirt on the left near the center of the group?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the woman in a green shirt jumping have one arm raised overhead?",
+      "modified": "Does the woman in a green shirt on the left have one arm raised overhead?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the woman in a green shirt jumping wearing glasses?",
+      "modified": "Is the woman in a green shirt on the left wearing glasses?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the woman in a green shirt jumping look like part of a group photo?",
+      "modified": "Does the woman in a green shirt on the left look like part of a group photo?",
+      "false_premise": true
+    }
+  ]
+}

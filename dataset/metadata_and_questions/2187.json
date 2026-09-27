@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2187",
+    "source": "COCO",
+    "complexity": 2,
+    "category": 1,
+    "target": "person"
+  },
+  "base": {
+    "target_description": "the woman in a white sweater at the counter",
+    "modified_target_description": "the woman in a white sweater on the right",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the woman in a white sweater at the counter doing?",
+      "modified": "What is the woman in a white sweater at the counter doing?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the woman in a white sweater at the counter using a laptop?",
+      "modified": "Is the woman in a white sweater at the counter using a laptop?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the woman in a white sweater at the counter appear to be sitting or standing?",
+      "modified": "Does the woman in a white sweater at the counter appear to be sitting or standing?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "What is in front of the woman in a white sweater at the counter?",
+      "modified": "What is in front of the woman in a white sweater on the right?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the woman in a white sweater at the counter looking down?",
+      "modified": "Is the woman in a white sweater on the right looking down?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the woman in a white sweater at the counter seem focused on her work?",
+      "modified": "Does the woman in a white sweater on the right seem focused on her work?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the woman in a white sweater at the counter near any papers or cables?",
+      "modified": "Is the woman in a white sweater on the right near any papers or cables?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Where is the woman in a white sweater at the counter positioned in the room?",
+      "modified": "Where is the woman in a white sweater on the right positioned in the room?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the woman in a white sweater at the counter beside another person?",
+      "modified": "Is the woman in a white sweater on the right beside another person?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "What kind of workspace is the woman in a white sweater at the counter using?",
+      "modified": "What kind of workspace is the woman in a white sweater on the right using?",
+      "false_premise": true
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3186",
+    "source": "COCO",
+    "complexity": 3,
+    "category": 1,
+    "target": "person"
+  },
+  "base": {
+    "target_description": "the tall baseball player on the right",
+    "modified_target_description": "the tall baseball player on the left",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the tall baseball player on the right doing in the scene?",
+      "modified": "What is the tall baseball player on the right doing in the scene?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the tall baseball player on the right standing or moving?",
+      "modified": "Is the tall baseball player on the right standing or moving?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "What is the tall baseball player on the right wearing?",
+      "modified": "What is the tall baseball player on the right wearing?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the tall baseball player on the right appear to be interacting with teammates?",
+      "modified": "Does the tall baseball player on the left appear to be interacting with teammates?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the tall baseball player on the right holding anything?",
+      "modified": "Is the tall baseball player on the left holding anything?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Where is the tall baseball player on the right positioned relative to the rest of the group?",
+      "modified": "Where is the tall baseball player on the left positioned relative to the rest of the group?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the tall baseball player on the right look engaged in the team moment?",
+      "modified": "Does the tall baseball player on the left look engaged in the team moment?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the tall baseball player on the right facing toward the center of the group?",
+      "modified": "Is the tall baseball player on the left facing toward the center of the group?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "What expression does the tall baseball player on the right seem to have?",
+      "modified": "What expression does the tall baseball player on the left seem to have?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the tall baseball player on the right one of the more clearly visible players in the image?",
+      "modified": "Is the tall baseball player on the left one of the more clearly visible players in the image?",
+      "false_premise": true
+    }
+  ]
+}

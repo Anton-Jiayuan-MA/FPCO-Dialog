@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2373",
+    "source": "Open Images",
+    "complexity": 2,
+    "category": 3,
+    "target": "cat"
+  },
+  "base": {
+    "target_description": "the white cat with black and orange spots",
+    "modified_target_description": "the white cat with black and orange spots on the right",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the white cat with black and orange spots curled up on the bed?",
+      "modified": "Is the white cat with black and orange spots curled up on the bed?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the white cat with black and orange spots look like it is resting?",
+      "modified": "Does the white cat with black and orange spots look like it is resting?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the white cat with black and orange spots positioned on the left side of the image?",
+      "modified": "Is the white cat with black and orange spots positioned on the left side of the image?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the white cat with black and orange spots lying close to another cat?",
+      "modified": "Is the white cat with black and orange spots on the right lying close to another cat?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Can you see the face of the white cat with black and orange spots clearly?",
+      "modified": "Can you see the face of the white cat with black and orange spots on the right clearly?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the white cat with black and orange spots appear to be asleep?",
+      "modified": "Does the white cat with black and orange spots on the right appear to be asleep?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the white cat with black and orange spots on top of a light-colored blanket?",
+      "modified": "Is the white cat with black and orange spots on the right on top of a light-colored blanket?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the white cat with black and orange spots have its body tucked into a tight circle?",
+      "modified": "Does the white cat with black and orange spots on the right have its body tucked into a tight circle?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the white cat with black and orange spots facing downward in the picture?",
+      "modified": "Is the white cat with black and orange spots on the right facing downward in the picture?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the white cat with black and orange spots seem calm and still?",
+      "modified": "Does the white cat with black and orange spots on the right seem calm and still?",
+      "false_premise": true
+    }
+  ]
+}

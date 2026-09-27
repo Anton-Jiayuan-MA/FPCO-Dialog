@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2375",
+    "source": "Open Images",
+    "complexity": 2,
+    "category": 3,
+    "target": "rabbit"
+  },
+  "base": {
+    "target_description": "the small brown rabbit on the grass",
+    "modified_target_description": "the small brown rabbit on the right",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the small brown rabbit on the grass facing toward the right side of the image?",
+      "modified": "Is the small brown rabbit on the grass facing toward the right side of the image?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the small brown rabbit on the grass appear to be sitting still?",
+      "modified": "Does the small brown rabbit on the grass appear to be sitting still?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the small brown rabbit on the grass in the foreground of the scene?",
+      "modified": "Is the small brown rabbit on the grass in the foreground of the scene?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Can you see the small brown rabbit on the grass clearly from the side?",
+      "modified": "Can you see the small brown rabbit on the right clearly from the side?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the small brown rabbit on the grass look larger than the others nearby?",
+      "modified": "Does the small brown rabbit on the right look larger than the others nearby?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the small brown rabbit on the grass surrounded by short grass?",
+      "modified": "Is the small brown rabbit on the right surrounded by short grass?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the small brown rabbit on the grass have its body low to the ground?",
+      "modified": "Does the small brown rabbit on the right have its body low to the ground?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the small brown rabbit on the grass the one closest to the camera?",
+      "modified": "Is the small brown rabbit on the right the one closest to the camera?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Can you see the face of the small brown rabbit on the grass?",
+      "modified": "Can you see the face of the small brown rabbit on the right?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the small brown rabbit on the grass positioned near the lower right part of the image?",
+      "modified": "Is the small brown rabbit on the right positioned near the lower right part of the image?",
+      "false_premise": true
+    }
+  ]
+}

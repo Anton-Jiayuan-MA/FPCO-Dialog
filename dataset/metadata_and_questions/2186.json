@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2186",
+    "source": "COCO",
+    "complexity": 2,
+    "category": 1,
+    "target": "person"
+  },
+  "base": {
+    "target_description": "the woman in a black tank top and sunglasses",
+    "modified_target_description": "the woman in a black tank top and sunglasses on the left",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the woman in a black tank top and sunglasses holding in her hand?",
+      "modified": "What is the woman in a black tank top and sunglasses holding in her hand?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the woman in a black tank top and sunglasses standing on grass?",
+      "modified": "Is the woman in a black tank top and sunglasses standing on grass?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the woman in a black tank top and sunglasses appear to be outdoors?",
+      "modified": "Does the woman in a black tank top and sunglasses appear to be outdoors?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the woman in a black tank top and sunglasses wearing jeans?",
+      "modified": "Is the woman in a black tank top and sunglasses on the left wearing jeans?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the woman in a black tank top and sunglasses facing toward the camera?",
+      "modified": "Is the woman in a black tank top and sunglasses on the left facing toward the camera?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the woman in a black tank top and sunglasses look relaxed?",
+      "modified": "Does the woman in a black tank top and sunglasses on the left look relaxed?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the woman in a black tank top and sunglasses standing near another person?",
+      "modified": "Is the woman in a black tank top and sunglasses on the left standing near another person?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the woman in a black tank top and sunglasses have long hair?",
+      "modified": "Does the woman in a black tank top and sunglasses on the left have long hair?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the woman in a black tank top and sunglasses wearing dark sunglasses?",
+      "modified": "Is the woman in a black tank top and sunglasses on the left wearing dark sunglasses?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the woman in a black tank top and sunglasses holding a water bottle?",
+      "modified": "Is the woman in a black tank top and sunglasses on the left holding a water bottle?",
+      "false_premise": true
+    }
+  ]
+}

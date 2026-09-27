@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2283",
+    "source": "Open Images",
+    "complexity": 2,
+    "category": 2,
+    "target": "motorcycle"
+  },
+  "base": {
+    "target_description": "the gray three-wheeled motorcycle in front",
+    "modified_target_description": "the gray three-wheeled motorcycle in back",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the gray three-wheeled motorcycle in front moving along the street?",
+      "modified": "Is the gray three-wheeled motorcycle in front moving along the street?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the gray three-wheeled motorcycle in front have a rider on it?",
+      "modified": "Does the gray three-wheeled motorcycle in front have a rider on it?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the gray three-wheeled motorcycle in front closer to the camera than the other motorcycle?",
+      "modified": "Is the gray three-wheeled motorcycle in front closer to the camera than the other motorcycle?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Can you see a windshield on the gray three-wheeled motorcycle in front?",
+      "modified": "Can you see a windshield on the gray three-wheeled motorcycle in back?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the gray three-wheeled motorcycle in front traveling past a crowd behind barriers?",
+      "modified": "Is the gray three-wheeled motorcycle in back traveling past a crowd behind barriers?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the gray three-wheeled motorcycle in front appear to be part of a parade or public event?",
+      "modified": "Does the gray three-wheeled motorcycle in back appear to be part of a parade or public event?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the gray three-wheeled motorcycle in front on a paved city road?",
+      "modified": "Is the gray three-wheeled motorcycle in back on a paved city road?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Can you see storage compartments on the gray three-wheeled motorcycle in front?",
+      "modified": "Can you see storage compartments on the gray three-wheeled motorcycle in back?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the gray three-wheeled motorcycle in front positioned near the center-right of the image?",
+      "modified": "Is the gray three-wheeled motorcycle in back positioned near the center-right of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Are the headlights or front lights of the gray three-wheeled motorcycle in front visible?",
+      "modified": "Are the headlights or front lights of the gray three-wheeled motorcycle in back visible?",
+      "false_premise": true
+    }
+  ]
+}

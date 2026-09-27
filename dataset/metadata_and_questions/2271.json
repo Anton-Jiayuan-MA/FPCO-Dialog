@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2271",
+    "source": "COCO",
+    "complexity": 2,
+    "category": 2,
+    "target": "truck"
+  },
+  "base": {
+    "target_description": "the blue semi-truck on the right",
+    "modified_target_description": "the blue semi-truck on the left",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the blue semi-truck on the right parked next to another truck?",
+      "modified": "Is the blue semi-truck on the right parked next to another truck?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "What direction is the blue semi-truck on the right facing?",
+      "modified": "What direction is the blue semi-truck on the right facing?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the blue semi-truck on the right appear to be moving or stopped?",
+      "modified": "Does the blue semi-truck on the right appear to be moving or stopped?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the blue semi-truck on the right closer to the camera than the truck beside it?",
+      "modified": "Is the blue semi-truck on the left closer to the camera than the truck beside it?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "What color is the cab of the blue semi-truck on the right?",
+      "modified": "What color is the cab of the blue semi-truck on the left?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the blue semi-truck on the right have a trailer attached?",
+      "modified": "Does the blue semi-truck on the left have a trailer attached?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the blue semi-truck on the right parked in an open lot?",
+      "modified": "Is the blue semi-truck on the left parked in an open lot?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Can you see the front grille of the blue semi-truck on the right?",
+      "modified": "Can you see the front grille of the blue semi-truck on the left?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the blue semi-truck on the right positioned beside a yellow truck?",
+      "modified": "Is the blue semi-truck on the left positioned beside a yellow truck?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Are the headlights visible on the blue semi-truck on the right?",
+      "modified": "Are the headlights visible on the blue semi-truck on the left?",
+      "false_premise": true
+    }
+  ]
+}

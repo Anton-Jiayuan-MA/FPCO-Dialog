@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2327",
+    "source": "Open Images",
+    "complexity": 2,
+    "category": 3,
+    "target": "sheep"
+  },
+  "base": {
+    "target_description": "the white sheep by the fence",
+    "modified_target_description": "the white goat by the fence",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the white sheep by the fence lying down in the grass?",
+      "modified": "Is the white sheep by the fence lying down in the grass?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the white sheep by the fence facing toward the camera?",
+      "modified": "Is the white sheep by the fence facing toward the camera?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the white sheep by the fence have both ears visible?",
+      "modified": "Does the white sheep by the fence have both ears visible?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the white sheep by the fence resting close to the chain-link fence?",
+      "modified": "Is the white goat by the fence resting close to the chain-link fence?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the white sheep by the fence appear calm in the scene?",
+      "modified": "Does the white goat by the fence appear calm in the scene?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the white sheep by the fence surrounded by tall green grass?",
+      "modified": "Is the white goat by the fence surrounded by tall green grass?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Can you see the face of the white sheep by the fence clearly?",
+      "modified": "Can you see the face of the white goat by the fence clearly?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the white sheep by the fence positioned in the lower right part of the image?",
+      "modified": "Is the white goat by the fence positioned in the lower right part of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the white sheep by the fence look cleaner than the other sheep nearby?",
+      "modified": "Does the white goat by the fence look cleaner than the other sheep nearby?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the white sheep by the fence sitting closer to the viewer than the other sheep?",
+      "modified": "Is the white goat by the fence sitting closer to the viewer than the other sheep?",
+      "false_premise": true
+    }
+  ]
+}

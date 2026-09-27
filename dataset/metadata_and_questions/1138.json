@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1138",
+    "source": "Open Images",
+    "complexity": 1,
+    "category": 1,
+    "target": "man"
+  },
+  "base": {
+    "target_description": "the curly-haired man with a beard at the microphone",
+    "modified_target_description": "the straight-haired man with a beard at the microphone",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the curly-haired man with a beard at the microphone singing or speaking?",
+      "modified": "Is the curly-haired man with a beard at the microphone singing or speaking?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "What is the curly-haired man with a beard at the microphone holding?",
+      "modified": "What is the curly-haired man with a beard at the microphone holding?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the curly-haired man with a beard at the microphone appear to be performing on stage?",
+      "modified": "Does the curly-haired man with a beard at the microphone appear to be performing on stage?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the curly-haired man with a beard at the microphone looking straight ahead?",
+      "modified": "Is the straight-haired man with a beard at the microphone looking straight ahead?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "What color shirt is the curly-haired man with a beard at the microphone wearing?",
+      "modified": "What color shirt is the straight-haired man with a beard at the microphone wearing?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the curly-haired man with a beard at the microphone have a guitar in front of him?",
+      "modified": "Does the straight-haired man with a beard at the microphone have a guitar in front of him?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is one hand of the curly-haired man with a beard at the microphone raised?",
+      "modified": "Is one hand of the straight-haired man with a beard at the microphone raised?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the curly-haired man with a beard at the microphone appear close to the camera?",
+      "modified": "Does the straight-haired man with a beard at the microphone appear close to the camera?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the curly-haired man with a beard at the microphone wearing any jewelry?",
+      "modified": "Is the straight-haired man with a beard at the microphone wearing any jewelry?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the curly-haired man with a beard at the microphone seem to be outdoors or at an event stage?",
+      "modified": "Does the straight-haired man with a beard at the microphone seem to be outdoors or at an event stage?",
+      "false_premise": true
+    }
+  ]
+}

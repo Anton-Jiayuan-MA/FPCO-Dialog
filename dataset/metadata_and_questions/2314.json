@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2314",
+    "source": "COCO",
+    "complexity": 2,
+    "category": 3,
+    "target": "elephant"
+  },
+  "base": {
+    "target_description": "the large gray elephant with long tusks",
+    "modified_target_description": "the large gray giraffe with long tusks",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the large gray elephant with long tusks facing toward the camera?",
+      "modified": "Is the large gray elephant with long tusks facing toward the camera?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Are the ears of the large gray elephant with long tusks spread out wide?",
+      "modified": "Are the ears of the large gray elephant with long tusks spread out wide?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the large gray elephant with long tusks have its trunk hanging down?",
+      "modified": "Does the large gray elephant with long tusks have its trunk hanging down?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the large gray elephant with long tusks standing close to other elephants?",
+      "modified": "Is the large gray giraffe with long tusks standing close to other elephants?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Can you see both tusks on the large gray elephant with long tusks?",
+      "modified": "Can you see both tusks on the large gray giraffe with long tusks?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the large gray elephant with long tusks appear to be outdoors?",
+      "modified": "Does the large gray giraffe with long tusks appear to be outdoors?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the large gray elephant with long tusks the most centered animal in the image?",
+      "modified": "Is the large gray giraffe with long tusks the most centered animal in the image?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the large gray elephant with long tusks look like an adult?",
+      "modified": "Does the large gray giraffe with long tusks look like an adult?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the head of the large gray elephant with long tusks shown clearly?",
+      "modified": "Is the head of the large gray giraffe with long tusks shown clearly?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the large gray elephant with long tusks fill much of the frame?",
+      "modified": "Does the large gray giraffe with long tusks fill much of the frame?",
+      "false_premise": true
+    }
+  ]
+}

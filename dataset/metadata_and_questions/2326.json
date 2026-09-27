@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2326",
+    "source": "Open Images",
+    "complexity": 2,
+    "category": 3,
+    "target": "sheep"
+  },
+  "base": {
+    "target_description": "the white sheep in the foreground",
+    "modified_target_description": "the white goat in the foreground",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What direction is the white sheep in the foreground facing?",
+      "modified": "What direction is the white sheep in the foreground facing?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the white sheep in the foreground standing still or moving?",
+      "modified": "Is the white sheep in the foreground standing still or moving?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "How many legs of the white sheep in the foreground are clearly visible?",
+      "modified": "How many legs of the white sheep in the foreground are clearly visible?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the white sheep in the foreground appear to be grazing?",
+      "modified": "Does the white goat in the foreground appear to be grazing?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the white sheep in the foreground seen from the front or the back?",
+      "modified": "Is the white goat in the foreground seen from the front or the back?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the white sheep in the foreground have thick wool?",
+      "modified": "Does the white goat in the foreground have thick wool?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the white sheep in the foreground close to other sheep?",
+      "modified": "Is the white goat in the foreground close to other sheep?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "What is directly beneath the white sheep in the foreground?",
+      "modified": "What is directly beneath the white goat in the foreground?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the white sheep in the foreground near the center of the image?",
+      "modified": "Is the white goat in the foreground near the center of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the white sheep in the foreground look larger than the sheep farther away?",
+      "modified": "Does the white goat in the foreground look larger than the sheep farther away?",
+      "false_premise": true
+    }
+  ]
+}

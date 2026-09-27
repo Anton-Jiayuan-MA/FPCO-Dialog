@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1145",
+    "source": "Open Images",
+    "complexity": 1,
+    "category": 1,
+    "target": "woman"
+  },
+  "base": {
+    "target_description": "the woman holding a microphone on stage",
+    "modified_target_description": "the woman with blonde hair on stage",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the woman holding a microphone on stage doing in this scene?",
+      "modified": "What is the woman holding a microphone on stage doing in this scene?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the woman holding a microphone on stage facing toward the audience or away from it?",
+      "modified": "Is the woman holding a microphone on stage facing toward the audience or away from it?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "What is the woman holding a microphone on stage wearing on her upper body?",
+      "modified": "What is the woman holding a microphone on stage wearing on her upper body?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the woman holding a microphone on stage appear to be singing?",
+      "modified": "Does the woman with blonde hair on stage appear to be singing?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "How is the woman holding a microphone on stage positioned relative to the microphone stand?",
+      "modified": "How is the woman with blonde hair on stage positioned relative to the microphone stand?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the woman holding a microphone on stage shown in bright stage lighting?",
+      "modified": "Is the woman with blonde hair on stage shown in bright stage lighting?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "What color is the hair of the woman holding a microphone on stage?",
+      "modified": "What color is the hair of the woman with blonde hair on stage?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the woman holding a microphone on stage have one hand or both hands near the microphone?",
+      "modified": "Does the woman with blonde hair on stage have one hand or both hands near the microphone?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the woman holding a microphone on stage standing close to the camera or farther away?",
+      "modified": "Is the woman with blonde hair on stage standing close to the camera or farther away?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the woman holding a microphone on stage look focused while performing?",
+      "modified": "Does the woman with blonde hair on stage look focused while performing?",
+      "false_premise": true
+    }
+  ]
+}

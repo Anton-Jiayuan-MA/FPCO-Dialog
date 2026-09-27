@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1111",
+    "source": "COCO",
+    "complexity": 1,
+    "category": 1,
+    "target": "child"
+  },
+  "base": {
+    "target_description": "the blond child with a toothbrush",
+    "modified_target_description": "the blond dog with a toothbrush",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the blond child with a toothbrush doing?",
+      "modified": "What is the blond child with a toothbrush doing?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the blond child with a toothbrush looking off to the side?",
+      "modified": "Is the blond child with a toothbrush looking off to the side?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "What is the blond child with a toothbrush holding?",
+      "modified": "What is the blond child with a toothbrush holding?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the blond child with a toothbrush appear to be brushing their teeth?",
+      "modified": "Does the blond dog with a toothbrush appear to be brushing their teeth?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "What expression does the blond child with a toothbrush have?",
+      "modified": "What expression does the blond dog with a toothbrush have?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the blond child with a toothbrush indoors?",
+      "modified": "Is the blond dog with a toothbrush indoors?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Can you see the face of the blond child with a toothbrush clearly?",
+      "modified": "Can you see the face of the blond dog with a toothbrush clearly?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the blond child with a toothbrush wearing patterned clothing?",
+      "modified": "Is the blond dog with a toothbrush wearing patterned clothing?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the blond child with a toothbrush seem very young?",
+      "modified": "Does the blond dog with a toothbrush seem very young?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Which direction is the blond child with a toothbrush facing?",
+      "modified": "Which direction is the blond dog with a toothbrush facing?",
+      "false_premise": true
+    }
+  ]
+}

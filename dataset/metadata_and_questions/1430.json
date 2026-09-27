@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1430",
+    "source": "COCO",
+    "complexity": 1,
+    "category": 4,
+    "target": "cake"
+  },
+  "base": {
+    "target_description": "the face-shaped cake with a pink bow",
+    "modified_target_description": "the face-shaped pie with a pink bow",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What kind of expression does the face-shaped cake with a pink bow seem to have?",
+      "modified": "What kind of expression does the face-shaped cake with a pink bow seem to have?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the face-shaped cake with a pink bow sitting on a white tray?",
+      "modified": "Is the face-shaped cake with a pink bow sitting on a white tray?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the face-shaped cake with a pink bow have red circular eyes?",
+      "modified": "Does the face-shaped cake with a pink bow have red circular eyes?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Can you see frosting covering most of the face-shaped cake with a pink bow?",
+      "modified": "Can you see frosting covering most of the face-shaped pie with a pink bow?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the face-shaped cake with a pink bow decorated to look like a cartoon face?",
+      "modified": "Is the face-shaped pie with a pink bow decorated to look like a cartoon face?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the face-shaped cake with a pink bow have a pink tongue sticking out?",
+      "modified": "Does the face-shaped pie with a pink bow have a pink tongue sticking out?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the face-shaped cake with a pink bow viewed from above?",
+      "modified": "Is the face-shaped pie with a pink bow viewed from above?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Are there chocolate sprinkles around the face-shaped cake with a pink bow?",
+      "modified": "Are there chocolate sprinkles around the face-shaped pie with a pink bow?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the face-shaped cake with a pink bow appear homemade?",
+      "modified": "Does the face-shaped pie with a pink bow appear homemade?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the face-shaped cake with a pink bow the main focus of the image?",
+      "modified": "Is the face-shaped pie with a pink bow the main focus of the image?",
+      "false_premise": true
+    }
+  ]
+}

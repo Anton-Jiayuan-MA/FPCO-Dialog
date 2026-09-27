@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3328",
+    "source": "COCO",
+    "complexity": 3,
+    "category": 3,
+    "target": "giraffe"
+  },
+  "base": {
+    "target_description": "the tall giraffe on the left",
+    "modified_target_description": "the tall zebra on the left",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What direction is the tall giraffe on the left facing?",
+      "modified": "What direction is the tall giraffe on the left facing?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the tall giraffe on the left standing still or walking?",
+      "modified": "Is the tall giraffe on the left standing still or walking?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "How close is the tall giraffe on the left to the other giraffes?",
+      "modified": "How close is the tall giraffe on the left to the other giraffes?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the tall giraffe on the left appear to be looking toward another animal?",
+      "modified": "Does the tall zebra on the left appear to be looking toward another animal?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the tall giraffe on the left fully visible in the image?",
+      "modified": "Is the tall zebra on the left fully visible in the image?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "What part of the scene is the tall giraffe on the left standing in?",
+      "modified": "What part of the scene is the tall zebra on the left standing in?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the tall giraffe on the left have its neck stretched upward?",
+      "modified": "Does the tall zebra on the left have its neck stretched upward?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the tall giraffe on the left larger than the young giraffe nearby?",
+      "modified": "Is the tall zebra on the left larger than the young giraffe nearby?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "What is directly behind the tall giraffe on the left?",
+      "modified": "What is directly behind the tall zebra on the left?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the tall giraffe on the left standing on dry ground?",
+      "modified": "Is the tall zebra on the left standing on dry ground?",
+      "false_premise": true
+    }
+  ]
+}

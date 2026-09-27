@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1484",
+    "source": "Open Images",
+    "complexity": 1,
+    "category": 4,
+    "target": "melon"
+  },
+  "base": {
+    "target_description": "the melon filling inside the bread",
+    "modified_target_description": "the melon filling beside the bread",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What color is the melon filling inside the bread?",
+      "modified": "What color is the melon filling inside the bread?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the melon filling inside the bread look creamy or solid?",
+      "modified": "Does the melon filling inside the bread look creamy or solid?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the melon filling inside the bread visible through the opening?",
+      "modified": "Is the melon filling inside the bread visible through the opening?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the melon filling inside the bread appear glossy?",
+      "modified": "Does the melon filling beside the bread appear glossy?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the melon filling inside the bread tucked between two pieces of bread?",
+      "modified": "Is the melon filling beside the bread tucked between two pieces of bread?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the melon filling inside the bread look fresh?",
+      "modified": "Does the melon filling beside the bread look fresh?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Can you see any fruit pieces in the melon filling inside the bread?",
+      "modified": "Can you see any fruit pieces in the melon filling beside the bread?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the melon filling inside the bread overflowing from the bread?",
+      "modified": "Is the melon filling beside the bread overflowing from the bread?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the melon filling inside the bread take up most of the center area?",
+      "modified": "Does the melon filling beside the bread take up most of the center area?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the melon filling inside the bread the main food feature shown in the image?",
+      "modified": "Is the melon filling beside the bread the main food feature shown in the image?",
+      "false_premise": true
+    }
+  ]
+}

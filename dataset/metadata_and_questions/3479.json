@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3479",
+    "source": "COCO",
+    "complexity": 3,
+    "category": 4,
+    "target": "buffet"
+  },
+  "base": {
+    "target_description": "the buffet table with trays of food and bread rolls",
+    "modified_target_description": "the buffet table with trays of food and bread rolls on the left",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What kinds of dishes are laid out on the buffet table with trays of food and bread rolls?",
+      "modified": "What kinds of dishes are laid out on the buffet table with trays of food and bread rolls?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the buffet table with trays of food and bread rolls set up along the wall?",
+      "modified": "Is the buffet table with trays of food and bread rolls set up along the wall?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the buffet table with trays of food and bread rolls look ready for people to serve themselves?",
+      "modified": "Does the buffet table with trays of food and bread rolls look ready for people to serve themselves?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Are there both hot dishes and baked items on the buffet table with trays of food and bread rolls?",
+      "modified": "Are there both hot dishes and baked items on the buffet table with trays of food and bread rolls on the left?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the buffet table with trays of food and bread rolls covered with a white tablecloth?",
+      "modified": "Is the buffet table with trays of food and bread rolls on the left covered with a white tablecloth?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "How full does the buffet table with trays of food and bread rolls appear to be?",
+      "modified": "How full does the buffet table with trays of food and bread rolls on the left appear to be?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Are serving utensils visible near the buffet table with trays of food and bread rolls?",
+      "modified": "Are serving utensils visible near the buffet table with trays of food and bread rolls on the left?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the buffet table with trays of food and bread rolls include multiple containers for different foods?",
+      "modified": "Does the buffet table with trays of food and bread rolls on the left include multiple containers for different foods?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the buffet table with trays of food and bread rolls positioned beneath a large chalkboard?",
+      "modified": "Is the buffet table with trays of food and bread rolls on the left positioned beneath a large chalkboard?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Would you say the buffet table with trays of food and bread rolls is the main focus of the scene?",
+      "modified": "Would you say the buffet table with trays of food and bread rolls on the left is the main focus of the scene?",
+      "false_premise": true
+    }
+  ]
+}

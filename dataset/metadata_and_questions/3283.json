@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3283",
+    "source": "Open Images",
+    "complexity": 3,
+    "category": 2,
+    "target": "car"
+  },
+  "base": {
+    "target_description": "the red convertible car in the center",
+    "modified_target_description": "the red convertible car on the left",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the red convertible car in the center parked on a street?",
+      "modified": "Is the red convertible car in the center parked on a street?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the red convertible car in the center have its top down?",
+      "modified": "Does the red convertible car in the center have its top down?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the red convertible car in the center facing toward the camera?",
+      "modified": "Is the red convertible car in the center facing toward the camera?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the red convertible car in the center look like a classic or vintage model?",
+      "modified": "Does the red convertible car on the left look like a classic or vintage model?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Are there other cars visible behind the red convertible car in the center?",
+      "modified": "Are there other cars visible behind the red convertible car on the left?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Can you see the windshield clearly on the red convertible car in the center?",
+      "modified": "Can you see the windshield clearly on the red convertible car on the left?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the red convertible car in the center have whitewall tires?",
+      "modified": "Does the red convertible car on the left have whitewall tires?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the red convertible car in the center part of what looks like a car show or parade?",
+      "modified": "Is the red convertible car on the left part of what looks like a car show or parade?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Can you see a license plate on the red convertible car in the center?",
+      "modified": "Can you see a license plate on the red convertible car on the left?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the red convertible car in the center the closest vehicle to the viewer?",
+      "modified": "Is the red convertible car on the left the closest vehicle to the viewer?",
+      "false_premise": true
+    }
+  ]
+}

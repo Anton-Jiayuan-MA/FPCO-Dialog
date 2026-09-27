@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2174",
+    "source": "COCO",
+    "complexity": 2,
+    "category": 1,
+    "target": "woman"
+  },
+  "base": {
+    "target_description": "the woman in the red sweater with glasses",
+    "modified_target_description": "the woman on the left in the red sweater with glasses",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the woman in the red sweater with glasses doing with her hand?",
+      "modified": "What is the woman in the red sweater with glasses doing with her hand?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the woman in the red sweater with glasses smiling?",
+      "modified": "Is the woman in the red sweater with glasses smiling?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the woman in the red sweater with glasses sitting at a dining table?",
+      "modified": "Is the woman in the red sweater with glasses sitting at a dining table?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "What is the woman in the red sweater with glasses looking toward?",
+      "modified": "What is the woman on the left in the red sweater with glasses looking toward?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the woman in the red sweater with glasses appear to be talking or reacting to something?",
+      "modified": "Does the woman on the left in the red sweater with glasses appear to be talking or reacting to something?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the woman in the red sweater with glasses wearing any jewelry?",
+      "modified": "Is the woman on the left in the red sweater with glasses wearing any jewelry?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Who is seated next to the woman in the red sweater with glasses?",
+      "modified": "Who is seated next to the woman on the left in the red sweater with glasses?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the woman in the red sweater with glasses indoors?",
+      "modified": "Is the woman on the left in the red sweater with glasses indoors?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "What is in front of the woman in the red sweater with glasses on the table?",
+      "modified": "What is in front of the woman on the left in the red sweater with glasses on the table?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the woman in the red sweater with glasses seem relaxed and cheerful?",
+      "modified": "Does the woman on the left in the red sweater with glasses seem relaxed and cheerful?",
+      "false_premise": true
+    }
+  ]
+}

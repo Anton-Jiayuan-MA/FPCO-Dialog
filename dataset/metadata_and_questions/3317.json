@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3317",
+    "source": "COCO",
+    "complexity": 3,
+    "category": 3,
+    "target": "zebra"
+  },
+  "base": {
+    "target_description": "the zebra in the foreground",
+    "modified_target_description": "the giraffe in the foreground",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What direction is the zebra in the foreground facing?",
+      "modified": "What direction is the zebra in the foreground facing?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the zebra in the foreground standing still or moving?",
+      "modified": "Is the zebra in the foreground standing still or moving?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "How much of the zebra in the foreground is visible in the image?",
+      "modified": "How much of the zebra in the foreground is visible in the image?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the zebra in the foreground closer to the camera than the other zebras?",
+      "modified": "Is the giraffe in the foreground closer to the camera than the other zebras?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the zebra in the foreground appear to be standing on dry ground?",
+      "modified": "Does the giraffe in the foreground appear to be standing on dry ground?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Are the stripes on the zebra in the foreground clearly visible?",
+      "modified": "Are the stripes on the giraffe in the foreground clearly visible?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the zebra in the foreground shown from the side?",
+      "modified": "Is the giraffe in the foreground shown from the side?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the zebra in the foreground overlap with any other zebras in the scene?",
+      "modified": "Does the giraffe in the foreground overlap with any other zebras in the scene?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the zebra in the foreground outdoors in a grassy area?",
+      "modified": "Is the giraffe in the foreground outdoors in a grassy area?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Can you see the legs of the zebra in the foreground?",
+      "modified": "Can you see the legs of the giraffe in the foreground?",
+      "false_premise": true
+    }
+  ]
+}

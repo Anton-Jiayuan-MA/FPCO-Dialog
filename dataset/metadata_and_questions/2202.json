@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2202",
+    "source": "COCO",
+    "complexity": 2,
+    "category": 2,
+    "target": "bicycle"
+  },
+  "base": {
+    "target_description": "the white bicycle in the middle",
+    "modified_target_description": "the white motorcycle in the middle",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the white bicycle in the middle being ridden across the intersection?",
+      "modified": "Is the white bicycle in the middle being ridden across the intersection?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the white bicycle in the middle have a rider wearing a light-colored top?",
+      "modified": "Does the white bicycle in the middle have a rider wearing a light-colored top?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the white bicycle in the middle moving from left to right in the scene?",
+      "modified": "Is the white bicycle in the middle moving from left to right in the scene?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the white bicycle in the middle closer to the traffic light than the other bicycles?",
+      "modified": "Is the white motorcycle in the middle closer to the traffic light than the other bicycles?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the white bicycle in the middle appear to be on the road rather than on the sidewalk?",
+      "modified": "Does the white motorcycle in the middle appear to be on the road rather than on the sidewalk?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the white bicycle in the middle positioned between other cyclists?",
+      "modified": "Is the white motorcycle in the middle positioned between other cyclists?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Can you see both wheels of the white bicycle in the middle clearly?",
+      "modified": "Can you see both wheels of the white motorcycle in the middle clearly?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the white bicycle in the middle heading toward the right side of the image?",
+      "modified": "Is the white motorcycle in the middle heading toward the right side of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the white bicycle in the middle look like a road bike?",
+      "modified": "Does the white motorcycle in the middle look like a road bike?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the white bicycle in the middle near the painted lane markings?",
+      "modified": "Is the white motorcycle in the middle near the painted lane markings?",
+      "false_premise": true
+    }
+  ]
+}

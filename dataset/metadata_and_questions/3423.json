@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3423",
+    "source": "Open Images",
+    "complexity": 3,
+    "category": 4,
+    "target": "apple"
+  },
+  "base": {
+    "target_description": "the greenish yellow apple",
+    "modified_target_description": "the greenish yellow pear",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the greenish yellow apple piled together with other apples?",
+      "modified": "Is the greenish yellow apple piled together with other apples?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the greenish yellow apple have any red blush on its skin?",
+      "modified": "Does the greenish yellow apple have any red blush on its skin?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the greenish yellow apple shown close up in the image?",
+      "modified": "Is the greenish yellow apple shown close up in the image?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the greenish yellow apple look bruised or slightly blemished?",
+      "modified": "Does the greenish yellow pear look bruised or slightly blemished?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the greenish yellow apple resting in a produce bin or crate?",
+      "modified": "Is the greenish yellow pear resting in a produce bin or crate?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Can you see the stem end of the greenish yellow apple?",
+      "modified": "Can you see the stem end of the greenish yellow pear?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the greenish yellow apple appear round rather than elongated?",
+      "modified": "Does the greenish yellow pear appear round rather than elongated?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the greenish yellow apple touching other apples around it?",
+      "modified": "Is the greenish yellow pear touching other apples around it?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the greenish yellow apple look fresh enough to eat?",
+      "modified": "Does the greenish yellow pear look fresh enough to eat?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the greenish yellow apple one of many similar apples in the scene?",
+      "modified": "Is the greenish yellow pear one of many similar apples in the scene?",
+      "false_premise": true
+    }
+  ]
+}

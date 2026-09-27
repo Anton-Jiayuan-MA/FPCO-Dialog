@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1229",
+    "source": "COCO",
+    "complexity": 1,
+    "category": 2,
+    "target": "bus"
+  },
+  "base": {
+    "target_description": "the white city bus on the street",
+    "modified_target_description": "the white city truck on the street",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What route is displayed on the front of the white city bus on the street?",
+      "modified": "What route is displayed on the front of the white city bus on the street?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the white city bus on the street moving or stopped in this scene?",
+      "modified": "Is the white city bus on the street moving or stopped in this scene?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Which direction is the white city bus on the street facing?",
+      "modified": "Which direction is the white city bus on the street facing?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the white city bus on the street look like an articulated bus?",
+      "modified": "Does the white city truck on the street look like an articulated bus?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the white city bus on the street close to the curb or more toward the middle of the road?",
+      "modified": "Is the white city truck on the street close to the curb or more toward the middle of the road?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Can you see any advertisement on the side of the white city bus on the street?",
+      "modified": "Can you see any advertisement on the side of the white city truck on the street?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Are there any passengers visible through the windows of the white city bus on the street?",
+      "modified": "Are there any passengers visible through the windows of the white city truck on the street?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the white city bus on the street have a bike rack on the front?",
+      "modified": "Does the white city truck on the street have a bike rack on the front?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the white city bus on the street the main focus of the image?",
+      "modified": "Is the white city truck on the street the main focus of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the white city bus on the street appear to be driving through a downtown area?",
+      "modified": "Does the white city truck on the street appear to be driving through a downtown area?",
+      "false_premise": true
+    }
+  ]
+}

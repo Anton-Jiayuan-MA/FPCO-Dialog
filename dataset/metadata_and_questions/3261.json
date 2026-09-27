@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3261",
+    "source": "COCO",
+    "complexity": 3,
+    "category": 2,
+    "target": "car"
+  },
+  "base": {
+    "target_description": "the black car in the middle",
+    "modified_target_description": "the black car on the right",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the black car in the middle moving through the intersection?",
+      "modified": "Is the black car in the middle moving through the intersection?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "What direction is the black car in the middle headed?",
+      "modified": "What direction is the black car in the middle headed?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the black car in the middle closer to the camera than the blue truck?",
+      "modified": "Is the black car in the middle closer to the camera than the blue truck?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the black car in the middle appear to be turning?",
+      "modified": "Does the black car on the right appear to be turning?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the black car in the middle under the traffic lights?",
+      "modified": "Is the black car on the right under the traffic lights?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "What lane is the black car in the middle traveling in?",
+      "modified": "What lane is the black car on the right traveling in?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the black car in the middle look like a sedan?",
+      "modified": "Does the black car on the right look like a sedan?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the black car in the middle on a paved road?",
+      "modified": "Is the black car on the right on a paved road?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the black car in the middle approaching the viewer?",
+      "modified": "Is the black car on the right approaching the viewer?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Are the headlights of the black car in the middle visible?",
+      "modified": "Are the headlights of the black car on the right visible?",
+      "false_premise": true
+    }
+  ]
+}

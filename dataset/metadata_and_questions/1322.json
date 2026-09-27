@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1322",
+    "source": "Open Images",
+    "complexity": 1,
+    "category": 3,
+    "target": "dog"
+  },
+  "base": {
+    "target_description": "the long-haired dog holding a toy",
+    "modified_target_description": "the long-haired cat holding a toy",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the long-haired dog holding a toy carrying in its mouth?",
+      "modified": "What is the long-haired dog holding a toy carrying in its mouth?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the long-haired dog holding a toy looking toward the camera?",
+      "modified": "Is the long-haired dog holding a toy looking toward the camera?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the long-haired dog holding a toy appear to be standing still?",
+      "modified": "Does the long-haired dog holding a toy appear to be standing still?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "What kind of toy is the long-haired dog holding a toy biting onto?",
+      "modified": "What kind of toy is the long-haired cat holding a toy biting onto?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Can you clearly see the face of the long-haired dog holding a toy?",
+      "modified": "Can you clearly see the face of the long-haired cat holding a toy?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the long-haired dog holding a toy seem to be indoors or outdoors?",
+      "modified": "Does the long-haired cat holding a toy seem to be indoors or outdoors?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the long-haired dog holding a toy shown in a close-up view?",
+      "modified": "Is the long-haired cat holding a toy shown in a close-up view?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the long-haired dog holding a toy have fur covering part of its eyes?",
+      "modified": "Does the long-haired cat holding a toy have fur covering part of its eyes?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the long-haired dog holding a toy centered prominently in the image?",
+      "modified": "Is the long-haired cat holding a toy centered prominently in the image?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the long-haired dog holding a toy look like a small breed?",
+      "modified": "Does the long-haired cat holding a toy look like a small breed?",
+      "false_premise": true
+    }
+  ]
+}

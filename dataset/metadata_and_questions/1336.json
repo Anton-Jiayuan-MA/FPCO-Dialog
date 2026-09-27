@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1336",
+    "source": "Open Images",
+    "complexity": 1,
+    "category": 3,
+    "target": "dog"
+  },
+  "base": {
+    "target_description": "the dog in a colorful clown costume",
+    "modified_target_description": "the dog in a plain clown costume",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the dog in a colorful clown costume standing on?",
+      "modified": "What is the dog in a colorful clown costume standing on?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the dog in a colorful clown costume wearing a hat?",
+      "modified": "Is the dog in a colorful clown costume wearing a hat?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the dog in a colorful clown costume appear to be on a leash?",
+      "modified": "Does the dog in a colorful clown costume appear to be on a leash?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "What color is the outfit on the dog in a colorful clown costume?",
+      "modified": "What color is the outfit on the dog in a plain clown costume?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the dog in a colorful clown costume looking down?",
+      "modified": "Is the dog in a plain clown costume looking down?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the dog in a colorful clown costume have polka dots on its outfit?",
+      "modified": "Does the dog in a plain clown costume have polka dots on its outfit?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the dog in a colorful clown costume outdoors?",
+      "modified": "Is the dog in a plain clown costume outdoors?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Are the legs of the dog in a colorful clown costume covered by the costume?",
+      "modified": "Are the legs of the dog in a plain clown costume covered by the costume?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "What is attached to the dog in a colorful clown costume near its neck?",
+      "modified": "What is attached to the dog in a plain clown costume near its neck?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the dog in a colorful clown costume have black fur?",
+      "modified": "Does the dog in a plain clown costume have black fur?",
+      "false_premise": true
+    }
+  ]
+}

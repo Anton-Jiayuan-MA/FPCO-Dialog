@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1184",
+    "source": "COCO",
+    "complexity": 1,
+    "category": 1,
+    "target": "man"
+  },
+  "base": {
+    "target_description": "the man in a dark suit with clasped hands",
+    "modified_target_description": "the man on the left in a dark suit with clasped hands",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the man in a dark suit with clasped hands looking at?",
+      "modified": "What is the man in a dark suit with clasped hands looking at?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the man in a dark suit with clasped hands sitting at a table?",
+      "modified": "Is the man in a dark suit with clasped hands sitting at a table?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the man in a dark suit with clasped hands appear thoughtful?",
+      "modified": "Does the man in a dark suit with clasped hands appear thoughtful?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "What is in front of the man in a dark suit with clasped hands?",
+      "modified": "What is in front of the man on the left in a dark suit with clasped hands?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the man in a dark suit with clasped hands wearing a tie?",
+      "modified": "Is the man on the left in a dark suit with clasped hands wearing a tie?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Are the man in a dark suit with clasped hands's hands covering part of his face?",
+      "modified": "Are the man on the left in a dark suit with clasped hands's hands covering part of his face?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the man in a dark suit with clasped hands indoors?",
+      "modified": "Is the man on the left in a dark suit with clasped hands indoors?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the man in a dark suit with clasped hands have short hair?",
+      "modified": "Does the man on the left in a dark suit with clasped hands have short hair?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the man in a dark suit with clasped hands facing the camera directly?",
+      "modified": "Is the man on the left in a dark suit with clasped hands facing the camera directly?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the man in a dark suit with clasped hands seem to be resting his elbows on the table?",
+      "modified": "Does the man on the left in a dark suit with clasped hands seem to be resting his elbows on the table?",
+      "false_premise": true
+    }
+  ]
+}

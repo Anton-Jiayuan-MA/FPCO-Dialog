@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3406",
+    "source": "COCO",
+    "complexity": 3,
+    "category": 4,
+    "target": "orange"
+  },
+  "base": {
+    "target_description": "the oranges in the bottom wooden bin",
+    "modified_target_description": "the apples in the bottom wooden bin",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "How many of the oranges in the bottom wooden bin are visible?",
+      "modified": "How many of the oranges in the bottom wooden bin are visible?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Are the oranges in the bottom wooden bin piled together or spread out?",
+      "modified": "Are the oranges in the bottom wooden bin piled together or spread out?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Do the oranges in the bottom wooden bin look fresh and ripe?",
+      "modified": "Do the oranges in the bottom wooden bin look fresh and ripe?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "What color are the oranges in the bottom wooden bin?",
+      "modified": "What color are the apples in the bottom wooden bin?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Are the oranges in the bottom wooden bin sitting in a market display?",
+      "modified": "Are the apples in the bottom wooden bin sitting in a market display?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Do the oranges in the bottom wooden bin fill most of the bin?",
+      "modified": "Do the apples in the bottom wooden bin fill most of the bin?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Are the oranges in the bottom wooden bin below the other fruit bins?",
+      "modified": "Are the apples in the bottom wooden bin below the other fruit bins?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Do the oranges in the bottom wooden bin appear larger than the green fruits above them?",
+      "modified": "Do the apples in the bottom wooden bin appear larger than the green fruits above them?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Are the oranges in the bottom wooden bin stacked neatly for sale?",
+      "modified": "Are the apples in the bottom wooden bin stacked neatly for sale?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Can you see the oranges in the bottom wooden bin clearly in the foreground?",
+      "modified": "Can you see the apples in the bottom wooden bin clearly in the foreground?",
+      "false_premise": true
+    }
+  ]
+}

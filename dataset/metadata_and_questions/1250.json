@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1250",
+    "source": "Open Images",
+    "complexity": 1,
+    "category": 2,
+    "target": "car"
+  },
+  "base": {
+    "target_description": "the blue sports car on display",
+    "modified_target_description": "the red sports car on display",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What color is the blue sports car on display?",
+      "modified": "What color is the blue sports car on display?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the blue sports car on display shown from the side?",
+      "modified": "Is the blue sports car on display shown from the side?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the blue sports car on display appear to be indoors?",
+      "modified": "Does the blue sports car on display appear to be indoors?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the blue sports car on display sitting on a platform?",
+      "modified": "Is the red sports car on display sitting on a platform?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the blue sports car on display have large silver wheels?",
+      "modified": "Does the red sports car on display have large silver wheels?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Can you see a rear spoiler on the blue sports car on display?",
+      "modified": "Can you see a rear spoiler on the red sports car on display?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the blue sports car on display facing toward the right side of the image?",
+      "modified": "Is the red sports car on display facing toward the right side of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the blue sports car on display look like a two-door vehicle?",
+      "modified": "Does the red sports car on display look like a two-door vehicle?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the blue sports car on display parked in front of a large screen?",
+      "modified": "Is the red sports car on display parked in front of a large screen?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Are the windows of the blue sports car on display darkly tinted?",
+      "modified": "Are the windows of the red sports car on display darkly tinted?",
+      "false_premise": true
+    }
+  ]
+}

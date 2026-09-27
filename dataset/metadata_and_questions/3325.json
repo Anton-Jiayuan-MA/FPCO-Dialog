@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3325",
+    "source": "COCO",
+    "complexity": 3,
+    "category": 3,
+    "target": "cow"
+  },
+  "base": {
+    "target_description": "the black cow with a white face",
+    "modified_target_description": "the black horse with a white face",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the black cow with a white face standing on the grass?",
+      "modified": "Is the black cow with a white face standing on the grass?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the black cow with a white face facing toward the camera?",
+      "modified": "Is the black cow with a white face facing toward the camera?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the black cow with a white face appear to be outdoors in a field?",
+      "modified": "Does the black cow with a white face appear to be outdoors in a field?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the black cow with a white face standing close to other cows?",
+      "modified": "Is the black horse with a white face standing close to other cows?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the black cow with a white face look larger than the calf beside it?",
+      "modified": "Does the black horse with a white face look larger than the calf beside it?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the black cow with a white face near the right side of the image?",
+      "modified": "Is the black horse with a white face near the right side of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Can you see the full body of the black cow with a white face?",
+      "modified": "Can you see the full body of the black horse with a white face?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the black cow with a white face seem to be calmly standing still?",
+      "modified": "Does the black horse with a white face seem to be calmly standing still?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the black cow with a white face one of the closest animals to the camera?",
+      "modified": "Is the black horse with a white face one of the closest animals to the camera?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the black cow with a white face lit by daylight?",
+      "modified": "Is the black horse with a white face lit by daylight?",
+      "false_premise": true
+    }
+  ]
+}

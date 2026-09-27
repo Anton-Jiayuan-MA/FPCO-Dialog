@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1469",
+    "source": "COCO",
+    "complexity": 1,
+    "category": 4,
+    "target": "pasta"
+  },
+  "base": {
+    "target_description": "the pasta with broccoli",
+    "modified_target_description": "the pasta with broccoli on the left",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What kind of dish is the pasta with broccoli?",
+      "modified": "What kind of dish is the pasta with broccoli?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the pasta with broccoli served on a plate or in a bowl?",
+      "modified": "Is the pasta with broccoli served on a plate or in a bowl?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the pasta with broccoli look freshly cooked?",
+      "modified": "Does the pasta with broccoli look freshly cooked?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "What is mixed in with the pasta with broccoli?",
+      "modified": "What is mixed in with the pasta with broccoli on the left?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the pasta with broccoli appear to have any sauce on it?",
+      "modified": "Does the pasta with broccoli on the left appear to have any sauce on it?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the pasta with broccoli arranged in a neat pile?",
+      "modified": "Is the pasta with broccoli on the left arranged in a neat pile?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the pasta with broccoli take up most of the plate?",
+      "modified": "Does the pasta with broccoli on the left take up most of the plate?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Are the noodles in the pasta with broccoli long and thin?",
+      "modified": "Are the noodles in the pasta with broccoli on the left long and thin?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the pasta with broccoli look like a main course?",
+      "modified": "Does the pasta with broccoli on the left look like a main course?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the pasta with broccoli shown close up in the image?",
+      "modified": "Is the pasta with broccoli on the left shown close up in the image?",
+      "false_premise": true
+    }
+  ]
+}

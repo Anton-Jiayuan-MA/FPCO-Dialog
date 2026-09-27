@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1252",
+    "source": "Open Images",
+    "complexity": 1,
+    "category": 2,
+    "target": "car"
+  },
+  "base": {
+    "target_description": "the beige vintage car with whitewall tires",
+    "modified_target_description": "the red vintage car with whitewall tires",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the beige vintage car with whitewall tires parked on grass?",
+      "modified": "Is the beige vintage car with whitewall tires parked on grass?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the beige vintage car with whitewall tires appear to be an older classic model?",
+      "modified": "Does the beige vintage car with whitewall tires appear to be an older classic model?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the beige vintage car with whitewall tires facing toward the left side of the image?",
+      "modified": "Is the beige vintage car with whitewall tires facing toward the left side of the image?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Can you see the front grille of the beige vintage car with whitewall tires clearly?",
+      "modified": "Can you see the front grille of the red vintage car with whitewall tires clearly?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the beige vintage car with whitewall tires have four visible doors?",
+      "modified": "Does the red vintage car with whitewall tires have four visible doors?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the beige vintage car with whitewall tires photographed outdoors?",
+      "modified": "Is the red vintage car with whitewall tires photographed outdoors?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the beige vintage car with whitewall tires have a rounded body shape?",
+      "modified": "Does the red vintage car with whitewall tires have a rounded body shape?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the beige vintage car with whitewall tires the main subject of the image?",
+      "modified": "Is the red vintage car with whitewall tires the main subject of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Can you see a license plate on the beige vintage car with whitewall tires?",
+      "modified": "Can you see a license plate on the red vintage car with whitewall tires?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the beige vintage car with whitewall tires shown from a front-side angle?",
+      "modified": "Is the red vintage car with whitewall tires shown from a front-side angle?",
+      "false_premise": true
+    }
+  ]
+}

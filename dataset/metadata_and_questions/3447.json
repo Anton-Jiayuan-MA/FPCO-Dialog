@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3447",
+    "source": "Open Images",
+    "complexity": 3,
+    "category": 4,
+    "target": "bread"
+  },
+  "base": {
+    "target_description": "the sliced toasted bread",
+    "modified_target_description": "the unsliced toasted bread",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the sliced toasted bread cut into several pieces?",
+      "modified": "Is the sliced toasted bread cut into several pieces?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the sliced toasted bread look lightly burnt on the crust?",
+      "modified": "Does the sliced toasted bread look lightly burnt on the crust?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the sliced toasted bread placed behind the bowl of dip?",
+      "modified": "Is the sliced toasted bread placed behind the bowl of dip?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the sliced toasted bread appear to be resting in a basket?",
+      "modified": "Does the unsliced toasted bread appear to be resting in a basket?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the sliced toasted bread served alongside a pretzel?",
+      "modified": "Is the unsliced toasted bread served alongside a pretzel?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the sliced toasted bread look crispy on the edges?",
+      "modified": "Does the unsliced toasted bread look crispy on the edges?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the sliced toasted bread partially overlapping with the bowl?",
+      "modified": "Is the unsliced toasted bread partially overlapping with the bowl?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the sliced toasted bread have a darker crust than its inside?",
+      "modified": "Does the unsliced toasted bread have a darker crust than its inside?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the sliced toasted bread arranged in a fan-like stack?",
+      "modified": "Is the unsliced toasted bread arranged in a fan-like stack?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the sliced toasted bread look ready to be dipped into the sauce?",
+      "modified": "Does the unsliced toasted bread look ready to be dipped into the sauce?",
+      "false_premise": true
+    }
+  ]
+}

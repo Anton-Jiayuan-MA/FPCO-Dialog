@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1286",
+    "source": "Open Images",
+    "complexity": 1,
+    "category": 2,
+    "target": "car"
+  },
+  "base": {
+    "target_description": "the light blue classic car",
+    "modified_target_description": "the light blue classic car on the right",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What color is the light blue classic car?",
+      "modified": "What color is the light blue classic car?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the light blue classic car parked indoors at a show?",
+      "modified": "Is the light blue classic car parked indoors at a show?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the light blue classic car have round headlights?",
+      "modified": "Does the light blue classic car have round headlights?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the light blue classic car facing toward the right side of the image?",
+      "modified": "Is the light blue classic car on the right facing toward the right side of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the light blue classic car have a shiny hood?",
+      "modified": "Does the light blue classic car on the right have a shiny hood?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Are the windows of the light blue classic car closed?",
+      "modified": "Are the windows of the light blue classic car on the right closed?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the light blue classic car appear to be on display rather than being driven?",
+      "modified": "Does the light blue classic car on the right appear to be on display rather than being driven?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Can you see the front wheel of the light blue classic car clearly?",
+      "modified": "Can you see the front wheel of the light blue classic car on the right clearly?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the light blue classic car surrounded by ropes or barriers?",
+      "modified": "Is the light blue classic car on the right surrounded by ropes or barriers?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the light blue classic car look clean and polished?",
+      "modified": "Does the light blue classic car on the right look clean and polished?",
+      "false_premise": true
+    }
+  ]
+}

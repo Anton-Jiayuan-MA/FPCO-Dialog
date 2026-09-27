@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2152",
+    "source": "Open Images",
+    "complexity": 2,
+    "category": 1,
+    "target": "woman"
+  },
+  "base": {
+    "target_description": "the woman in the blue dress",
+    "modified_target_description": "the woman in the red dress",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the woman in the blue dress standing beside a man holding a certificate?",
+      "modified": "Is the woman in the blue dress standing beside a man holding a certificate?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the woman in the blue dress smiling at the camera?",
+      "modified": "Is the woman in the blue dress smiling at the camera?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the woman in the blue dress appear to be wearing glasses?",
+      "modified": "Does the woman in the blue dress appear to be wearing glasses?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the woman in the blue dress positioned on the right side of the group?",
+      "modified": "Is the woman in the red dress positioned on the right side of the group?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the woman in the blue dress have curly hair?",
+      "modified": "Does the woman in the red dress have curly hair?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the woman in the blue dress standing on a stage or at an event?",
+      "modified": "Is the woman in the red dress standing on a stage or at an event?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the woman in the blue dress wearing a name badge?",
+      "modified": "Is the woman in the red dress wearing a name badge?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the woman in the blue dress taller than the woman in red next to her?",
+      "modified": "Is the woman in the red dress taller than the woman in red next to her?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the woman in the blue dress have one arm hanging down by her side?",
+      "modified": "Does the woman in the red dress have one arm hanging down by her side?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the woman in the blue dress leaning slightly toward the man in the center?",
+      "modified": "Is the woman in the red dress leaning slightly toward the man in the center?",
+      "false_premise": true
+    }
+  ]
+}

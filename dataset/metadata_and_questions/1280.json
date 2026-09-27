@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1280",
+    "source": "Open Images",
+    "complexity": 1,
+    "category": 2,
+    "target": "car"
+  },
+  "base": {
+    "target_description": "the white car with a for sale sign",
+    "modified_target_description": "the white car with a for sale sign on the left",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the white car with a for sale sign parked on gravel?",
+      "modified": "Is the white car with a for sale sign parked on gravel?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the white car with a for sale sign appear to be facing toward the left?",
+      "modified": "Does the white car with a for sale sign appear to be facing toward the left?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the white car with a for sale sign shown from the front and side?",
+      "modified": "Is the white car with a for sale sign shown from the front and side?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the white car with a for sale sign have four visible doors?",
+      "modified": "Does the white car with a for sale sign on the left have four visible doors?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the white car with a for sale sign parked outdoors?",
+      "modified": "Is the white car with a for sale sign on the left parked outdoors?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Can you see the windshield of the white car with a for sale sign clearly?",
+      "modified": "Can you see the windshield of the white car with a for sale sign on the left clearly?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is there a large sign in the front window of the white car with a for sale sign?",
+      "modified": "Is there a large sign in the front window of the white car with a for sale sign on the left?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the white car with a for sale sign have a dark bumper?",
+      "modified": "Does the white car with a for sale sign on the left have a dark bumper?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the white car with a for sale sign positioned in front of a black fence?",
+      "modified": "Is the white car with a for sale sign on the left positioned in front of a black fence?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Can the license plate on the white car with a for sale sign be seen?",
+      "modified": "Can the license plate on the white car with a for sale sign on the left be seen?",
+      "false_premise": true
+    }
+  ]
+}

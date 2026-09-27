@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3155",
+    "source": "Open Images",
+    "complexity": 3,
+    "category": 1,
+    "target": "person"
+  },
+  "base": {
+    "target_description": "the woman in a gray dress and glasses",
+    "modified_target_description": "the woman in a red dress and glasses",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the woman in a gray dress and glasses walking toward the camera?",
+      "modified": "Is the woman in a gray dress and glasses walking toward the camera?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the woman in a gray dress and glasses appear to be in the middle of the walkway?",
+      "modified": "Does the woman in a gray dress and glasses appear to be in the middle of the walkway?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the woman in a gray dress and glasses surrounded by other people?",
+      "modified": "Is the woman in a gray dress and glasses surrounded by other people?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the woman in a gray dress and glasses look like she is at an outdoor event?",
+      "modified": "Does the woman in a red dress and glasses look like she is at an outdoor event?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the woman in a gray dress and glasses carrying anything visible?",
+      "modified": "Is the woman in a red dress and glasses carrying anything visible?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the woman in a gray dress and glasses appear small in the frame compared with the crowd?",
+      "modified": "Does the woman in a red dress and glasses appear small in the frame compared with the crowd?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the woman in a gray dress and glasses dressed in business-style clothing?",
+      "modified": "Is the woman in a red dress and glasses dressed in business-style clothing?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Can you see the full body of the woman in a gray dress and glasses?",
+      "modified": "Can you see the full body of the woman in a red dress and glasses?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the woman in a gray dress and glasses closer to the tents than to the large building in the background?",
+      "modified": "Is the woman in a red dress and glasses closer to the tents than to the large building in the background?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the woman in a gray dress and glasses stand out from the darker-suited people around her?",
+      "modified": "Does the woman in a red dress and glasses stand out from the darker-suited people around her?",
+      "false_premise": true
+    }
+  ]
+}

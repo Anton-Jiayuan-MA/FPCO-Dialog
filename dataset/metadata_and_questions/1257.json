@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1257",
+    "source": "Open Images",
+    "complexity": 1,
+    "category": 2,
+    "target": "car"
+  },
+  "base": {
+    "target_description": "the white car with a symbol on its hood",
+    "modified_target_description": "the black car with a symbol on its hood",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the white car with a symbol on its hood parked in a lot?",
+      "modified": "Is the white car with a symbol on its hood parked in a lot?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the white car with a symbol on its hood appear to be viewed from the front?",
+      "modified": "Does the white car with a symbol on its hood appear to be viewed from the front?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the white car with a symbol on its hood next to another vehicle?",
+      "modified": "Is the white car with a symbol on its hood next to another vehicle?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the white car with a symbol on its hood have its windshield clearly visible?",
+      "modified": "Does the black car with a symbol on its hood have its windshield clearly visible?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the white car with a symbol on its hood sitting in sunlight?",
+      "modified": "Is the black car with a symbol on its hood sitting in sunlight?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the white car with a symbol on its hood look like a sedan?",
+      "modified": "Does the black car with a symbol on its hood look like a sedan?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Can you see the hood of the white car with a symbol on its hood prominently in the image?",
+      "modified": "Can you see the hood of the black car with a symbol on its hood prominently in the image?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the white car with a symbol on its hood facing toward the camera?",
+      "modified": "Is the black car with a symbol on its hood facing toward the camera?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the white car with a symbol on its hood have side mirrors visible?",
+      "modified": "Does the black car with a symbol on its hood have side mirrors visible?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the white car with a symbol on its hood the main focus of the image?",
+      "modified": "Is the black car with a symbol on its hood the main focus of the image?",
+      "false_premise": true
+    }
+  ]
+}

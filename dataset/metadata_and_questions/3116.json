@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3116",
+    "source": "COCO",
+    "complexity": 3,
+    "category": 1,
+    "target": "man"
+  },
+  "base": {
+    "target_description": "the man wearing a hat and glasses",
+    "modified_target_description": "the woman wearing a hat and glasses",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the man wearing a hat and glasses holding in his hands?",
+      "modified": "What is the man wearing a hat and glasses holding in his hands?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the man wearing a hat and glasses using a pair of scissors?",
+      "modified": "Is the man wearing a hat and glasses using a pair of scissors?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "What is the man wearing a hat and glasses doing with the sheet of paper?",
+      "modified": "What is the man wearing a hat and glasses doing with the sheet of paper?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the man wearing a hat and glasses sitting at a table?",
+      "modified": "Is the woman wearing a hat and glasses sitting at a table?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the man wearing a hat and glasses appear focused on a task?",
+      "modified": "Does the woman wearing a hat and glasses appear focused on a task?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "What color are the scissors the man wearing a hat and glasses is using?",
+      "modified": "What color are the scissors the woman wearing a hat and glasses is using?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the man wearing a hat and glasses near a laptop?",
+      "modified": "Is the woman wearing a hat and glasses near a laptop?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the man wearing a hat and glasses have facial hair?",
+      "modified": "Does the woman wearing a hat and glasses have facial hair?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the man wearing a hat and glasses indoors or outdoors?",
+      "modified": "Is the woman wearing a hat and glasses indoors or outdoors?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the man wearing a hat and glasses cutting along the edge of the paper?",
+      "modified": "Is the woman wearing a hat and glasses cutting along the edge of the paper?",
+      "false_premise": true
+    }
+  ]
+}

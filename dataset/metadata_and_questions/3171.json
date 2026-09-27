@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3171",
+    "source": "Open Images",
+    "complexity": 3,
+    "category": 1,
+    "target": "person"
+  },
+  "base": {
+    "target_description": "the older woman in a patterned blouse",
+    "modified_target_description": "the older woman in a patterned blouse on the left",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the older woman in a patterned blouse dancing in the room?",
+      "modified": "Is the older woman in a patterned blouse dancing in the room?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "What direction is the older woman in a patterned blouse facing?",
+      "modified": "What direction is the older woman in a patterned blouse facing?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the older woman in a patterned blouse appear to be smiling?",
+      "modified": "Does the older woman in a patterned blouse appear to be smiling?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the older woman in a patterned blouse standing near other people?",
+      "modified": "Is the older woman in a patterned blouse on the left standing near other people?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "What is the older woman in a patterned blouse holding, if anything?",
+      "modified": "What is the older woman in a patterned blouse on the left holding, if anything?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the older woman in a patterned blouse closer to the right side of the image?",
+      "modified": "Is the older woman in a patterned blouse on the left closer to the right side of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the older woman in a patterned blouse look like she is enjoying the event?",
+      "modified": "Does the older woman in a patterned blouse on the left look like she is enjoying the event?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the older woman in a patterned blouse on the dance floor area?",
+      "modified": "Is the older woman in a patterned blouse on the left on the dance floor area?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "What color is the skirt worn by the older woman in a patterned blouse?",
+      "modified": "What color is the skirt worn by the older woman in a patterned blouse on the left?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the older woman in a patterned blouse indoors?",
+      "modified": "Is the older woman in a patterned blouse on the left indoors?",
+      "false_premise": true
+    }
+  ]
+}

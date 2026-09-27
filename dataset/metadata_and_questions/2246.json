@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2246",
+    "source": "COCO",
+    "complexity": 2,
+    "category": 2,
+    "target": "train"
+  },
+  "base": {
+    "target_description": "the yellow and gray train",
+    "modified_target_description": "the blue and gray train",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What color is the yellow and gray train?",
+      "modified": "What color is the yellow and gray train?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the yellow and gray train facing another train?",
+      "modified": "Is the yellow and gray train facing another train?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the yellow and gray train appear to be on railroad tracks?",
+      "modified": "Does the yellow and gray train appear to be on railroad tracks?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Can you see windows on the yellow and gray train?",
+      "modified": "Can you see windows on the blue and gray train?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the yellow and gray train viewed from the front or the side?",
+      "modified": "Is the blue and gray train viewed from the front or the side?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the yellow and gray train look stationary in this image?",
+      "modified": "Does the blue and gray train look stationary in this image?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the yellow and gray train connected closely to another train?",
+      "modified": "Is the blue and gray train connected closely to another train?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the yellow and gray train have a dark roof?",
+      "modified": "Does the blue and gray train have a dark roof?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the yellow and gray train in a rail yard or station area?",
+      "modified": "Is the blue and gray train in a rail yard or station area?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Can you see any identifying numbers on the yellow and gray train?",
+      "modified": "Can you see any identifying numbers on the blue and gray train?",
+      "false_premise": true
+    }
+  ]
+}

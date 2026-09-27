@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1230",
+    "source": "COCO",
+    "complexity": 1,
+    "category": 2,
+    "target": "train"
+  },
+  "base": {
+    "target_description": "the black steam train",
+    "modified_target_description": "the black steam bus",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What direction is the black steam train facing in the image?",
+      "modified": "What direction is the black steam train facing in the image?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the black steam train moving or parked on the tracks?",
+      "modified": "Is the black steam train moving or parked on the tracks?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "What kind of engine does the black steam train appear to have?",
+      "modified": "What kind of engine does the black steam train appear to have?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the black steam train viewed from the front or the side?",
+      "modified": "Is the black steam bus viewed from the front or the side?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the black steam train look old-fashioned or modern?",
+      "modified": "Does the black steam bus look old-fashioned or modern?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "What is attached behind the black steam train?",
+      "modified": "What is attached behind the black steam bus?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Are the wheels of the black steam train visible in the picture?",
+      "modified": "Are the wheels of the black steam bus visible in the picture?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the black steam train outdoors in daylight?",
+      "modified": "Is the black steam bus outdoors in daylight?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the black steam train take up most of the frame?",
+      "modified": "Does the black steam bus take up most of the frame?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is smoke coming out of the black steam train?",
+      "modified": "Is smoke coming out of the black steam bus?",
+      "false_premise": true
+    }
+  ]
+}

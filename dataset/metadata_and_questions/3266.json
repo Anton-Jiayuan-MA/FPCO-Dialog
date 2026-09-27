@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3266",
+    "source": "Open Images",
+    "complexity": 3,
+    "category": 2,
+    "target": "car"
+  },
+  "base": {
+    "target_description": "the white two-door car in the foreground",
+    "modified_target_description": "the white two-door car in the background",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the white two-door car in the foreground parked in a lot?",
+      "modified": "Is the white two-door car in the foreground parked in a lot?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the white two-door car in the foreground look like an older model vehicle?",
+      "modified": "Does the white two-door car in the foreground look like an older model vehicle?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the white two-door car in the foreground facing toward the right side of the image?",
+      "modified": "Is the white two-door car in the foreground facing toward the right side of the image?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Are the windows of the white two-door car in the foreground closed?",
+      "modified": "Are the windows of the white two-door car in the background closed?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the white two-door car in the foreground have a black bumper?",
+      "modified": "Does the white two-door car in the background have a black bumper?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the white two-door car in the foreground parked next to a dark-colored car?",
+      "modified": "Is the white two-door car in the background parked next to a dark-colored car?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Can you see the front headlights of the white two-door car in the foreground clearly?",
+      "modified": "Can you see the front headlights of the white two-door car in the background clearly?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the white two-door car in the foreground appear to be clean overall?",
+      "modified": "Does the white two-door car in the background appear to be clean overall?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the white two-door car in the foreground taking up most of the image?",
+      "modified": "Is the white two-door car in the background taking up most of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the white two-door car in the foreground viewed from an angled front-side perspective?",
+      "modified": "Is the white two-door car in the background viewed from an angled front-side perspective?",
+      "false_premise": true
+    }
+  ]
+}

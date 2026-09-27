@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1158",
+    "source": "Open Images",
+    "complexity": 1,
+    "category": 1,
+    "target": "woman"
+  },
+  "base": {
+    "target_description": "the woman wearing sunglasses and a plaid poncho",
+    "modified_target_description": "the woman wearing sunglasses and a striped poncho",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the woman wearing sunglasses and a plaid poncho doing in the street?",
+      "modified": "What is the woman wearing sunglasses and a plaid poncho doing in the street?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the woman wearing sunglasses and a plaid poncho smiling?",
+      "modified": "Is the woman wearing sunglasses and a plaid poncho smiling?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "What kind of vehicle is the woman wearing sunglasses and a plaid poncho on?",
+      "modified": "What kind of vehicle is the woman wearing sunglasses and a plaid poncho on?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the woman wearing sunglasses and a plaid poncho have both hands on the handlebars?",
+      "modified": "Does the woman wearing sunglasses and a striped poncho have both hands on the handlebars?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the woman wearing sunglasses and a plaid poncho facing the camera?",
+      "modified": "Is the woman wearing sunglasses and a striped poncho facing the camera?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "What color are the sunglasses on the woman wearing sunglasses and a plaid poncho?",
+      "modified": "What color are the sunglasses on the woman wearing sunglasses and a striped poncho?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the woman wearing sunglasses and a plaid poncho riding a green bike?",
+      "modified": "Is the woman wearing sunglasses and a striped poncho riding a green bike?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the woman wearing sunglasses and a plaid poncho appear to be outdoors?",
+      "modified": "Does the woman wearing sunglasses and a striped poncho appear to be outdoors?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "What is draped over the shoulders of the woman wearing sunglasses and a plaid poncho?",
+      "modified": "What is draped over the shoulders of the woman wearing sunglasses and a striped poncho?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the woman wearing sunglasses and a plaid poncho sitting upright on the bicycle?",
+      "modified": "Is the woman wearing sunglasses and a striped poncho sitting upright on the bicycle?",
+      "false_premise": true
+    }
+  ]
+}

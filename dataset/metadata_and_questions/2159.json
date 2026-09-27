@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2159",
+    "source": "COCO",
+    "complexity": 2,
+    "category": 1,
+    "target": "man"
+  },
+  "base": {
+    "target_description": "the bald man in black",
+    "modified_target_description": "the man in white",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the bald man in black doing near the stairs?",
+      "modified": "What is the bald man in black doing near the stairs?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the bald man in black bending down in the hallway?",
+      "modified": "Is the bald man in black bending down in the hallway?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Where is the bald man in black positioned relative to the woman?",
+      "modified": "Where is the bald man in black positioned relative to the woman?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the bald man in black appear to be looking toward the floor?",
+      "modified": "Does the man in white appear to be looking toward the floor?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the bald man in black standing upright or crouching slightly?",
+      "modified": "Is the man in white standing upright or crouching slightly?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "What is the bald man in black holding, if anything?",
+      "modified": "What is the man in white holding, if anything?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the bald man in black indoors near a doorway?",
+      "modified": "Is the man in white indoors near a doorway?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "How close is the bald man in black to the suitcase?",
+      "modified": "How close is the man in white to the suitcase?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the bald man in black seem to be interacting with the woman beside him?",
+      "modified": "Does the man in white seem to be interacting with the woman beside him?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Which direction is the bald man in black facing in the scene?",
+      "modified": "Which direction is the man in white facing in the scene?",
+      "false_premise": true
+    }
+  ]
+}

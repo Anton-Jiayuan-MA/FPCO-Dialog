@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3449",
+    "source": "Open Images",
+    "complexity": 3,
+    "category": 4,
+    "target": "fruit"
+  },
+  "base": {
+    "target_description": "the orange fruit in the wooden crate",
+    "modified_target_description": "the green fruit in the wooden crate",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the orange fruit in the wooden crate near the black price sign?",
+      "modified": "Is the orange fruit in the wooden crate near the black price sign?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the orange fruit in the wooden crate look round and ripe?",
+      "modified": "Does the orange fruit in the wooden crate look round and ripe?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the orange fruit in the wooden crate sitting among other pieces of fruit?",
+      "modified": "Is the orange fruit in the wooden crate sitting among other pieces of fruit?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Can you see the orange fruit in the wooden crate clearly in the foreground?",
+      "modified": "Can you see the green fruit in the wooden crate clearly in the foreground?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the orange fruit in the wooden crate placed below the sign that says fresh fruit?",
+      "modified": "Is the green fruit in the wooden crate placed below the sign that says fresh fruit?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the orange fruit in the wooden crate appear to have a textured peel?",
+      "modified": "Does the green fruit in the wooden crate appear to have a textured peel?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the orange fruit in the wooden crate inside the left section of the display?",
+      "modified": "Is the green fruit in the wooden crate inside the left section of the display?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the orange fruit in the wooden crate look larger than the small oranges nearby?",
+      "modified": "Does the green fruit in the wooden crate look larger than the small oranges nearby?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the orange fruit in the wooden crate resting against other fruit in the bin?",
+      "modified": "Is the green fruit in the wooden crate resting against other fruit in the bin?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Would you describe the orange fruit in the wooden crate as part of a market display?",
+      "modified": "Would you describe the green fruit in the wooden crate as part of a market display?",
+      "false_premise": true
+    }
+  ]
+}

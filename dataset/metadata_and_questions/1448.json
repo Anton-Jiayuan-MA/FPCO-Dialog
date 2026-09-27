@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1448",
+    "source": "Open Images",
+    "complexity": 1,
+    "category": 4,
+    "target": "sandwich"
+  },
+  "base": {
+    "target_description": "the sandwich in a long roll",
+    "modified_target_description": "the sandwich in a round roll",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What ingredients can you see inside the sandwich in a long roll?",
+      "modified": "What ingredients can you see inside the sandwich in a long roll?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the sandwich in a long roll cut open from the side?",
+      "modified": "Is the sandwich in a long roll cut open from the side?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the sandwich in a long roll look freshly made?",
+      "modified": "Does the sandwich in a long roll look freshly made?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Can you see leafy herbs sticking out of the sandwich in a long roll?",
+      "modified": "Can you see leafy herbs sticking out of the sandwich in a round roll?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the sandwich in a long roll filled with pieces of meat?",
+      "modified": "Is the sandwich in a round roll filled with pieces of meat?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the sandwich in a long roll appear to be served on a plate?",
+      "modified": "Does the sandwich in a round roll appear to be served on a plate?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the sandwich in a long roll shown close up in the image?",
+      "modified": "Is the sandwich in a round roll shown close up in the image?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the bread of the sandwich in a long roll look soft and lightly browned?",
+      "modified": "Does the bread of the sandwich in a round roll look soft and lightly browned?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Can you see vegetables tucked into the sandwich in a long roll?",
+      "modified": "Can you see vegetables tucked into the sandwich in a round roll?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the sandwich in a long roll the main focus of the picture?",
+      "modified": "Is the sandwich in a round roll the main focus of the picture?",
+      "false_premise": true
+    }
+  ]
+}

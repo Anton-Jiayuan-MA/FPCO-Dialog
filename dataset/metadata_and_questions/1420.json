@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1420",
+    "source": "COCO",
+    "complexity": 1,
+    "category": 4,
+    "target": "cake"
+  },
+  "base": {
+    "target_description": "the rectangular birthday cake with planets",
+    "modified_target_description": "the rectangular pizza with planets",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What words are written on the rectangular birthday cake with planets?",
+      "modified": "What words are written on the rectangular birthday cake with planets?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "What kind of design is shown on the rectangular birthday cake with planets?",
+      "modified": "What kind of design is shown on the rectangular birthday cake with planets?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the rectangular birthday cake with planets sitting on a table?",
+      "modified": "Is the rectangular birthday cake with planets sitting on a table?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the rectangular birthday cake with planets have piped frosting around the edges?",
+      "modified": "Does the rectangular pizza with planets have piped frosting around the edges?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "What color is the frosting border on the rectangular birthday cake with planets?",
+      "modified": "What color is the frosting border on the rectangular pizza with planets?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the rectangular birthday cake with planets look large enough for a party?",
+      "modified": "Does the rectangular pizza with planets look large enough for a party?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the rectangular birthday cake with planets decorated for a birthday celebration?",
+      "modified": "Is the rectangular pizza with planets decorated for a birthday celebration?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Can you see multiple planets on the rectangular birthday cake with planets?",
+      "modified": "Can you see multiple planets on the rectangular pizza with planets?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the rectangular birthday cake with planets photographed from a slightly elevated angle?",
+      "modified": "Is the rectangular pizza with planets photographed from a slightly elevated angle?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the rectangular birthday cake with planets have a space-themed picture on top?",
+      "modified": "Does the rectangular pizza with planets have a space-themed picture on top?",
+      "false_premise": true
+    }
+  ]
+}

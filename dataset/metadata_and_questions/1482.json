@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1482",
+    "source": "COCO",
+    "complexity": 1,
+    "category": 4,
+    "target": "cake"
+  },
+  "base": {
+    "target_description": "the slice of chocolate cake on the paper plate",
+    "modified_target_description": "the slice of chocolate cake by the paper plate",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What kind of dessert is the slice of chocolate cake on the paper plate?",
+      "modified": "What kind of dessert is the slice of chocolate cake on the paper plate?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the slice of chocolate cake on the paper plate partly eaten or untouched?",
+      "modified": "Is the slice of chocolate cake on the paper plate partly eaten or untouched?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "How many visible layers are in the slice of chocolate cake on the paper plate?",
+      "modified": "How many visible layers are in the slice of chocolate cake on the paper plate?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the slice of chocolate cake on the paper plate appear to have frosting between the layers?",
+      "modified": "Does the slice of chocolate cake by the paper plate appear to have frosting between the layers?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the slice of chocolate cake on the paper plate sitting by itself?",
+      "modified": "Is the slice of chocolate cake by the paper plate sitting by itself?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "What is the slice of chocolate cake on the paper plate resting on?",
+      "modified": "What is the slice of chocolate cake by the paper plate resting on?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the slice of chocolate cake on the paper plate look moist and rich?",
+      "modified": "Does the slice of chocolate cake by the paper plate look moist and rich?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the slice of chocolate cake on the paper plate next to a plastic fork?",
+      "modified": "Is the slice of chocolate cake by the paper plate next to a plastic fork?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Would you say the slice of chocolate cake on the paper plate is a single serving?",
+      "modified": "Would you say the slice of chocolate cake by the paper plate is a single serving?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the slice of chocolate cake on the paper plate indoors or outdoors?",
+      "modified": "Is the slice of chocolate cake by the paper plate indoors or outdoors?",
+      "false_premise": true
+    }
+  ]
+}

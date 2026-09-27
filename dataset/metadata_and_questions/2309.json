@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2309",
+    "source": "COCO",
+    "complexity": 2,
+    "category": 3,
+    "target": "cat"
+  },
+  "base": {
+    "target_description": "the black and white cat with a raised paw",
+    "modified_target_description": "the black and white dog with a raised paw",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the black and white cat with a raised paw reaching toward?",
+      "modified": "What is the black and white cat with a raised paw reaching toward?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the black and white cat with a raised paw looking upward?",
+      "modified": "Is the black and white cat with a raised paw looking upward?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the black and white cat with a raised paw seem to be standing on its hind legs?",
+      "modified": "Does the black and white cat with a raised paw seem to be standing on its hind legs?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the black and white cat with a raised paw closer to the camera than the other cat?",
+      "modified": "Is the black and white dog with a raised paw closer to the camera than the other cat?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the black and white cat with a raised paw appear to be playing?",
+      "modified": "Does the black and white dog with a raised paw appear to be playing?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the black and white cat with a raised paw indoors?",
+      "modified": "Is the black and white dog with a raised paw indoors?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Can you see the face of the black and white cat with a raised paw clearly?",
+      "modified": "Can you see the face of the black and white dog with a raised paw clearly?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the black and white cat with a raised paw in front of another cat?",
+      "modified": "Is the black and white dog with a raised paw in front of another cat?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the black and white cat with a raised paw have its paw lifted high in the air?",
+      "modified": "Does the black and white dog with a raised paw have its paw lifted high in the air?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the black and white cat with a raised paw the main focus of the image?",
+      "modified": "Is the black and white dog with a raised paw the main focus of the image?",
+      "false_premise": true
+    }
+  ]
+}

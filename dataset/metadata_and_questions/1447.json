@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1447",
+    "source": "Open Images",
+    "complexity": 1,
+    "category": 4,
+    "target": "taco"
+  },
+  "base": {
+    "target_description": "the open taco with eggs and shredded cheese",
+    "modified_target_description": "the open taco with eggs and lettuce",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What fillings can you see in the open taco with eggs and shredded cheese?",
+      "modified": "What fillings can you see in the open taco with eggs and shredded cheese?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the open taco with eggs and shredded cheese folded closed or left open?",
+      "modified": "Is the open taco with eggs and shredded cheese folded closed or left open?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the open taco with eggs and shredded cheese look ready to eat?",
+      "modified": "Does the open taco with eggs and shredded cheese look ready to eat?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Can you see any meat inside the open taco with eggs and shredded cheese?",
+      "modified": "Can you see any meat inside the open taco with eggs and lettuce?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the open taco with eggs and shredded cheese sitting on a plate or directly on a surface?",
+      "modified": "Is the open taco with eggs and lettuce sitting on a plate or directly on a surface?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the open taco with eggs and shredded cheese appear to be a breakfast item?",
+      "modified": "Does the open taco with eggs and lettuce appear to be a breakfast item?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the tortilla in the open taco with eggs and shredded cheese soft or crispy?",
+      "modified": "Is the tortilla in the open taco with eggs and lettuce soft or crispy?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the open taco with eggs and shredded cheese have more than one topping visible?",
+      "modified": "Does the open taco with eggs and lettuce have more than one topping visible?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the open taco with eggs and shredded cheese shown from above?",
+      "modified": "Is the open taco with eggs and lettuce shown from above?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the open taco with eggs and shredded cheese look homemade?",
+      "modified": "Does the open taco with eggs and lettuce look homemade?",
+      "false_premise": true
+    }
+  ]
+}

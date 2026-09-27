@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1466",
+    "source": "COCO",
+    "complexity": 1,
+    "category": 4,
+    "target": "hot dog"
+  },
+  "base": {
+    "target_description": "the hot dog in a bun",
+    "modified_target_description": "the hot dog in a bun on the left",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the hot dog in a bun placed on a white plate?",
+      "modified": "Is the hot dog in a bun placed on a white plate?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the hot dog in a bun have sauce drizzled across the top?",
+      "modified": "Does the hot dog in a bun have sauce drizzled across the top?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the hot dog in a bun centered in the plate?",
+      "modified": "Is the hot dog in a bun centered in the plate?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the hot dog in a bun look toasted or grilled?",
+      "modified": "Does the hot dog in a bun on the left look toasted or grilled?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the hot dog in a bun being served as a meal on the table?",
+      "modified": "Is the hot dog in a bun on the left being served as a meal on the table?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the hot dog in a bun appear longer than it is wide?",
+      "modified": "Does the hot dog in a bun on the left appear longer than it is wide?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the hot dog in a bun viewed from above?",
+      "modified": "Is the hot dog in a bun on the left viewed from above?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the hot dog in a bun have both red and white toppings on it?",
+      "modified": "Does the hot dog in a bun on the left have both red and white toppings on it?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the hot dog in a bun the main food item shown in the image?",
+      "modified": "Is the hot dog in a bun on the left the main food item shown in the image?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the hot dog in a bun look ready to eat?",
+      "modified": "Does the hot dog in a bun on the left look ready to eat?",
+      "false_premise": true
+    }
+  ]
+}

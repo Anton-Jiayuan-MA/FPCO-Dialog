@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3390",
+    "source": "COCO",
+    "complexity": 3,
+    "category": 3,
+    "target": "zebra"
+  },
+  "base": {
+    "target_description": "the zebra with its back facing the camera",
+    "modified_target_description": "the zebra on the right",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the zebra with its back facing the camera doing in the grass?",
+      "modified": "What is the zebra with its back facing the camera doing in the grass?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the zebra with its back facing the camera standing still or moving?",
+      "modified": "Is the zebra with its back facing the camera standing still or moving?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Which direction is the zebra with its back facing the camera facing?",
+      "modified": "Which direction is the zebra with its back facing the camera facing?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the zebra with its back facing the camera close to another zebra?",
+      "modified": "Is the zebra on the right close to another zebra?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Can you see the tail of the zebra with its back facing the camera?",
+      "modified": "Can you see the tail of the zebra on the right?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the zebra with its back facing the camera appear to be grazing?",
+      "modified": "Does the zebra on the right appear to be grazing?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the zebra with its back facing the camera in a grassy area?",
+      "modified": "Is the zebra on the right in a grassy area?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "How much of the zebra with its back facing the camera is visible in the image?",
+      "modified": "How much of the zebra on the right is visible in the image?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Are the stripes on the zebra with its back facing the camera clearly visible?",
+      "modified": "Are the stripes on the zebra on the right clearly visible?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the zebra with its back facing the camera the closest zebra to the viewer?",
+      "modified": "Is the zebra on the right the closest zebra to the viewer?",
+      "false_premise": true
+    }
+  ]
+}

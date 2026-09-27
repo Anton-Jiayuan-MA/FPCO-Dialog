@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1271",
+    "source": "Open Images",
+    "complexity": 1,
+    "category": 2,
+    "target": "truck"
+  },
+  "base": {
+    "target_description": "the white work truck with company logos",
+    "modified_target_description": "the white work truck with company logos on the right",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the white work truck with company logos driving on a road?",
+      "modified": "Is the white work truck with company logos driving on a road?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the white work truck with company logos have a driver visible through the windshield?",
+      "modified": "Does the white work truck with company logos have a driver visible through the windshield?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the white work truck with company logos in the foreground of the image?",
+      "modified": "Is the white work truck with company logos in the foreground of the image?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Are there traffic cones near the white work truck with company logos?",
+      "modified": "Are there traffic cones near the white work truck with company logos on the right?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the white work truck with company logos facing toward the camera?",
+      "modified": "Is the white work truck with company logos on the right facing toward the camera?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the white work truck with company logos appear to be moving in a traffic lane?",
+      "modified": "Does the white work truck with company logos on the right appear to be moving in a traffic lane?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Can you see writing on the side of the white work truck with company logos?",
+      "modified": "Can you see writing on the side of the white work truck with company logos on the right?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the white work truck with company logos larger than the blue vehicle behind it?",
+      "modified": "Is the white work truck with company logos on the right larger than the blue vehicle behind it?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the white work truck with company logos traveling beside a road barrier?",
+      "modified": "Is the white work truck with company logos on the right traveling beside a road barrier?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the white work truck with company logos look like a commercial vehicle?",
+      "modified": "Does the white work truck with company logos on the right look like a commercial vehicle?",
+      "false_premise": true
+    }
+  ]
+}

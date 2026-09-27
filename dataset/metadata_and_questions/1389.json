@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1389",
+    "source": "COCO",
+    "complexity": 1,
+    "category": 3,
+    "target": "bear"
+  },
+  "base": {
+    "target_description": "the white bear on the rocks",
+    "modified_target_description": "the white bear near the fence",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the white bear on the rocks looking toward?",
+      "modified": "What is the white bear on the rocks looking toward?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the white bear on the rocks standing still or moving?",
+      "modified": "Is the white bear on the rocks standing still or moving?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the white bear on the rocks appear to be in a zoo enclosure?",
+      "modified": "Does the white bear on the rocks appear to be in a zoo enclosure?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "What is directly behind the white bear on the rocks?",
+      "modified": "What is directly behind the white bear near the fence?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the white bear on the rocks surrounded by large stones?",
+      "modified": "Is the white bear near the fence surrounded by large stones?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the white bear on the rocks look calm in this scene?",
+      "modified": "Does the white bear near the fence look calm in this scene?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the white bear on the rocks facing left or right?",
+      "modified": "Is the white bear near the fence facing left or right?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "What kind of area is the white bear on the rocks standing in?",
+      "modified": "What kind of area is the white bear near the fence standing in?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Can you see the full body of the white bear on the rocks?",
+      "modified": "Can you see the full body of the white bear near the fence?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the white bear on the rocks near a fence?",
+      "modified": "Is the white bear near the fence near a fence?",
+      "false_premise": true
+    }
+  ]
+}

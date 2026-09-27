@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1422",
+    "source": "COCO",
+    "complexity": 1,
+    "category": 4,
+    "target": "pizza"
+  },
+  "base": {
+    "target_description": "the sliced pizza with black olives",
+    "modified_target_description": "the sliced cake with black olives",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "How many slices does the sliced pizza with black olives appear to be cut into?",
+      "modified": "How many slices does the sliced pizza with black olives appear to be cut into?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "What toppings can you see on the sliced pizza with black olives besides the olives?",
+      "modified": "What toppings can you see on the sliced pizza with black olives besides the olives?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the sliced pizza with black olives have a thick crust?",
+      "modified": "Does the sliced pizza with black olives have a thick crust?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the cheese on the sliced pizza with black olives melted and browned?",
+      "modified": "Is the cheese on the sliced cake with black olives melted and browned?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the sliced pizza with black olives look freshly baked?",
+      "modified": "Does the sliced cake with black olives look freshly baked?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Are the slices of the sliced pizza with black olives already separated?",
+      "modified": "Are the slices of the sliced cake with black olives already separated?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "What color is the crust on the sliced pizza with black olives?",
+      "modified": "What color is the crust on the sliced cake with black olives?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the sliced pizza with black olives appear to be sitting on a plate or in a box?",
+      "modified": "Does the sliced cake with black olives appear to be sitting on a plate or in a box?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the sliced pizza with black olives shown from close up?",
+      "modified": "Is the sliced cake with black olives shown from close up?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the sliced pizza with black olives look like it has a generous amount of toppings?",
+      "modified": "Does the sliced cake with black olives look like it has a generous amount of toppings?",
+      "false_premise": true
+    }
+  ]
+}

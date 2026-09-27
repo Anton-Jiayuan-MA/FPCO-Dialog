@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2189",
+    "source": "COCO",
+    "complexity": 2,
+    "category": 1,
+    "target": "person"
+  },
+  "base": {
+    "target_description": "the skier in black pointing uphill",
+    "modified_target_description": "the skier in black on the right",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the skier in black pointing uphill doing with one arm?",
+      "modified": "What is the skier in black pointing uphill doing with one arm?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the skier in black pointing uphill standing still or moving?",
+      "modified": "Is the skier in black pointing uphill standing still or moving?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "What kind of gear is the skier in black pointing uphill using on the snow?",
+      "modified": "What kind of gear is the skier in black pointing uphill using on the snow?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Which direction is the skier in black pointing uphill facing?",
+      "modified": "Which direction is the skier in black on the right facing?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the skier in black pointing uphill appear to be talking or signaling to the others?",
+      "modified": "Does the skier in black on the right appear to be talking or signaling to the others?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Where is the skier in black pointing uphill positioned on the snowy path?",
+      "modified": "Where is the skier in black on the right positioned on the snowy path?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the skier in black pointing uphill holding ski poles?",
+      "modified": "Is the skier in black on the right holding ski poles?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "What is the skier in black pointing uphill wearing on the head?",
+      "modified": "What is the skier in black on the right wearing on the head?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the skier in black pointing uphill look balanced on the skis?",
+      "modified": "Does the skier in black on the right look balanced on the skis?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Who is the skier in black pointing uphill interacting with nearby?",
+      "modified": "Who is the skier in black on the right interacting with nearby?",
+      "false_premise": true
+    }
+  ]
+}

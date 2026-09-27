@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2330",
+    "source": "Open Images",
+    "complexity": 2,
+    "category": 3,
+    "target": "sheep"
+  },
+  "base": {
+    "target_description": "the sheep on the left",
+    "modified_target_description": "the dog on the left",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What color is the sheep on the left?",
+      "modified": "What color is the sheep on the left?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the sheep on the left facing toward the camera?",
+      "modified": "Is the sheep on the left facing toward the camera?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the sheep on the left standing still?",
+      "modified": "Is the sheep on the left standing still?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the sheep on the left appear to be in a grassy area?",
+      "modified": "Does the dog on the left appear to be in a grassy area?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Are the ears of the sheep on the left sticking out to the sides?",
+      "modified": "Are the ears of the dog on the left sticking out to the sides?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the sheep on the left have a light-colored body and a darker face?",
+      "modified": "Does the dog on the left have a light-colored body and a darker face?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the sheep on the left closer to the camera than the other sheep?",
+      "modified": "Is the dog on the left closer to the camera than the other sheep?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Can you see all four legs of the sheep on the left?",
+      "modified": "Can you see all four legs of the dog on the left?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the sheep on the left standing on ground covered with leaves?",
+      "modified": "Is the dog on the left standing on ground covered with leaves?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the sheep on the left look directly at the viewer?",
+      "modified": "Does the dog on the left look directly at the viewer?",
+      "false_premise": true
+    }
+  ]
+}

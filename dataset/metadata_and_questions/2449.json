@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2449",
+    "source": "COCO",
+    "complexity": 2,
+    "category": 4,
+    "target": "cake"
+  },
+  "base": {
+    "target_description": "the sliced cake on the plate",
+    "modified_target_description": "the chocolate cake on the plate",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What color is the sliced cake on the plate?",
+      "modified": "What color is the sliced cake on the plate?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the sliced cake on the plate have any filling visible inside?",
+      "modified": "Does the sliced cake on the plate have any filling visible inside?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the sliced cake on the plate cut into a thick piece?",
+      "modified": "Is the sliced cake on the plate cut into a thick piece?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "What is the sliced cake on the plate resting on?",
+      "modified": "What is the chocolate cake on the plate resting on?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the sliced cake on the plate look soft and fluffy?",
+      "modified": "Does the chocolate cake on the plate look soft and fluffy?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the sliced cake on the plate near another whole cake?",
+      "modified": "Is the chocolate cake on the plate near another whole cake?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Can you see powdered sugar on the sliced cake on the plate?",
+      "modified": "Can you see powdered sugar on the chocolate cake on the plate?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the sliced cake on the plate positioned in the center of the dish?",
+      "modified": "Is the chocolate cake on the plate positioned in the center of the dish?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the sliced cake on the plate appear to be sweet?",
+      "modified": "Does the chocolate cake on the plate appear to be sweet?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the sliced cake on the plate served as a single slice?",
+      "modified": "Is the chocolate cake on the plate served as a single slice?",
+      "false_premise": true
+    }
+  ]
+}

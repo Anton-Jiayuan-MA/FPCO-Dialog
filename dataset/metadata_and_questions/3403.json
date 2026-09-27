@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3403",
+    "source": "COCO",
+    "complexity": 3,
+    "category": 4,
+    "target": "orange"
+  },
+  "base": {
+    "target_description": "the orange in the patterned bowl",
+    "modified_target_description": "the apple in the patterned bowl",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the orange in the patterned bowl whole or sliced?",
+      "modified": "Is the orange in the patterned bowl whole or sliced?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the orange in the patterned bowl look ripe and fresh?",
+      "modified": "Does the orange in the patterned bowl look ripe and fresh?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the orange in the patterned bowl sitting near other oranges?",
+      "modified": "Is the orange in the patterned bowl sitting near other oranges?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Can you see the orange in the patterned bowl clearly from the front?",
+      "modified": "Can you see the apple in the patterned bowl clearly from the front?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the orange in the patterned bowl have a textured peel?",
+      "modified": "Does the apple in the patterned bowl have a textured peel?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the orange in the patterned bowl partially blocked by another orange?",
+      "modified": "Is the apple in the patterned bowl partially blocked by another orange?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the orange in the patterned bowl appear to be resting inside the bowl?",
+      "modified": "Does the apple in the patterned bowl appear to be resting inside the bowl?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the orange in the patterned bowl lit brightly in the scene?",
+      "modified": "Is the apple in the patterned bowl lit brightly in the scene?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the orange in the patterned bowl look round in shape?",
+      "modified": "Does the apple in the patterned bowl look round in shape?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the orange in the patterned bowl against a colorful background?",
+      "modified": "Is the apple in the patterned bowl against a colorful background?",
+      "false_premise": true
+    }
+  ]
+}

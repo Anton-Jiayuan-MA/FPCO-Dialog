@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3132",
+    "source": "COCO",
+    "complexity": 3,
+    "category": 1,
+    "target": "man"
+  },
+  "base": {
+    "target_description": "the man in a white shirt using a laptop",
+    "modified_target_description": "the man in a black shirt using a laptop",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the man in a white shirt using a laptop doing at the table?",
+      "modified": "What is the man in a white shirt using a laptop doing at the table?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the man in a white shirt using a laptop seated or standing?",
+      "modified": "Is the man in a white shirt using a laptop seated or standing?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the man in a white shirt using a laptop appear to be working during the event?",
+      "modified": "Does the man in a white shirt using a laptop appear to be working during the event?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "What is directly in front of the man in a white shirt using a laptop?",
+      "modified": "What is directly in front of the man in a black shirt using a laptop?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the man in a white shirt using a laptop near any papers or bags?",
+      "modified": "Is the man in a black shirt using a laptop near any papers or bags?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the man in a white shirt using a laptop seem focused on the screen?",
+      "modified": "Does the man in a black shirt using a laptop seem focused on the screen?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Where in the room is the man in a white shirt using a laptop located?",
+      "modified": "Where in the room is the man in a black shirt using a laptop located?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the man in a white shirt using a laptop surrounded by other people?",
+      "modified": "Is the man in a black shirt using a laptop surrounded by other people?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "What kind of workspace is set up around the man in a white shirt using a laptop?",
+      "modified": "What kind of workspace is set up around the man in a black shirt using a laptop?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the man in a white shirt using a laptop participating in a large gathering?",
+      "modified": "Is the man in a black shirt using a laptop participating in a large gathering?",
+      "false_premise": true
+    }
+  ]
+}

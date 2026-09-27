@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3126",
+    "source": "Open Images",
+    "complexity": 3,
+    "category": 1,
+    "target": "man"
+  },
+  "base": {
+    "target_description": "the man in camouflage uniform",
+    "modified_target_description": "the woman in camouflage uniform",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the man in camouflage uniform doing in the crowd?",
+      "modified": "What is the man in camouflage uniform doing in the crowd?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the man in camouflage uniform standing near a table?",
+      "modified": "Is the man in camouflage uniform standing near a table?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the man in camouflage uniform appear to be checking people's bags?",
+      "modified": "Does the man in camouflage uniform appear to be checking people's bags?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the man in camouflage uniform wearing tall black boots?",
+      "modified": "Is the woman in camouflage uniform wearing tall black boots?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the man in camouflage uniform facing toward the line of people?",
+      "modified": "Is the woman in camouflage uniform facing toward the line of people?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the man in camouflage uniform look like a security officer?",
+      "modified": "Does the woman in camouflage uniform look like a security officer?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the man in camouflage uniform positioned near the center of the image?",
+      "modified": "Is the woman in camouflage uniform positioned near the center of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the man in camouflage uniform have a weapon or gear attached to his outfit?",
+      "modified": "Does the woman in camouflage uniform have a weapon or gear attached to her outfit?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the man in camouflage uniform interacting with someone in front of him?",
+      "modified": "Is the woman in camouflage uniform interacting with someone in front of her?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the man in camouflage uniform seem to be working at a checkpoint?",
+      "modified": "Does the woman in camouflage uniform seem to be working at a checkpoint?",
+      "false_premise": true
+    }
+  ]
+}

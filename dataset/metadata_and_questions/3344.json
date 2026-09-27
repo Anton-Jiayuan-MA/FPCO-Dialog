@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3344",
+    "source": "Open Images",
+    "complexity": 3,
+    "category": 3,
+    "target": "sheep"
+  },
+  "base": {
+    "target_description": "the central sheep facing the camera",
+    "modified_target_description": "the black sheep facing the camera",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the central sheep facing the camera looking directly toward the viewer?",
+      "modified": "Is the central sheep facing the camera looking directly toward the viewer?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the central sheep facing the camera appear to be standing still?",
+      "modified": "Does the central sheep facing the camera appear to be standing still?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the central sheep facing the camera surrounded by other sheep?",
+      "modified": "Is the central sheep facing the camera surrounded by other sheep?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Can you see the full face of the central sheep facing the camera?",
+      "modified": "Can you see the full face of the black sheep facing the camera?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the central sheep facing the camera have light-colored wool?",
+      "modified": "Does the black sheep facing the camera have light-colored wool?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the central sheep facing the camera standing on dry grass?",
+      "modified": "Is the black sheep facing the camera standing on dry grass?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the central sheep facing the camera appear to be in the middle of the group?",
+      "modified": "Does the black sheep facing the camera appear to be in the middle of the group?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Are the ears of the central sheep facing the camera sticking out to the sides?",
+      "modified": "Are the ears of the black sheep facing the camera sticking out to the sides?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the central sheep facing the camera look closer to the camera than the sheep behind it?",
+      "modified": "Does the black sheep facing the camera look closer to the camera than the sheep behind it?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the central sheep facing the camera outdoors in a field?",
+      "modified": "Is the black sheep facing the camera outdoors in a field?",
+      "false_premise": true
+    }
+  ]
+}

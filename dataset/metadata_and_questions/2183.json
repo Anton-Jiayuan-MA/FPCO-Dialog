@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2183",
+    "source": "Open Images",
+    "complexity": 2,
+    "category": 1,
+    "target": "person"
+  },
+  "base": {
+    "target_description": "the young man in a green T-shirt",
+    "modified_target_description": "the young man on the right",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the young man in a green T-shirt smiling at the camera?",
+      "modified": "Is the young man in a green T-shirt smiling at the camera?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the young man in a green T-shirt standing close to the woman beside him?",
+      "modified": "Is the young man in a green T-shirt standing close to the woman beside him?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the young man in a green T-shirt appear to be outdoors at night?",
+      "modified": "Does the young man in a green T-shirt appear to be outdoors at night?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the young man in a green T-shirt facing the camera?",
+      "modified": "Is the young man on the right facing the camera?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the young man in a green T-shirt have medium-length hair?",
+      "modified": "Does the young man on the right have medium-length hair?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the young man in a green T-shirt posing for a photo?",
+      "modified": "Is the young man on the right posing for a photo?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the young man in a green T-shirt standing near the water?",
+      "modified": "Is the young man on the right standing near the water?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the young man in a green T-shirt look relaxed and cheerful?",
+      "modified": "Does the young man on the right look relaxed and cheerful?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the young man in a green T-shirt wearing a short-sleeved shirt?",
+      "modified": "Is the young man on the right wearing a short-sleeved shirt?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the young man in a green T-shirt in the foreground of the image?",
+      "modified": "Is the young man on the right in the foreground of the image?",
+      "false_premise": true
+    }
+  ]
+}

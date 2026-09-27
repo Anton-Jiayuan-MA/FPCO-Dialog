@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2464",
+    "source": "Open Images",
+    "complexity": 2,
+    "category": 4,
+    "target": "apple"
+  },
+  "base": {
+    "target_description": "the pink apple on the tree",
+    "modified_target_description": "the pink apple on the ground",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the pink apple on the tree still attached to a branch?",
+      "modified": "Is the pink apple on the tree still attached to a branch?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the pink apple on the tree look ripe?",
+      "modified": "Does the pink apple on the tree look ripe?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the pink apple on the tree shown close up in the image?",
+      "modified": "Is the pink apple on the tree shown close up in the image?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the pink apple on the tree have a smooth surface?",
+      "modified": "Does the pink apple on the ground have a smooth surface?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the pink apple on the tree growing outdoors?",
+      "modified": "Is the pink apple on the ground growing outdoors?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Can you see leaves around the pink apple on the tree?",
+      "modified": "Can you see leaves around the pink apple on the ground?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the pink apple on the tree appear round and full?",
+      "modified": "Does the pink apple on the ground appear round and full?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the pink apple on the tree next to another apple?",
+      "modified": "Is the pink apple on the ground next to another apple?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the pink apple on the tree have light green coloring near the bottom?",
+      "modified": "Does the pink apple on the ground have light green coloring near the bottom?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the pink apple on the tree hanging from a stem?",
+      "modified": "Is the pink apple on the ground hanging from a stem?",
+      "false_premise": true
+    }
+  ]
+}

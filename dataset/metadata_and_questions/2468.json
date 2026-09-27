@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2468",
+    "source": "Open Images",
+    "complexity": 2,
+    "category": 4,
+    "target": "burger"
+  },
+  "base": {
+    "target_description": "the sesame seed burger on the plate",
+    "modified_target_description": "the sesame seed burger on the right side of the image",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What kind of bun does the sesame seed burger on the plate have?",
+      "modified": "What kind of bun does the sesame seed burger on the plate have?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the sesame seed burger on the plate appear to have lettuce inside it?",
+      "modified": "Does the sesame seed burger on the plate appear to have lettuce inside it?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the sesame seed burger on the plate topped with melted cheese?",
+      "modified": "Is the sesame seed burger on the plate topped with melted cheese?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Where on the plate is the sesame seed burger on the plate positioned?",
+      "modified": "Where on the plate is the sesame seed burger on the right side of the image positioned?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the sesame seed burger on the plate have a toothpick stuck into it?",
+      "modified": "Does the sesame seed burger on the right side of the image have a toothpick stuck into it?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the sesame seed burger on the plate sitting by itself or served with something else?",
+      "modified": "Is the sesame seed burger on the right side of the image sitting by itself or served with something else?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the sesame seed burger on the plate look larger than the fries beside it?",
+      "modified": "Does the sesame seed burger on the right side of the image look larger than the fries beside it?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Can you see the patty inside the sesame seed burger on the plate?",
+      "modified": "Can you see the patty inside the sesame seed burger on the right side of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the sesame seed burger on the plate look neatly assembled?",
+      "modified": "Does the sesame seed burger on the right side of the image look neatly assembled?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the sesame seed burger on the plate the main food item on the right side of the image?",
+      "modified": "Is the sesame seed burger on the right side of the image the main food item on the right side of the image?",
+      "false_premise": true
+    }
+  ]
+}

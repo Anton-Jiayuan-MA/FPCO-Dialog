@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3474",
+    "source": "COCO",
+    "complexity": 3,
+    "category": 4,
+    "target": "food in refrigerator"
+  },
+  "base": {
+    "target_description": "milk jugs in the refrigerator door",
+    "modified_target_description": "milk jugs on the refrigerator shelf",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "How many milk jugs in the refrigerator door can you see?",
+      "modified": "How many milk jugs in the refrigerator door can you see?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Are the milk jugs in the refrigerator door on a lower shelf of the door?",
+      "modified": "Are the milk jugs in the refrigerator door on a lower shelf of the door?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Do the milk jugs in the refrigerator door look full or partly used?",
+      "modified": "Do the milk jugs in the refrigerator door look full or partly used?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "What color are the caps on the milk jugs in the refrigerator door?",
+      "modified": "What color are the caps on the milk jugs on the refrigerator shelf?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Are the milk jugs in the refrigerator door next to any other items?",
+      "modified": "Are the milk jugs on the refrigerator shelf next to any other items?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Do the milk jugs in the refrigerator door appear to be plastic containers?",
+      "modified": "Do the milk jugs on the refrigerator shelf appear to be plastic containers?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Are the milk jugs in the refrigerator door positioned upright?",
+      "modified": "Are the milk jugs on the refrigerator shelf positioned upright?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Can you see labels on the milk jugs in the refrigerator door?",
+      "modified": "Can you see labels on the milk jugs on the refrigerator shelf?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Are the milk jugs in the refrigerator door easy to reach from where the man is standing?",
+      "modified": "Are the milk jugs on the refrigerator shelf easy to reach from where the man is standing?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Do the milk jugs in the refrigerator door take up most of that door shelf?",
+      "modified": "Do the milk jugs on the refrigerator shelf take up most of that door shelf?",
+      "false_premise": true
+    }
+  ]
+}

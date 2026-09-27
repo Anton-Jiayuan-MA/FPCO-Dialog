@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3157",
+    "source": "Open Images",
+    "complexity": 3,
+    "category": 1,
+    "target": "person"
+  },
+  "base": {
+    "target_description": "the girl in a purple shirt",
+    "modified_target_description": "the girl in a green shirt",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the girl in a purple shirt doing at the table?",
+      "modified": "What is the girl in a purple shirt doing at the table?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the girl in a purple shirt sitting across from someone?",
+      "modified": "Is the girl in a purple shirt sitting across from someone?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the girl in a purple shirt appear to be concentrating?",
+      "modified": "Does the girl in a purple shirt appear to be concentrating?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the girl in a purple shirt playing a game of chess?",
+      "modified": "Is the girl in a green shirt playing a game of chess?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "What is the girl in a purple shirt resting her head on?",
+      "modified": "What is the girl in a green shirt resting her head on?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the girl in a purple shirt seated near the window?",
+      "modified": "Is the girl in a green shirt seated near the window?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Which direction is the girl in a purple shirt facing?",
+      "modified": "Which direction is the girl in a green shirt facing?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the girl in a purple shirt have long hair?",
+      "modified": "Does the girl in a green shirt have long hair?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the girl in a purple shirt looking at the chessboard?",
+      "modified": "Is the girl in a green shirt looking at the chessboard?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the girl in a purple shirt indoors?",
+      "modified": "Is the girl in a green shirt indoors?",
+      "false_premise": true
+    }
+  ]
+}

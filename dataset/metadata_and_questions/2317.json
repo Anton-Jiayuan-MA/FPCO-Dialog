@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2317",
+    "source": "COCO",
+    "complexity": 2,
+    "category": 3,
+    "target": "bird"
+  },
+  "base": {
+    "target_description": "the white bird with black wings",
+    "modified_target_description": "the white airplane with black wings",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the white bird with black wings doing in the grass?",
+      "modified": "What is the white bird with black wings doing in the grass?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the white bird with black wings standing still or moving?",
+      "modified": "Is the white bird with black wings standing still or moving?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Where in the scene is the white bird with black wings located?",
+      "modified": "Where in the scene is the white bird with black wings located?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the white bird with black wings appear to be on the ground?",
+      "modified": "Does the white airplane with black wings appear to be on the ground?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the white bird with black wings facing to the left or to the right?",
+      "modified": "Is the white airplane with black wings facing to the left or to the right?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "How easy is it to see the white bird with black wings against the grassy field?",
+      "modified": "How easy is it to see the white airplane with black wings against the grassy field?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the white bird with black wings look close to the camera?",
+      "modified": "Does the white airplane with black wings look close to the camera?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "What kind of area is the white bird with black wings standing in?",
+      "modified": "What kind of area is the white airplane with black wings standing in?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the white bird with black wings the main subject in the foreground?",
+      "modified": "Is the white airplane with black wings the main subject in the foreground?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the white bird with black wings appear to be alone in the immediate foreground?",
+      "modified": "Does the white airplane with black wings appear to be alone in the immediate foreground?",
+      "false_premise": true
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3125",
+    "source": "Open Images",
+    "complexity": 3,
+    "category": 1,
+    "target": "man"
+  },
+  "base": {
+    "target_description": "the bald man in camouflage holding a microphone",
+    "modified_target_description": "the bald woman in camouflage holding a microphone",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the bald man in camouflage holding a microphone doing in this scene?",
+      "modified": "What is the bald man in camouflage holding a microphone doing in this scene?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the bald man in camouflage holding a microphone standing in front of a group of people?",
+      "modified": "Is the bald man in camouflage holding a microphone standing in front of a group of people?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the bald man in camouflage holding a microphone appear to be speaking to the crowd?",
+      "modified": "Does the bald man in camouflage holding a microphone appear to be speaking to the crowd?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Where is the bald man in camouflage holding a microphone positioned relative to the others?",
+      "modified": "Where is the bald woman in camouflage holding a microphone positioned relative to the others?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "What is the bald man in camouflage holding a microphone wearing?",
+      "modified": "What is the bald woman in camouflage holding a microphone wearing?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the bald man in camouflage holding a microphone gesturing with one hand?",
+      "modified": "Is the bald woman in camouflage holding a microphone gesturing with one hand?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the bald man in camouflage holding a microphone seem to be addressing military personnel?",
+      "modified": "Does the bald woman in camouflage holding a microphone seem to be addressing military personnel?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the bald man in camouflage holding a microphone outdoors?",
+      "modified": "Is the bald woman in camouflage holding a microphone outdoors?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "What kind of setting is the bald man in camouflage holding a microphone in?",
+      "modified": "What kind of setting is the bald woman in camouflage holding a microphone in?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the bald man in camouflage holding a microphone look like the main speaker here?",
+      "modified": "Does the bald woman in camouflage holding a microphone look like the main speaker here?",
+      "false_premise": true
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2128",
+    "source": "COCO",
+    "complexity": 2,
+    "category": 1,
+    "target": "man"
+  },
+  "base": {
+    "target_description": "the man in the gray suit with glasses",
+    "modified_target_description": "the woman in the gray suit with glasses",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the man in the gray suit with glasses doing with his hands?",
+      "modified": "What is the man in the gray suit with glasses doing with his hands?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the man in the gray suit with glasses standing near the center of the group?",
+      "modified": "Is the man in the gray suit with glasses standing near the center of the group?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "What is the man in the gray suit with glasses holding?",
+      "modified": "What is the man in the gray suit with glasses holding?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Who is standing next to the man in the gray suit with glasses?",
+      "modified": "Who is standing next to the woman in the gray suit with glasses?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the man in the gray suit with glasses facing the camera?",
+      "modified": "Is the woman in the gray suit with glasses facing the camera?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the man in the gray suit with glasses appear to be shaking hands with someone?",
+      "modified": "Does the woman in the gray suit with glasses appear to be shaking hands with someone?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "What color tie is the man in the gray suit with glasses wearing?",
+      "modified": "What color tie is the woman in the gray suit with glasses wearing?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the man in the gray suit with glasses standing behind the table?",
+      "modified": "Is the woman in the gray suit with glasses standing behind the table?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the man in the gray suit with glasses look formally dressed?",
+      "modified": "Does the woman in the gray suit with glasses look formally dressed?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the man in the gray suit with glasses part of a posed group photo?",
+      "modified": "Is the woman in the gray suit with glasses part of a posed group photo?",
+      "false_premise": true
+    }
+  ]
+}

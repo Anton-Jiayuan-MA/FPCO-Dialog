@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1365",
+    "source": "Open Images",
+    "complexity": 1,
+    "category": 3,
+    "target": "leopard"
+  },
+  "base": {
+    "target_description": "the spotted leopard under the branches",
+    "modified_target_description": "the spotted leopard beside the branches",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the spotted leopard under the branches looking toward the camera?",
+      "modified": "Is the spotted leopard under the branches looking toward the camera?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the spotted leopard under the branches standing or lying down?",
+      "modified": "Is the spotted leopard under the branches standing or lying down?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the spotted leopard under the branches appear to be in the shade?",
+      "modified": "Does the spotted leopard under the branches appear to be in the shade?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Are the ears of the spotted leopard under the branches clearly visible?",
+      "modified": "Are the ears of the spotted leopard beside the branches clearly visible?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the spotted leopard under the branches have its tail visible in the image?",
+      "modified": "Does the spotted leopard beside the branches have its tail visible in the image?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the spotted leopard under the branches on sandy ground?",
+      "modified": "Is the spotted leopard beside the branches on sandy ground?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the spotted leopard under the branches look alert?",
+      "modified": "Does the spotted leopard beside the branches look alert?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Can you see the face of the spotted leopard under the branches clearly?",
+      "modified": "Can you see the face of the spotted leopard beside the branches clearly?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the spotted leopard under the branches partly surrounded by leaves and hanging twigs?",
+      "modified": "Is the spotted leopard beside the branches partly surrounded by leaves and hanging twigs?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the spotted leopard under the branches appear to be alone in the scene?",
+      "modified": "Does the spotted leopard beside the branches appear to be alone in the scene?",
+      "false_premise": true
+    }
+  ]
+}

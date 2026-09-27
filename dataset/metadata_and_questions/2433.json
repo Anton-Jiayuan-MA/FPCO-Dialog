@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2433",
+    "source": "COCO",
+    "complexity": 2,
+    "category": 4,
+    "target": "pizza"
+  },
+  "base": {
+    "target_description": "the pizza with tomato sauce and white cheese",
+    "modified_target_description": "the pizza with pesto sauce and white cheese",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the pizza with tomato sauce and white cheese sitting on a plate?",
+      "modified": "Is the pizza with tomato sauce and white cheese sitting on a plate?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the pizza with tomato sauce and white cheese look sliced into pieces?",
+      "modified": "Does the pizza with tomato sauce and white cheese look sliced into pieces?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the pizza with tomato sauce and white cheese served outdoors?",
+      "modified": "Is the pizza with tomato sauce and white cheese served outdoors?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the pizza with tomato sauce and white cheese have a thick crust?",
+      "modified": "Does the pizza with pesto sauce and white cheese have a thick crust?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the pizza with tomato sauce and white cheese partly eaten or still whole?",
+      "modified": "Is the pizza with pesto sauce and white cheese partly eaten or still whole?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the pizza with tomato sauce and white cheese appear to be on flatbread?",
+      "modified": "Does the pizza with pesto sauce and white cheese appear to be on flatbread?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the pizza with tomato sauce and white cheese topped with several dollops of cheese?",
+      "modified": "Is the pizza with pesto sauce and white cheese topped with several dollops of cheese?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the pizza with tomato sauce and white cheese next to any utensils?",
+      "modified": "Is the pizza with pesto sauce and white cheese next to any utensils?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the pizza with tomato sauce and white cheese take up most of the plate?",
+      "modified": "Does the pizza with pesto sauce and white cheese take up most of the plate?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the pizza with tomato sauce and white cheese cut into triangular portions?",
+      "modified": "Is the pizza with pesto sauce and white cheese cut into triangular portions?",
+      "false_premise": true
+    }
+  ]
+}

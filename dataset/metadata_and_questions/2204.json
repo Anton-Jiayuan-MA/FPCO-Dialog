@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2204",
+    "source": "COCO",
+    "complexity": 2,
+    "category": 2,
+    "target": "train"
+  },
+  "base": {
+    "target_description": "the blue and yellow train engine",
+    "modified_target_description": "the blue and yellow bus",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What number is shown on the front of the blue and yellow train engine?",
+      "modified": "What number is shown on the front of the blue and yellow train engine?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the blue and yellow train engine moving along the track or standing still?",
+      "modified": "Is the blue and yellow train engine moving along the track or standing still?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "What track is the blue and yellow train engine positioned on in the rail yard?",
+      "modified": "What track is the blue and yellow train engine positioned on in the rail yard?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the blue and yellow train engine pulling a long line of tanker cars?",
+      "modified": "Is the blue and yellow bus pulling a long line of tanker cars?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "What colors stand out most on the blue and yellow train engine?",
+      "modified": "What colors stand out most on the blue and yellow bus?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the blue and yellow train engine closer to the left side or the center of the image?",
+      "modified": "Is the blue and yellow bus closer to the left side or the center of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the blue and yellow train engine appear to be approaching the camera?",
+      "modified": "Does the blue and yellow bus appear to be approaching the camera?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "What is directly behind the blue and yellow train engine on the track?",
+      "modified": "What is directly behind the blue and yellow bus on the track?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the blue and yellow train engine next to a station platform?",
+      "modified": "Is the blue and yellow bus next to a station platform?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "How large does the blue and yellow train engine appear compared with the nearby rail cars?",
+      "modified": "How large does the blue and yellow bus appear compared with the nearby rail cars?",
+      "false_premise": true
+    }
+  ]
+}

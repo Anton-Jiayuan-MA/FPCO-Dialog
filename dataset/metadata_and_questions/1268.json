@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1268",
+    "source": "Open Images",
+    "complexity": 1,
+    "category": 2,
+    "target": "car"
+  },
+  "base": {
+    "target_description": "the vintage blue pickup truck",
+    "modified_target_description": "the vintage blue pickup truck on the right",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What color is the vintage blue pickup truck?",
+      "modified": "What color is the vintage blue pickup truck?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the vintage blue pickup truck parked in a parking lot?",
+      "modified": "Is the vintage blue pickup truck parked in a parking lot?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the vintage blue pickup truck appear to be an older classic model?",
+      "modified": "Does the vintage blue pickup truck appear to be an older classic model?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the front of the vintage blue pickup truck facing the camera?",
+      "modified": "Is the front of the vintage blue pickup truck on the right facing the camera?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the vintage blue pickup truck have round headlights?",
+      "modified": "Does the vintage blue pickup truck on the right have round headlights?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Can you see a license plate on the vintage blue pickup truck?",
+      "modified": "Can you see a license plate on the vintage blue pickup truck on the right?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the vintage blue pickup truck have whitewall tires?",
+      "modified": "Does the vintage blue pickup truck on the right have whitewall tires?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the vintage blue pickup truck parked between white lines?",
+      "modified": "Is the vintage blue pickup truck on the right parked between white lines?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the vintage blue pickup truck look clean or weathered?",
+      "modified": "Does the vintage blue pickup truck on the right look clean or weathered?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Are there other vehicles parked near the vintage blue pickup truck?",
+      "modified": "Are there other vehicles parked near the vintage blue pickup truck on the right?",
+      "false_premise": true
+    }
+  ]
+}

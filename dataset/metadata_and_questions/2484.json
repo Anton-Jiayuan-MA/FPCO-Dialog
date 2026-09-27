@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2484",
+    "source": "Open Images",
+    "complexity": 2,
+    "category": 4,
+    "target": "apples"
+  },
+  "base": {
+    "target_description": "the red and yellow apples",
+    "modified_target_description": "the red and yellow apples in the background",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Are the red and yellow apples floating in water?",
+      "modified": "Are the red and yellow apples floating in water?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Do the red and yellow apples appear to be moving along a sorting line?",
+      "modified": "Do the red and yellow apples appear to be moving along a sorting line?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Are the red and yellow apples gathered closely together in the foreground?",
+      "modified": "Are the red and yellow apples gathered closely together in the foreground?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Do the red and yellow apples look fresh and whole?",
+      "modified": "Do the red and yellow apples in the background look fresh and whole?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Are the red and yellow apples inside a processing facility?",
+      "modified": "Are the red and yellow apples in the background inside a processing facility?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Do the red and yellow apples cover most of the large tank area?",
+      "modified": "Do the red and yellow apples in the background cover most of the large tank area?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Are the red and yellow apples being sorted by machinery?",
+      "modified": "Are the red and yellow apples in the background being sorted by machinery?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Do the red and yellow apples extend onto the conveyor belts in the background?",
+      "modified": "Do the red and yellow apples in the background extend onto the conveyor belts in the background?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Are the red and yellow apples the main food item visible in the scene?",
+      "modified": "Are the red and yellow apples in the background the main food item visible in the scene?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Do the red and yellow apples appear in large quantity?",
+      "modified": "Do the red and yellow apples in the background appear in large quantity?",
+      "false_premise": true
+    }
+  ]
+}

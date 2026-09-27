@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3113",
+    "source": "Open Images",
+    "complexity": 3,
+    "category": 1,
+    "target": "man"
+  },
+  "base": {
+    "target_description": "the bald man in a white shirt",
+    "modified_target_description": "the bald woman in a white shirt",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the bald man in a white shirt doing at the desk?",
+      "modified": "What is the bald man in a white shirt doing at the desk?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the bald man in a white shirt holding a pen or pencil?",
+      "modified": "Is the bald man in a white shirt holding a pen or pencil?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the bald man in a white shirt appear to be writing on paperwork?",
+      "modified": "Does the bald man in a white shirt appear to be writing on paperwork?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the bald man in a white shirt leaning forward over the table?",
+      "modified": "Is the bald woman in a white shirt leaning forward over the table?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Are there papers spread out in front of the bald man in a white shirt?",
+      "modified": "Are there papers spread out in front of the bald woman in a white shirt?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the bald man in a white shirt seem focused on the documents?",
+      "modified": "Does the bald woman in a white shirt seem focused on the documents?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the bald man in a white shirt sitting or standing in the scene?",
+      "modified": "Is the bald woman in a white shirt sitting or standing in the scene?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Are eyeglasses placed near the bald man in a white shirt on the desk?",
+      "modified": "Are eyeglasses placed near the bald woman in a white shirt on the desk?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the bald man in a white shirt indoors in an office-like setting?",
+      "modified": "Is the bald woman in a white shirt indoors in an office-like setting?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is anyone standing close behind the bald man in a white shirt?",
+      "modified": "Is anyone standing close behind the bald woman in a white shirt?",
+      "false_premise": true
+    }
+  ]
+}

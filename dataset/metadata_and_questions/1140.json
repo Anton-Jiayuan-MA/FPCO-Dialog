@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1140",
+    "source": "Open Images",
+    "complexity": 1,
+    "category": 1,
+    "target": "man"
+  },
+  "base": {
+    "target_description": "the man in a pink shirt holding a camera",
+    "modified_target_description": "the man in a blue shirt holding a camera",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the man in a pink shirt holding a camera looking at?",
+      "modified": "What is the man in a pink shirt holding a camera looking at?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the man in a pink shirt holding a camera facing toward the viewer?",
+      "modified": "Is the man in a pink shirt holding a camera facing toward the viewer?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the man in a pink shirt holding a camera appear to be indoors?",
+      "modified": "Does the man in a pink shirt holding a camera appear to be indoors?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the man in a pink shirt holding a camera smiling slightly?",
+      "modified": "Is the man in a blue shirt holding a camera smiling slightly?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "What is the man in a pink shirt holding a camera holding in his hands?",
+      "modified": "What is the man in a blue shirt holding a camera holding in his hands?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the man in a pink shirt holding a camera have medium-length hair?",
+      "modified": "Does the man in a blue shirt holding a camera have medium-length hair?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the man in a pink shirt holding a camera sitting down?",
+      "modified": "Is the man in a blue shirt holding a camera sitting down?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the man in a pink shirt holding a camera seem to be posing for the photo?",
+      "modified": "Does the man in a blue shirt holding a camera seem to be posing for the photo?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the man in a pink shirt holding a camera closer to the camera than the other person in the background?",
+      "modified": "Is the man in a blue shirt holding a camera closer to the camera than the other person in the background?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Would you say the man in a pink shirt holding a camera is the main subject of the image?",
+      "modified": "Would you say the man in a blue shirt holding a camera is the main subject of the image?",
+      "false_premise": true
+    }
+  ]
+}

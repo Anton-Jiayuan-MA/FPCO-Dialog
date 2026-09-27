@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1455",
+    "source": "Open Images",
+    "complexity": 1,
+    "category": 4,
+    "target": "beer"
+  },
+  "base": {
+    "target_description": "the amber beer in a tall glass",
+    "modified_target_description": "the dark beer in a tall glass",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the amber beer in a tall glass sitting on a table?",
+      "modified": "Is the amber beer in a tall glass sitting on a table?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the amber beer in a tall glass look cold?",
+      "modified": "Does the amber beer in a tall glass look cold?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the amber beer in a tall glass outdoors?",
+      "modified": "Is the amber beer in a tall glass outdoors?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Can you see bubbles in the amber beer in a tall glass?",
+      "modified": "Can you see bubbles in the dark beer in a tall glass?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the amber beer in a tall glass close to the camera?",
+      "modified": "Is the dark beer in a tall glass close to the camera?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the amber beer in a tall glass appear partly full?",
+      "modified": "Does the dark beer in a tall glass appear partly full?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the amber beer in a tall glass positioned on the left side of the image?",
+      "modified": "Is the dark beer in a tall glass positioned on the left side of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the amber beer in a tall glass in sharp focus?",
+      "modified": "Is the dark beer in a tall glass in sharp focus?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Can you see condensation on the amber beer in a tall glass?",
+      "modified": "Can you see condensation on the dark beer in a tall glass?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the amber beer in a tall glass placed in front of a street scene?",
+      "modified": "Is the dark beer in a tall glass placed in front of a street scene?",
+      "false_premise": true
+    }
+  ]
+}

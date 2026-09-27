@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1366",
+    "source": "Open Images",
+    "complexity": 1,
+    "category": 3,
+    "target": "insect"
+  },
+  "base": {
+    "target_description": "the green insect with long antennae",
+    "modified_target_description": "the green insect with long antennae on the right",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What surface is the green insect with long antennae standing on?",
+      "modified": "What surface is the green insect with long antennae standing on?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the green insect with long antennae shown from the side?",
+      "modified": "Is the green insect with long antennae shown from the side?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Are the wings of the green insect with long antennae folded over its back?",
+      "modified": "Are the wings of the green insect with long antennae folded over its back?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the green insect with long antennae appear to be crawling across the fabric?",
+      "modified": "Does the green insect with long antennae on the right appear to be crawling across the fabric?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Can you see both antennae on the green insect with long antennae?",
+      "modified": "Can you see both antennae on the green insect with long antennae on the right?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the green insect with long antennae facing toward the right side of the image?",
+      "modified": "Is the green insect with long antennae on the right facing toward the right side of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the green insect with long antennae have thin legs?",
+      "modified": "Does the green insect with long antennae on the right have thin legs?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the green insect with long antennae the main subject of the photo?",
+      "modified": "Is the green insect with long antennae on the right the main subject of the photo?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the green insect with long antennae look sharp and in focus?",
+      "modified": "Does the green insect with long antennae on the right look sharp and in focus?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the green insect with long antennae close to the camera?",
+      "modified": "Is the green insect with long antennae on the right close to the camera?",
+      "false_premise": true
+    }
+  ]
+}

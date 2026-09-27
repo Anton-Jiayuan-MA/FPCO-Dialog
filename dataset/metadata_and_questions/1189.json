@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1189",
+    "source": "COCO",
+    "complexity": 1,
+    "category": 1,
+    "target": "man"
+  },
+  "base": {
+    "target_description": "the bearded man in an orange shirt and blue patterned hat",
+    "modified_target_description": "the bearded man in an orange shirt and blue patterned hat on the left",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the bearded man in an orange shirt and blue patterned hat doing on the boat?",
+      "modified": "What is the bearded man in an orange shirt and blue patterned hat doing on the boat?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the bearded man in an orange shirt and blue patterned hat looking toward the camera?",
+      "modified": "Is the bearded man in an orange shirt and blue patterned hat looking toward the camera?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "What kind of expression does the bearded man in an orange shirt and blue patterned hat have?",
+      "modified": "What kind of expression does the bearded man in an orange shirt and blue patterned hat have?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the bearded man in an orange shirt and blue patterned hat sitting or standing?",
+      "modified": "Is the bearded man in an orange shirt and blue patterned hat on the left sitting or standing?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the bearded man in an orange shirt and blue patterned hat appear relaxed?",
+      "modified": "Does the bearded man in an orange shirt and blue patterned hat on the left appear relaxed?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "What is the bearded man in an orange shirt and blue patterned hat holding in his hand?",
+      "modified": "What is the bearded man in an orange shirt and blue patterned hat on the left holding in his hand?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the bearded man in an orange shirt and blue patterned hat out on the water?",
+      "modified": "Is the bearded man in an orange shirt and blue patterned hat on the left out on the water?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the bearded man in an orange shirt and blue patterned hat wearing a casual outfit?",
+      "modified": "Is the bearded man in an orange shirt and blue patterned hat on the left wearing a casual outfit?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Where is the bearded man in an orange shirt and blue patterned hat positioned in the image?",
+      "modified": "Where is the bearded man in an orange shirt and blue patterned hat on the left positioned in the image?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the bearded man in an orange shirt and blue patterned hat seem to be enjoying the moment?",
+      "modified": "Does the bearded man in an orange shirt and blue patterned hat on the left seem to be enjoying the moment?",
+      "false_premise": true
+    }
+  ]
+}

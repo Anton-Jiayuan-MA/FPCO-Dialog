@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1412",
+    "source": "Open Images",
+    "complexity": 1,
+    "category": 4,
+    "target": "noodles"
+  },
+  "base": {
+    "target_description": "the noodles in a white bowl",
+    "modified_target_description": "the spaghetti in a white bowl",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Are the noodles in a white bowl sitting in broth?",
+      "modified": "Are the noodles in a white bowl sitting in broth?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Do the noodles in a white bowl appear to be topped with a large piece of meat?",
+      "modified": "Do the noodles in a white bowl appear to be topped with a large piece of meat?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Are the noodles in a white bowl on a wooden table?",
+      "modified": "Are the noodles in a white bowl on a wooden table?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Do the noodles in a white bowl look like a hot dish?",
+      "modified": "Do the spaghetti in a white bowl look like a hot dish?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Are the noodles in a white bowl mostly submerged in the soup?",
+      "modified": "Are the spaghetti in a white bowl mostly submerged in the soup?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Do the noodles in a white bowl appear thick rather than thin?",
+      "modified": "Do the spaghetti in a white bowl appear thick rather than thin?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Are the noodles in a white bowl served as part of a savory meal?",
+      "modified": "Are the spaghetti in a white bowl served as part of a savory meal?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Do the noodles in a white bowl have a dark-colored broth around them?",
+      "modified": "Do the spaghetti in a white bowl have a dark-colored broth around them?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the noodles in a white bowl the main food shown in the image?",
+      "modified": "Is the spaghetti in a white bowl the main food shown in the image?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Can you see the noodles in a white bowl clearly from above?",
+      "modified": "Can you see the spaghetti in a white bowl clearly from above?",
+      "false_premise": true
+    }
+  ]
+}

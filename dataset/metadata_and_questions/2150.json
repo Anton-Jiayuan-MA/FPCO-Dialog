@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2150",
+    "source": "Open Images",
+    "complexity": 2,
+    "category": 1,
+    "target": "woman"
+  },
+  "base": {
+    "target_description": "the smiling woman in a black cap and black T-shirt",
+    "modified_target_description": "the smiling woman in a white cap and black T-shirt",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the smiling woman in a black cap and black T-shirt doing in the scene?",
+      "modified": "What is the smiling woman in a black cap and black T-shirt doing in the scene?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the smiling woman in a black cap and black T-shirt standing close to other people?",
+      "modified": "Is the smiling woman in a black cap and black T-shirt standing close to other people?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "What kind of expression does the smiling woman in a black cap and black T-shirt have?",
+      "modified": "What kind of expression does the smiling woman in a black cap and black T-shirt have?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the smiling woman in a black cap and black T-shirt facing the camera?",
+      "modified": "Is the smiling woman in a white cap and black T-shirt facing the camera?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the smiling woman in a black cap and black T-shirt appear to be posing for a photo?",
+      "modified": "Does the smiling woman in a white cap and black T-shirt appear to be posing for a photo?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "What is the smiling woman in a black cap and black T-shirt wearing on her head?",
+      "modified": "What is the smiling woman in a white cap and black T-shirt wearing on her head?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the smiling woman in a black cap and black T-shirt indoors?",
+      "modified": "Is the smiling woman in a white cap and black T-shirt indoors?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the smiling woman in a black cap and black T-shirt look like part of the group?",
+      "modified": "Does the smiling woman in a white cap and black T-shirt look like part of the group?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the smiling woman in a black cap and black T-shirt wearing any visible accessories?",
+      "modified": "Is the smiling woman in a white cap and black T-shirt wearing any visible accessories?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Where is the smiling woman in a black cap and black T-shirt positioned relative to the others?",
+      "modified": "Where is the smiling woman in a white cap and black T-shirt positioned relative to the others?",
+      "false_premise": true
+    }
+  ]
+}

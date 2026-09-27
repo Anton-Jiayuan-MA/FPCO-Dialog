@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3148",
+    "source": "COCO",
+    "complexity": 3,
+    "category": 1,
+    "target": "person"
+  },
+  "base": {
+    "target_description": "the officer in a gray uniform and black hat",
+    "modified_target_description": "the officer in a blue uniform and black hat",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the officer in a gray uniform and black hat doing with his hand?",
+      "modified": "What is the officer in a gray uniform and black hat doing with his hand?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the officer in a gray uniform and black hat standing beside a large cake?",
+      "modified": "Is the officer in a gray uniform and black hat standing beside a large cake?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the officer in a gray uniform and black hat appear to be cutting the cake?",
+      "modified": "Does the officer in a gray uniform and black hat appear to be cutting the cake?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the officer in a gray uniform and black hat indoors?",
+      "modified": "Is the officer in a blue uniform and black hat indoors?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "What is the officer in a gray uniform and black hat looking at?",
+      "modified": "What is the officer in a blue uniform and black hat looking at?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the officer in a gray uniform and black hat wearing a peaked cap?",
+      "modified": "Is the officer in a blue uniform and black hat wearing a peaked cap?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the officer in a gray uniform and black hat positioned near the front of the group?",
+      "modified": "Is the officer in a blue uniform and black hat positioned near the front of the group?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Are other people watching the officer in a gray uniform and black hat?",
+      "modified": "Are other people watching the officer in a blue uniform and black hat?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the officer in a gray uniform and black hat dressed in formal uniform attire?",
+      "modified": "Is the officer in a blue uniform and black hat dressed in formal uniform attire?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the officer in a gray uniform and black hat the person closest to the cake knife?",
+      "modified": "Is the officer in a blue uniform and black hat the person closest to the cake knife?",
+      "false_premise": true
+    }
+  ]
+}

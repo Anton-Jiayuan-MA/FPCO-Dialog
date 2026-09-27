@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2473",
+    "source": "Open Images",
+    "complexity": 2,
+    "category": 4,
+    "target": "salad"
+  },
+  "base": {
+    "target_description": "the white bowl of green salad",
+    "modified_target_description": "the white bowl of green salad on the right",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What ingredients can you see in the white bowl of green salad?",
+      "modified": "What ingredients can you see in the white bowl of green salad?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the white bowl of green salad placed on a table?",
+      "modified": "Is the white bowl of green salad placed on a table?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the white bowl of green salad look freshly prepared?",
+      "modified": "Does the white bowl of green salad look freshly prepared?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Can you tell whether the white bowl of green salad includes slices of cucumber?",
+      "modified": "Can you tell whether the white bowl of green salad on the right includes slices of cucumber?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the white bowl of green salad sitting near other similar bowls?",
+      "modified": "Is the white bowl of green salad on the right sitting near other similar bowls?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the white bowl of green salad appear to have some kind of fish on top?",
+      "modified": "Does the white bowl of green salad on the right appear to have some kind of fish on top?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the white bowl of green salad being served as part of a meal setup?",
+      "modified": "Is the white bowl of green salad on the right being served as part of a meal setup?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "How many visible pieces of cucumber are in the white bowl of green salad?",
+      "modified": "How many visible pieces of cucumber are in the white bowl of green salad on the right?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the white bowl of green salad closer to the front of the image or the back?",
+      "modified": "Is the white bowl of green salad on the right closer to the front of the image or the back?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the white bowl of green salad look lightly dressed?",
+      "modified": "Does the white bowl of green salad on the right look lightly dressed?",
+      "false_premise": true
+    }
+  ]
+}

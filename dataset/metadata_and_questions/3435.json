@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3435",
+    "source": "COCO",
+    "complexity": 3,
+    "category": 4,
+    "target": "bell pepper"
+  },
+  "base": {
+    "target_description": "the large yellow bell pepper",
+    "modified_target_description": "the large red bell pepper",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What part of the image is the large yellow bell pepper occupying?",
+      "modified": "What part of the image is the large yellow bell pepper occupying?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the large yellow bell pepper look fresh and firm?",
+      "modified": "Does the large yellow bell pepper look fresh and firm?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the large yellow bell pepper lying on its side?",
+      "modified": "Is the large yellow bell pepper lying on its side?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "What color is the large yellow bell pepper?",
+      "modified": "What color is the large red bell pepper?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the large yellow bell pepper closer to the front or the back of the produce?",
+      "modified": "Is the large red bell pepper closer to the front or the back of the produce?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the large yellow bell pepper appear whole or cut open?",
+      "modified": "Does the large red bell pepper appear whole or cut open?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the surface of the large yellow bell pepper smooth and shiny?",
+      "modified": "Is the surface of the large red bell pepper smooth and shiny?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "What is next to the large yellow bell pepper in the basket?",
+      "modified": "What is next to the large red bell pepper in the basket?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the large yellow bell pepper look bigger than the orange peppers nearby?",
+      "modified": "Does the large red bell pepper look bigger than the orange peppers nearby?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the large yellow bell pepper surrounded by other vegetables?",
+      "modified": "Is the large red bell pepper surrounded by other vegetables?",
+      "false_premise": true
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1439",
+    "source": "COCO",
+    "complexity": 1,
+    "category": 4,
+    "target": "pizza"
+  },
+  "base": {
+    "target_description": "the sliced pizza on a plate",
+    "modified_target_description": "the burnt pizza on a plate",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "How many pieces is the sliced pizza on a plate cut into?",
+      "modified": "How many pieces is the sliced pizza on a plate cut into?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "What toppings can you see on the sliced pizza on a plate?",
+      "modified": "What toppings can you see on the sliced pizza on a plate?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the sliced pizza on a plate close to the window?",
+      "modified": "Is the sliced pizza on a plate close to the window?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the sliced pizza on a plate look fully cooked?",
+      "modified": "Does the burnt pizza on a plate look fully cooked?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the sliced pizza on a plate missing any slices?",
+      "modified": "Is the burnt pizza on a plate missing any slices?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "What color is the plate holding the sliced pizza on a plate?",
+      "modified": "What color is the plate holding the burnt pizza on a plate?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the sliced pizza on a plate appear thick or thin crust?",
+      "modified": "Does the burnt pizza on a plate appear thick or thin crust?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the sliced pizza on a plate sitting on a table or a counter?",
+      "modified": "Is the burnt pizza on a plate sitting on a table or a counter?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the sliced pizza on a plate look like it has black olives on it?",
+      "modified": "Does the burnt pizza on a plate look like it has black olives on it?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the sliced pizza on a plate whole, or already cut for serving?",
+      "modified": "Is the burnt pizza on a plate whole, or already cut for serving?",
+      "false_premise": true
+    }
+  ]
+}

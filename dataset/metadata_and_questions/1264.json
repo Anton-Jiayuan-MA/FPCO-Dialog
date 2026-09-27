@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1264",
+    "source": "Open Images",
+    "complexity": 1,
+    "category": 2,
+    "target": "car"
+  },
+  "base": {
+    "target_description": "the dark blue two-door car",
+    "modified_target_description": "the dark blue two-door car on the right",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the dark blue two-door car parked in front of a garage?",
+      "modified": "Is the dark blue two-door car parked in front of a garage?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the dark blue two-door car look a bit dusty or worn?",
+      "modified": "Does the dark blue two-door car look a bit dusty or worn?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the dark blue two-door car facing toward the left side of the image?",
+      "modified": "Is the dark blue two-door car facing toward the left side of the image?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the dark blue two-door car have a roof rack on top?",
+      "modified": "Does the dark blue two-door car on the right have a roof rack on top?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the dark blue two-door car sitting on a gravel surface?",
+      "modified": "Is the dark blue two-door car on the right sitting on a gravel surface?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Can you see rust around the wheel arches of the dark blue two-door car?",
+      "modified": "Can you see rust around the wheel arches of the dark blue two-door car on the right?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the dark blue two-door car parked very close to a wooden pole?",
+      "modified": "Is the dark blue two-door car on the right parked very close to a wooden pole?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the dark blue two-door car have its side visible to the camera?",
+      "modified": "Does the dark blue two-door car on the right have its side visible to the camera?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the dark blue two-door car outdoors in daylight?",
+      "modified": "Is the dark blue two-door car on the right outdoors in daylight?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is another vehicle parked behind the dark blue two-door car?",
+      "modified": "Is another vehicle parked behind the dark blue two-door car on the right?",
+      "false_premise": true
+    }
+  ]
+}

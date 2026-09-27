@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1414",
+    "source": "Open Images",
+    "complexity": 1,
+    "category": 4,
+    "target": "pasta"
+  },
+  "base": {
+    "target_description": "the cheesy pasta on a wooden plate",
+    "modified_target_description": "the cheesy pizza on a wooden plate",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What kind of pasta does the cheesy pasta on a wooden plate look like?",
+      "modified": "What kind of pasta does the cheesy pasta on a wooden plate look like?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the cheesy pasta on a wooden plate covered with grated cheese?",
+      "modified": "Is the cheesy pasta on a wooden plate covered with grated cheese?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the cheesy pasta on a wooden plate appear to have a creamy sauce?",
+      "modified": "Does the cheesy pasta on a wooden plate appear to have a creamy sauce?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the cheesy pasta on a wooden plate served as a main dish here?",
+      "modified": "Is the cheesy pizza on a wooden plate served as a main dish here?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Can you see any herbs mixed into the cheesy pasta on a wooden plate?",
+      "modified": "Can you see any herbs mixed into the cheesy pizza on a wooden plate?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the cheesy pasta on a wooden plate look freshly prepared?",
+      "modified": "Does the cheesy pizza on a wooden plate look freshly prepared?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the cheesy pasta on a wooden plate piled high on the plate?",
+      "modified": "Is the cheesy pizza on a wooden plate piled high on the plate?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Are there any browned pieces visible in the cheesy pasta on a wooden plate?",
+      "modified": "Are there any browned pieces visible in the cheesy pizza on a wooden plate?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the cheesy pasta on a wooden plate look rich and heavy?",
+      "modified": "Does the cheesy pizza on a wooden plate look rich and heavy?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the cheesy pasta on a wooden plate the main focus of the image?",
+      "modified": "Is the cheesy pizza on a wooden plate the main focus of the image?",
+      "false_premise": true
+    }
+  ]
+}

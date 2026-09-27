@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3432",
+    "source": "COCO",
+    "complexity": 3,
+    "category": 4,
+    "target": "banana"
+  },
+  "base": {
+    "target_description": "the yellow banana with a blue sticker",
+    "modified_target_description": "the green banana with a blue sticker",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the yellow banana with a blue sticker standing upright or lying down?",
+      "modified": "Is the yellow banana with a blue sticker standing upright or lying down?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the yellow banana with a blue sticker appear ripe?",
+      "modified": "Does the yellow banana with a blue sticker appear ripe?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the yellow banana with a blue sticker placed in front of the orange?",
+      "modified": "Is the yellow banana with a blue sticker placed in front of the orange?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the yellow banana with a blue sticker lean across the other fruit?",
+      "modified": "Does the green banana with a blue sticker lean across the other fruit?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the yellow banana with a blue sticker the longest fruit in the image?",
+      "modified": "Is the green banana with a blue sticker the longest fruit in the image?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the yellow banana with a blue sticker have any noticeable brown spots?",
+      "modified": "Does the green banana with a blue sticker have any noticeable brown spots?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the yellow banana with a blue sticker closer to the viewer than the pear?",
+      "modified": "Is the green banana with a blue sticker closer to the viewer than the pear?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the yellow banana with a blue sticker look curved?",
+      "modified": "Does the green banana with a blue sticker look curved?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the yellow banana with a blue sticker resting on the tabletop?",
+      "modified": "Is the green banana with a blue sticker resting on the tabletop?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the yellow banana with a blue sticker positioned near an avocado?",
+      "modified": "Is the green banana with a blue sticker positioned near an avocado?",
+      "false_premise": true
+    }
+  ]
+}

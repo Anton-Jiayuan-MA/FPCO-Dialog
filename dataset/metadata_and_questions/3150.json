@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3150",
+    "source": "COCO",
+    "complexity": 3,
+    "category": 1,
+    "target": "person"
+  },
+  "base": {
+    "target_description": "the woman in the orange cap",
+    "modified_target_description": "the woman in the blue cap",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the woman in the orange cap holding in her hands?",
+      "modified": "What is the woman in the orange cap holding in her hands?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the woman in the orange cap standing behind the table?",
+      "modified": "Is the woman in the orange cap standing behind the table?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the woman in the orange cap appear to be talking to the people around her?",
+      "modified": "Does the woman in the orange cap appear to be talking to the people around her?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "What is the woman in the orange cap doing with her raised hand?",
+      "modified": "What is the woman in the blue cap doing with her raised hand?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the woman in the orange cap wearing dark clothing besides the cap?",
+      "modified": "Is the woman in the blue cap wearing dark clothing besides the cap?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the woman in the orange cap facing toward the group of men?",
+      "modified": "Is the woman in the blue cap facing toward the group of men?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the woman in the orange cap seem to be helping or organizing something at the table?",
+      "modified": "Does the woman in the blue cap seem to be helping or organizing something at the table?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "What is next to the woman in the orange cap on the table?",
+      "modified": "What is next to the woman in the blue cap on the table?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the woman in the orange cap smiling while interacting with others?",
+      "modified": "Is the woman in the blue cap smiling while interacting with others?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Where is the woman in the orange cap positioned relative to the table?",
+      "modified": "Where is the woman in the blue cap positioned relative to the table?",
+      "false_premise": true
+    }
+  ]
+}

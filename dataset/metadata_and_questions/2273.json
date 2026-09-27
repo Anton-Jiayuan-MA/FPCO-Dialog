@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2273",
+    "source": "COCO",
+    "complexity": 2,
+    "category": 2,
+    "target": "boat"
+  },
+  "base": {
+    "target_description": "the large blue cargo boat",
+    "modified_target_description": "the large blue cargo boat on the right",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the large blue cargo boat floating on the water?",
+      "modified": "Is the large blue cargo boat floating on the water?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the large blue cargo boat parked close to the shore?",
+      "modified": "Is the large blue cargo boat parked close to the shore?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the large blue cargo boat have its top sections raised open?",
+      "modified": "Does the large blue cargo boat have its top sections raised open?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the large blue cargo boat facing toward the right side of the image?",
+      "modified": "Is the large blue cargo boat on the right facing toward the right side of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Can you see rust marks along the bottom of the large blue cargo boat?",
+      "modified": "Can you see rust marks along the bottom of the large blue cargo boat on the right?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the large blue cargo boat next to another boat on its right?",
+      "modified": "Is the large blue cargo boat on the right next to another boat on its right?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the large blue cargo boat look like it is carrying cargo?",
+      "modified": "Does the large blue cargo boat on the right look like it is carrying cargo?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the large blue cargo boat the most prominent vessel in the scene?",
+      "modified": "Is the large blue cargo boat on the right the most prominent vessel in the scene?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Can the name on the side of the large blue cargo boat be read in the image?",
+      "modified": "Can the name on the side of the large blue cargo boat on the right be read in the image?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the large blue cargo boat near a waterfront town?",
+      "modified": "Is the large blue cargo boat on the right near a waterfront town?",
+      "false_premise": true
+    }
+  ]
+}

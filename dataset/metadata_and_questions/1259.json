@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1259",
+    "source": "Open Images",
+    "complexity": 1,
+    "category": 2,
+    "target": "car"
+  },
+  "base": {
+    "target_description": "the white Chevrolet SUV",
+    "modified_target_description": "the black Chevrolet SUV",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the white Chevrolet SUV parked outdoors?",
+      "modified": "Is the white Chevrolet SUV parked outdoors?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the white Chevrolet SUV have dark tinted windows?",
+      "modified": "Does the white Chevrolet SUV have dark tinted windows?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Can you see the rear of the white Chevrolet SUV in this image?",
+      "modified": "Can you see the rear of the white Chevrolet SUV in this image?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the white Chevrolet SUV viewed from an angle rather than straight on?",
+      "modified": "Is the black Chevrolet SUV viewed from an angle rather than straight on?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the white Chevrolet SUV have the word Chevrolet written across the back?",
+      "modified": "Does the black Chevrolet SUV have the word Chevrolet written across the back?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is there a Raiders logo sticker on the rear window of the white Chevrolet SUV?",
+      "modified": "Is there a Raiders logo sticker on the rear window of the black Chevrolet SUV?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the white Chevrolet SUV appear to be parked on a paved surface?",
+      "modified": "Does the black Chevrolet SUV appear to be parked on a paved surface?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Can you see a license plate attached to the white Chevrolet SUV?",
+      "modified": "Can you see a license plate attached to the black Chevrolet SUV?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the white Chevrolet SUV the main object taking up most of the image?",
+      "modified": "Is the black Chevrolet SUV the main object taking up most of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the white Chevrolet SUV look stationary in the scene?",
+      "modified": "Does the black Chevrolet SUV look stationary in the scene?",
+      "false_premise": true
+    }
+  ]
+}

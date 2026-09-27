@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3255",
+    "source": "COCO",
+    "complexity": 3,
+    "category": 2,
+    "target": "car"
+  },
+  "base": {
+    "target_description": "the red pickup truck in the foreground",
+    "modified_target_description": "the blue pickup truck in the foreground",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the red pickup truck in the foreground parked on the grass?",
+      "modified": "Is the red pickup truck in the foreground parked on the grass?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the red pickup truck in the foreground appear closer to the camera than the other vehicles?",
+      "modified": "Does the red pickup truck in the foreground appear closer to the camera than the other vehicles?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the red pickup truck in the foreground facing toward the left side of the image?",
+      "modified": "Is the red pickup truck in the foreground facing toward the left side of the image?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the red pickup truck in the foreground have a covered bed?",
+      "modified": "Does the blue pickup truck in the foreground have a covered bed?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the red pickup truck in the foreground partially cut off by the bottom edge of the image?",
+      "modified": "Is the blue pickup truck in the foreground partially cut off by the bottom edge of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the red pickup truck in the foreground look shiny and polished?",
+      "modified": "Does the blue pickup truck in the foreground look shiny and polished?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the red pickup truck in the foreground parked beside a small bush?",
+      "modified": "Is the blue pickup truck in the foreground parked beside a small bush?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Can you see the side windows of the red pickup truck in the foreground?",
+      "modified": "Can you see the side windows of the blue pickup truck in the foreground?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the red pickup truck in the foreground separate from the main cluster of cars on the road?",
+      "modified": "Is the blue pickup truck in the foreground separate from the main cluster of cars on the road?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the red pickup truck in the foreground take up a large portion of the lower part of the image?",
+      "modified": "Does the blue pickup truck in the foreground take up a large portion of the lower part of the image?",
+      "false_premise": true
+    }
+  ]
+}

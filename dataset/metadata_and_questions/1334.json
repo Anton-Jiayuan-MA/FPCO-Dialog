@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1334",
+    "source": "Open Images",
+    "complexity": 1,
+    "category": 3,
+    "target": "horse"
+  },
+  "base": {
+    "target_description": "the white horse with a saddle",
+    "modified_target_description": "the black horse with a saddle",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the white horse with a saddle standing still or walking?",
+      "modified": "Is the white horse with a saddle standing still or walking?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the white horse with a saddle facing toward the right side of the image?",
+      "modified": "Is the white horse with a saddle facing toward the right side of the image?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the white horse with a saddle appear to be wearing reins?",
+      "modified": "Does the white horse with a saddle appear to be wearing reins?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the white horse with a saddle out on a street or paved area?",
+      "modified": "Is the black horse with a saddle out on a street or paved area?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the white horse with a saddle have its head lowered slightly?",
+      "modified": "Does the black horse with a saddle have its head lowered slightly?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Can you see all four legs of the white horse with a saddle?",
+      "modified": "Can you see all four legs of the black horse with a saddle?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the white horse with a saddle being led by someone outside the frame?",
+      "modified": "Is the black horse with a saddle being led by someone outside the frame?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the white horse with a saddle cast a shadow on the ground?",
+      "modified": "Does the black horse with a saddle cast a shadow on the ground?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the white horse with a saddle the main subject in the foreground?",
+      "modified": "Is the black horse with a saddle the main subject in the foreground?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the white horse with a saddle look ready to be ridden?",
+      "modified": "Does the black horse with a saddle look ready to be ridden?",
+      "false_premise": true
+    }
+  ]
+}

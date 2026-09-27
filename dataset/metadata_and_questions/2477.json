@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2477",
+    "source": "Open Images",
+    "complexity": 2,
+    "category": 4,
+    "target": "fruit"
+  },
+  "base": {
+    "target_description": "the red apple on the counter",
+    "modified_target_description": "the red apple by the bowl",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What color is the red apple on the counter?",
+      "modified": "What color is the red apple on the counter?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the red apple on the counter whole or sliced?",
+      "modified": "Is the red apple on the counter whole or sliced?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Where is the red apple on the counter positioned relative to the other fruit?",
+      "modified": "Where is the red apple on the counter positioned relative to the other fruit?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the red apple on the counter look fresh?",
+      "modified": "Does the red apple by the bowl look fresh?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the red apple on the counter sitting near a bowl?",
+      "modified": "Is the red apple by the bowl sitting near a bowl?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "How many apples are visible including the red apple on the counter?",
+      "modified": "How many apples are visible including the red apple by the bowl?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the red apple on the counter closer to the plate or to the bowl?",
+      "modified": "Is the red apple by the bowl closer to the plate or to the bowl?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the red apple on the counter appear to have any blemishes?",
+      "modified": "Does the red apple by the bowl appear to have any blemishes?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the red apple on the counter by itself or grouped with other apples?",
+      "modified": "Is the red apple by the bowl by itself or grouped with other apples?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "What is next to the red apple on the counter?",
+      "modified": "What is next to the red apple by the bowl?",
+      "false_premise": true
+    }
+  ]
+}

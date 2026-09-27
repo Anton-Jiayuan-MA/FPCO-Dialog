@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1181",
+    "source": "COCO",
+    "complexity": 1,
+    "category": 1,
+    "target": "woman"
+  },
+  "base": {
+    "target_description": "the woman with long dark hair holding a remote",
+    "modified_target_description": "the woman with long dark hair holding a remote on the left",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the woman with long dark hair holding a remote doing in the room?",
+      "modified": "What is the woman with long dark hair holding a remote doing in the room?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the woman with long dark hair holding a remote standing or sitting?",
+      "modified": "Is the woman with long dark hair holding a remote standing or sitting?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "What is the woman with long dark hair holding a remote wearing on top?",
+      "modified": "What is the woman with long dark hair holding a remote wearing on top?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Which direction is the woman with long dark hair holding a remote facing?",
+      "modified": "Which direction is the woman with long dark hair holding a remote on the left facing?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the woman with long dark hair holding a remote appear to be interacting with something off camera?",
+      "modified": "Does the woman with long dark hair holding a remote on the left appear to be interacting with something off camera?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the woman with long dark hair holding a remote indoors?",
+      "modified": "Is the woman with long dark hair holding a remote on the left indoors?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "What is the woman with long dark hair holding a remote holding in her hand?",
+      "modified": "What is the woman with long dark hair holding a remote on the left holding in her hand?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the woman with long dark hair holding a remote look focused on something?",
+      "modified": "Does the woman with long dark hair holding a remote on the left look focused on something?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the woman with long dark hair holding a remote near a table?",
+      "modified": "Is the woman with long dark hair holding a remote on the left near a table?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Are the arms of the woman with long dark hair holding a remote extended forward?",
+      "modified": "Are the arms of the woman with long dark hair holding a remote on the left extended forward?",
+      "false_premise": true
+    }
+  ]
+}

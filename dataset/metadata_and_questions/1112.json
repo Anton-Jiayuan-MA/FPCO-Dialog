@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1112",
+    "source": "Open Images",
+    "complexity": 1,
+    "category": 1,
+    "target": "man"
+  },
+  "base": {
+    "target_description": "the man in a pink shirt at the podium",
+    "modified_target_description": "the woman in a pink shirt at the podium",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the man in a pink shirt at the podium doing with his raised hand?",
+      "modified": "What is the man in a pink shirt at the podium doing with his raised hand?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the man in a pink shirt at the podium wearing glasses?",
+      "modified": "Is the man in a pink shirt at the podium wearing glasses?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the man in a pink shirt at the podium appear to be speaking into a microphone?",
+      "modified": "Does the man in a pink shirt at the podium appear to be speaking into a microphone?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "What expression does the man in a pink shirt at the podium have on his face?",
+      "modified": "What expression does the woman in a pink shirt at the podium have on her face?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the man in a pink shirt at the podium facing toward the audience?",
+      "modified": "Is the woman in a pink shirt at the podium facing toward the audience?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the man in a pink shirt at the podium have anything in his shirt pocket?",
+      "modified": "Does the woman in a pink shirt at the podium have anything in her shirt pocket?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the man in a pink shirt at the podium standing behind a wooden lectern?",
+      "modified": "Is the woman in a pink shirt at the podium standing behind a wooden lectern?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "What color is the shirt worn by the man in a pink shirt at the podium?",
+      "modified": "What color is the shirt worn by the woman in a pink shirt at the podium?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the man in a pink shirt at the podium look like he is giving a presentation?",
+      "modified": "Does the woman in a pink shirt at the podium look like she is giving a presentation?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the man in a pink shirt at the podium indoors on a stage?",
+      "modified": "Is the woman in a pink shirt at the podium indoors on a stage?",
+      "false_premise": true
+    }
+  ]
+}

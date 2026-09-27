@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1223",
+    "source": "COCO",
+    "complexity": 1,
+    "category": 2,
+    "target": "bus"
+  },
+  "base": {
+    "target_description": "the graffiti-covered silver bus",
+    "modified_target_description": "the graffiti-covered silver truck",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What color is the graffiti-covered silver bus?",
+      "modified": "What color is the graffiti-covered silver bus?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the graffiti-covered silver bus parked or moving in this image?",
+      "modified": "Is the graffiti-covered silver bus parked or moving in this image?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the graffiti-covered silver bus have graffiti across most of its side?",
+      "modified": "Does the graffiti-covered silver bus have graffiti across most of its side?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Can you see the wheels of the graffiti-covered silver bus?",
+      "modified": "Can you see the wheels of the graffiti-covered silver truck?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the graffiti-covered silver bus shown from the side?",
+      "modified": "Is the graffiti-covered silver truck shown from the side?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the graffiti-covered silver bus look old or worn down?",
+      "modified": "Does the graffiti-covered silver truck look old or worn down?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is there a large painted design on the front end of the graffiti-covered silver bus?",
+      "modified": "Is there a large painted design on the front end of the graffiti-covered silver truck?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the graffiti-covered silver bus appear to be outdoors?",
+      "modified": "Does the graffiti-covered silver truck appear to be outdoors?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the graffiti-covered silver bus taking up most of the image?",
+      "modified": "Is the graffiti-covered silver truck taking up most of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Are there multiple colors of paint visible on the graffiti-covered silver bus?",
+      "modified": "Are there multiple colors of paint visible on the graffiti-covered silver truck?",
+      "false_premise": true
+    }
+  ]
+}

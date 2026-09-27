@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2443",
+    "source": "COCO",
+    "complexity": 2,
+    "category": 4,
+    "target": "coffee"
+  },
+  "base": {
+    "target_description": "the white cup of coffee on a blue saucer",
+    "modified_target_description": "the white cup of coffee on a red saucer",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What kind of foam art is visible on the white cup of coffee on a blue saucer?",
+      "modified": "What kind of foam art is visible on the white cup of coffee on a blue saucer?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the white cup of coffee on a blue saucer placed near a glass of water?",
+      "modified": "Is the white cup of coffee on a blue saucer placed near a glass of water?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the white cup of coffee on a blue saucer appear to be filled close to the top?",
+      "modified": "Does the white cup of coffee on a blue saucer appear to be filled close to the top?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is there a spoon resting beside the white cup of coffee on a blue saucer?",
+      "modified": "Is there a spoon resting beside the white cup of coffee on a red saucer?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "What color is the drink inside the white cup of coffee on a blue saucer?",
+      "modified": "What color is the drink inside the white cup of coffee on a red saucer?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the white cup of coffee on a blue saucer sitting on a wooden table?",
+      "modified": "Is the white cup of coffee on a red saucer sitting on a wooden table?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the white cup of coffee on a blue saucer look like a latte or cappuccino?",
+      "modified": "Does the white cup of coffee on a red saucer look like a latte or cappuccino?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the handle of the white cup of coffee on a blue saucer visible on the right side?",
+      "modified": "Is the handle of the white cup of coffee on a red saucer visible on the right side?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the white cup of coffee on a blue saucer closer to the front or the back of the table?",
+      "modified": "Is the white cup of coffee on a red saucer closer to the front or the back of the table?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the white cup of coffee on a blue saucer next to a card with text on it?",
+      "modified": "Is the white cup of coffee on a red saucer next to a card with text on it?",
+      "false_premise": true
+    }
+  ]
+}

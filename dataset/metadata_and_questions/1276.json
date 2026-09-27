@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1276",
+    "source": "COCO",
+    "complexity": 1,
+    "category": 2,
+    "target": "motorcycle"
+  },
+  "base": {
+    "target_description": "the gray and yellow motorcycle with side cases",
+    "modified_target_description": "the gray and yellow motorcycle with side cases on the left",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the gray and yellow motorcycle with side cases parked on a dirt road?",
+      "modified": "Is the gray and yellow motorcycle with side cases parked on a dirt road?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the gray and yellow motorcycle with side cases appear to be turned off?",
+      "modified": "Does the gray and yellow motorcycle with side cases appear to be turned off?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the gray and yellow motorcycle with side cases facing toward the right side of the image?",
+      "modified": "Is the gray and yellow motorcycle with side cases facing toward the right side of the image?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the gray and yellow motorcycle with side cases have a windshield on the front?",
+      "modified": "Does the gray and yellow motorcycle with side cases on the left have a windshield on the front?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the gray and yellow motorcycle with side cases standing upright on its kickstand?",
+      "modified": "Is the gray and yellow motorcycle with side cases on the left standing upright on its kickstand?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the gray and yellow motorcycle with side cases look like an off-road or touring bike?",
+      "modified": "Does the gray and yellow motorcycle with side cases on the left look like an off-road or touring bike?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Are both wheels of the gray and yellow motorcycle with side cases visible in the image?",
+      "modified": "Are both wheels of the gray and yellow motorcycle with side cases on the left visible in the image?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the gray and yellow motorcycle with side cases the main object in the scene?",
+      "modified": "Is the gray and yellow motorcycle with side cases on the left the main object in the scene?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the gray and yellow motorcycle with side cases have luggage boxes attached to the sides?",
+      "modified": "Does the gray and yellow motorcycle with side cases on the left have luggage boxes attached to the sides?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the gray and yellow motorcycle with side cases parked outdoors near some bushes?",
+      "modified": "Is the gray and yellow motorcycle with side cases on the left parked outdoors near some bushes?",
+      "false_premise": true
+    }
+  ]
+}

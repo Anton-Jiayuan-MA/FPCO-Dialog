@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2442",
+    "source": "COCO",
+    "complexity": 2,
+    "category": 4,
+    "target": "donut"
+  },
+  "base": {
+    "target_description": "the pink-frosted donut",
+    "modified_target_description": "the chocolate-frosted donut",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Where in the box is the pink-frosted donut located?",
+      "modified": "Where in the box is the pink-frosted donut located?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the pink-frosted donut whole or partially eaten?",
+      "modified": "Is the pink-frosted donut whole or partially eaten?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "What shape is the pink-frosted donut?",
+      "modified": "What shape is the pink-frosted donut?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the pink-frosted donut look filled or plain?",
+      "modified": "Does the chocolate-frosted donut look filled or plain?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the pink-frosted donut sitting next to another similar pastry?",
+      "modified": "Is the chocolate-frosted donut sitting next to another similar pastry?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the pink-frosted donut have smooth frosting on top?",
+      "modified": "Does the chocolate-frosted donut have smooth frosting on top?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the pink-frosted donut near the bottom edge of the box?",
+      "modified": "Is the chocolate-frosted donut near the bottom edge of the box?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the pink-frosted donut appear larger than the ring donuts?",
+      "modified": "Does the chocolate-frosted donut appear larger than the ring donuts?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the pink-frosted donut one of the lighter-colored pastries in the box?",
+      "modified": "Is the chocolate-frosted donut one of the lighter-colored pastries in the box?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Can you see the pastry shell underneath the frosting on the pink-frosted donut?",
+      "modified": "Can you see the pastry shell underneath the frosting on the chocolate-frosted donut?",
+      "false_premise": true
+    }
+  ]
+}

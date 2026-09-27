@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3327",
+    "source": "COCO",
+    "complexity": 3,
+    "category": 3,
+    "target": "dog"
+  },
+  "base": {
+    "target_description": "the small white dog in an orange life jacket",
+    "modified_target_description": "the small white cat in an orange life jacket",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the small white dog in an orange life jacket riding on the surfboard?",
+      "modified": "Is the small white dog in an orange life jacket riding on the surfboard?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the small white dog in an orange life jacket look toward the right side of the image?",
+      "modified": "Does the small white dog in an orange life jacket look toward the right side of the image?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the small white dog in an orange life jacket surrounded by other dogs?",
+      "modified": "Is the small white dog in an orange life jacket surrounded by other dogs?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the small white dog in an orange life jacket appear to be staying balanced as the board moves through the waves?",
+      "modified": "Does the small white cat in an orange life jacket appear to be staying balanced as the board moves through the waves?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the small white dog in an orange life jacket near the front edge of the board?",
+      "modified": "Is the small white cat in an orange life jacket near the front edge of the board?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Can you see the small white dog in an orange life jacket above the water rather than in it?",
+      "modified": "Can you see the small white cat in an orange life jacket above the water rather than in it?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the small white dog in an orange life jacket seem calm despite the rough surf?",
+      "modified": "Does the small white cat in an orange life jacket seem calm despite the rough surf?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the small white dog in an orange life jacket positioned beside another dog in a red life jacket?",
+      "modified": "Is the small white cat in an orange life jacket positioned beside another dog in a red life jacket?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Can you clearly see the face of the small white dog in an orange life jacket?",
+      "modified": "Can you clearly see the face of the small white cat in an orange life jacket?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the small white dog in an orange life jacket part of a group of dogs surfing together?",
+      "modified": "Is the small white cat in an orange life jacket part of a group of dogs surfing together?",
+      "false_premise": true
+    }
+  ]
+}

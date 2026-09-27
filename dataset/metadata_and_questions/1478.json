@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1478",
+    "source": "COCO",
+    "complexity": 1,
+    "category": 4,
+    "target": "pasta"
+  },
+  "base": {
+    "target_description": "the creamy penne pasta",
+    "modified_target_description": "the creamy penne pasta on the left",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What color is the creamy penne pasta?",
+      "modified": "What color is the creamy penne pasta?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the creamy penne pasta being eaten with a fork?",
+      "modified": "Is the creamy penne pasta being eaten with a fork?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the creamy penne pasta look like it has sauce on it?",
+      "modified": "Does the creamy penne pasta look like it has sauce on it?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the creamy penne pasta served on a plate or in a bowl?",
+      "modified": "Is the creamy penne pasta on the left served on a plate or in a bowl?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the creamy penne pasta appear to include mushrooms?",
+      "modified": "Does the creamy penne pasta on the left appear to include mushrooms?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Can you see any green herbs mixed into the creamy penne pasta?",
+      "modified": "Can you see any green herbs mixed into the creamy penne pasta on the left?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the creamy penne pasta look freshly prepared?",
+      "modified": "Does the creamy penne pasta on the left look freshly prepared?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the creamy penne pasta the main focus of the image?",
+      "modified": "Is the creamy penne pasta on the left the main focus of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the creamy penne pasta appear to be a warm dish?",
+      "modified": "Does the creamy penne pasta on the left appear to be a warm dish?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the creamy penne pasta shown close up in the photo?",
+      "modified": "Is the creamy penne pasta on the left shown close up in the photo?",
+      "false_premise": true
+    }
+  ]
+}

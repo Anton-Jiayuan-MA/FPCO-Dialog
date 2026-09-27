@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3241",
+    "source": "Open Images",
+    "complexity": 3,
+    "category": 2,
+    "target": "tank"
+  },
+  "base": {
+    "target_description": "the tan military tank with a long cannon",
+    "modified_target_description": "the green military tank with a long cannon",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the tan military tank with a long cannon parked in a row with other tanks?",
+      "modified": "Is the tan military tank with a long cannon parked in a row with other tanks?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the tan military tank with a long cannon appear to be outdoors?",
+      "modified": "Does the tan military tank with a long cannon appear to be outdoors?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the tan military tank with a long cannon facing toward the right side of the image?",
+      "modified": "Is the tan military tank with a long cannon facing toward the right side of the image?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the tan military tank with a long cannon have wet surfaces from rain?",
+      "modified": "Does the green military tank with a long cannon have wet surfaces from rain?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the tan military tank with a long cannon shown close to the camera in the foreground?",
+      "modified": "Is the green military tank with a long cannon shown close to the camera in the foreground?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Can you see the turret on the tan military tank with a long cannon?",
+      "modified": "Can you see the turret on the green military tank with a long cannon?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the tan military tank with a long cannon stationary rather than moving?",
+      "modified": "Is the green military tank with a long cannon stationary rather than moving?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the tan military tank with a long cannon have lights visible on its front area?",
+      "modified": "Does the green military tank with a long cannon have lights visible on its front area?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the tan military tank with a long cannon aligned beside many similar vehicles?",
+      "modified": "Is the green military tank with a long cannon aligned beside many similar vehicles?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the tan military tank with a long cannon take up a large portion of the image?",
+      "modified": "Does the green military tank with a long cannon take up a large portion of the image?",
+      "false_premise": true
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3251",
+    "source": "Open Images",
+    "complexity": 3,
+    "category": 2,
+    "target": "bicycle"
+  },
+  "base": {
+    "target_description": "the black bicycle with whitewall tires",
+    "modified_target_description": "the white bicycle with whitewall tires",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the black bicycle with whitewall tires parked indoors?",
+      "modified": "Is the black bicycle with whitewall tires parked indoors?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the black bicycle with whitewall tires have a helmet resting on it?",
+      "modified": "Does the black bicycle with whitewall tires have a helmet resting on it?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the black bicycle with whitewall tires closer to the camera than the other bikes?",
+      "modified": "Is the black bicycle with whitewall tires closer to the camera than the other bikes?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the black bicycle with whitewall tires appear to be standing still?",
+      "modified": "Does the white bicycle with whitewall tires appear to be standing still?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the black bicycle with whitewall tires positioned in front of a white bicycle?",
+      "modified": "Is the white bicycle with whitewall tires positioned in front of a white bicycle?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Can you clearly see both wheels of the black bicycle with whitewall tires?",
+      "modified": "Can you clearly see both wheels of the white bicycle with whitewall tires?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the black bicycle with whitewall tires leaning slightly to one side?",
+      "modified": "Is the white bicycle with whitewall tires leaning slightly to one side?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the black bicycle with whitewall tires have a dark frame?",
+      "modified": "Does the white bicycle with whitewall tires have a dark frame?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the black bicycle with whitewall tires among several bicycles in the room?",
+      "modified": "Is the white bicycle with whitewall tires among several bicycles in the room?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the black bicycle with whitewall tires near the center of the image?",
+      "modified": "Is the white bicycle with whitewall tires near the center of the image?",
+      "false_premise": true
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3175",
+    "source": "Open Images",
+    "complexity": 3,
+    "category": 1,
+    "target": "person"
+  },
+  "base": {
+    "target_description": "the blonde woman with a white scarf",
+    "modified_target_description": "the blonde woman with a white scarf on the right",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the blonde woman with a white scarf holding in her hands?",
+      "modified": "What is the blonde woman with a white scarf holding in her hands?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the blonde woman with a white scarf eating something in the image?",
+      "modified": "Is the blonde woman with a white scarf eating something in the image?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Who is the blonde woman with a white scarf facing?",
+      "modified": "Who is the blonde woman with a white scarf facing?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the blonde woman with a white scarf appear to be talking with someone at the gathering?",
+      "modified": "Does the blonde woman with a white scarf on the right appear to be talking with someone at the gathering?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "What color top is the blonde woman with a white scarf wearing?",
+      "modified": "What color top is the blonde woman with a white scarf on the right wearing?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the blonde woman with a white scarf standing or sitting?",
+      "modified": "Is the blonde woman with a white scarf on the right standing or sitting?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the blonde woman with a white scarf have her hair tied back?",
+      "modified": "Does the blonde woman with a white scarf on the right have her hair tied back?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the blonde woman with a white scarf near the woman in the red sweater?",
+      "modified": "Is the blonde woman with a white scarf on the right near the woman in the red sweater?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the blonde woman with a white scarf seem to be at a social event indoors?",
+      "modified": "Does the blonde woman with a white scarf on the right seem to be at a social event indoors?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the blonde woman with a white scarf holding a drink glass as well as a plate?",
+      "modified": "Is the blonde woman with a white scarf on the right holding a drink glass as well as a plate?",
+      "false_premise": true
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1246",
+    "source": "Open Images",
+    "complexity": 1,
+    "category": 2,
+    "target": "bus"
+  },
+  "base": {
+    "target_description": "the black and white vintage bus",
+    "modified_target_description": "the red and white vintage bus",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What color combination is the black and white vintage bus?",
+      "modified": "What color combination is the black and white vintage bus?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the black and white vintage bus parked on grass?",
+      "modified": "Is the black and white vintage bus parked on grass?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the black and white vintage bus look like an older model?",
+      "modified": "Does the black and white vintage bus look like an older model?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Are there windows visible along the side of the black and white vintage bus?",
+      "modified": "Are there windows visible along the side of the red and white vintage bus?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the black and white vintage bus facing toward the left side of the image?",
+      "modified": "Is the red and white vintage bus facing toward the left side of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the black and white vintage bus have round headlights on the front?",
+      "modified": "Does the red and white vintage bus have round headlights on the front?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the black and white vintage bus outdoors in this scene?",
+      "modified": "Is the red and white vintage bus outdoors in this scene?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Can you see the front grille of the black and white vintage bus?",
+      "modified": "Can you see the front grille of the red and white vintage bus?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the black and white vintage bus appear to be stationary?",
+      "modified": "Does the red and white vintage bus appear to be stationary?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the black and white vintage bus shown from a side-front angle?",
+      "modified": "Is the red and white vintage bus shown from a side-front angle?",
+      "false_premise": true
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2252",
+    "source": "COCO",
+    "complexity": 2,
+    "category": 2,
+    "target": "car"
+  },
+  "base": {
+    "target_description": "the green and white car in the foreground",
+    "modified_target_description": "the red and white car in the foreground",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What direction is the green and white car in the foreground heading?",
+      "modified": "What direction is the green and white car in the foreground heading?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the green and white car in the foreground moving through the intersection?",
+      "modified": "Is the green and white car in the foreground moving through the intersection?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Where is the green and white car in the foreground positioned in the scene?",
+      "modified": "Where is the green and white car in the foreground positioned in the scene?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the green and white car in the foreground appear closer to the camera than the other vehicles?",
+      "modified": "Does the red and white car in the foreground appear closer to the camera than the other vehicles?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the green and white car in the foreground on the right side of the image?",
+      "modified": "Is the red and white car in the foreground on the right side of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "What color is the roof of the green and white car in the foreground?",
+      "modified": "What color is the roof of the red and white car in the foreground?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the green and white car in the foreground turning or going straight?",
+      "modified": "Is the red and white car in the foreground turning or going straight?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "How much of the green and white car in the foreground is visible in the image?",
+      "modified": "How much of the red and white car in the foreground is visible in the image?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the green and white car in the foreground the most prominent vehicle in the picture?",
+      "modified": "Is the red and white car in the foreground the most prominent vehicle in the picture?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the green and white car in the foreground stand out from the other cars because of its color?",
+      "modified": "Does the red and white car in the foreground stand out from the other cars because of its color?",
+      "false_premise": true
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2419",
+    "source": "COCO",
+    "complexity": 2,
+    "category": 4,
+    "target": "orange"
+  },
+  "base": {
+    "target_description": "the orange half on the glass plate",
+    "modified_target_description": "the lemon half on the glass plate",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the orange half on the glass plate cut side facing up?",
+      "modified": "Is the orange half on the glass plate cut side facing up?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the orange half on the glass plate look fresh and juicy?",
+      "modified": "Does the orange half on the glass plate look fresh and juicy?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the orange half on the glass plate placed around the cupcakes?",
+      "modified": "Is the orange half on the glass plate placed around the cupcakes?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Can you see the orange half on the glass plate near the edge of the platter?",
+      "modified": "Can you see the lemon half on the glass plate near the edge of the platter?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the orange half on the glass plate one of several fruit pieces arranged in a circle?",
+      "modified": "Is the lemon half on the glass plate one of several fruit pieces arranged in a circle?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the orange half on the glass plate have bright orange peel?",
+      "modified": "Does the lemon half on the glass plate have bright orange peel?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the orange half on the glass plate touching any of the cupcakes?",
+      "modified": "Is the lemon half on the glass plate touching any of the cupcakes?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the orange half on the glass plate appear sliced evenly?",
+      "modified": "Does the lemon half on the glass plate appear sliced evenly?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the orange half on the glass plate part of the food display?",
+      "modified": "Is the lemon half on the glass plate part of the food display?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Would you say the orange half on the glass plate is larger than a cupcake?",
+      "modified": "Would you say the lemon half on the glass plate is larger than a cupcake?",
+      "false_premise": true
+    }
+  ]
+}

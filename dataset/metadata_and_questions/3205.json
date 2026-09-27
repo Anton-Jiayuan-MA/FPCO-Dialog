@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3205",
+    "source": "COCO",
+    "complexity": 3,
+    "category": 2,
+    "target": "airplane"
+  },
+  "base": {
+    "target_description": "the large China Airlines airplane on the tarmac",
+    "modified_target_description": "the large China Airlines truck on the tarmac",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the large China Airlines airplane on the tarmac parked or moving in this scene?",
+      "modified": "Is the large China Airlines airplane on the tarmac parked or moving in this scene?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the large China Airlines airplane on the tarmac appear to be near an airport terminal?",
+      "modified": "Does the large China Airlines airplane on the tarmac appear to be near an airport terminal?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Can you see the nose of the large China Airlines airplane on the tarmac facing to the right?",
+      "modified": "Can you see the nose of the large China Airlines airplane on the tarmac facing to the right?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the large China Airlines airplane on the tarmac closer to the camera than the other plane in the background?",
+      "modified": "Is the large China Airlines truck on the tarmac closer to the camera than the other plane in the background?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the large China Airlines airplane on the tarmac have multiple engines visible?",
+      "modified": "Does the large China Airlines truck on the tarmac have multiple engines visible?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the large China Airlines airplane on the tarmac connected to a jet bridge?",
+      "modified": "Is the large China Airlines truck on the tarmac connected to a jet bridge?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the large China Airlines airplane on the tarmac look like a passenger jet?",
+      "modified": "Does the large China Airlines truck on the tarmac look like a passenger jet?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the large China Airlines airplane on the tarmac sitting on a marked airport surface?",
+      "modified": "Is the large China Airlines truck on the tarmac sitting on a marked airport surface?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Can you see the airline name written on the side of the large China Airlines airplane on the tarmac?",
+      "modified": "Can you see the airline name written on the side of the large China Airlines truck on the tarmac?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the large China Airlines airplane on the tarmac the main subject of the image?",
+      "modified": "Is the large China Airlines truck on the tarmac the main subject of the image?",
+      "false_premise": true
+    }
+  ]
+}

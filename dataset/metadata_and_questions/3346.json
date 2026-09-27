@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3346",
+    "source": "Open Images",
+    "complexity": 3,
+    "category": 3,
+    "target": "sheep"
+  },
+  "base": {
+    "target_description": "the white sheep behind the metal fence",
+    "modified_target_description": "the black sheep behind the metal fence",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the white sheep behind the metal fence facing toward the camera?",
+      "modified": "Is the white sheep behind the metal fence facing toward the camera?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the white sheep behind the metal fence have ear tags visible?",
+      "modified": "Does the white sheep behind the metal fence have ear tags visible?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the white sheep behind the metal fence standing close to the front of the enclosure?",
+      "modified": "Is the white sheep behind the metal fence standing close to the front of the enclosure?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the white sheep behind the metal fence appear larger than the other sheep nearby?",
+      "modified": "Does the black sheep behind the metal fence appear larger than the other sheep nearby?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the white sheep behind the metal fence looking calm?",
+      "modified": "Is the black sheep behind the metal fence looking calm?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Can you see the head of the white sheep behind the metal fence clearly?",
+      "modified": "Can you see the head of the black sheep behind the metal fence clearly?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the white sheep behind the metal fence near other sheep?",
+      "modified": "Is the black sheep behind the metal fence near other sheep?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the white sheep behind the metal fence have wool that looks thick?",
+      "modified": "Does the black sheep behind the metal fence have wool that looks thick?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the white sheep behind the metal fence positioned near the center of the image?",
+      "modified": "Is the black sheep behind the metal fence positioned near the center of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the white sheep behind the metal fence seem to be standing still?",
+      "modified": "Does the black sheep behind the metal fence seem to be standing still?",
+      "false_premise": true
+    }
+  ]
+}

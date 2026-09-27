@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1382",
+    "source": "COCO",
+    "complexity": 1,
+    "category": 3,
+    "target": "giraffe"
+  },
+  "base": {
+    "target_description": "the tall giraffe in the grass",
+    "modified_target_description": "the tall giraffe on the right",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the tall giraffe in the grass standing still?",
+      "modified": "Is the tall giraffe in the grass standing still?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the tall giraffe in the grass facing toward the camera?",
+      "modified": "Is the tall giraffe in the grass facing toward the camera?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the tall giraffe in the grass have its long neck upright?",
+      "modified": "Does the tall giraffe in the grass have its long neck upright?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the tall giraffe in the grass out in a natural area?",
+      "modified": "Is the tall giraffe on the right out in a natural area?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Can you see the full body of the tall giraffe in the grass?",
+      "modified": "Can you see the full body of the tall giraffe on the right?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the tall giraffe in the grass surrounded by bushes and dry vegetation?",
+      "modified": "Is the tall giraffe on the right surrounded by bushes and dry vegetation?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the tall giraffe in the grass appear to be alone?",
+      "modified": "Does the tall giraffe on the right appear to be alone?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the tall giraffe in the grass partly hidden by plants?",
+      "modified": "Is the tall giraffe on the right partly hidden by plants?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Are the ears of the tall giraffe in the grass clearly visible?",
+      "modified": "Are the ears of the tall giraffe on the right clearly visible?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the tall giraffe in the grass looking alert?",
+      "modified": "Is the tall giraffe on the right looking alert?",
+      "false_premise": true
+    }
+  ]
+}

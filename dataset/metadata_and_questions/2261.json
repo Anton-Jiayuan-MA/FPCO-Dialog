@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2261",
+    "source": "Open Images",
+    "complexity": 2,
+    "category": 2,
+    "target": "airplane"
+  },
+  "base": {
+    "target_description": "the blue and white airplane on the tarmac",
+    "modified_target_description": "the blue and white airplane in the background",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the blue and white airplane on the tarmac parked at the gate?",
+      "modified": "Is the blue and white airplane on the tarmac parked at the gate?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the blue and white airplane on the tarmac have boarding stairs attached?",
+      "modified": "Does the blue and white airplane on the tarmac have boarding stairs attached?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the blue and white airplane on the tarmac facing toward the left side of the image?",
+      "modified": "Is the blue and white airplane on the tarmac facing toward the left side of the image?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Can you see the nose of the blue and white airplane on the tarmac clearly?",
+      "modified": "Can you see the nose of the blue and white airplane in the background clearly?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the blue and white airplane on the tarmac smaller than the nearby commercial jet behind it?",
+      "modified": "Is the blue and white airplane in the background smaller than the nearby commercial jet behind it?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the blue and white airplane on the tarmac appear ready for passengers to board?",
+      "modified": "Does the blue and white airplane in the background appear ready for passengers to board?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the blue and white airplane on the tarmac sitting close to airport ground equipment?",
+      "modified": "Is the blue and white airplane in the background sitting close to airport ground equipment?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the blue and white airplane on the tarmac have its door open?",
+      "modified": "Does the blue and white airplane in the background have its door open?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the blue and white airplane on the tarmac positioned in the foreground of the scene?",
+      "modified": "Is the blue and white airplane in the background positioned in the foreground of the scene?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Can you see both wings of the blue and white airplane on the tarmac?",
+      "modified": "Can you see both wings of the blue and white airplane in the background?",
+      "false_premise": true
+    }
+  ]
+}

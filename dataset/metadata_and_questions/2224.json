@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2224",
+    "source": "Open Images",
+    "complexity": 2,
+    "category": 2,
+    "target": "SUV"
+  },
+  "base": {
+    "target_description": "the gray SUV parked by the curb",
+    "modified_target_description": "the gray truck parked by the curb",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the gray SUV parked by the curb facing toward the left side of the image?",
+      "modified": "Is the gray SUV parked by the curb facing toward the left side of the image?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the gray SUV parked by the curb appear to be stationary?",
+      "modified": "Does the gray SUV parked by the curb appear to be stationary?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the gray SUV parked by the curb in front of the building?",
+      "modified": "Is the gray SUV parked by the curb in front of the building?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the gray SUV parked by the curb have four visible doors?",
+      "modified": "Does the gray truck parked by the curb have four visible doors?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the gray SUV parked by the curb positioned between the street and the people on the sidewalk?",
+      "modified": "Is the gray truck parked by the curb positioned between the street and the people on the sidewalk?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the gray SUV parked by the curb look closer to the left side than the right side of the image?",
+      "modified": "Does the gray truck parked by the curb look closer to the left side than the right side of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the gray SUV parked by the curb under the large tree branches?",
+      "modified": "Is the gray truck parked by the curb under the large tree branches?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the gray SUV parked by the curb have light-colored wheels?",
+      "modified": "Does the gray truck parked by the curb have light-colored wheels?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the gray SUV parked by the curb beside another larger vehicle?",
+      "modified": "Is the gray truck parked by the curb beside another larger vehicle?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the gray SUV parked by the curb appear to be parallel parked along the street?",
+      "modified": "Does the gray truck parked by the curb appear to be parallel parked along the street?",
+      "false_premise": true
+    }
+  ]
+}

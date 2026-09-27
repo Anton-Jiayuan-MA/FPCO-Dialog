@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2458",
+    "source": "Open Images",
+    "complexity": 2,
+    "category": 4,
+    "target": "tofu"
+  },
+  "base": {
+    "target_description": "the white tofu cubes in the pot",
+    "modified_target_description": "the brown tofu cubes in the pot",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "How many of the white tofu cubes in the pot are visible?",
+      "modified": "How many of the white tofu cubes in the pot are visible?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Are the white tofu cubes in the pot sitting in liquid?",
+      "modified": "Are the white tofu cubes in the pot sitting in liquid?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is someone lifting one of the white tofu cubes in the pot with a spoon?",
+      "modified": "Is someone lifting one of the white tofu cubes in the pot with a spoon?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Do the white tofu cubes in the pot look soft?",
+      "modified": "Do the brown tofu cubes in the pot look soft?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Are the white tofu cubes in the pot cut into large pieces?",
+      "modified": "Are the brown tofu cubes in the pot cut into large pieces?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Do the white tofu cubes in the pot appear ready to be served?",
+      "modified": "Do the brown tofu cubes in the pot appear ready to be served?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Are the white tofu cubes in the pot arranged around a small sauce container?",
+      "modified": "Are the brown tofu cubes in the pot arranged around a small sauce container?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Do the white tofu cubes in the pot look plain rather than heavily seasoned?",
+      "modified": "Do the brown tofu cubes in the pot look plain rather than heavily seasoned?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Are the white tofu cubes in the pot being cooked on a stovetop?",
+      "modified": "Are the brown tofu cubes in the pot being cooked on a stovetop?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is one of the white tofu cubes in the pot closer to the camera than the others?",
+      "modified": "Is one of the brown tofu cubes in the pot closer to the camera than the others?",
+      "false_premise": true
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2125",
+    "source": "COCO",
+    "complexity": 2,
+    "category": 1,
+    "target": "boy"
+  },
+  "base": {
+    "target_description": "the boy in a navy jersey and red shorts",
+    "modified_target_description": "the girl in a navy jersey and red shorts",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the boy in a navy jersey and red shorts running on a soccer field?",
+      "modified": "Is the boy in a navy jersey and red shorts running on a soccer field?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the boy in a navy jersey and red shorts close to the soccer ball?",
+      "modified": "Is the boy in a navy jersey and red shorts close to the soccer ball?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the boy in a navy jersey and red shorts look wet from the rain?",
+      "modified": "Does the boy in a navy jersey and red shorts look wet from the rain?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the boy in a navy jersey and red shorts moving toward the left side of the image?",
+      "modified": "Is the girl in a navy jersey and red shorts moving toward the left side of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the boy in a navy jersey and red shorts appear to be playing soccer?",
+      "modified": "Does the girl in a navy jersey and red shorts appear to be playing soccer?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the boy in a navy jersey and red shorts wearing long socks?",
+      "modified": "Is the girl in a navy jersey and red shorts wearing long socks?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the boy in a navy jersey and red shorts have one leg lifted as he runs?",
+      "modified": "Does the girl in a navy jersey and red shorts have one leg lifted as she runs?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the boy in a navy jersey and red shorts in front of another player?",
+      "modified": "Is the girl in a navy jersey and red shorts in front of another player?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the boy in a navy jersey and red shorts seem focused on the game?",
+      "modified": "Does the girl in a navy jersey and red shorts seem focused on the game?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the boy in a navy jersey and red shorts out in the rain during the match?",
+      "modified": "Is the girl in a navy jersey and red shorts out in the rain during the match?",
+      "false_premise": true
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3324",
+    "source": "COCO",
+    "complexity": 3,
+    "category": 3,
+    "target": "cow"
+  },
+  "base": {
+    "target_description": "the white and brown cow in the foreground",
+    "modified_target_description": "the white and brown horse in the foreground",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the white and brown cow in the foreground facing toward the camera?",
+      "modified": "Is the white and brown cow in the foreground facing toward the camera?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the white and brown cow in the foreground appear to be standing still?",
+      "modified": "Does the white and brown cow in the foreground appear to be standing still?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the white and brown cow in the foreground wearing a bell around its neck?",
+      "modified": "Is the white and brown cow in the foreground wearing a bell around its neck?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the white and brown cow in the foreground closer to the viewer than the other cows?",
+      "modified": "Is the white and brown horse in the foreground closer to the viewer than the other cows?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the white and brown cow in the foreground have its head raised?",
+      "modified": "Does the white and brown horse in the foreground have its head raised?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the white and brown cow in the foreground standing in a grassy field?",
+      "modified": "Is the white and brown horse in the foreground standing in a grassy field?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the white and brown cow in the foreground look larger than the gray cow beside it due to perspective?",
+      "modified": "Does the white and brown horse in the foreground look larger than the gray cow beside it due to perspective?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the white and brown cow in the foreground near a wooden fence?",
+      "modified": "Is the white and brown horse in the foreground near a wooden fence?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the white and brown cow in the foreground appear to be looking at the camera?",
+      "modified": "Does the white and brown horse in the foreground appear to be looking at the camera?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the white and brown cow in the foreground outdoors in a farm-like setting?",
+      "modified": "Is the white and brown horse in the foreground outdoors in a farm-like setting?",
+      "false_premise": true
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2111",
+    "source": "COCO",
+    "complexity": 2,
+    "category": 1,
+    "target": "man"
+  },
+  "base": {
+    "target_description": "the kneeling man in a red baseball uniform",
+    "modified_target_description": "the kneeling woman in a red baseball uniform",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the kneeling man in a red baseball uniform doing in the scene?",
+      "modified": "What is the kneeling man in a red baseball uniform doing in the scene?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the kneeling man in a red baseball uniform facing toward the child?",
+      "modified": "Is the kneeling man in a red baseball uniform facing toward the child?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "What number is visible on the back of the kneeling man in a red baseball uniform?",
+      "modified": "What number is visible on the back of the kneeling man in a red baseball uniform?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the kneeling man in a red baseball uniform appear to be on one knee?",
+      "modified": "Does the kneeling woman in a red baseball uniform appear to be on one knee?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the kneeling man in a red baseball uniform wearing a baseball cap?",
+      "modified": "Is the kneeling woman in a red baseball uniform wearing a baseball cap?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "What is the kneeling man in a red baseball uniform holding in his hand?",
+      "modified": "What is the kneeling woman in a red baseball uniform holding in her hand?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the kneeling man in a red baseball uniform on the grass field?",
+      "modified": "Is the kneeling woman in a red baseball uniform on the grass field?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the kneeling man in a red baseball uniform seem to be talking to the child?",
+      "modified": "Does the kneeling woman in a red baseball uniform seem to be talking to the child?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Which direction is the kneeling man in a red baseball uniform looking?",
+      "modified": "Which direction is the kneeling woman in a red baseball uniform looking?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the kneeling man in a red baseball uniform closer to the camera than the child?",
+      "modified": "Is the kneeling woman in a red baseball uniform closer to the camera than the child?",
+      "false_premise": true
+    }
+  ]
+}

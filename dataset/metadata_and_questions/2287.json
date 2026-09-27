@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2287",
+    "source": "Open Images",
+    "complexity": 2,
+    "category": 2,
+    "target": "bicycle"
+  },
+  "base": {
+    "target_description": "the black touring bicycle with red bags",
+    "modified_target_description": "the black touring bicycle with red bags on the right",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the black touring bicycle with red bags parked on a paved sidewalk?",
+      "modified": "Is the black touring bicycle with red bags parked on a paved sidewalk?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the black touring bicycle with red bags appear to be carrying gear for a trip?",
+      "modified": "Does the black touring bicycle with red bags appear to be carrying gear for a trip?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the black touring bicycle with red bags leaning slightly to one side?",
+      "modified": "Is the black touring bicycle with red bags leaning slightly to one side?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Can you see both wheels of the black touring bicycle with red bags clearly?",
+      "modified": "Can you see both wheels of the black touring bicycle with red bags on the right clearly?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the black touring bicycle with red bags have bags attached near the front and rear wheels?",
+      "modified": "Does the black touring bicycle with red bags on the right have bags attached near the front and rear wheels?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the black touring bicycle with red bags positioned in front of a seating area?",
+      "modified": "Is the black touring bicycle with red bags on the right positioned in front of a seating area?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the black touring bicycle with red bags look like it is stopped rather than moving?",
+      "modified": "Does the black touring bicycle with red bags on the right look like it is stopped rather than moving?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the black touring bicycle with red bags closest to the camera in the scene?",
+      "modified": "Is the black touring bicycle with red bags on the right closest to the camera in the scene?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Can you see a water bottle mounted on the black touring bicycle with red bags?",
+      "modified": "Can you see a water bottle mounted on the black touring bicycle with red bags on the right?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the black touring bicycle with red bags parked beside another bicycle?",
+      "modified": "Is the black touring bicycle with red bags on the right parked beside another bicycle?",
+      "false_premise": true
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2365",
+    "source": "Open Images",
+    "complexity": 2,
+    "category": 3,
+    "target": "sheep"
+  },
+  "base": {
+    "target_description": "the shorn sheep in the foreground",
+    "modified_target_description": "the shorn sheep in the background",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What direction is the shorn sheep in the foreground facing?",
+      "modified": "What direction is the shorn sheep in the foreground facing?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the shorn sheep in the foreground standing still?",
+      "modified": "Is the shorn sheep in the foreground standing still?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the shorn sheep in the foreground appear to be looking toward the camera?",
+      "modified": "Does the shorn sheep in the foreground appear to be looking toward the camera?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "What color is the wool on the shorn sheep in the foreground?",
+      "modified": "What color is the wool on the shorn sheep in the background?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Are the ears of the shorn sheep in the foreground spread out to the sides?",
+      "modified": "Are the ears of the shorn sheep in the background spread out to the sides?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the shorn sheep in the foreground standing on grass and fallen leaves?",
+      "modified": "Is the shorn sheep in the background standing on grass and fallen leaves?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the shorn sheep in the foreground have a darker face than body?",
+      "modified": "Does the shorn sheep in the background have a darker face than body?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the shorn sheep in the foreground closer to the viewer than the other sheep?",
+      "modified": "Is the shorn sheep in the background closer to the viewer than the other sheep?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Can you clearly see all four legs of the shorn sheep in the foreground?",
+      "modified": "Can you clearly see all four legs of the shorn sheep in the background?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the shorn sheep in the foreground positioned near the center of the image?",
+      "modified": "Is the shorn sheep in the background positioned near the center of the image?",
+      "false_premise": true
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1452",
+    "source": "Open Images",
+    "complexity": 1,
+    "category": 4,
+    "target": "rice"
+  },
+  "base": {
+    "target_description": "the bowl of rice with vegetables",
+    "modified_target_description": "the bowl of brown rice with vegetables",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What color is the bowl of rice with vegetables?",
+      "modified": "What color is the bowl of rice with vegetables?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the bowl of rice with vegetables served in a patterned bowl?",
+      "modified": "Is the bowl of rice with vegetables served in a patterned bowl?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the bowl of rice with vegetables look freshly cooked?",
+      "modified": "Does the bowl of rice with vegetables look freshly cooked?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Are there green vegetables mixed into the bowl of rice with vegetables?",
+      "modified": "Are there green vegetables mixed into the bowl of brown rice with vegetables?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the bowl of rice with vegetables placed on a wooden surface?",
+      "modified": "Is the bowl of brown rice with vegetables placed on a wooden surface?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the bowl of rice with vegetables appear to include pieces of meat?",
+      "modified": "Does the bowl of brown rice with vegetables appear to include pieces of meat?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the bowl of rice with vegetables shown from above at a slight angle?",
+      "modified": "Is the bowl of brown rice with vegetables shown from above at a slight angle?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the bowl of rice with vegetables look like a full serving?",
+      "modified": "Does the bowl of brown rice with vegetables look like a full serving?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Are the grains in the bowl of rice with vegetables clearly visible?",
+      "modified": "Are the grains in the bowl of brown rice with vegetables clearly visible?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the bowl of rice with vegetables the main focus of the image?",
+      "modified": "Is the bowl of brown rice with vegetables the main focus of the image?",
+      "false_premise": true
+    }
+  ]
+}

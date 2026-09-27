@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3267",
+    "source": "Open Images",
+    "complexity": 3,
+    "category": 2,
+    "target": "bus"
+  },
+  "base": {
+    "target_description": "the green open-top double-decker bus",
+    "modified_target_description": "the green open-top double-decker bus in the background",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the green open-top double-decker bus parked on grass?",
+      "modified": "Is the green open-top double-decker bus parked on grass?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Are there several people riding on the upper level of the green open-top double-decker bus?",
+      "modified": "Are there several people riding on the upper level of the green open-top double-decker bus?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the green open-top double-decker bus look like a vintage vehicle?",
+      "modified": "Does the green open-top double-decker bus look like a vintage vehicle?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the green open-top double-decker bus facing toward the camera?",
+      "modified": "Is the green open-top double-decker bus in the background facing toward the camera?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the green open-top double-decker bus have its roof open on the top deck?",
+      "modified": "Does the green open-top double-decker bus in the background have its roof open on the top deck?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the green open-top double-decker bus the main vehicle in the foreground?",
+      "modified": "Is the green open-top double-decker bus in the background the main vehicle in the foreground?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Are people standing near the railing on top of the green open-top double-decker bus?",
+      "modified": "Are people standing near the railing on top of the green open-top double-decker bus in the background?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the green open-top double-decker bus appear to be at an outdoor event?",
+      "modified": "Does the green open-top double-decker bus in the background appear to be at an outdoor event?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Can you see the front headlights of the green open-top double-decker bus?",
+      "modified": "Can you see the front headlights of the green open-top double-decker bus in the background?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the green open-top double-decker bus painted a dark shade of green?",
+      "modified": "Is the green open-top double-decker bus in the background painted a dark shade of green?",
+      "false_premise": true
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2306",
+    "source": "COCO",
+    "complexity": 2,
+    "category": 3,
+    "target": "zebra"
+  },
+  "base": {
+    "target_description": "the zebra with black-and-white stripes",
+    "modified_target_description": "the horse with black-and-white stripes",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the zebra with black-and-white stripes facing another zebra in the image?",
+      "modified": "Is the zebra with black-and-white stripes facing another zebra in the image?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the zebra with black-and-white stripes have its head lowered?",
+      "modified": "Does the zebra with black-and-white stripes have its head lowered?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Can you clearly see the face of the zebra with black-and-white stripes?",
+      "modified": "Can you clearly see the face of the zebra with black-and-white stripes?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the zebra with black-and-white stripes standing very close to another zebra?",
+      "modified": "Is the horse with black-and-white stripes standing very close to another zebra?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the zebra with black-and-white stripes appear calm in this scene?",
+      "modified": "Does the horse with black-and-white stripes appear calm in this scene?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the zebra with black-and-white stripes shown from the front or the side?",
+      "modified": "Is the horse with black-and-white stripes shown from the front or the side?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Are the ears of the zebra with black-and-white stripes visible?",
+      "modified": "Are the ears of the horse with black-and-white stripes visible?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the zebra with black-and-white stripes take up much of the frame?",
+      "modified": "Does the horse with black-and-white stripes take up much of the frame?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the zebra with black-and-white stripes outdoors?",
+      "modified": "Is the horse with black-and-white stripes outdoors?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the zebra with black-and-white stripes have a dark mane visible along its neck?",
+      "modified": "Does the horse with black-and-white stripes have a dark mane visible along its neck?",
+      "false_premise": true
+    }
+  ]
+}

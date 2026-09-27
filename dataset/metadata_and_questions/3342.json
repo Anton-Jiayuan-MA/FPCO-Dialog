@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3342",
+    "source": "Open Images",
+    "complexity": 3,
+    "category": 3,
+    "target": "pig"
+  },
+  "base": {
+    "target_description": "the large brown pig",
+    "modified_target_description": "the large black pig",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the large brown pig doing in the scene?",
+      "modified": "What is the large brown pig doing in the scene?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the large brown pig standing on muddy ground?",
+      "modified": "Is the large brown pig standing on muddy ground?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Are there piglets gathered around the large brown pig?",
+      "modified": "Are there piglets gathered around the large brown pig?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the large brown pig appear to be outdoors in a field?",
+      "modified": "Does the large black pig appear to be outdoors in a field?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the large brown pig facing toward the left side of the image?",
+      "modified": "Is the large black pig facing toward the left side of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the large brown pig look bigger than the other pigs nearby?",
+      "modified": "Does the large black pig look bigger than the other pigs nearby?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the large brown pig standing still while the piglets move around?",
+      "modified": "Is the large black pig standing still while the piglets move around?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Can you see the side of the large brown pig clearly?",
+      "modified": "Can you see the side of the large black pig clearly?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the large brown pig seem to be a mother pig with piglets beside it?",
+      "modified": "Does the large black pig seem to be a mother pig with piglets beside it?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the large brown pig the main animal in the foreground?",
+      "modified": "Is the large black pig the main animal in the foreground?",
+      "false_premise": true
+    }
+  ]
+}

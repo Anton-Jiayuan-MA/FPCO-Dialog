@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2361",
+    "source": "Open Images",
+    "complexity": 2,
+    "category": 3,
+    "target": "horse"
+  },
+  "base": {
+    "target_description": "the black horse wearing a yellow ear cover",
+    "modified_target_description": "the black horse wearing a yellow ear cover on the left side of the image",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the black horse wearing a yellow ear cover facing toward the camera?",
+      "modified": "Is the black horse wearing a yellow ear cover facing toward the camera?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the black horse wearing a yellow ear cover appear to be standing still?",
+      "modified": "Does the black horse wearing a yellow ear cover appear to be standing still?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the black horse wearing a yellow ear cover next to another horse?",
+      "modified": "Is the black horse wearing a yellow ear cover next to another horse?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the black horse wearing a yellow ear cover have a bridle on its head?",
+      "modified": "Does the black horse wearing a yellow ear cover on the left side of the image have a bridle on its head?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the black horse wearing a yellow ear cover closer to the right side of the image?",
+      "modified": "Is the black horse wearing a yellow ear cover on the left side of the image closer to the right side of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the black horse wearing a yellow ear cover look calm in the scene?",
+      "modified": "Does the black horse wearing a yellow ear cover on the left side of the image look calm in the scene?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the black horse wearing a yellow ear cover in front of a building?",
+      "modified": "Is the black horse wearing a yellow ear cover on the left side of the image in front of a building?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the black horse wearing a yellow ear cover have its ears covered by decorative fabric?",
+      "modified": "Does the black horse wearing a yellow ear cover on the left side of the image have its ears covered by decorative fabric?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the black horse wearing a yellow ear cover part of a carriage setup?",
+      "modified": "Is the black horse wearing a yellow ear cover on the left side of the image part of a carriage setup?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the black horse wearing a yellow ear cover appear larger in the frame than the other horse?",
+      "modified": "Does the black horse wearing a yellow ear cover on the left side of the image appear larger in the frame than the other horse?",
+      "false_premise": true
+    }
+  ]
+}

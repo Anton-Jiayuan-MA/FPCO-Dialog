@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2158",
+    "source": "COCO",
+    "complexity": 2,
+    "category": 1,
+    "target": "woman"
+  },
+  "base": {
+    "target_description": "the blonde woman sitting in a chair",
+    "modified_target_description": "the brunette woman sitting in a chair",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the blonde woman sitting in a chair holding in her hands?",
+      "modified": "What is the blonde woman sitting in a chair holding in her hands?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the blonde woman sitting in a chair looking toward the camera?",
+      "modified": "Is the blonde woman sitting in a chair looking toward the camera?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "What color outfit is the blonde woman sitting in a chair wearing?",
+      "modified": "What color outfit is the blonde woman sitting in a chair wearing?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the blonde woman sitting in a chair appear to be seated alone on the right side?",
+      "modified": "Does the brunette woman sitting in a chair appear to be seated alone on the right side?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the blonde woman sitting in a chair wearing any jewelry?",
+      "modified": "Is the brunette woman sitting in a chair wearing any jewelry?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "How is the blonde woman sitting in a chair positioned in the seat?",
+      "modified": "How is the brunette woman sitting in a chair positioned in the seat?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the blonde woman sitting in a chair seem relaxed or posed?",
+      "modified": "Does the brunette woman sitting in a chair seem relaxed or posed?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the blonde woman sitting in a chair next to the other women in the room?",
+      "modified": "Is the brunette woman sitting in a chair next to the other women in the room?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "What is resting across the lap of the blonde woman sitting in a chair?",
+      "modified": "What is resting across the lap of the brunette woman sitting in a chair?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the blonde woman sitting in a chair have one leg crossed over the other?",
+      "modified": "Does the brunette woman sitting in a chair have one leg crossed over the other?",
+      "false_premise": true
+    }
+  ]
+}

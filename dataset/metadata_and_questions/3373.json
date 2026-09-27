@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3373",
+    "source": "Open Images",
+    "complexity": 3,
+    "category": 3,
+    "target": "snake"
+  },
+  "base": {
+    "target_description": "the coiled patterned snake",
+    "modified_target_description": "the coiled patterned snake on the right",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the coiled patterned snake doing in this illustration?",
+      "modified": "What is the coiled patterned snake doing in this illustration?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "How is the coiled patterned snake positioned in the image?",
+      "modified": "How is the coiled patterned snake positioned in the image?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the coiled patterned snake appear to be tightly curled or loosely looped?",
+      "modified": "Does the coiled patterned snake appear to be tightly curled or loosely looped?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "What kind of markings are visible on the coiled patterned snake?",
+      "modified": "What kind of markings are visible on the coiled patterned snake on the right?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the head of the coiled patterned snake facing toward the viewer or away?",
+      "modified": "Is the head of the coiled patterned snake on the right facing toward the viewer or away?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the coiled patterned snake take up most of the picture?",
+      "modified": "Does the coiled patterned snake on the right take up most of the picture?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the coiled patterned snake shown as part of a scientific drawing or a natural photo?",
+      "modified": "Is the coiled patterned snake on the right shown as part of a scientific drawing or a natural photo?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Can you see the full body of the coiled patterned snake in the frame?",
+      "modified": "Can you see the full body of the coiled patterned snake on the right in the frame?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Are there multiple loops visible in the coiled patterned snake?",
+      "modified": "Are there multiple loops visible in the coiled patterned snake on the right?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the coiled patterned snake stand out clearly against the plain background?",
+      "modified": "Does the coiled patterned snake on the right stand out clearly against the plain background?",
+      "false_premise": true
+    }
+  ]
+}

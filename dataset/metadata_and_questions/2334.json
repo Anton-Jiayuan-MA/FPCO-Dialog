@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2334",
+    "source": "Open Images",
+    "complexity": 2,
+    "category": 3,
+    "target": "sheep"
+  },
+  "base": {
+    "target_description": "the standing white sheep with a purple collar",
+    "modified_target_description": "the standing black sheep with a purple collar",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the standing white sheep with a purple collar facing the camera?",
+      "modified": "Is the standing white sheep with a purple collar facing the camera?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the standing white sheep with a purple collar appear to be in the middle of the group?",
+      "modified": "Does the standing white sheep with a purple collar appear to be in the middle of the group?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the standing white sheep with a purple collar taller than the other sheep nearby?",
+      "modified": "Is the standing white sheep with a purple collar taller than the other sheep nearby?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Can you clearly see the face of the standing white sheep with a purple collar?",
+      "modified": "Can you clearly see the face of the standing black sheep with a purple collar?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the standing white sheep with a purple collar standing on grass?",
+      "modified": "Is the standing black sheep with a purple collar standing on grass?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the standing white sheep with a purple collar look calm in the scene?",
+      "modified": "Does the standing black sheep with a purple collar look calm in the scene?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Are the ears of the standing white sheep with a purple collar hanging down to the sides?",
+      "modified": "Are the ears of the standing black sheep with a purple collar hanging down to the sides?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the standing white sheep with a purple collar positioned in front of the fence?",
+      "modified": "Is the standing black sheep with a purple collar positioned in front of the fence?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the standing white sheep with a purple collar have light-colored wool?",
+      "modified": "Does the standing black sheep with a purple collar have light-colored wool?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the standing white sheep with a purple collar the most prominent sheep in the image?",
+      "modified": "Is the standing black sheep with a purple collar the most prominent sheep in the image?",
+      "false_premise": true
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2482",
+    "source": "Open Images",
+    "complexity": 2,
+    "category": 4,
+    "target": "beverage"
+  },
+  "base": {
+    "target_description": "the amber whisky bottle",
+    "modified_target_description": "the amber whisky bottle on the right side of the image",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the amber whisky bottle standing on a table?",
+      "modified": "Is the amber whisky bottle standing on a table?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the amber whisky bottle appear to be open or sealed?",
+      "modified": "Does the amber whisky bottle appear to be open or sealed?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the amber whisky bottle closer to the camera than the glass beside it?",
+      "modified": "Is the amber whisky bottle closer to the camera than the glass beside it?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Can you read a label on the amber whisky bottle?",
+      "modified": "Can you read a label on the amber whisky bottle on the right side of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the amber whisky bottle positioned on the left side of the image?",
+      "modified": "Is the amber whisky bottle on the right side of the image positioned on the left side of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the amber whisky bottle look mostly full?",
+      "modified": "Does the amber whisky bottle on the right side of the image look mostly full?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the amber whisky bottle next to a filled drinking glass?",
+      "modified": "Is the amber whisky bottle on the right side of the image next to a filled drinking glass?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the amber whisky bottle shown indoors?",
+      "modified": "Is the amber whisky bottle on the right side of the image shown indoors?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the amber whisky bottle have a long neck?",
+      "modified": "Does the amber whisky bottle on the right side of the image have a long neck?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the amber whisky bottle the most prominent object in the foreground?",
+      "modified": "Is the amber whisky bottle on the right side of the image the most prominent object in the foreground?",
+      "false_premise": true
+    }
+  ]
+}

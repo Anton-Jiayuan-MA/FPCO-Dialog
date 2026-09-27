@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1410",
+    "source": "Open Images",
+    "complexity": 1,
+    "category": 4,
+    "target": "fish"
+  },
+  "base": {
+    "target_description": "the whole fish in red sauce",
+    "modified_target_description": "the whole chicken in red sauce",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the whole fish in red sauce served on a white plate?",
+      "modified": "Is the whole fish in red sauce served on a white plate?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the whole fish in red sauce look fully cooked?",
+      "modified": "Does the whole fish in red sauce look fully cooked?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Can you see the head of the whole fish in red sauce?",
+      "modified": "Can you see the head of the whole fish in red sauce?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the whole fish in red sauce topped with pieces of vegetables?",
+      "modified": "Is the whole chicken in red sauce topped with pieces of vegetables?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the whole fish in red sauce appear to be part of a meal?",
+      "modified": "Does the whole chicken in red sauce appear to be part of a meal?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the whole fish in red sauce covered mostly by the red broth?",
+      "modified": "Is the whole chicken in red sauce covered mostly by the red broth?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the whole fish in red sauce have its tail still attached?",
+      "modified": "Does the whole chicken in red sauce have its tail still attached?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the whole fish in red sauce presented close to a spoon?",
+      "modified": "Is the whole chicken in red sauce presented close to a spoon?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the whole fish in red sauce look spicy?",
+      "modified": "Does the whole chicken in red sauce look spicy?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the whole fish in red sauce the main dish in the image?",
+      "modified": "Is the whole chicken in red sauce the main dish in the image?",
+      "false_premise": true
+    }
+  ]
+}

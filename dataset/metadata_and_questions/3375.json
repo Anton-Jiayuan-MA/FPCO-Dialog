@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3375",
+    "source": "Open Images",
+    "complexity": 3,
+    "category": 3,
+    "target": "chicken"
+  },
+  "base": {
+    "target_description": "the brown chicken with a red comb",
+    "modified_target_description": "the brown chicken with a red comb on the left",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What direction is the brown chicken with a red comb facing?",
+      "modified": "What direction is the brown chicken with a red comb facing?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the brown chicken with a red comb standing close to the camera?",
+      "modified": "Is the brown chicken with a red comb standing close to the camera?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the brown chicken with a red comb appear to be outdoors?",
+      "modified": "Does the brown chicken with a red comb appear to be outdoors?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Can you see the full body of the brown chicken with a red comb in the frame?",
+      "modified": "Can you see the full body of the brown chicken with a red comb on the left in the frame?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the brown chicken with a red comb the main subject of the image?",
+      "modified": "Is the brown chicken with a red comb on the left the main subject of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the brown chicken with a red comb have its head raised?",
+      "modified": "Does the brown chicken with a red comb on the left have its head raised?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "What color are the feathers on the brown chicken with a red comb?",
+      "modified": "What color are the feathers on the brown chicken with a red comb on the left?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the brown chicken with a red comb shown in profile?",
+      "modified": "Is the brown chicken with a red comb on the left shown in profile?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the brown chicken with a red comb look sharply focused?",
+      "modified": "Does the brown chicken with a red comb on the left look sharply focused?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the brown chicken with a red comb occupying most of the right side of the image?",
+      "modified": "Is the brown chicken with a red comb on the left occupying most of the right side of the image?",
+      "false_premise": true
+    }
+  ]
+}

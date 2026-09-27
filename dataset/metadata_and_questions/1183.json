@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1183",
+    "source": "COCO",
+    "complexity": 1,
+    "category": 1,
+    "target": "man"
+  },
+  "base": {
+    "target_description": "the man sitting on the bench",
+    "modified_target_description": "the man sitting on the bench near a fountain",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the man sitting on the bench doing with his hands?",
+      "modified": "What is the man sitting on the bench doing with his hands?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the man sitting on the bench looking to the side?",
+      "modified": "Is the man sitting on the bench looking to the side?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "What is behind the man sitting on the bench?",
+      "modified": "What is behind the man sitting on the bench?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the man sitting on the bench alone in the scene?",
+      "modified": "Is the man sitting on the bench near a fountain alone in the scene?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "What kind of clothing is the man sitting on the bench wearing?",
+      "modified": "What kind of clothing is the man sitting on the bench near a fountain wearing?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the man sitting on the bench appear relaxed or tense?",
+      "modified": "Does the man sitting on the bench near a fountain appear relaxed or tense?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the man sitting on the bench sitting near a fountain?",
+      "modified": "Is the man sitting on the bench near a fountain sitting near a fountain?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "What is the posture of the man sitting on the bench?",
+      "modified": "What is the posture of the man sitting on the bench near a fountain?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the man sitting on the bench seem to be waiting for someone?",
+      "modified": "Does the man sitting on the bench near a fountain seem to be waiting for someone?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Where is the man sitting on the bench positioned in the image?",
+      "modified": "Where is the man sitting on the bench near a fountain positioned in the image?",
+      "false_premise": true
+    }
+  ]
+}

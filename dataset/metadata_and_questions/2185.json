@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2185",
+    "source": "COCO",
+    "complexity": 2,
+    "category": 1,
+    "target": "person"
+  },
+  "base": {
+    "target_description": "the woman in a white dress",
+    "modified_target_description": "the woman on the right in a white dress",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the woman in a white dress doing with her hands?",
+      "modified": "What is the woman in a white dress doing with her hands?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the woman in a white dress smiling while cutting the cake?",
+      "modified": "Is the woman in a white dress smiling while cutting the cake?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "What is the woman in a white dress looking at?",
+      "modified": "What is the woman in a white dress looking at?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the woman in a white dress standing next to another person?",
+      "modified": "Is the woman on the right in a white dress standing next to another person?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the woman in a white dress appear to be cutting a cake?",
+      "modified": "Does the woman on the right in a white dress appear to be cutting a cake?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "What color is the outfit worn by the woman in a white dress?",
+      "modified": "What color is the outfit worn by the woman on the right in a white dress?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the woman in a white dress indoors?",
+      "modified": "Is the woman on the right in a white dress indoors?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the woman in a white dress have long dark hair?",
+      "modified": "Does the woman on the right in a white dress have long dark hair?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the woman in a white dress positioned behind the cake?",
+      "modified": "Is the woman on the right in a white dress positioned behind the cake?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the woman in a white dress wearing any jewelry?",
+      "modified": "Is the woman on the right in a white dress wearing any jewelry?",
+      "false_premise": true
+    }
+  ]
+}

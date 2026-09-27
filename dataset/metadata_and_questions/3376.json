@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3376",
+    "source": "Open Images",
+    "complexity": 3,
+    "category": 3,
+    "target": "duck"
+  },
+  "base": {
+    "target_description": "the brown duck in the water",
+    "modified_target_description": "the brown duck on the right",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the brown duck in the water facing toward the right side of the image?",
+      "modified": "Is the brown duck in the water facing toward the right side of the image?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the brown duck in the water appear to be swimming calmly?",
+      "modified": "Does the brown duck in the water appear to be swimming calmly?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the brown duck in the water near the other ducks?",
+      "modified": "Is the brown duck in the water near the other ducks?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Can you see the full head of the brown duck in the water clearly?",
+      "modified": "Can you see the full head of the brown duck on the right clearly?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the brown duck in the water have a visible white ring around its eye?",
+      "modified": "Does the brown duck on the right have a visible white ring around its eye?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the brown duck in the water positioned in the upper right part of the image?",
+      "modified": "Is the brown duck on the right positioned in the upper right part of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the brown duck in the water look darker on its head than on its body?",
+      "modified": "Does the brown duck on the right look darker on its head than on its body?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the brown duck in the water partly reflected on the surface?",
+      "modified": "Is the brown duck on the right partly reflected on the surface?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the brown duck in the water have its tail raised slightly above the water?",
+      "modified": "Does the brown duck on the right have its tail raised slightly above the water?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the brown duck in the water the farthest duck from the camera?",
+      "modified": "Is the brown duck on the right the farthest duck from the camera?",
+      "false_premise": true
+    }
+  ]
+}

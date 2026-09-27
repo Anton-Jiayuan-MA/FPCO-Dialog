@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2245",
+    "source": "COCO",
+    "complexity": 2,
+    "category": 2,
+    "target": "airplane"
+  },
+  "base": {
+    "target_description": "the red propeller airplane in the center",
+    "modified_target_description": "the blue propeller airplane in the center",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the red propeller airplane in the center flying through the sky?",
+      "modified": "Is the red propeller airplane in the center flying through the sky?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the red propeller airplane in the center appear to be part of a formation?",
+      "modified": "Does the red propeller airplane in the center appear to be part of a formation?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the red propeller airplane in the center viewed from below?",
+      "modified": "Is the red propeller airplane in the center viewed from below?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the red propeller airplane in the center have its wings spread out clearly?",
+      "modified": "Does the blue propeller airplane in the center have its wings spread out clearly?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the red propeller airplane in the center angled slightly upward?",
+      "modified": "Is the blue propeller airplane in the center angled slightly upward?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Can you see the propeller on the red propeller airplane in the center?",
+      "modified": "Can you see the propeller on the blue propeller airplane in the center?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the red propeller airplane in the center surrounded by other airplanes nearby?",
+      "modified": "Is the blue propeller airplane in the center surrounded by other airplanes nearby?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the red propeller airplane in the center stand out against a pale sky?",
+      "modified": "Does the blue propeller airplane in the center stand out against a pale sky?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the red propeller airplane in the center shown in motion?",
+      "modified": "Is the blue propeller airplane in the center shown in motion?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Would you say the red propeller airplane in the center is the most prominent airplane in the image?",
+      "modified": "Would you say the blue propeller airplane in the center is the most prominent airplane in the image?",
+      "false_premise": true
+    }
+  ]
+}

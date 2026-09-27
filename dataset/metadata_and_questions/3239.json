@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3239",
+    "source": "Open Images",
+    "complexity": 3,
+    "category": 2,
+    "target": "train"
+  },
+  "base": {
+    "target_description": "the red train on the front track",
+    "modified_target_description": "the blue train on the front track",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What direction is the red train on the front track facing in the image?",
+      "modified": "What direction is the red train on the front track facing in the image?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the red train on the front track moving or parked here?",
+      "modified": "Is the red train on the front track moving or parked here?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "What color markings can you see on the red train on the front track?",
+      "modified": "What color markings can you see on the red train on the front track?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the red train on the front track appear closer to the camera than the other trains?",
+      "modified": "Does the blue train on the front track appear closer to the camera than the other trains?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "About how many connected cars are visible with the red train on the front track?",
+      "modified": "About how many connected cars are visible with the blue train on the front track?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the red train on the front track positioned on the left side or the right side of the scene?",
+      "modified": "Is the blue train on the front track positioned on the left side or the right side of the scene?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Can you read any numbers on the red train on the front track?",
+      "modified": "Can you read any numbers on the blue train on the front track?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the red train on the front track beside industrial buildings and tanks?",
+      "modified": "Is the blue train on the front track beside industrial buildings and tanks?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the red train on the front track sit on a straight rail line or a curved one?",
+      "modified": "Does the blue train on the front track sit on a straight rail line or a curved one?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the red train on the front track the most prominent vehicle in the image?",
+      "modified": "Is the blue train on the front track the most prominent vehicle in the image?",
+      "false_premise": true
+    }
+  ]
+}

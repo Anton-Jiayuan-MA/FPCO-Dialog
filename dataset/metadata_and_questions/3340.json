@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3340",
+    "source": "Open Images",
+    "complexity": 3,
+    "category": 3,
+    "target": "sheep"
+  },
+  "base": {
+    "target_description": "the large white sheep in the grass",
+    "modified_target_description": "the large black sheep in the grass",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the large white sheep in the grass standing still?",
+      "modified": "Is the large white sheep in the grass standing still?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the large white sheep in the grass facing toward the camera?",
+      "modified": "Is the large white sheep in the grass facing toward the camera?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the large white sheep in the grass have thick wool?",
+      "modified": "Does the large white sheep in the grass have thick wool?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the large white sheep in the grass next to a small lamb?",
+      "modified": "Is the large black sheep in the grass next to a small lamb?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the large white sheep in the grass appear to be outdoors?",
+      "modified": "Does the large black sheep in the grass appear to be outdoors?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the large white sheep in the grass on a field?",
+      "modified": "Is the large black sheep in the grass on a field?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Can you see the face of the large white sheep in the grass clearly?",
+      "modified": "Can you see the face of the large black sheep in the grass clearly?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the large white sheep in the grass have all four legs visible?",
+      "modified": "Does the large black sheep in the grass have all four legs visible?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the large white sheep in the grass the biggest animal in the image?",
+      "modified": "Is the large black sheep in the grass the biggest animal in the image?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the large white sheep in the grass look like an adult sheep?",
+      "modified": "Does the large black sheep in the grass look like an adult sheep?",
+      "false_premise": true
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2341",
+    "source": "COCO",
+    "complexity": 2,
+    "category": 3,
+    "target": "horse"
+  },
+  "base": {
+    "target_description": "the black horse rearing up",
+    "modified_target_description": "the white horse rearing up",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the black horse rearing up doing in the scene?",
+      "modified": "What is the black horse rearing up doing in the scene?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the black horse rearing up facing toward the left side of the image?",
+      "modified": "Is the black horse rearing up facing toward the left side of the image?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the black horse rearing up have a rider on its back?",
+      "modified": "Does the black horse rearing up have a rider on its back?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the black horse rearing up higher off the ground than the other horse?",
+      "modified": "Is the white horse rearing up higher off the ground than the other horse?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the black horse rearing up appear to be part of a performance or show?",
+      "modified": "Does the white horse rearing up appear to be part of a performance or show?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Are the front legs of the black horse rearing up lifted into the air?",
+      "modified": "Are the front legs of the white horse rearing up lifted into the air?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the black horse rearing up positioned on the right side of the image?",
+      "modified": "Is the white horse rearing up positioned on the right side of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the black horse rearing up look dark brown or black?",
+      "modified": "Does the white horse rearing up look dark brown or black?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the black horse rearing up standing on a grassy field?",
+      "modified": "Is the white horse rearing up standing on a grassy field?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the black horse rearing up seem to be moving in sync with another horse nearby?",
+      "modified": "Does the white horse rearing up seem to be moving in sync with another horse nearby?",
+      "false_premise": true
+    }
+  ]
+}

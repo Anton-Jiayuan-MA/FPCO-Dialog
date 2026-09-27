@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1150",
+    "source": "Open Images",
+    "complexity": 1,
+    "category": 1,
+    "target": "woman"
+  },
+  "base": {
+    "target_description": "the smiling woman in a red sweater and white hat",
+    "modified_target_description": "the smiling woman in a blue sweater and white hat",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the smiling woman in a red sweater and white hat doing with her hands?",
+      "modified": "What is the smiling woman in a red sweater and white hat doing with her hands?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the smiling woman in a red sweater and white hat standing indoors?",
+      "modified": "Is the smiling woman in a red sweater and white hat standing indoors?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the smiling woman in a red sweater and white hat appear to be posing for the camera?",
+      "modified": "Does the smiling woman in a red sweater and white hat appear to be posing for the camera?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "What kind of expression does the smiling woman in a red sweater and white hat have?",
+      "modified": "What kind of expression does the smiling woman in a blue sweater and white hat have?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the smiling woman in a red sweater and white hat wearing anything on her head?",
+      "modified": "Is the smiling woman in a blue sweater and white hat wearing anything on her head?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the smiling woman in a red sweater and white hat near the kitchen area?",
+      "modified": "Is the smiling woman in a blue sweater and white hat near the kitchen area?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the smiling woman in a red sweater and white hat have both arms raised?",
+      "modified": "Does the smiling woman in a blue sweater and white hat have both arms raised?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "What color is the sweater worn by the smiling woman in a red sweater and white hat?",
+      "modified": "What color is the sweater worn by the smiling woman in a blue sweater and white hat?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the smiling woman in a red sweater and white hat facing the camera?",
+      "modified": "Is the smiling woman in a blue sweater and white hat facing the camera?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the smiling woman in a red sweater and white hat look cheerful?",
+      "modified": "Does the smiling woman in a blue sweater and white hat look cheerful?",
+      "false_premise": true
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3109",
+    "source": "COCO",
+    "complexity": 3,
+    "category": 1,
+    "target": "child"
+  },
+  "base": {
+    "target_description": "the child with curly hair holding a phone",
+    "modified_target_description": "the dog with curly hair holding a phone",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the child with curly hair holding a phone doing in the scene?",
+      "modified": "What is the child with curly hair holding a phone doing in the scene?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the child with curly hair holding a phone looking toward the camera?",
+      "modified": "Is the child with curly hair holding a phone looking toward the camera?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "What is the child with curly hair holding a phone holding up to the ear?",
+      "modified": "What is the child with curly hair holding a phone holding up to the ear?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the child with curly hair holding a phone appear to be sitting or standing?",
+      "modified": "Does the dog with curly hair holding a phone appear to be sitting or standing?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "What kind of expression does the child with curly hair holding a phone have?",
+      "modified": "What kind of expression does the dog with curly hair holding a phone have?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the child with curly hair holding a phone indoors or outdoors?",
+      "modified": "Is the dog with curly hair holding a phone indoors or outdoors?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "What color clothing is the child with curly hair holding a phone wearing?",
+      "modified": "What color clothing is the dog with curly hair holding a phone wearing?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the child with curly hair holding a phone close to the camera?",
+      "modified": "Is the dog with curly hair holding a phone close to the camera?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the child with curly hair holding a phone seem to be talking on the phone?",
+      "modified": "Does the dog with curly hair holding a phone seem to be talking on the phone?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the child with curly hair holding a phone near another person?",
+      "modified": "Is the dog with curly hair holding a phone near another person?",
+      "false_premise": true
+    }
+  ]
+}

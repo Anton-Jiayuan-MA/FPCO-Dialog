@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2177",
+    "source": "COCO",
+    "complexity": 2,
+    "category": 1,
+    "target": "man"
+  },
+  "base": {
+    "target_description": "the man in a red shirt and white cap",
+    "modified_target_description": "the man in a red shirt and white cap on the left",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the man in a red shirt and white cap holding in his hands?",
+      "modified": "What is the man in a red shirt and white cap holding in his hands?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the man in a red shirt and white cap standing on a tennis court?",
+      "modified": "Is the man in a red shirt and white cap standing on a tennis court?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the man in a red shirt and white cap look ready to hit the ball?",
+      "modified": "Does the man in a red shirt and white cap look ready to hit the ball?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the man in a red shirt and white cap wearing shorts?",
+      "modified": "Is the man in a red shirt and white cap on the left wearing shorts?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "What color are the shoes of the man in a red shirt and white cap?",
+      "modified": "What color are the shoes of the man in a red shirt and white cap on the left?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the man in a red shirt and white cap positioned near a court line?",
+      "modified": "Is the man in a red shirt and white cap on the left positioned near a court line?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the man in a red shirt and white cap appear to be playing tennis?",
+      "modified": "Does the man in a red shirt and white cap on the left appear to be playing tennis?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the man in a red shirt and white cap facing toward the left side of the image?",
+      "modified": "Is the man in a red shirt and white cap on the left facing toward the left side of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the man in a red shirt and white cap have a racket raised in front of him?",
+      "modified": "Does the man in a red shirt and white cap on the left have a racket raised in front of him?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the man in a red shirt and white cap bent slightly at the knees?",
+      "modified": "Is the man in a red shirt and white cap on the left bent slightly at the knees?",
+      "false_premise": true
+    }
+  ]
+}

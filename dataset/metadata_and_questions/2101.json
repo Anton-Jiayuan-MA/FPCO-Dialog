@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2101",
+    "source": "Open Images",
+    "complexity": 2,
+    "category": 1,
+    "target": "woman"
+  },
+  "base": {
+    "target_description": "the blonde woman in a patterned jacket",
+    "modified_target_description": "the blonde man in a patterned jacket",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the blonde woman in a patterned jacket doing with her hand?",
+      "modified": "What is the blonde woman in a patterned jacket doing with her hand?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the blonde woman in a patterned jacket seated at a table?",
+      "modified": "Is the blonde woman in a patterned jacket seated at a table?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the blonde woman in a patterned jacket appear to be speaking?",
+      "modified": "Does the blonde woman in a patterned jacket appear to be speaking?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the blonde woman in a patterned jacket holding something?",
+      "modified": "Is the blonde man in a patterned jacket holding something?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Which direction is the blonde woman in a patterned jacket facing?",
+      "modified": "Which direction is the blonde man in a patterned jacket facing?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the blonde woman in a patterned jacket sitting beside another woman?",
+      "modified": "Is the blonde man in a patterned jacket sitting beside another woman?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the blonde woman in a patterned jacket have short hair?",
+      "modified": "Does the blonde man in a patterned jacket have short hair?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the blonde woman in a patterned jacket near a microphone?",
+      "modified": "Is the blonde man in a patterned jacket near a microphone?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the blonde woman in a patterned jacket look engaged in a discussion?",
+      "modified": "Does the blonde man in a patterned jacket look engaged in a discussion?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the blonde woman in a patterned jacket indoors?",
+      "modified": "Is the blonde man in a patterned jacket indoors?",
+      "false_premise": true
+    }
+  ]
+}

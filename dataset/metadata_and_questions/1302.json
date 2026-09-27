@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1302",
+    "source": "COCO",
+    "complexity": 1,
+    "category": 3,
+    "target": "elephant"
+  },
+  "base": {
+    "target_description": "the large gray elephant with tusks",
+    "modified_target_description": "the large gray rhinoceros with tusks",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the large gray elephant with tusks doing in the scene?",
+      "modified": "What is the large gray elephant with tusks doing in the scene?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the large gray elephant with tusks standing on dry ground?",
+      "modified": "Is the large gray elephant with tusks standing on dry ground?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Which direction is the large gray elephant with tusks facing?",
+      "modified": "Which direction is the large gray elephant with tusks facing?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Can you see the full body of the large gray elephant with tusks?",
+      "modified": "Can you see the full body of the large gray rhinoceros with tusks?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the large gray elephant with tusks appear to be walking?",
+      "modified": "Does the large gray rhinoceros with tusks appear to be walking?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the trunk of the large gray elephant with tusks hanging down?",
+      "modified": "Is the trunk of the large gray rhinoceros with tusks hanging down?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Are both tusks of the large gray elephant with tusks visible?",
+      "modified": "Are both tusks of the large gray rhinoceros with tusks visible?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the large gray elephant with tusks near bushes and small trees?",
+      "modified": "Is the large gray rhinoceros with tusks near bushes and small trees?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the large gray elephant with tusks take up most of the image?",
+      "modified": "Does the large gray rhinoceros with tusks take up most of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the large gray elephant with tusks outdoors in daylight?",
+      "modified": "Is the large gray rhinoceros with tusks outdoors in daylight?",
+      "false_premise": true
+    }
+  ]
+}

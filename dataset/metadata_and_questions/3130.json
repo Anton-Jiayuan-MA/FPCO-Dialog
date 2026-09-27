@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3130",
+    "source": "COCO",
+    "complexity": 3,
+    "category": 1,
+    "target": "man"
+  },
+  "base": {
+    "target_description": "the man in a gray hoodie and ski helmet",
+    "modified_target_description": "the woman in a gray hoodie and ski helmet",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the man in a gray hoodie and ski helmet doing on the snow?",
+      "modified": "What is the man in a gray hoodie and ski helmet doing on the snow?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the man in a gray hoodie and ski helmet standing on skis?",
+      "modified": "Is the man in a gray hoodie and ski helmet standing on skis?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Which direction is the man in a gray hoodie and ski helmet looking?",
+      "modified": "Which direction is the man in a gray hoodie and ski helmet looking?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the man in a gray hoodie and ski helmet appear to be holding ski poles?",
+      "modified": "Does the woman in a gray hoodie and ski helmet appear to be holding ski poles?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the man in a gray hoodie and ski helmet near other skiers?",
+      "modified": "Is the woman in a gray hoodie and ski helmet near other skiers?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "What color are the gloves worn by the man in a gray hoodie and ski helmet?",
+      "modified": "What color are the gloves worn by the woman in a gray hoodie and ski helmet?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the man in a gray hoodie and ski helmet seem to be talking to someone nearby?",
+      "modified": "Does the woman in a gray hoodie and ski helmet seem to be talking to someone nearby?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the man in a gray hoodie and ski helmet wearing goggles?",
+      "modified": "Is the woman in a gray hoodie and ski helmet wearing goggles?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Where is the man in a gray hoodie and ski helmet positioned in the scene?",
+      "modified": "Where is the woman in a gray hoodie and ski helmet positioned in the scene?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the man in a gray hoodie and ski helmet look ready to ski?",
+      "modified": "Does the woman in a gray hoodie and ski helmet look ready to ski?",
+      "false_premise": true
+    }
+  ]
+}

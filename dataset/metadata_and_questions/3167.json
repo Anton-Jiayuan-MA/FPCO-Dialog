@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3167",
+    "source": "Open Images",
+    "complexity": 3,
+    "category": 1,
+    "target": "person"
+  },
+  "base": {
+    "target_description": "the skater in a white jersey and black helmet",
+    "modified_target_description": "the skater in a white jersey and black helmet on the right",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the skater in a white jersey and black helmet doing in the scene?",
+      "modified": "What is the skater in a white jersey and black helmet doing in the scene?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the skater in a white jersey and black helmet leaning forward while skating?",
+      "modified": "Is the skater in a white jersey and black helmet leaning forward while skating?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "What number is visible on the jersey of the skater in a white jersey and black helmet?",
+      "modified": "What number is visible on the jersey of the skater in a white jersey and black helmet?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the skater in a white jersey and black helmet surrounded by other skaters?",
+      "modified": "Is the skater in a white jersey and black helmet on the right surrounded by other skaters?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the skater in a white jersey and black helmet appear to be in motion?",
+      "modified": "Does the skater in a white jersey and black helmet on the right appear to be in motion?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "What protective gear is the skater in a white jersey and black helmet wearing?",
+      "modified": "What protective gear is the skater in a white jersey and black helmet on the right wearing?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the skater in a white jersey and black helmet next to a skater in a dark uniform?",
+      "modified": "Is the skater in a white jersey and black helmet on the right next to a skater in a dark uniform?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Which direction is the skater in a white jersey and black helmet facing?",
+      "modified": "Which direction is the skater in a white jersey and black helmet on the right facing?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Can you see a tattoo on the arm of the skater in a white jersey and black helmet?",
+      "modified": "Can you see a tattoo on the arm of the skater in a white jersey and black helmet on the right?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the skater in a white jersey and black helmet on an indoor roller derby track?",
+      "modified": "Is the skater in a white jersey and black helmet on the right on an indoor roller derby track?",
+      "false_premise": true
+    }
+  ]
+}

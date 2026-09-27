@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2173",
+    "source": "COCO",
+    "complexity": 2,
+    "category": 1,
+    "target": "man"
+  },
+  "base": {
+    "target_description": "the man in the red shirt and glasses",
+    "modified_target_description": "the man on the left in the red shirt and glasses",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the man in the red shirt and glasses doing in the scene?",
+      "modified": "What is the man in the red shirt and glasses doing in the scene?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the man in the red shirt and glasses sitting at the table or leaning in from the side?",
+      "modified": "Is the man in the red shirt and glasses sitting at the table or leaning in from the side?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Which direction is the man in the red shirt and glasses looking?",
+      "modified": "Which direction is the man in the red shirt and glasses looking?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the man in the red shirt and glasses appear close to the camera?",
+      "modified": "Does the man on the left in the red shirt and glasses appear close to the camera?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the man in the red shirt and glasses smiling or keeping a neutral expression?",
+      "modified": "Is the man on the left in the red shirt and glasses smiling or keeping a neutral expression?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "What is next to the man in the red shirt and glasses on the table?",
+      "modified": "What is next to the man on the left in the red shirt and glasses on the table?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the man in the red shirt and glasses wearing anything besides a red shirt?",
+      "modified": "Is the man on the left in the red shirt and glasses wearing anything besides a red shirt?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the man in the red shirt and glasses seem to be posing with the other people?",
+      "modified": "Does the man on the left in the red shirt and glasses seem to be posing with the other people?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Where is the man in the red shirt and glasses positioned relative to the others?",
+      "modified": "Where is the man on the left in the red shirt and glasses positioned relative to the others?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the man in the red shirt and glasses indoors at a dining table?",
+      "modified": "Is the man on the left in the red shirt and glasses indoors at a dining table?",
+      "false_premise": true
+    }
+  ]
+}

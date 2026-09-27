@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1224",
+    "source": "COCO",
+    "complexity": 1,
+    "category": 2,
+    "target": "airplane"
+  },
+  "base": {
+    "target_description": "the large Air France airplane",
+    "modified_target_description": "the large Air France truck",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the large Air France airplane flying through the sky?",
+      "modified": "Is the large Air France airplane flying through the sky?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the large Air France airplane appear to be viewed from below?",
+      "modified": "Does the large Air France airplane appear to be viewed from below?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Are the wings of the large Air France airplane clearly visible in the image?",
+      "modified": "Are the wings of the large Air France airplane clearly visible in the image?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the large Air France airplane have four engines?",
+      "modified": "Does the large Air France truck have four engines?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the large Air France airplane shown in motion rather than parked?",
+      "modified": "Is the large Air France truck shown in motion rather than parked?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Can you see the tail fin of the large Air France airplane?",
+      "modified": "Can you see the tail fin of the large Air France truck?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the large Air France airplane the main subject of the picture?",
+      "modified": "Is the large Air France truck the main subject of the picture?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the large Air France airplane appear to be high above the ground?",
+      "modified": "Does the large Air France truck appear to be high above the ground?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the large Air France airplane angled slightly upward as it flies?",
+      "modified": "Is the large Air France truck angled slightly upward as it flies?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the large Air France airplane surrounded by clouds in the background?",
+      "modified": "Is the large Air France truck surrounded by clouds in the background?",
+      "false_premise": true
+    }
+  ]
+}

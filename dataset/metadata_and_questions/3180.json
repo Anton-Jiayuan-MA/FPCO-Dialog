@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3180",
+    "source": "COCO",
+    "complexity": 3,
+    "category": 1,
+    "target": "person"
+  },
+  "base": {
+    "target_description": "the woman in a pink shirt holding a phone",
+    "modified_target_description": "the woman in a pink shirt by a railing",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the woman in a pink shirt holding a phone doing in this scene?",
+      "modified": "What is the woman in a pink shirt holding a phone doing in this scene?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the woman in a pink shirt holding a phone facing toward something in front of her?",
+      "modified": "Is the woman in a pink shirt holding a phone facing toward something in front of her?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the woman in a pink shirt holding a phone appear to be taking a picture?",
+      "modified": "Does the woman in a pink shirt holding a phone appear to be taking a picture?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the woman in a pink shirt holding a phone standing close to other people?",
+      "modified": "Is the woman in a pink shirt by a railing standing close to other people?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "What is the woman in a pink shirt holding a phone holding up with her hand?",
+      "modified": "What is the woman in a pink shirt by a railing holding up with her hand?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the woman in a pink shirt holding a phone seem to be outdoors?",
+      "modified": "Does the woman in a pink shirt by a railing seem to be outdoors?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the woman in a pink shirt holding a phone near a railing?",
+      "modified": "Is the woman in a pink shirt by a railing near a railing?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the woman in a pink shirt holding a phone have her arm raised?",
+      "modified": "Does the woman in a pink shirt by a railing have her arm raised?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the woman in a pink shirt holding a phone looking in the same direction as the others?",
+      "modified": "Is the woman in a pink shirt by a railing looking in the same direction as the others?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Would you say the woman in a pink shirt holding a phone is part of a group activity?",
+      "modified": "Would you say the woman in a pink shirt by a railing is part of a group activity?",
+      "false_premise": true
+    }
+  ]
+}

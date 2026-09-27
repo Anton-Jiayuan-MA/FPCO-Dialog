@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3250",
+    "source": "Open Images",
+    "complexity": 3,
+    "category": 2,
+    "target": "bicycle"
+  },
+  "base": {
+    "target_description": "the light blue bicycle with a front basket",
+    "modified_target_description": "the dark blue bicycle with a front basket",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the light blue bicycle with a front basket parked indoors?",
+      "modified": "Is the light blue bicycle with a front basket parked indoors?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the light blue bicycle with a front basket have a brown seat?",
+      "modified": "Does the light blue bicycle with a front basket have a brown seat?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the light blue bicycle with a front basket displayed among other bicycles?",
+      "modified": "Is the light blue bicycle with a front basket displayed among other bicycles?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the light blue bicycle with a front basket appear to be standing on a kickstand?",
+      "modified": "Does the dark blue bicycle with a front basket appear to be standing on a kickstand?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is there a sign positioned near the light blue bicycle with a front basket?",
+      "modified": "Is there a sign positioned near the dark blue bicycle with a front basket?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the light blue bicycle with a front basket have curved handlebars?",
+      "modified": "Does the dark blue bicycle with a front basket have curved handlebars?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the light blue bicycle with a front basket facing toward the left side of the image?",
+      "modified": "Is the dark blue bicycle with a front basket facing toward the left side of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the light blue bicycle with a front basket look like it is on display in a shop or showroom?",
+      "modified": "Does the dark blue bicycle with a front basket look like it is on display in a shop or showroom?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Can you see both wheels of the light blue bicycle with a front basket?",
+      "modified": "Can you see both wheels of the dark blue bicycle with a front basket?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the light blue bicycle with a front basket the most central bicycle in the image?",
+      "modified": "Is the dark blue bicycle with a front basket the most central bicycle in the image?",
+      "false_premise": true
+    }
+  ]
+}

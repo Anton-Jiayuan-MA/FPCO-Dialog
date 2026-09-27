@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1235",
+    "source": "COCO",
+    "complexity": 1,
+    "category": 2,
+    "target": "airplane"
+  },
+  "base": {
+    "target_description": "the dark fighter jet on the tarmac",
+    "modified_target_description": "the white fighter jet on the tarmac",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the dark fighter jet on the tarmac parked at an air show or airport display area?",
+      "modified": "Is the dark fighter jet on the tarmac parked at an air show or airport display area?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the dark fighter jet on the tarmac have its landing gear down?",
+      "modified": "Does the dark fighter jet on the tarmac have its landing gear down?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the dark fighter jet on the tarmac facing toward the left side of the image?",
+      "modified": "Is the dark fighter jet on the tarmac facing toward the left side of the image?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Can you see the cockpit canopy on the dark fighter jet on the tarmac?",
+      "modified": "Can you see the cockpit canopy on the white fighter jet on the tarmac?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the dark fighter jet on the tarmac surrounded by orange safety cones?",
+      "modified": "Is the white fighter jet on the tarmac surrounded by orange safety cones?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the dark fighter jet on the tarmac appear stationary?",
+      "modified": "Does the white fighter jet on the tarmac appear stationary?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the nose of the dark fighter jet on the tarmac pointed slightly toward the camera?",
+      "modified": "Is the nose of the white fighter jet on the tarmac pointed slightly toward the camera?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the dark fighter jet on the tarmac look like a military aircraft?",
+      "modified": "Does the white fighter jet on the tarmac look like a military aircraft?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the dark fighter jet on the tarmac casting a shadow on the ground?",
+      "modified": "Is the white fighter jet on the tarmac casting a shadow on the ground?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Are the wings of the dark fighter jet on the tarmac visible from this angle?",
+      "modified": "Are the wings of the white fighter jet on the tarmac visible from this angle?",
+      "false_premise": true
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3181",
+    "source": "COCO",
+    "complexity": 3,
+    "category": 1,
+    "target": "person"
+  },
+  "base": {
+    "target_description": "the woman in a black blazer with a ponytail",
+    "modified_target_description": "the woman in a black blazer with a ponytail on the left side of the table",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the woman in a black blazer with a ponytail doing at the table?",
+      "modified": "What is the woman in a black blazer with a ponytail doing at the table?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the woman in a black blazer with a ponytail speaking to someone across from her?",
+      "modified": "Is the woman in a black blazer with a ponytail speaking to someone across from her?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "What is the woman in a black blazer with a ponytail holding in her hand?",
+      "modified": "What is the woman in a black blazer with a ponytail holding in her hand?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the woman in a black blazer with a ponytail seated on the right side of the table?",
+      "modified": "Is the woman in a black blazer with a ponytail on the left side of the table seated on the right side of the table?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the woman in a black blazer with a ponytail appear to be in the middle of a meal?",
+      "modified": "Does the woman in a black blazer with a ponytail on the left side of the table appear to be in the middle of a meal?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the woman in a black blazer with a ponytail facing toward the left side of the image?",
+      "modified": "Is the woman in a black blazer with a ponytail on the left side of the table facing toward the left side of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "What is in front of the woman in a black blazer with a ponytail on the table?",
+      "modified": "What is in front of the woman in a black blazer with a ponytail on the left side of the table on the table?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the woman in a black blazer with a ponytail look engaged in the conversation?",
+      "modified": "Does the woman in a black blazer with a ponytail on the left side of the table look engaged in the conversation?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the woman in a black blazer with a ponytail sitting near other diners?",
+      "modified": "Is the woman in a black blazer with a ponytail on the left side of the table sitting near other diners?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the woman in a black blazer with a ponytail have a plate of food in front of her?",
+      "modified": "Does the woman in a black blazer with a ponytail on the left side of the table have a plate of food in front of her?",
+      "false_premise": true
+    }
+  ]
+}

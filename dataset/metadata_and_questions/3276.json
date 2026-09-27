@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3276",
+    "source": "Open Images",
+    "complexity": 3,
+    "category": 2,
+    "target": "bicycle"
+  },
+  "base": {
+    "target_description": "the light blue bicycle with black handlebars",
+    "modified_target_description": "the light blue bicycle with black handlebars on the right",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the light blue bicycle with black handlebars parked in a crowded bike rack?",
+      "modified": "Is the light blue bicycle with black handlebars parked in a crowded bike rack?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the light blue bicycle with black handlebars appear to be in the foreground of the image?",
+      "modified": "Does the light blue bicycle with black handlebars appear to be in the foreground of the image?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the light blue bicycle with black handlebars leaning among many other bicycles?",
+      "modified": "Is the light blue bicycle with black handlebars leaning among many other bicycles?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Can you see the light blue bicycle with black handlebars attached to a metal rack?",
+      "modified": "Can you see the light blue bicycle with black handlebars on the right attached to a metal rack?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the light blue bicycle with black handlebars have flowers hanging near the front?",
+      "modified": "Does the light blue bicycle with black handlebars on the right have flowers hanging near the front?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the light blue bicycle with black handlebars angled diagonally across the scene?",
+      "modified": "Is the light blue bicycle with black handlebars on the right angled diagonally across the scene?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the light blue bicycle with black handlebars look stationary?",
+      "modified": "Does the light blue bicycle with black handlebars on the right look stationary?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the light blue bicycle with black handlebars indoors?",
+      "modified": "Is the light blue bicycle with black handlebars on the right indoors?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the light blue bicycle with black handlebars one of many tightly packed bicycles?",
+      "modified": "Is the light blue bicycle with black handlebars on the right one of many tightly packed bicycles?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Can the front part of the light blue bicycle with black handlebars be seen more clearly than its back part?",
+      "modified": "Can the front part of the light blue bicycle with black handlebars on the right be seen more clearly than its back part?",
+      "false_premise": true
+    }
+  ]
+}

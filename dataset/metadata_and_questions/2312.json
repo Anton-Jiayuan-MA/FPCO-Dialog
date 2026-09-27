@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2312",
+    "source": "COCO",
+    "complexity": 2,
+    "category": 3,
+    "target": "horse"
+  },
+  "base": {
+    "target_description": "the gray horse with a dark mane",
+    "modified_target_description": "the gray cow with a dark mane",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the gray horse with a dark mane doing in the scene?",
+      "modified": "What is the gray horse with a dark mane doing in the scene?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the gray horse with a dark mane standing close to the camera?",
+      "modified": "Is the gray horse with a dark mane standing close to the camera?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Which direction is the gray horse with a dark mane facing?",
+      "modified": "Which direction is the gray horse with a dark mane facing?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the gray horse with a dark mane appear calm?",
+      "modified": "Does the gray cow with a dark mane appear calm?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the gray horse with a dark mane beside another horse?",
+      "modified": "Is the gray cow with a dark mane beside another horse?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Can you see the full body of the gray horse with a dark mane?",
+      "modified": "Can you see the full body of the gray cow with a dark mane?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Are the ears of the gray horse with a dark mane pointed upward?",
+      "modified": "Are the ears of the gray cow with a dark mane pointed upward?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the gray horse with a dark mane near a building?",
+      "modified": "Is the gray cow with a dark mane near a building?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the gray horse with a dark mane look like an adult horse?",
+      "modified": "Does the gray cow with a dark mane look like an adult horse?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the gray horse with a dark mane outdoors?",
+      "modified": "Is the gray cow with a dark mane outdoors?",
+      "false_premise": true
+    }
+  ]
+}

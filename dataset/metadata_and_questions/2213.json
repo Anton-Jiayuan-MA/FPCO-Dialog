@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2213",
+    "source": "COCO",
+    "complexity": 2,
+    "category": 2,
+    "target": "van"
+  },
+  "base": {
+    "target_description": "the white FedEx van",
+    "modified_target_description": "the white FedEx truck",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What lane is the white FedEx van driving in?",
+      "modified": "What lane is the white FedEx van driving in?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the white FedEx van moving along the street or parked at the curb?",
+      "modified": "Is the white FedEx van moving along the street or parked at the curb?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "What company logo is visible on the white FedEx van?",
+      "modified": "What company logo is visible on the white FedEx van?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the white FedEx van closer to the bottom of the image or the top?",
+      "modified": "Is the white FedEx truck closer to the bottom of the image or the top?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the white FedEx van appear to be traveling straight down the road?",
+      "modified": "Does the white FedEx truck appear to be traveling straight down the road?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "What is directly behind the white FedEx van on the street?",
+      "modified": "What is directly behind the white FedEx truck on the street?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the white FedEx van near an intersection or in the middle of a long block?",
+      "modified": "Is the white FedEx truck near an intersection or in the middle of a long block?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the white FedEx van cast a noticeable shadow on the road?",
+      "modified": "Does the white FedEx truck cast a noticeable shadow on the road?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the white FedEx van larger than the nearby cars in the image?",
+      "modified": "Is the white FedEx truck larger than the nearby cars in the image?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "About how many other vehicles are visible near the white FedEx van?",
+      "modified": "About how many other vehicles are visible near the white FedEx truck?",
+      "false_premise": true
+    }
+  ]
+}

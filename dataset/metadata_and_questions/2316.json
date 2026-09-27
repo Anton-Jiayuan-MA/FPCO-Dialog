@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2316",
+    "source": "COCO",
+    "complexity": 2,
+    "category": 3,
+    "target": "elephant"
+  },
+  "base": {
+    "target_description": "the baby elephant on the left",
+    "modified_target_description": "the baby giraffe on the left",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the baby elephant on the left doing with its trunk?",
+      "modified": "What is the baby elephant on the left doing with its trunk?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the baby elephant on the left facing toward another elephant?",
+      "modified": "Is the baby elephant on the left facing toward another elephant?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Where is the baby elephant on the left standing in the scene?",
+      "modified": "Where is the baby elephant on the left standing in the scene?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the baby elephant on the left look larger or smaller than the other elephant?",
+      "modified": "Does the baby giraffe on the left look larger or smaller than the other elephant?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the baby elephant on the left standing still or moving?",
+      "modified": "Is the baby giraffe on the left standing still or moving?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "What is directly in front of the baby elephant on the left?",
+      "modified": "What is directly in front of the baby giraffe on the left?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the baby elephant on the left have all four feet on the ground?",
+      "modified": "Does the baby giraffe on the left have all four feet on the ground?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the baby elephant on the left interacting with the other elephant?",
+      "modified": "Is the baby giraffe on the left interacting with the other elephant?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "What direction is the baby elephant on the left facing?",
+      "modified": "What direction is the baby giraffe on the left facing?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the baby elephant on the left near a stone ledge?",
+      "modified": "Is the baby giraffe on the left near a stone ledge?",
+      "false_premise": true
+    }
+  ]
+}

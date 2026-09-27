@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2263",
+    "source": "Open Images",
+    "complexity": 2,
+    "category": 2,
+    "target": "car"
+  },
+  "base": {
+    "target_description": "the gray SUV parked on the right",
+    "modified_target_description": "the gray SUV parked on the left",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the gray SUV parked on the right facing toward the left or the right?",
+      "modified": "Is the gray SUV parked on the right facing toward the left or the right?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the gray SUV parked on the right appear to be parked along the curb?",
+      "modified": "Does the gray SUV parked on the right appear to be parked along the curb?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the gray SUV parked on the right closer to the camera than the building?",
+      "modified": "Is the gray SUV parked on the right closer to the camera than the building?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Can you see people standing behind the gray SUV parked on the right?",
+      "modified": "Can you see people standing behind the gray SUV parked on the left?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the gray SUV parked on the right under the shade of a large tree?",
+      "modified": "Is the gray SUV parked on the left under the shade of a large tree?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the gray SUV parked on the right have four visible doors?",
+      "modified": "Does the gray SUV parked on the left have four visible doors?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the gray SUV parked on the right positioned in front of the crowd?",
+      "modified": "Is the gray SUV parked on the left positioned in front of the crowd?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the gray SUV parked on the right look larger than the other car parked to its left?",
+      "modified": "Does the gray SUV parked on the left look larger than the other car parked to its left?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Can you see the rear end of the gray SUV parked on the right near the edge of the image?",
+      "modified": "Can you see the rear end of the gray SUV parked on the left near the edge of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the gray SUV parked on the right parked parallel to the street?",
+      "modified": "Is the gray SUV parked on the left parked parallel to the street?",
+      "false_premise": true
+    }
+  ]
+}

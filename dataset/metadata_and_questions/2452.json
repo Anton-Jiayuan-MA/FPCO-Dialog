@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2452",
+    "source": "COCO",
+    "complexity": 2,
+    "category": 4,
+    "target": "noodles"
+  },
+  "base": {
+    "target_description": "the noodles with vegetables on the plate",
+    "modified_target_description": "the noodles with meat on the plate",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Are the noodles with vegetables on the plate covered in sauce?",
+      "modified": "Are the noodles with vegetables on the plate covered in sauce?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Do the noodles with vegetables on the plate look like they were stir-fried?",
+      "modified": "Do the noodles with vegetables on the plate look like they were stir-fried?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Are the noodles with vegetables on the plate served with broccoli and cabbage?",
+      "modified": "Are the noodles with vegetables on the plate served with broccoli and cabbage?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Do the noodles with vegetables on the plate appear to be the main dish in the foreground?",
+      "modified": "Do the noodles with meat on the plate appear to be the main dish in the foreground?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Are the noodles with vegetables on the plate sitting on a large round plate?",
+      "modified": "Are the noodles with meat on the plate sitting on a large round plate?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Do the noodles with vegetables on the plate look freshly served?",
+      "modified": "Do the noodles with meat on the plate look freshly served?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Are the noodles with vegetables on the plate near a white coffee mug?",
+      "modified": "Are the noodles with meat on the plate near a white coffee mug?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Do the noodles with vegetables on the plate include carrots and bean sprouts?",
+      "modified": "Do the noodles with meat on the plate include carrots and bean sprouts?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Are the noodles with vegetables on the plate on top of a wooden table?",
+      "modified": "Are the noodles with meat on the plate on top of a wooden table?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Do the noodles with vegetables on the plate look like a restaurant meal?",
+      "modified": "Do the noodles with meat on the plate look like a restaurant meal?",
+      "false_premise": true
+    }
+  ]
+}

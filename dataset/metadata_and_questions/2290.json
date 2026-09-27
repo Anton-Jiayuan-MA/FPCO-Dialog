@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2290",
+    "source": "Open Images",
+    "complexity": 2,
+    "category": 2,
+    "target": "bicycle"
+  },
+  "base": {
+    "target_description": "the blue bicycle in the center",
+    "modified_target_description": "the blue bicycle on the left",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the blue bicycle in the center being ridden by someone?",
+      "modified": "Is the blue bicycle in the center being ridden by someone?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the blue bicycle in the center look like it is moving along the street?",
+      "modified": "Does the blue bicycle in the center look like it is moving along the street?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the blue bicycle in the center larger than the bicycles beside it?",
+      "modified": "Is the blue bicycle in the center larger than the bicycles beside it?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the blue bicycle in the center have thick tires?",
+      "modified": "Does the blue bicycle on the left have thick tires?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the blue bicycle in the center pointed toward the camera?",
+      "modified": "Is the blue bicycle on the left pointed toward the camera?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the blue bicycle in the center on a cobblestone road?",
+      "modified": "Is the blue bicycle on the left on a cobblestone road?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the blue bicycle in the center have straight handlebars?",
+      "modified": "Does the blue bicycle on the left have straight handlebars?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the blue bicycle in the center between two smaller bicycles?",
+      "modified": "Is the blue bicycle on the left between two smaller bicycles?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Can you clearly see both wheels of the blue bicycle in the center?",
+      "modified": "Can you clearly see both wheels of the blue bicycle on the left?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the blue bicycle in the center the most prominent bicycle in the image?",
+      "modified": "Is the blue bicycle on the left the most prominent bicycle in the image?",
+      "false_premise": true
+    }
+  ]
+}

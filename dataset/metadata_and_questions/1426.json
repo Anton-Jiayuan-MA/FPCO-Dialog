@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1426",
+    "source": "COCO",
+    "complexity": 1,
+    "category": 4,
+    "target": "pizza"
+  },
+  "base": {
+    "target_description": "the thin-crust pizza with meat and green peppers",
+    "modified_target_description": "the thin-crust salad with meat and green peppers",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What toppings can you see on the thin-crust pizza with meat and green peppers?",
+      "modified": "What toppings can you see on the thin-crust pizza with meat and green peppers?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the thin-crust pizza with meat and green peppers cut into slices?",
+      "modified": "Is the thin-crust pizza with meat and green peppers cut into slices?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the thin-crust pizza with meat and green peppers look freshly baked?",
+      "modified": "Does the thin-crust pizza with meat and green peppers look freshly baked?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "How much cheese is on the thin-crust pizza with meat and green peppers?",
+      "modified": "How much cheese is on the thin-crust salad with meat and green peppers?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the thin-crust pizza with meat and green peppers sitting on a plate?",
+      "modified": "Is the thin-crust salad with meat and green peppers sitting on a plate?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the thin-crust pizza with meat and green peppers appear to have a crispy crust?",
+      "modified": "Does the thin-crust salad with meat and green peppers appear to have a crispy crust?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Are the meat pieces spread across the thin-crust pizza with meat and green peppers?",
+      "modified": "Are the meat pieces spread across the thin-crust salad with meat and green peppers?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "What color are the peppers on the thin-crust pizza with meat and green peppers?",
+      "modified": "What color are the peppers on the thin-crust salad with meat and green peppers?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the thin-crust pizza with meat and green peppers have visible tomato sauce?",
+      "modified": "Does the thin-crust salad with meat and green peppers have visible tomato sauce?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Would you say the thin-crust pizza with meat and green peppers looks heavily topped?",
+      "modified": "Would you say the thin-crust salad with meat and green peppers looks heavily topped?",
+      "false_premise": true
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2109",
+    "source": "Open Images",
+    "complexity": 2,
+    "category": 1,
+    "target": "woman"
+  },
+  "base": {
+    "target_description": "the woman with white hair and a striped cardigan",
+    "modified_target_description": "the man with white hair and a striped cardigan",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the woman with white hair and a striped cardigan holding in her hand?",
+      "modified": "What is the woman with white hair and a striped cardigan holding in her hand?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the woman with white hair and a striped cardigan smiling?",
+      "modified": "Is the woman with white hair and a striped cardigan smiling?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "What color scarf is the woman with white hair and a striped cardigan wearing?",
+      "modified": "What color scarf is the woman with white hair and a striped cardigan wearing?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the woman with white hair and a striped cardigan standing indoors?",
+      "modified": "Is the man with white hair and a striped cardigan standing indoors?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the woman with white hair and a striped cardigan appear to be talking to someone?",
+      "modified": "Does the man with white hair and a striped cardigan appear to be talking to someone?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the woman with white hair and a striped cardigan wearing a dark dress underneath the cardigan?",
+      "modified": "Is the man with white hair and a striped cardigan wearing a dark dress underneath the cardigan?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Where is the woman with white hair and a striped cardigan positioned in the room?",
+      "modified": "Where is the man with white hair and a striped cardigan positioned in the room?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the woman with white hair and a striped cardigan closer to the camera than the man in the suit?",
+      "modified": "Is the man with white hair and a striped cardigan closer to the camera than the man in the suit?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the woman with white hair and a striped cardigan look relaxed?",
+      "modified": "Does the man with white hair and a striped cardigan look relaxed?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the woman with white hair and a striped cardigan the most prominent person in the scene?",
+      "modified": "Is the man with white hair and a striped cardigan the most prominent person in the scene?",
+      "false_premise": true
+    }
+  ]
+}

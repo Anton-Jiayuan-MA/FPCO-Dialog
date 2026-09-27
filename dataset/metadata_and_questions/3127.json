@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3127",
+    "source": "COCO",
+    "complexity": 3,
+    "category": 1,
+    "target": "man"
+  },
+  "base": {
+    "target_description": "the man on the skateboard at the lower left",
+    "modified_target_description": "the woman on the skateboard at the lower left",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the man on the skateboard at the lower left doing in the scene?",
+      "modified": "What is the man on the skateboard at the lower left doing in the scene?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the man on the skateboard at the lower left moving toward the ramp?",
+      "modified": "Is the man on the skateboard at the lower left moving toward the ramp?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "What is the man on the skateboard at the lower left wearing?",
+      "modified": "What is the man on the skateboard at the lower left wearing?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the man on the skateboard at the lower left facing away from the camera?",
+      "modified": "Is the woman on the skateboard at the lower left facing away from the camera?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Where is the man on the skateboard at the lower left in relation to the graffiti-covered ramp?",
+      "modified": "Where is the woman on the skateboard at the lower left in relation to the graffiti-covered ramp?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the man on the skateboard at the lower left appear to be skating alone or with others nearby?",
+      "modified": "Does the woman on the skateboard at the lower left appear to be skating alone or with others nearby?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the man on the skateboard at the lower left on flat ground or on the top edge of the ramp?",
+      "modified": "Is the woman on the skateboard at the lower left on flat ground or on the top edge of the ramp?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the man on the skateboard at the lower left seem to be preparing for a trick?",
+      "modified": "Does the woman on the skateboard at the lower left seem to be preparing for a trick?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "What direction is the man on the skateboard at the lower left headed?",
+      "modified": "What direction is the woman on the skateboard at the lower left headed?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "How close is the man on the skateboard at the lower left to the ramp wall?",
+      "modified": "How close is the woman on the skateboard at the lower left to the ramp wall?",
+      "false_premise": true
+    }
+  ]
+}

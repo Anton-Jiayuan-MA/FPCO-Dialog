@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1363",
+    "source": "Open Images",
+    "complexity": 1,
+    "category": 3,
+    "target": "buffalo"
+  },
+  "base": {
+    "target_description": "the dark buffalo with curved horns",
+    "modified_target_description": "the dark buffalo on the right with curved horns",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the dark buffalo with curved horns doing in the grass?",
+      "modified": "What is the dark buffalo with curved horns doing in the grass?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the dark buffalo with curved horns standing with its head down?",
+      "modified": "Is the dark buffalo with curved horns standing with its head down?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the dark buffalo with curved horns appear to be grazing?",
+      "modified": "Does the dark buffalo with curved horns appear to be grazing?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Where in the field is the dark buffalo with curved horns positioned?",
+      "modified": "Where in the field is the dark buffalo on the right with curved horns positioned?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the dark buffalo with curved horns closer to the camera than the people in the vehicle?",
+      "modified": "Is the dark buffalo on the right with curved horns closer to the camera than the people in the vehicle?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the dark buffalo with curved horns look large compared with the surrounding grass?",
+      "modified": "Does the dark buffalo on the right with curved horns look large compared with the surrounding grass?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Can you clearly see both horns on the dark buffalo with curved horns?",
+      "modified": "Can you clearly see both horns on the dark buffalo on the right with curved horns?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the dark buffalo with curved horns alone in the scene?",
+      "modified": "Is the dark buffalo on the right with curved horns alone in the scene?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the dark buffalo with curved horns appear calm?",
+      "modified": "Does the dark buffalo on the right with curved horns appear calm?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the dark buffalo with curved horns facing slightly to the right?",
+      "modified": "Is the dark buffalo on the right with curved horns facing slightly to the right?",
+      "false_premise": true
+    }
+  ]
+}

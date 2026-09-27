@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3228",
+    "source": "COCO",
+    "complexity": 3,
+    "category": 2,
+    "target": "motorcycle"
+  },
+  "base": {
+    "target_description": "the mint green motorcycle with a large front wheel",
+    "modified_target_description": "the mint green bicycle with a large front wheel",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the mint green motorcycle with a large front wheel parked in a lot?",
+      "modified": "Is the mint green motorcycle with a large front wheel parked in a lot?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the mint green motorcycle with a large front wheel appear to be turned off?",
+      "modified": "Does the mint green motorcycle with a large front wheel appear to be turned off?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the mint green motorcycle with a large front wheel viewed from the side?",
+      "modified": "Is the mint green motorcycle with a large front wheel viewed from the side?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the mint green motorcycle with a large front wheel have saddlebags on the back?",
+      "modified": "Does the mint green bicycle with a large front wheel have saddlebags on the back?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the mint green motorcycle with a large front wheel closer to the camera than the other motorcycles?",
+      "modified": "Is the mint green bicycle with a large front wheel closer to the camera than the other motorcycles?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the mint green motorcycle with a large front wheel have chrome on its engine and wheel?",
+      "modified": "Does the mint green bicycle with a large front wheel have chrome on its engine and wheel?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the mint green motorcycle with a large front wheel positioned on pavement?",
+      "modified": "Is the mint green bicycle with a large front wheel positioned on pavement?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the mint green motorcycle with a large front wheel face toward the right side of the image?",
+      "modified": "Does the mint green bicycle with a large front wheel face toward the right side of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the mint green motorcycle with a large front wheel the most prominent vehicle in the foreground?",
+      "modified": "Is the mint green bicycle with a large front wheel the most prominent vehicle in the foreground?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the mint green motorcycle with a large front wheel appear to be customized?",
+      "modified": "Does the mint green bicycle with a large front wheel appear to be customized?",
+      "false_premise": true
+    }
+  ]
+}

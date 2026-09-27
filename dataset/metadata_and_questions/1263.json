@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1263",
+    "source": "Open Images",
+    "complexity": 1,
+    "category": 2,
+    "target": "car"
+  },
+  "base": {
+    "target_description": "the gray vintage car with patriotic stripes",
+    "modified_target_description": "the gray vintage car on the right with patriotic stripes",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the gray vintage car with patriotic stripes parked in a lot?",
+      "modified": "Is the gray vintage car with patriotic stripes parked in a lot?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the gray vintage car with patriotic stripes look like a classic show car?",
+      "modified": "Does the gray vintage car with patriotic stripes look like a classic show car?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Are the rear wheels of the gray vintage car with patriotic stripes visible?",
+      "modified": "Are the rear wheels of the gray vintage car with patriotic stripes visible?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the gray vintage car with patriotic stripes facing away from the camera?",
+      "modified": "Is the gray vintage car on the right with patriotic stripes facing away from the camera?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the gray vintage car with patriotic stripes have a two-door body style?",
+      "modified": "Does the gray vintage car on the right with patriotic stripes have a two-door body style?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Can you see shiny chrome rims on the gray vintage car with patriotic stripes?",
+      "modified": "Can you see shiny chrome rims on the gray vintage car on the right with patriotic stripes?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the gray vintage car with patriotic stripes positioned next to another classic vehicle?",
+      "modified": "Is the gray vintage car on the right with patriotic stripes positioned next to another classic vehicle?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the gray vintage car with patriotic stripes have colorful graphics along its side?",
+      "modified": "Does the gray vintage car on the right with patriotic stripes have colorful graphics along its side?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the gray vintage car with patriotic stripes outdoors at an event?",
+      "modified": "Is the gray vintage car on the right with patriotic stripes outdoors at an event?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Can you see the back window area of the gray vintage car with patriotic stripes?",
+      "modified": "Can you see the back window area of the gray vintage car on the right with patriotic stripes?",
+      "false_premise": true
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2217",
+    "source": "COCO",
+    "complexity": 2,
+    "category": 2,
+    "target": "truck"
+  },
+  "base": {
+    "target_description": "the large dump truck on the highway",
+    "modified_target_description": "the large bus on the highway",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What color is the large dump truck on the highway?",
+      "modified": "What color is the large dump truck on the highway?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the large dump truck on the highway driving away from the camera?",
+      "modified": "Is the large dump truck on the highway driving away from the camera?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the large dump truck on the highway appear to be carrying anything in its bed?",
+      "modified": "Does the large dump truck on the highway appear to be carrying anything in its bed?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Which lane is the large dump truck on the highway traveling in?",
+      "modified": "Which lane is the large bus on the highway traveling in?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the large dump truck on the highway closer to the camera than the other vehicle?",
+      "modified": "Is the large bus on the highway closer to the camera than the other vehicle?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the large dump truck on the highway have dual rear wheels visible?",
+      "modified": "Does the large bus on the highway have dual rear wheels visible?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the large dump truck on the highway on a paved road?",
+      "modified": "Is the large bus on the highway on a paved road?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the large dump truck on the highway look like it is moving uphill or on level ground?",
+      "modified": "Does the large bus on the highway look like it is moving uphill or on level ground?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the tailgate of the large dump truck on the highway visible from this angle?",
+      "modified": "Is the tailgate of the large bus on the highway visible from this angle?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the large dump truck on the highway centered in the image or off to one side?",
+      "modified": "Is the large bus on the highway centered in the image or off to one side?",
+      "false_premise": true
+    }
+  ]
+}

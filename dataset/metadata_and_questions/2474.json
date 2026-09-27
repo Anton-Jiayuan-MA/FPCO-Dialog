@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2474",
+    "source": "COCO",
+    "complexity": 2,
+    "category": 4,
+    "target": "donut"
+  },
+  "base": {
+    "target_description": "the glazed donut in the box",
+    "modified_target_description": "the glazed donut on the left",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the glazed donut in the box near the top of the box?",
+      "modified": "Is the glazed donut in the box near the top of the box?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the glazed donut in the box have a hole in the middle?",
+      "modified": "Does the glazed donut in the box have a hole in the middle?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the glazed donut in the box larger than some of the other donuts?",
+      "modified": "Is the glazed donut in the box larger than some of the other donuts?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the glazed donut in the box look plain rather than topped with bacon or chocolate?",
+      "modified": "Does the glazed donut on the left look plain rather than topped with bacon or chocolate?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the glazed donut in the box resting beside another donut?",
+      "modified": "Is the glazed donut on the left resting beside another donut?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the glazed donut in the box appear shiny from icing?",
+      "modified": "Does the glazed donut on the left appear shiny from icing?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the glazed donut in the box sitting on white paper inside the box?",
+      "modified": "Is the glazed donut on the left sitting on white paper inside the box?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the glazed donut in the box look round?",
+      "modified": "Does the glazed donut on the left look round?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the glazed donut in the box one of several donuts being held in a box?",
+      "modified": "Is the glazed donut on the left one of several donuts being held in a box?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Can you clearly see the glazed donut in the box from above?",
+      "modified": "Can you clearly see the glazed donut on the left from above?",
+      "false_premise": true
+    }
+  ]
+}

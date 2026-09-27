@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1445",
+    "source": "Open Images",
+    "complexity": 1,
+    "category": 4,
+    "target": "salad"
+  },
+  "base": {
+    "target_description": "the green salad with crab meat",
+    "modified_target_description": "the red salad with crab meat",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the green salad with crab meat served on?",
+      "modified": "What is the green salad with crab meat served on?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the green salad with crab meat look fresh?",
+      "modified": "Does the green salad with crab meat look fresh?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the green salad with crab meat topped with a lot of crab?",
+      "modified": "Is the green salad with crab meat topped with a lot of crab?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "What kind of leafy greens are in the green salad with crab meat?",
+      "modified": "What kind of leafy greens are in the red salad with crab meat?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is there a lime wedge next to the green salad with crab meat?",
+      "modified": "Is there a lime wedge next to the red salad with crab meat?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the green salad with crab meat appear lightly dressed?",
+      "modified": "Does the red salad with crab meat appear lightly dressed?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the green salad with crab meat arranged neatly on the plate?",
+      "modified": "Is the red salad with crab meat arranged neatly on the plate?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Would you say the green salad with crab meat looks like a restaurant dish?",
+      "modified": "Would you say the red salad with crab meat looks like a restaurant dish?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the green salad with crab meat mostly greens or mostly seafood?",
+      "modified": "Is the red salad with crab meat mostly greens or mostly seafood?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the green salad with crab meat take up most of the plate?",
+      "modified": "Does the red salad with crab meat take up most of the plate?",
+      "false_premise": true
+    }
+  ]
+}

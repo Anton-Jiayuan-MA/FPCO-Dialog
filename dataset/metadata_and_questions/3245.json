@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3245",
+    "source": "Open Images",
+    "complexity": 3,
+    "category": 2,
+    "target": "car"
+  },
+  "base": {
+    "target_description": "the white vintage convertible car",
+    "modified_target_description": "the black vintage convertible car",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the white vintage convertible car parked on grass?",
+      "modified": "Is the white vintage convertible car parked on grass?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the white vintage convertible car have its roof up?",
+      "modified": "Does the white vintage convertible car have its roof up?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the white vintage convertible car shown from the rear side?",
+      "modified": "Is the white vintage convertible car shown from the rear side?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the white vintage convertible car appear to be part of a car show?",
+      "modified": "Does the black vintage convertible car appear to be part of a car show?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the white vintage convertible car facing away from the camera?",
+      "modified": "Is the black vintage convertible car facing away from the camera?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the white vintage convertible car have a light-colored body?",
+      "modified": "Does the black vintage convertible car have a light-colored body?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the white vintage convertible car positioned among other classic cars?",
+      "modified": "Is the black vintage convertible car positioned among other classic cars?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Can you see the rear window of the white vintage convertible car?",
+      "modified": "Can you see the rear window of the black vintage convertible car?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the white vintage convertible car have visible wear or dirt on its exterior?",
+      "modified": "Does the black vintage convertible car have visible wear or dirt on its exterior?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the white vintage convertible car the closest vehicle to the camera?",
+      "modified": "Is the black vintage convertible car the closest vehicle to the camera?",
+      "false_premise": true
+    }
+  ]
+}

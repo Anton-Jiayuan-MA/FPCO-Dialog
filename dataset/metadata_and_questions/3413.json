@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3413",
+    "source": "COCO",
+    "complexity": 3,
+    "category": 4,
+    "target": "banana"
+  },
+  "base": {
+    "target_description": "the hanging bunch of bananas",
+    "modified_target_description": "the hanging bunch of grapes",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What color is the hanging bunch of bananas?",
+      "modified": "What color is the hanging bunch of bananas?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the hanging bunch of bananas look ripe?",
+      "modified": "Does the hanging bunch of bananas look ripe?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the hanging bunch of bananas suspended above the stall?",
+      "modified": "Is the hanging bunch of bananas suspended above the stall?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the hanging bunch of bananas have any dark spots on it?",
+      "modified": "Does the hanging bunch of grapes have any dark spots on it?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the hanging bunch of bananas close to the man at the stand?",
+      "modified": "Is the hanging bunch of grapes close to the man at the stand?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the hanging bunch of bananas appear to be for sale?",
+      "modified": "Does the hanging bunch of grapes appear to be for sale?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the hanging bunch of bananas grouped with many other bananas?",
+      "modified": "Is the hanging bunch of grapes grouped with many other bananas?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the hanging bunch of bananas look large or small?",
+      "modified": "Does the hanging bunch of grapes look large or small?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the hanging bunch of bananas indoors or outdoors?",
+      "modified": "Is the hanging bunch of grapes indoors or outdoors?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the hanging bunch of bananas hanging near the front of the image?",
+      "modified": "Is the hanging bunch of grapes hanging near the front of the image?",
+      "false_premise": true
+    }
+  ]
+}

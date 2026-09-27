@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1425",
+    "source": "COCO",
+    "complexity": 1,
+    "category": 4,
+    "target": "cake"
+  },
+  "base": {
+    "target_description": "the slice of chocolate cake on a white plate",
+    "modified_target_description": "the slice of pizza on a white plate",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What shape is the slice of chocolate cake on a white plate?",
+      "modified": "What shape is the slice of chocolate cake on a white plate?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the slice of chocolate cake on a white plate have any topping on it?",
+      "modified": "Does the slice of chocolate cake on a white plate have any topping on it?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the slice of chocolate cake on a white plate sitting next to a fork?",
+      "modified": "Is the slice of chocolate cake on a white plate sitting next to a fork?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "What color frosting covers the slice of chocolate cake on a white plate?",
+      "modified": "What color frosting covers the slice of pizza on a white plate?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the slice of chocolate cake on a white plate look like it has multiple layers?",
+      "modified": "Does the slice of pizza on a white plate look like it has multiple layers?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the slice of chocolate cake on a white plate served on its own or with other food?",
+      "modified": "Is the slice of pizza on a white plate served on its own or with other food?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the slice of chocolate cake on a white plate appear partially eaten?",
+      "modified": "Does the slice of pizza on a white plate appear partially eaten?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the slice of chocolate cake on a white plate placed on top of a napkin?",
+      "modified": "Is the slice of pizza on a white plate placed on top of a napkin?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Would you say the slice of chocolate cake on a white plate looks rich and dense?",
+      "modified": "Would you say the slice of pizza on a white plate looks rich and dense?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the slice of chocolate cake on a white plate the main focus of the image?",
+      "modified": "Is the slice of pizza on a white plate the main focus of the image?",
+      "false_premise": true
+    }
+  ]
+}

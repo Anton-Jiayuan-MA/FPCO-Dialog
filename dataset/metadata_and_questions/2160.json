@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2160",
+    "source": "COCO",
+    "complexity": 2,
+    "category": 1,
+    "target": "woman"
+  },
+  "base": {
+    "target_description": "the woman in a black jacket and black shorts",
+    "modified_target_description": "the woman in a white jacket and black shorts",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the woman in a black jacket and black shorts reaching for?",
+      "modified": "What is the woman in a black jacket and black shorts reaching for?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the woman in a black jacket and black shorts jumping in the air?",
+      "modified": "Is the woman in a black jacket and black shorts jumping in the air?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the woman in a black jacket and black shorts have both arms raised?",
+      "modified": "Does the woman in a black jacket and black shorts have both arms raised?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the woman in a black jacket and black shorts standing between two other players?",
+      "modified": "Is the woman in a white jacket and black shorts standing between two other players?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the woman in a black jacket and black shorts appear to be trying to catch a frisbee?",
+      "modified": "Does the woman in a white jacket and black shorts appear to be trying to catch a frisbee?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "What direction is the woman in a black jacket and black shorts looking?",
+      "modified": "What direction is the woman in a white jacket and black shorts looking?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the woman in a black jacket and black shorts on a grassy field?",
+      "modified": "Is the woman in a white jacket and black shorts on a grassy field?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "What color shoes is the woman in a black jacket and black shorts wearing?",
+      "modified": "What color shoes is the woman in a white jacket and black shorts wearing?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the woman in a black jacket and black shorts the tallest person visible in the scene?",
+      "modified": "Is the woman in a white jacket and black shorts the tallest person visible in the scene?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the woman in a black jacket and black shorts actively participating in the game?",
+      "modified": "Is the woman in a white jacket and black shorts actively participating in the game?",
+      "false_premise": true
+    }
+  ]
+}

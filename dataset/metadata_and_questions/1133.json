@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1133",
+    "source": "Open Images",
+    "complexity": 1,
+    "category": 1,
+    "target": "woman"
+  },
+  "base": {
+    "target_description": "the woman in a white wedding dress",
+    "modified_target_description": "the woman in a black wedding dress",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the woman in a white wedding dress standing upright?",
+      "modified": "Is the woman in a white wedding dress standing upright?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the woman in a white wedding dress looking downward?",
+      "modified": "Is the woman in a white wedding dress looking downward?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the woman in a white wedding dress appear to be trying on the gown?",
+      "modified": "Does the woman in a white wedding dress appear to be trying on the gown?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the woman in a white wedding dress indoors?",
+      "modified": "Is the woman in a black wedding dress indoors?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the woman in a white wedding dress have dark hair?",
+      "modified": "Does the woman in a black wedding dress have dark hair?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the woman in a white wedding dress near other dresses?",
+      "modified": "Is the woman in a black wedding dress near other dresses?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the woman in a white wedding dress look relaxed?",
+      "modified": "Does the woman in a black wedding dress look relaxed?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the woman in a white wedding dress wearing a long dress that reaches the floor?",
+      "modified": "Is the woman in a black wedding dress wearing a long dress that reaches the floor?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the woman in a white wedding dress facing slightly to the side?",
+      "modified": "Is the woman in a black wedding dress facing slightly to the side?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the woman in a white wedding dress seem to be in a bridal shop?",
+      "modified": "Does the woman in a black wedding dress seem to be in a bridal shop?",
+      "false_premise": true
+    }
+  ]
+}

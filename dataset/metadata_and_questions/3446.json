@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3446",
+    "source": "Open Images",
+    "complexity": 3,
+    "category": 4,
+    "target": "apple"
+  },
+  "base": {
+    "target_description": "the red and yellow apple",
+    "modified_target_description": "the green and yellow apple",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the red and yellow apple part of a large pile of fruit?",
+      "modified": "Is the red and yellow apple part of a large pile of fruit?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the red and yellow apple look shiny in the image?",
+      "modified": "Does the red and yellow apple look shiny in the image?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the red and yellow apple resting among many other apples?",
+      "modified": "Is the red and yellow apple resting among many other apples?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the red and yellow apple appear round and fresh?",
+      "modified": "Does the green and yellow apple appear round and fresh?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Can you see the stem on the red and yellow apple?",
+      "modified": "Can you see the stem on the green and yellow apple?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the red and yellow apple closer to the center of the image?",
+      "modified": "Is the green and yellow apple closer to the center of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the red and yellow apple have more red than yellow on its skin?",
+      "modified": "Does the green and yellow apple have more red than yellow on its skin?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the red and yellow apple touching other apples around it?",
+      "modified": "Is the green and yellow apple touching other apples around it?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the red and yellow apple look like it has smooth skin?",
+      "modified": "Does the green and yellow apple look like it has smooth skin?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the red and yellow apple shown from above in this image?",
+      "modified": "Is the green and yellow apple shown from above in this image?",
+      "false_premise": true
+    }
+  ]
+}

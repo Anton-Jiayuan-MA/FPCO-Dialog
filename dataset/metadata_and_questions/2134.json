@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2134",
+    "source": "Open Images",
+    "complexity": 2,
+    "category": 1,
+    "target": "man"
+  },
+  "base": {
+    "target_description": "the man in a blue soccer uniform in the center",
+    "modified_target_description": "the man in a red soccer uniform in the center",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the man in a blue soccer uniform in the center doing on the field?",
+      "modified": "What is the man in a blue soccer uniform in the center doing on the field?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the man in a blue soccer uniform in the center standing still or running?",
+      "modified": "Is the man in a blue soccer uniform in the center standing still or running?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the man in a blue soccer uniform in the center appear to be looking ahead?",
+      "modified": "Does the man in a blue soccer uniform in the center appear to be looking ahead?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the man in a blue soccer uniform in the center closer to the camera than the crowd behind him?",
+      "modified": "Is the man in a red soccer uniform in the center closer to the camera than the crowd behind him?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the man in a blue soccer uniform in the center seem to be part of the blue team?",
+      "modified": "Does the man in a red soccer uniform in the center seem to be part of the blue team?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the man in a blue soccer uniform in the center surrounded by other players?",
+      "modified": "Is the man in a red soccer uniform in the center surrounded by other players?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the man in a blue soccer uniform in the center have short hair?",
+      "modified": "Does the man in a red soccer uniform in the center have short hair?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the man in a blue soccer uniform in the center wearing long socks?",
+      "modified": "Is the man in a red soccer uniform in the center wearing long socks?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the man in a blue soccer uniform in the center look like he is in the middle of a soccer match?",
+      "modified": "Does the man in a red soccer uniform in the center look like he is in the middle of a soccer match?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the man in a blue soccer uniform in the center positioned on the grass pitch?",
+      "modified": "Is the man in a red soccer uniform in the center positioned on the grass pitch?",
+      "false_premise": true
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1380",
+    "source": "COCO",
+    "complexity": 1,
+    "category": 3,
+    "target": "cat"
+  },
+  "base": {
+    "target_description": "the black and white cat on the bed",
+    "modified_target_description": "the black and white cat by the bed",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the black and white cat on the bed doing with its head near the cup?",
+      "modified": "What is the black and white cat on the bed doing with its head near the cup?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the black and white cat on the bed standing or lying down?",
+      "modified": "Is the black and white cat on the bed standing or lying down?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "What piece of furniture is the black and white cat on the bed next to?",
+      "modified": "What piece of furniture is the black and white cat on the bed next to?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the black and white cat on the bed appear to be reaching toward something on the nightstand?",
+      "modified": "Does the black and white cat by the bed appear to be reaching toward something on the nightstand?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the black and white cat on the bed facing toward the lamp or away from it?",
+      "modified": "Is the black and white cat by the bed facing toward the lamp or away from it?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "What is directly in front of the black and white cat on the bed?",
+      "modified": "What is directly in front of the black and white cat by the bed?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Are the back legs of the black and white cat on the bed still on the mattress?",
+      "modified": "Are the back legs of the black and white cat by the bed still on the mattress?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the black and white cat on the bed look curious about the items beside the bed?",
+      "modified": "Does the black and white cat by the bed look curious about the items beside the bed?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the black and white cat on the bed leaning over a pillow?",
+      "modified": "Is the black and white cat by the bed leaning over a pillow?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "How close is the black and white cat on the bed to the cup on the nightstand?",
+      "modified": "How close is the black and white cat by the bed to the cup on the nightstand?",
+      "false_premise": true
+    }
+  ]
+}

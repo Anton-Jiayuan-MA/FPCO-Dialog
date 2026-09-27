@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1237",
+    "source": "COCO",
+    "complexity": 1,
+    "category": 2,
+    "target": "bus"
+  },
+  "base": {
+    "target_description": "the yellow Feel Good Bus",
+    "modified_target_description": "the red Feel Good Bus",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the yellow Feel Good Bus parked outdoors?",
+      "modified": "Is the yellow Feel Good Bus parked outdoors?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the yellow Feel Good Bus have large people graphics on its side?",
+      "modified": "Does the yellow Feel Good Bus have large people graphics on its side?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the yellow Feel Good Bus facing toward the right side of the image?",
+      "modified": "Is the yellow Feel Good Bus facing toward the right side of the image?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Can you see the windows along the top of the yellow Feel Good Bus?",
+      "modified": "Can you see the windows along the top of the red Feel Good Bus?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the yellow Feel Good Bus take up most of the image width?",
+      "modified": "Does the red Feel Good Bus take up most of the image width?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the yellow Feel Good Bus on a paved area?",
+      "modified": "Is the red Feel Good Bus on a paved area?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Can the front door area of the yellow Feel Good Bus be seen?",
+      "modified": "Can the front door area of the red Feel Good Bus be seen?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the yellow Feel Good Bus appear to be a full-sized coach bus?",
+      "modified": "Does the red Feel Good Bus appear to be a full-sized coach bus?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the yellow Feel Good Bus shown from the side?",
+      "modified": "Is the red Feel Good Bus shown from the side?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Are there any visible passengers inside the yellow Feel Good Bus?",
+      "modified": "Are there any visible passengers inside the red Feel Good Bus?",
+      "false_premise": true
+    }
+  ]
+}

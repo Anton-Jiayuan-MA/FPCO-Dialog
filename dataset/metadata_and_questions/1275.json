@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1275",
+    "source": "COCO",
+    "complexity": 1,
+    "category": 2,
+    "target": "airplane"
+  },
+  "base": {
+    "target_description": "the red airplane hanging from the ceiling",
+    "modified_target_description": "the red airplane on the left",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What kind of aircraft is the red airplane hanging from the ceiling?",
+      "modified": "What kind of aircraft is the red airplane hanging from the ceiling?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the red airplane hanging from the ceiling indoors?",
+      "modified": "Is the red airplane hanging from the ceiling indoors?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "What color is the red airplane hanging from the ceiling?",
+      "modified": "What color is the red airplane hanging from the ceiling?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the red airplane hanging from the ceiling appear to be suspended as a display?",
+      "modified": "Does the red airplane on the left appear to be suspended as a display?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Are the wings of the red airplane hanging from the ceiling clearly visible?",
+      "modified": "Are the wings of the red airplane on the left clearly visible?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the red airplane hanging from the ceiling flying or stationary?",
+      "modified": "Is the red airplane on the left flying or stationary?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Can you see the tail of the red airplane hanging from the ceiling?",
+      "modified": "Can you see the tail of the red airplane on the left?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the red airplane hanging from the ceiling look like a small plane?",
+      "modified": "Does the red airplane on the left look like a small plane?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the red airplane hanging from the ceiling near hanging lights?",
+      "modified": "Is the red airplane on the left near hanging lights?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the red airplane hanging from the ceiling have stripes on its body?",
+      "modified": "Does the red airplane on the left have stripes on its body?",
+      "false_premise": true
+    }
+  ]
+}

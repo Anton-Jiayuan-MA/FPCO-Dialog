@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3260",
+    "source": "COCO",
+    "complexity": 3,
+    "category": 2,
+    "target": "bus"
+  },
+  "base": {
+    "target_description": "the red bus in front",
+    "modified_target_description": "the blue bus in front",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What route number is shown on the front of the red bus in front?",
+      "modified": "What route number is shown on the front of the red bus in front?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the red bus in front moving through the intersection?",
+      "modified": "Is the red bus in front moving through the intersection?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "What destination is displayed above the windshield of the red bus in front?",
+      "modified": "What destination is displayed above the windshield of the red bus in front?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the red bus in front closer to the camera than the other bus?",
+      "modified": "Is the blue bus in front closer to the camera than the other bus?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the red bus in front appear to be turning on the street?",
+      "modified": "Does the blue bus in front appear to be turning on the street?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Are the headlights on the red bus in front visible?",
+      "modified": "Are the headlights on the blue bus in front visible?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the red bus in front a double-decker or a single-decker?",
+      "modified": "Is the blue bus in front a double-decker or a single-decker?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the red bus in front have large front windows?",
+      "modified": "Does the blue bus in front have large front windows?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the red bus in front positioned near the right side of the image?",
+      "modified": "Is the blue bus in front positioned near the right side of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Can you clearly see the front of the red bus in front?",
+      "modified": "Can you clearly see the front of the blue bus in front?",
+      "false_premise": true
+    }
+  ]
+}

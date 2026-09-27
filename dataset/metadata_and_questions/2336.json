@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2336",
+    "source": "Open Images",
+    "complexity": 2,
+    "category": 3,
+    "target": "sheep"
+  },
+  "base": {
+    "target_description": "the sheep with a black face",
+    "modified_target_description": "the sheep with a white face",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the sheep with a black face doing in the grass?",
+      "modified": "What is the sheep with a black face doing in the grass?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the sheep with a black face standing with its head down?",
+      "modified": "Is the sheep with a black face standing with its head down?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the sheep with a black face appear to be grazing?",
+      "modified": "Does the sheep with a black face appear to be grazing?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the sheep with a black face in a grassy field?",
+      "modified": "Is the sheep with a white face in a grassy field?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Can you see the sheep with a black face clearly in the image?",
+      "modified": "Can you see the sheep with a white face clearly in the image?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the sheep with a black face closer to the left side of the image?",
+      "modified": "Is the sheep with a white face closer to the left side of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the sheep with a black face have light-colored wool?",
+      "modified": "Does the sheep with a white face have light-colored wool?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the sheep with a black face facing downward toward the ground?",
+      "modified": "Is the sheep with a white face facing downward toward the ground?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the sheep with a black face look like it is eating grass?",
+      "modified": "Does the sheep with a white face look like it is eating grass?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the sheep with a black face standing near another sheep?",
+      "modified": "Is the sheep with a white face standing near another sheep?",
+      "false_premise": true
+    }
+  ]
+}

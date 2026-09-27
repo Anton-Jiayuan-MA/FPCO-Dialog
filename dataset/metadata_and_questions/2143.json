@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2143",
+    "source": "Open Images",
+    "complexity": 2,
+    "category": 1,
+    "target": "man"
+  },
+  "base": {
+    "target_description": "the older man in a green beret playing a trumpet",
+    "modified_target_description": "the older man in a red beret playing a trumpet",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the older man in a green beret playing a trumpet doing in the scene?",
+      "modified": "What is the older man in a green beret playing a trumpet doing in the scene?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the older man in a green beret playing a trumpet wearing gloves?",
+      "modified": "Is the older man in a green beret playing a trumpet wearing gloves?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "What instrument is the older man in a green beret playing a trumpet holding up to his mouth?",
+      "modified": "What instrument is the older man in a green beret playing a trumpet holding up to his mouth?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the older man in a green beret playing a trumpet shown from close range?",
+      "modified": "Is the older man in a red beret playing a trumpet shown from close range?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the older man in a green beret playing a trumpet appear to be part of a performance or ceremony?",
+      "modified": "Does the older man in a red beret playing a trumpet appear to be part of a performance or ceremony?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "What is the older man in a green beret playing a trumpet wearing on his head?",
+      "modified": "What is the older man in a red beret playing a trumpet wearing on his head?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the older man in a green beret playing a trumpet facing toward the left side of the image?",
+      "modified": "Is the older man in a red beret playing a trumpet facing toward the left side of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the older man in a green beret playing a trumpet look focused while performing?",
+      "modified": "Does the older man in a red beret playing a trumpet look focused while performing?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the older man in a green beret playing a trumpet the main subject of the image?",
+      "modified": "Is the older man in a red beret playing a trumpet the main subject of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Can you see another person near the older man in a green beret playing a trumpet?",
+      "modified": "Can you see another person near the older man in a red beret playing a trumpet?",
+      "false_premise": true
+    }
+  ]
+}

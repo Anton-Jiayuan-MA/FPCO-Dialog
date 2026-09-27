@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1339",
+    "source": "Open Images",
+    "complexity": 1,
+    "category": 3,
+    "target": "giraffe"
+  },
+  "base": {
+    "target_description": "the tall spotted giraffe by the water",
+    "modified_target_description": "the short spotted giraffe by the water",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the tall spotted giraffe by the water standing still?",
+      "modified": "Is the tall spotted giraffe by the water standing still?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the tall spotted giraffe by the water facing toward the camera?",
+      "modified": "Is the tall spotted giraffe by the water facing toward the camera?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the tall spotted giraffe by the water appear to be alone?",
+      "modified": "Does the tall spotted giraffe by the water appear to be alone?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the tall spotted giraffe by the water right next to the edge of the pond?",
+      "modified": "Is the short spotted giraffe by the water right next to the edge of the pond?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the tall spotted giraffe by the water have its full body visible in the image?",
+      "modified": "Does the short spotted giraffe by the water have its full body visible in the image?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the tall spotted giraffe by the water in a dry, open area?",
+      "modified": "Is the short spotted giraffe by the water in a dry, open area?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Can you see the long neck of the tall spotted giraffe by the water clearly?",
+      "modified": "Can you see the long neck of the short spotted giraffe by the water clearly?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the tall spotted giraffe by the water cast a shadow on the ground?",
+      "modified": "Does the short spotted giraffe by the water cast a shadow on the ground?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the tall spotted giraffe by the water looking slightly to one side?",
+      "modified": "Is the short spotted giraffe by the water looking slightly to one side?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the tall spotted giraffe by the water seem to be at a watering hole?",
+      "modified": "Does the short spotted giraffe by the water seem to be at a watering hole?",
+      "false_premise": true
+    }
+  ]
+}

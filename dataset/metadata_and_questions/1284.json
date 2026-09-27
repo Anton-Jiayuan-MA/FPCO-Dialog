@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1284",
+    "source": "Open Images",
+    "complexity": 1,
+    "category": 2,
+    "target": "car"
+  },
+  "base": {
+    "target_description": "the silver car on the dirt road",
+    "modified_target_description": "the silver car on the left side of the image",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the silver car on the dirt road facing toward the camera?",
+      "modified": "Is the silver car on the dirt road facing toward the camera?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the silver car on the dirt road appear to be parked or moving?",
+      "modified": "Does the silver car on the dirt road appear to be parked or moving?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the silver car on the dirt road near the top of the path?",
+      "modified": "Is the silver car on the dirt road near the top of the path?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Can you see the front of the silver car on the dirt road clearly?",
+      "modified": "Can you see the front of the silver car on the left side of the image clearly?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the silver car on the dirt road positioned between grassy areas?",
+      "modified": "Is the silver car on the left side of the image positioned between grassy areas?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the silver car on the dirt road look like a station wagon or minivan?",
+      "modified": "Does the silver car on the left side of the image look like a station wagon or minivan?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the silver car on the dirt road the only vehicle visible in the image?",
+      "modified": "Is the silver car on the left side of the image the only vehicle visible in the image?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the silver car on the dirt road appear to be on uneven ground?",
+      "modified": "Does the silver car on the left side of the image appear to be on uneven ground?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the silver car on the dirt road closer to the left side of the image than the right?",
+      "modified": "Is the silver car on the left side of the image closer to the left side of the image than the right?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the silver car on the dirt road outdoors under a clear sky?",
+      "modified": "Is the silver car on the left side of the image outdoors under a clear sky?",
+      "false_premise": true
+    }
+  ]
+}

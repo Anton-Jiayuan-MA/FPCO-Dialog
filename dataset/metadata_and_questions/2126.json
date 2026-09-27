@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2126",
+    "source": "COCO",
+    "complexity": 2,
+    "category": 1,
+    "target": "bride"
+  },
+  "base": {
+    "target_description": "the bride in a white dress",
+    "modified_target_description": "the groom in a white dress",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the bride in a white dress doing at the table?",
+      "modified": "What is the bride in a white dress doing at the table?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the bride in a white dress leaning forward?",
+      "modified": "Is the bride in a white dress leaning forward?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "What is the bride in a white dress holding in her hand?",
+      "modified": "What is the bride in a white dress holding in her hand?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the bride in a white dress standing next to someone?",
+      "modified": "Is the groom in a white dress standing next to someone?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the bride in a white dress appear to be cutting the cake?",
+      "modified": "Does the groom in a white dress appear to be cutting the cake?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the bride in a white dress outdoors?",
+      "modified": "Is the groom in a white dress outdoors?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "What is the bride in a white dress looking down at?",
+      "modified": "What is the groom in a white dress looking down at?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the bride in a white dress wearing a strapless gown?",
+      "modified": "Is the groom in a white dress wearing a strapless gown?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the bride in a white dress beside the dessert table?",
+      "modified": "Is the groom in a white dress beside the dessert table?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the bride in a white dress seem to be part of a wedding celebration?",
+      "modified": "Does the groom in a white dress seem to be part of a wedding celebration?",
+      "false_premise": true
+    }
+  ]
+}

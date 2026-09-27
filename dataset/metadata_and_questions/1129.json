@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1129",
+    "source": "COCO",
+    "complexity": 1,
+    "category": 1,
+    "target": "child"
+  },
+  "base": {
+    "target_description": "the young girl with long hair eating pizza",
+    "modified_target_description": "the young boy with long hair eating pizza",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the young girl with long hair eating pizza doing in the picture?",
+      "modified": "What is the young girl with long hair eating pizza doing in the picture?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the young girl with long hair eating pizza looking toward the camera?",
+      "modified": "Is the young girl with long hair eating pizza looking toward the camera?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "What food is the young girl with long hair eating pizza holding?",
+      "modified": "What food is the young girl with long hair eating pizza holding?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the young girl with long hair eating pizza seem to be taking a big bite?",
+      "modified": "Does the young boy with long hair eating pizza seem to be taking a big bite?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "What kind of expression does the young girl with long hair eating pizza have on her face?",
+      "modified": "What kind of expression does the young boy with long hair eating pizza have on their face?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the young girl with long hair eating pizza indoors or outdoors?",
+      "modified": "Is the young boy with long hair eating pizza indoors or outdoors?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "What is the young girl with long hair eating pizza wearing?",
+      "modified": "What is the young boy with long hair eating pizza wearing?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "How is the young girl with long hair eating pizza holding the slice?",
+      "modified": "How is the young boy with long hair eating pizza holding the slice?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the young girl with long hair eating pizza appear to be enjoying the food?",
+      "modified": "Does the young boy with long hair eating pizza appear to be enjoying the food?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the young girl with long hair eating pizza the main focus of the image?",
+      "modified": "Is the young boy with long hair eating pizza the main focus of the image?",
+      "false_premise": true
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1236",
+    "source": "COCO",
+    "complexity": 1,
+    "category": 2,
+    "target": "train"
+  },
+  "base": {
+    "target_description": "the green passenger train on the tracks",
+    "modified_target_description": "the red passenger train on the tracks",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the green passenger train on the tracks moving toward the camera?",
+      "modified": "Is the green passenger train on the tracks moving toward the camera?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "What direction is the green passenger train on the tracks facing?",
+      "modified": "What direction is the green passenger train on the tracks facing?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the green passenger train on the tracks near a station platform?",
+      "modified": "Is the green passenger train on the tracks near a station platform?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the green passenger train on the tracks appear to be carrying multiple cars?",
+      "modified": "Does the red passenger train on the tracks appear to be carrying multiple cars?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the green passenger train on the tracks on a curved section of rail?",
+      "modified": "Is the red passenger train on the tracks on a curved section of rail?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Can you see the front windows of the green passenger train on the tracks clearly?",
+      "modified": "Can you see the front windows of the red passenger train on the tracks clearly?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the green passenger train on the tracks the main subject of the image?",
+      "modified": "Is the red passenger train on the tracks the main subject of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the green passenger train on the tracks look like it is arriving at the station?",
+      "modified": "Does the red passenger train on the tracks look like it is arriving at the station?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Are the headlights visible on the green passenger train on the tracks?",
+      "modified": "Are the headlights visible on the red passenger train on the tracks?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the green passenger train on the tracks traveling beside a parking lot?",
+      "modified": "Is the red passenger train on the tracks traveling beside a parking lot?",
+      "false_premise": true
+    }
+  ]
+}

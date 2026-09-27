@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3117",
+    "source": "Open Images",
+    "complexity": 3,
+    "category": 1,
+    "target": "woman"
+  },
+  "base": {
+    "target_description": "the woman in a blue blazer",
+    "modified_target_description": "the man in a blue blazer",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the woman in a blue blazer standing near the back of the group?",
+      "modified": "Is the woman in a blue blazer standing near the back of the group?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the woman in a blue blazer facing toward the camera?",
+      "modified": "Is the woman in a blue blazer facing toward the camera?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the woman in a blue blazer appear to be standing still?",
+      "modified": "Does the woman in a blue blazer appear to be standing still?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the woman in a blue blazer positioned to the left side of the image?",
+      "modified": "Is the man in a blue blazer positioned to the left side of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the woman in a blue blazer look serious rather than broadly smiling?",
+      "modified": "Does the man in a blue blazer look serious rather than broadly smiling?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the woman in a blue blazer wearing dark pants?",
+      "modified": "Is the man in a blue blazer wearing dark pants?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the woman in a blue blazer behind the woman holding the red case?",
+      "modified": "Is the man in a blue blazer behind the woman holding the red case?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the woman in a blue blazer have short hair?",
+      "modified": "Does the man in a blue blazer have short hair?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the woman in a blue blazer indoors?",
+      "modified": "Is the man in a blue blazer indoors?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the woman in a blue blazer part of the formal group scene?",
+      "modified": "Is the man in a blue blazer part of the formal group scene?",
+      "false_premise": true
+    }
+  ]
+}

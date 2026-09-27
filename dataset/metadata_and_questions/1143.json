@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1143",
+    "source": "Open Images",
+    "complexity": 1,
+    "category": 1,
+    "target": "man"
+  },
+  "base": {
+    "target_description": "the man in a dark blazer and jeans",
+    "modified_target_description": "the man in a light blazer and jeans",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the man in a dark blazer and jeans doing with his hand?",
+      "modified": "What is the man in a dark blazer and jeans doing with his hand?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the man in a dark blazer and jeans standing on a stage?",
+      "modified": "Is the man in a dark blazer and jeans standing on a stage?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the man in a dark blazer and jeans appear to be speaking or performing?",
+      "modified": "Does the man in a dark blazer and jeans appear to be speaking or performing?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the man in a dark blazer and jeans facing toward the left side of the image?",
+      "modified": "Is the man in a light blazer and jeans facing toward the left side of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the man in a dark blazer and jeans look serious or thoughtful?",
+      "modified": "Does the man in a light blazer and jeans look serious or thoughtful?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the man in a dark blazer and jeans shown alone in the scene?",
+      "modified": "Is the man in a light blazer and jeans shown alone in the scene?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "What kind of clothing is the man in a dark blazer and jeans wearing on top?",
+      "modified": "What kind of clothing is the man in a light blazer and jeans wearing on top?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the man in a dark blazer and jeans under a spotlight?",
+      "modified": "Is the man in a light blazer and jeans under a spotlight?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the man in a dark blazer and jeans have one hand raised near his face?",
+      "modified": "Does the man in a light blazer and jeans have one hand raised near his face?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the man in a dark blazer and jeans positioned against a dark background?",
+      "modified": "Is the man in a light blazer and jeans positioned against a dark background?",
+      "false_premise": true
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3388",
+    "source": "COCO",
+    "complexity": 3,
+    "category": 3,
+    "target": "horse"
+  },
+  "base": {
+    "target_description": "the elephant standing in the center",
+    "modified_target_description": "the elephant standing on the left",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the elephant standing in the center doing in the field?",
+      "modified": "What is the elephant standing in the center doing in the field?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the elephant standing in the center facing toward the camera or away from it?",
+      "modified": "Is the elephant standing in the center facing toward the camera or away from it?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the elephant standing in the center appear to be alone or part of a larger group?",
+      "modified": "Does the elephant standing in the center appear to be alone or part of a larger group?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the elephant standing in the center on grass or on the dirt road?",
+      "modified": "Is the elephant standing on the left on grass or on the dirt road?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Can you clearly see the legs of the elephant standing in the center?",
+      "modified": "Can you clearly see the legs of the elephant standing on the left?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the elephant standing in the center look like it is walking or standing still?",
+      "modified": "Does the elephant standing on the left look like it is walking or standing still?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the elephant standing in the center in sunlight or shade?",
+      "modified": "Is the elephant standing on the left in sunlight or shade?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "How close is the elephant standing in the center to the other elephants nearby?",
+      "modified": "How close is the elephant standing on the left to the other elephants nearby?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the elephant standing in the center have its trunk hanging down?",
+      "modified": "Does the elephant standing on the left have its trunk hanging down?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Would you say the elephant standing in the center is the most prominent animal in the scene?",
+      "modified": "Would you say the elephant standing on the left is the most prominent animal in the scene?",
+      "false_premise": true
+    }
+  ]
+}

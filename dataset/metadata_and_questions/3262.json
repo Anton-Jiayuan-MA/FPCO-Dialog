@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3262",
+    "source": "Open Images",
+    "complexity": 3,
+    "category": 2,
+    "target": "bicycle"
+  },
+  "base": {
+    "target_description": "the black bicycle leaning on the bridge railing",
+    "modified_target_description": "the black bicycle leaning beside the bridge railing",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the black bicycle leaning on the bridge railing parked by the canal?",
+      "modified": "Is the black bicycle leaning on the bridge railing parked by the canal?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the black bicycle leaning on the bridge railing appear to be unattended?",
+      "modified": "Does the black bicycle leaning on the bridge railing appear to be unattended?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the black bicycle leaning on the bridge railing seen from the side?",
+      "modified": "Is the black bicycle leaning on the bridge railing seen from the side?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the black bicycle leaning on the bridge railing have both wheels visible?",
+      "modified": "Does the black bicycle leaning beside the bridge railing have both wheels visible?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the black bicycle leaning on the bridge railing positioned near the center of the image?",
+      "modified": "Is the black bicycle leaning beside the bridge railing positioned near the center of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the black bicycle leaning on the bridge railing look like it is locked to the railing?",
+      "modified": "Does the black bicycle leaning beside the bridge railing look like it is locked to the railing?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the black bicycle leaning on the bridge railing facing toward the left side of the image?",
+      "modified": "Is the black bicycle leaning beside the bridge railing facing toward the left side of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the black bicycle leaning on the bridge railing in front of the waterway?",
+      "modified": "Is the black bicycle leaning beside the bridge railing in front of the waterway?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the black bicycle leaning on the bridge railing appear larger than the bicycles farther to the left?",
+      "modified": "Does the black bicycle leaning beside the bridge railing appear larger than the bicycles farther to the left?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the black bicycle leaning on the bridge railing standing on a bridge over the canal?",
+      "modified": "Is the black bicycle leaning beside the bridge railing standing on a bridge over the canal?",
+      "false_premise": true
+    }
+  ]
+}

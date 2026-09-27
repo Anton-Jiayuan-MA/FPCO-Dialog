@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2429",
+    "source": "Open Images",
+    "complexity": 2,
+    "category": 4,
+    "target": "cupcake"
+  },
+  "base": {
+    "target_description": "the cupcake with pink frosting and a cherry on top",
+    "modified_target_description": "the cookie with pink frosting and a cherry on top",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What flavor might the cupcake with pink frosting and a cherry on top be?",
+      "modified": "What flavor might the cupcake with pink frosting and a cherry on top be?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the cupcake with pink frosting and a cherry on top sitting on a white surface?",
+      "modified": "Is the cupcake with pink frosting and a cherry on top sitting on a white surface?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the cupcake with pink frosting and a cherry on top look ready to be served?",
+      "modified": "Does the cupcake with pink frosting and a cherry on top look ready to be served?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the cupcake with pink frosting and a cherry on top decorated in a swirled style?",
+      "modified": "Is the cookie with pink frosting and a cherry on top decorated in a swirled style?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the cupcake with pink frosting and a cherry on top appear to be homemade or bakery-made?",
+      "modified": "Does the cookie with pink frosting and a cherry on top appear to be homemade or bakery-made?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the cupcake with pink frosting and a cherry on top one of many desserts arranged together?",
+      "modified": "Is the cookie with pink frosting and a cherry on top one of many desserts arranged together?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the cupcake with pink frosting and a cherry on top have light-colored cake beneath the frosting?",
+      "modified": "Does the cookie with pink frosting and a cherry on top have light-colored cake beneath the frosting?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Would the cupcake with pink frosting and a cherry on top be considered a sweet dessert?",
+      "modified": "Would the cookie with pink frosting and a cherry on top be considered a sweet dessert?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the cupcake with pink frosting and a cherry on top placed in a paper wrapper?",
+      "modified": "Is the cookie with pink frosting and a cherry on top placed in a paper wrapper?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the cupcake with pink frosting and a cherry on top stand out among the other cupcakes?",
+      "modified": "Does the cookie with pink frosting and a cherry on top stand out among the other cupcakes?",
+      "false_premise": true
+    }
+  ]
+}

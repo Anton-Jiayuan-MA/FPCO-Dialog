@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2428",
+    "source": "Open Images",
+    "complexity": 2,
+    "category": 4,
+    "target": "apple"
+  },
+  "base": {
+    "target_description": "the sliced apple on the cutting board",
+    "modified_target_description": "the sliced orange on the cutting board",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the sliced apple on the cutting board cut into halves?",
+      "modified": "Is the sliced apple on the cutting board cut into halves?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the sliced apple on the cutting board look fresh?",
+      "modified": "Does the sliced apple on the cutting board look fresh?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the sliced apple on the cutting board being prepared by hand?",
+      "modified": "Is the sliced apple on the cutting board being prepared by hand?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Are there seeds visible in the sliced apple on the cutting board?",
+      "modified": "Are there seeds visible in the sliced orange on the cutting board?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the sliced apple on the cutting board near a knife?",
+      "modified": "Is the sliced orange on the cutting board near a knife?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the sliced apple on the cutting board appear to be part of food preparation?",
+      "modified": "Does the sliced orange on the cutting board appear to be part of food preparation?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the sliced apple on the cutting board green or red?",
+      "modified": "Is the sliced orange on the cutting board green or red?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the sliced apple on the cutting board resting on a white surface?",
+      "modified": "Is the sliced orange on the cutting board resting on a white surface?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the sliced apple on the cutting board have its inside facing up?",
+      "modified": "Does the sliced orange on the cutting board have its inside facing up?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the sliced apple on the cutting board surrounded by other cut fruit pieces?",
+      "modified": "Is the sliced orange on the cutting board surrounded by other cut fruit pieces?",
+      "false_premise": true
+    }
+  ]
+}

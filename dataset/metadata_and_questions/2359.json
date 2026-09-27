@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2359",
+    "source": "Open Images",
+    "complexity": 2,
+    "category": 3,
+    "target": "butterfly"
+  },
+  "base": {
+    "target_description": "the top butterfly with purple wings",
+    "modified_target_description": "the top butterfly with orange wings",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Are the wings of the top butterfly with purple wings spread open in the image?",
+      "modified": "Are the wings of the top butterfly with purple wings spread open in the image?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the top butterfly with purple wings appear centered near the upper part of the page?",
+      "modified": "Does the top butterfly with purple wings appear centered near the upper part of the page?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the top butterfly with purple wings shown from above rather than from the side?",
+      "modified": "Is the top butterfly with purple wings shown from above rather than from the side?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the top butterfly with purple wings have dark edges around its wings?",
+      "modified": "Does the top butterfly with orange wings have dark edges around its wings?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Can you see small light-colored markings on the top butterfly with purple wings?",
+      "modified": "Can you see small light-colored markings on the top butterfly with orange wings?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the body of the top butterfly with purple wings thin and vertical?",
+      "modified": "Is the body of the top butterfly with orange wings thin and vertical?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the top butterfly with purple wings look like part of a scientific illustration?",
+      "modified": "Does the top butterfly with orange wings look like part of a scientific illustration?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Are the lower wings of the top butterfly with purple wings darker than the upper wings?",
+      "modified": "Are the lower wings of the top butterfly with orange wings darker than the upper wings?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Can you see antennae extending upward from the top butterfly with purple wings?",
+      "modified": "Can you see antennae extending upward from the top butterfly with orange wings?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the top butterfly with purple wings the highest butterfly shown on the page?",
+      "modified": "Is the top butterfly with orange wings the highest butterfly shown on the page?",
+      "false_premise": true
+    }
+  ]
+}

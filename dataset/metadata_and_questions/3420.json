@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3420",
+    "source": "Open Images",
+    "complexity": 3,
+    "category": 4,
+    "target": "apple"
+  },
+  "base": {
+    "target_description": "the red and yellow apple with carved writing",
+    "modified_target_description": "the red and yellow pear with carved writing",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What color is the red and yellow apple with carved writing?",
+      "modified": "What color is the red and yellow apple with carved writing?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the red and yellow apple with carved writing have a symbol carved into its skin?",
+      "modified": "Does the red and yellow apple with carved writing have a symbol carved into its skin?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the red and yellow apple with carved writing shown whole or sliced?",
+      "modified": "Is the red and yellow apple with carved writing shown whole or sliced?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the red and yellow apple with carved writing piled together with other apples?",
+      "modified": "Is the red and yellow pear with carved writing piled together with other apples?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the red and yellow apple with carved writing look fresh?",
+      "modified": "Does the red and yellow pear with carved writing look fresh?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the red and yellow apple with carved writing closer to the front of the pile or farther back?",
+      "modified": "Is the red and yellow pear with carved writing closer to the front of the pile or farther back?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the red and yellow apple with carved writing appear shiny?",
+      "modified": "Does the red and yellow pear with carved writing appear shiny?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the red and yellow apple with carved writing overlapping with other apples in the image?",
+      "modified": "Is the red and yellow pear with carved writing overlapping with other apples in the image?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Are the carved markings on the red and yellow apple with carved writing large and easy to see?",
+      "modified": "Are the carved markings on the red and yellow pear with carved writing large and easy to see?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the red and yellow apple with carved writing part of a display of many similar apples?",
+      "modified": "Is the red and yellow pear with carved writing part of a display of many similar apples?",
+      "false_premise": true
+    }
+  ]
+}

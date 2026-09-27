@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2239",
+    "source": "Open Images",
+    "complexity": 2,
+    "category": 2,
+    "target": "bicycle"
+  },
+  "base": {
+    "target_description": "the silver bicycle on the sidewalk",
+    "modified_target_description": "the red bicycle on the sidewalk",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the silver bicycle on the sidewalk standing upright or lying on its side?",
+      "modified": "Is the silver bicycle on the sidewalk standing upright or lying on its side?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the silver bicycle on the sidewalk have both wheels visible?",
+      "modified": "Does the silver bicycle on the sidewalk have both wheels visible?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the silver bicycle on the sidewalk close to the curb?",
+      "modified": "Is the silver bicycle on the sidewalk close to the curb?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the silver bicycle on the sidewalk appear to be parked rather than moving?",
+      "modified": "Does the red bicycle on the sidewalk appear to be parked rather than moving?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Can you see the handlebars of the silver bicycle on the sidewalk clearly?",
+      "modified": "Can you see the handlebars of the red bicycle on the sidewalk clearly?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the seat of the silver bicycle on the sidewalk black?",
+      "modified": "Is the seat of the red bicycle on the sidewalk black?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the silver bicycle on the sidewalk look like it is leaning against something?",
+      "modified": "Does the red bicycle on the sidewalk look like it is leaning against something?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the front wheel of the silver bicycle on the sidewalk turned slightly?",
+      "modified": "Is the front wheel of the red bicycle on the sidewalk turned slightly?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the silver bicycle on the sidewalk have a rear fender?",
+      "modified": "Does the red bicycle on the sidewalk have a rear fender?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the silver bicycle on the sidewalk the closest bicycle in the image?",
+      "modified": "Is the red bicycle on the sidewalk the closest bicycle in the image?",
+      "false_premise": true
+    }
+  ]
+}

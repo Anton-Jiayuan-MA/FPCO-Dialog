@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3389",
+    "source": "COCO",
+    "complexity": 3,
+    "category": 3,
+    "target": "elephant"
+  },
+  "base": {
+    "target_description": "the decorated elephant on a metal stand",
+    "modified_target_description": "the decorated elephant by the metal stand",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the decorated elephant on a metal stand facing away from the camera?",
+      "modified": "Is the decorated elephant on a metal stand facing away from the camera?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the decorated elephant on a metal stand have a rider on its back?",
+      "modified": "Does the decorated elephant on a metal stand have a rider on its back?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the decorated elephant on a metal stand part of a performance?",
+      "modified": "Is the decorated elephant on a metal stand part of a performance?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Can you see the decorated elephant on a metal stand balancing with its legs raised?",
+      "modified": "Can you see the decorated elephant by the metal stand balancing with its legs raised?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the decorated elephant on a metal stand wearing colorful fabric?",
+      "modified": "Is the decorated elephant by the metal stand wearing colorful fabric?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the decorated elephant on a metal stand appear to be indoors?",
+      "modified": "Does the decorated elephant by the metal stand appear to be indoors?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the trunk of the decorated elephant on a metal stand lifted upward?",
+      "modified": "Is the trunk of the decorated elephant by the metal stand lifted upward?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the decorated elephant on a metal stand look larger than the people nearby?",
+      "modified": "Does the decorated elephant by the metal stand look larger than the people nearby?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the decorated elephant on a metal stand lined up with other elephants?",
+      "modified": "Is the decorated elephant by the metal stand lined up with other elephants?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the decorated elephant on a metal stand seem to be trained for a show?",
+      "modified": "Does the decorated elephant by the metal stand seem to be trained for a show?",
+      "false_premise": true
+    }
+  ]
+}

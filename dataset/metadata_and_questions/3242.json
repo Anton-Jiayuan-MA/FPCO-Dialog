@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3242",
+    "source": "Open Images",
+    "complexity": 3,
+    "category": 2,
+    "target": "car"
+  },
+  "base": {
+    "target_description": "the silver SUV parked by the storefront",
+    "modified_target_description": "the red SUV parked by the storefront",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the silver SUV parked by the storefront facing toward the right side of the image?",
+      "modified": "Is the silver SUV parked by the storefront facing toward the right side of the image?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the silver SUV parked by the storefront close to the building?",
+      "modified": "Is the silver SUV parked by the storefront close to the building?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the silver SUV parked by the storefront appear to be stationary?",
+      "modified": "Does the silver SUV parked by the storefront appear to be stationary?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the silver SUV parked by the storefront in a parking space?",
+      "modified": "Is the red SUV parked by the storefront in a parking space?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Can you see the side of the silver SUV parked by the storefront more clearly than the front?",
+      "modified": "Can you see the side of the red SUV parked by the storefront more clearly than the front?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the silver SUV parked by the storefront the closest vehicle to the camera?",
+      "modified": "Is the red SUV parked by the storefront the closest vehicle to the camera?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the silver SUV parked by the storefront in front of the Goodwill store?",
+      "modified": "Is the red SUV parked by the storefront in front of the Goodwill store?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the silver SUV parked by the storefront have dark-tinted rear windows?",
+      "modified": "Does the red SUV parked by the storefront have dark-tinted rear windows?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the silver SUV parked by the storefront next to another parked vehicle?",
+      "modified": "Is the red SUV parked by the storefront next to another parked vehicle?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the silver SUV parked by the storefront appear larger than the cars farther down the row?",
+      "modified": "Does the red SUV parked by the storefront appear larger than the cars farther down the row?",
+      "false_premise": true
+    }
+  ]
+}

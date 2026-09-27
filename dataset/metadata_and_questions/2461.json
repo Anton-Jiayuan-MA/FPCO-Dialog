@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2461",
+    "source": "Open Images",
+    "complexity": 2,
+    "category": 4,
+    "target": "taco"
+  },
+  "base": {
+    "target_description": "the taco on the white plate",
+    "modified_target_description": "the taco beside the white plate",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What filling is visible in the taco on the white plate?",
+      "modified": "What filling is visible in the taco on the white plate?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the taco on the white plate topped with chopped meat?",
+      "modified": "Is the taco on the white plate topped with chopped meat?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the taco on the white plate look soft or crispy?",
+      "modified": "Does the taco on the white plate look soft or crispy?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the taco on the white plate open-faced?",
+      "modified": "Is the taco beside the white plate open-faced?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "How full does the taco on the white plate appear to be?",
+      "modified": "How full does the taco beside the white plate appear to be?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the taco on the white plate resting beside other tacos?",
+      "modified": "Is the taco beside the white plate resting beside other tacos?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the taco on the white plate appear freshly prepared?",
+      "modified": "Does the taco beside the white plate appear freshly prepared?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "What color tortilla does the taco on the white plate have?",
+      "modified": "What color tortilla does the taco beside the white plate have?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the taco on the white plate arranged on a paper plate?",
+      "modified": "Is the taco beside the white plate arranged on a paper plate?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the taco on the white plate have a generous amount of filling?",
+      "modified": "Does the taco beside the white plate have a generous amount of filling?",
+      "false_premise": true
+    }
+  ]
+}

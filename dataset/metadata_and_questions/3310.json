@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3310",
+    "source": "COCO",
+    "complexity": 3,
+    "category": 3,
+    "target": "bear"
+  },
+  "base": {
+    "target_description": "the white bear in front",
+    "modified_target_description": "the white dog in front",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What direction is the white bear in front facing?",
+      "modified": "What direction is the white bear in front facing?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the white bear in front looking toward the camera?",
+      "modified": "Is the white bear in front looking toward the camera?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the white bear in front appear calm or alert?",
+      "modified": "Does the white bear in front appear calm or alert?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Can you see the eyes of the white bear in front clearly?",
+      "modified": "Can you see the eyes of the white dog in front clearly?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the white bear in front standing close to another bear?",
+      "modified": "Is the white dog in front standing close to another bear?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the white bear in front have its mouth open or closed?",
+      "modified": "Does the white dog in front have its mouth open or closed?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "What color is the nose of the white bear in front?",
+      "modified": "What color is the nose of the white dog in front?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the white bear in front shown in a close-up view?",
+      "modified": "Is the white dog in front shown in a close-up view?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the fur of the white bear in front look clean or dirty?",
+      "modified": "Does the fur of the white dog in front look clean or dirty?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the white bear in front the main focus of the image?",
+      "modified": "Is the white dog in front the main focus of the image?",
+      "false_premise": true
+    }
+  ]
+}

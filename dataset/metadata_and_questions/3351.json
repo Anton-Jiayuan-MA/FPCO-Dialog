@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3351",
+    "source": "Open Images",
+    "complexity": 3,
+    "category": 3,
+    "target": "cheetah"
+  },
+  "base": {
+    "target_description": "the standing spotted cheetah",
+    "modified_target_description": "the sitting spotted cheetah",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the standing spotted cheetah facing toward the camera?",
+      "modified": "Is the standing spotted cheetah facing toward the camera?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the standing spotted cheetah appear to be an adult?",
+      "modified": "Does the standing spotted cheetah appear to be an adult?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the standing spotted cheetah surrounded by smaller cheetahs?",
+      "modified": "Is the standing spotted cheetah surrounded by smaller cheetahs?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the standing spotted cheetah standing still in the scene?",
+      "modified": "Is the sitting spotted cheetah standing still in the scene?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Can you see the full body of the standing spotted cheetah?",
+      "modified": "Can you see the full body of the sitting spotted cheetah?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the standing spotted cheetah positioned near the center of the image?",
+      "modified": "Is the sitting spotted cheetah positioned near the center of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the standing spotted cheetah have its head raised?",
+      "modified": "Does the sitting spotted cheetah have its head raised?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the standing spotted cheetah the largest animal visible in the image?",
+      "modified": "Is the sitting spotted cheetah the largest animal visible in the image?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the standing spotted cheetah have black spots across its body?",
+      "modified": "Does the sitting spotted cheetah have black spots across its body?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the standing spotted cheetah looking alert?",
+      "modified": "Is the sitting spotted cheetah looking alert?",
+      "false_premise": true
+    }
+  ]
+}

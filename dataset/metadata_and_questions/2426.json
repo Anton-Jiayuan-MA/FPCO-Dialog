@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2426",
+    "source": "Open Images",
+    "complexity": 2,
+    "category": 4,
+    "target": "cake"
+  },
+  "base": {
+    "target_description": "the strawberry shortcake on the plate",
+    "modified_target_description": "the sandwich on the plate",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What topping is visible on the strawberry shortcake on the plate?",
+      "modified": "What topping is visible on the strawberry shortcake on the plate?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the strawberry shortcake on the plate cut into halves?",
+      "modified": "Is the strawberry shortcake on the plate cut into halves?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the strawberry shortcake on the plate look like it has whipped cream on top?",
+      "modified": "Does the strawberry shortcake on the plate look like it has whipped cream on top?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "How many pieces of the strawberry shortcake on the plate are visible?",
+      "modified": "How many pieces of the sandwich on the plate are visible?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the strawberry shortcake on the plate served next to a drink?",
+      "modified": "Is the sandwich on the plate served next to a drink?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the strawberry shortcake on the plate appear to have strawberries inside it as well?",
+      "modified": "Does the sandwich on the plate appear to have strawberries inside it as well?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the strawberry shortcake on the plate on a white dish?",
+      "modified": "Is the sandwich on the plate on a white dish?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the strawberry shortcake on the plate look homemade or store-bought?",
+      "modified": "Does the sandwich on the plate look homemade or store-bought?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the strawberry shortcake on the plate arranged for a meal or a snack?",
+      "modified": "Is the sandwich on the plate arranged for a meal or a snack?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the strawberry shortcake on the plate seem freshly prepared?",
+      "modified": "Does the sandwich on the plate seem freshly prepared?",
+      "false_premise": true
+    }
+  ]
+}

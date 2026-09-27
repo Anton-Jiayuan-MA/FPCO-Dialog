@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2226",
+    "source": "Open Images",
+    "complexity": 2,
+    "category": 2,
+    "target": "truck"
+  },
+  "base": {
+    "target_description": "the green military truck with a canvas cover",
+    "modified_target_description": "the green military jeep with a canvas cover",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the green military truck with a canvas cover parked on grass?",
+      "modified": "Is the green military truck with a canvas cover parked on grass?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the green military truck with a canvas cover have its driver's door open?",
+      "modified": "Does the green military truck with a canvas cover have its driver's door open?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the green military truck with a canvas cover facing toward the camera?",
+      "modified": "Is the green military truck with a canvas cover facing toward the camera?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the green military truck with a canvas cover have a number plate visible on the front?",
+      "modified": "Does the green military jeep with a canvas cover have a number plate visible on the front?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the green military truck with a canvas cover larger than the vehicle next to it?",
+      "modified": "Is the green military jeep with a canvas cover larger than the vehicle next to it?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the green military truck with a canvas cover appear to be part of a military display?",
+      "modified": "Does the green military jeep with a canvas cover appear to be part of a military display?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is there an orange light mounted on top of the green military truck with a canvas cover?",
+      "modified": "Is there an orange light mounted on top of the green military jeep with a canvas cover?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the green military truck with a canvas cover have round headlights?",
+      "modified": "Does the green military jeep with a canvas cover have round headlights?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the green military truck with a canvas cover positioned in the foreground of the image?",
+      "modified": "Is the green military jeep with a canvas cover positioned in the foreground of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the green military truck with a canvas cover look stationary?",
+      "modified": "Does the green military jeep with a canvas cover look stationary?",
+      "false_premise": true
+    }
+  ]
+}

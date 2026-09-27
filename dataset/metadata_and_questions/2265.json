@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2265",
+    "source": "Open Images",
+    "complexity": 2,
+    "category": 2,
+    "target": "truck"
+  },
+  "base": {
+    "target_description": "the green military truck with a canvas cover",
+    "modified_target_description": "the green military truck with a canvas cover on the right",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the green military truck with a canvas cover parked on grass?",
+      "modified": "Is the green military truck with a canvas cover parked on grass?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the green military truck with a canvas cover have its driver-side door open?",
+      "modified": "Does the green military truck with a canvas cover have its driver-side door open?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the green military truck with a canvas cover facing toward the camera?",
+      "modified": "Is the green military truck with a canvas cover facing toward the camera?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the green military truck with a canvas cover appear larger than the nearby vehicle beside it?",
+      "modified": "Does the green military truck with a canvas cover on the right appear larger than the nearby vehicle beside it?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the green military truck with a canvas cover outdoors at what looks like an event or display?",
+      "modified": "Is the green military truck with a canvas cover on the right outdoors at what looks like an event or display?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Can you see a round yellow sign on the front of the green military truck with a canvas cover?",
+      "modified": "Can you see a round yellow sign on the front of the green military truck with a canvas cover on the right?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the green military truck with a canvas cover have a covered cargo area in the back?",
+      "modified": "Does the green military truck with a canvas cover on the right have a covered cargo area in the back?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the green military truck with a canvas cover positioned in front of trees?",
+      "modified": "Is the green military truck with a canvas cover on the right positioned in front of trees?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Can you clearly see the front wheels of the green military truck with a canvas cover?",
+      "modified": "Can you clearly see the front wheels of the green military truck with a canvas cover on the right?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the green military truck with a canvas cover the main vehicle in the foreground?",
+      "modified": "Is the green military truck with a canvas cover on the right the main vehicle in the foreground?",
+      "false_premise": true
+    }
+  ]
+}

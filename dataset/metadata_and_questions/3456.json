@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3456",
+    "source": "Open Images",
+    "complexity": 3,
+    "category": 4,
+    "target": "apple"
+  },
+  "base": {
+    "target_description": "the red apple in the foreground",
+    "modified_target_description": "the green apple in the foreground",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What color is the red apple in the foreground?",
+      "modified": "What color is the red apple in the foreground?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the red apple in the foreground closer to the camera than the other fruit?",
+      "modified": "Is the red apple in the foreground closer to the camera than the other fruit?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the red apple in the foreground have a visible stem?",
+      "modified": "Does the red apple in the foreground have a visible stem?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the red apple in the foreground whole or sliced?",
+      "modified": "Is the green apple in the foreground whole or sliced?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the red apple in the foreground look smooth and shiny?",
+      "modified": "Does the green apple in the foreground look smooth and shiny?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the red apple in the foreground sitting next to another apple?",
+      "modified": "Is the green apple in the foreground sitting next to another apple?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Are there tomatoes behind the red apple in the foreground?",
+      "modified": "Are there tomatoes behind the green apple in the foreground?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the red apple in the foreground take up much of the image?",
+      "modified": "Does the green apple in the foreground take up much of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the top of the red apple in the foreground clearly visible?",
+      "modified": "Is the top of the green apple in the foreground clearly visible?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the red apple in the foreground appear larger than the apples behind it?",
+      "modified": "Does the green apple in the foreground appear larger than the apples behind it?",
+      "false_premise": true
+    }
+  ]
+}

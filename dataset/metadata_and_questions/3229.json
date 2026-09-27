@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3229",
+    "source": "COCO",
+    "complexity": 3,
+    "category": 2,
+    "target": "airplane"
+  },
+  "base": {
+    "target_description": "the red airplane on the runway",
+    "modified_target_description": "the red truck on the runway",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What airline branding is visible on the red airplane on the runway?",
+      "modified": "What airline branding is visible on the red airplane on the runway?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the red airplane on the runway moving or parked in the image?",
+      "modified": "Is the red airplane on the runway moving or parked in the image?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Which direction is the red airplane on the runway facing?",
+      "modified": "Which direction is the red airplane on the runway facing?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Are the engines of the red airplane on the runway visible from this angle?",
+      "modified": "Are the engines of the red truck on the runway visible from this angle?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the red airplane on the runway in front of another airplane?",
+      "modified": "Is the red truck on the runway in front of another airplane?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the red airplane on the runway appear to be preparing for takeoff or just waiting?",
+      "modified": "Does the red truck on the runway appear to be preparing for takeoff or just waiting?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "How much of the red airplane on the runway is visible in the scene?",
+      "modified": "How much of the red truck on the runway is visible in the scene?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the tail of the red airplane on the runway clearly visible?",
+      "modified": "Is the tail of the red truck on the runway clearly visible?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "What stands out most about the paint colors of the red airplane on the runway?",
+      "modified": "What stands out most about the paint colors of the red truck on the runway?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the red airplane on the runway closer to the camera than the larger white airplane behind it?",
+      "modified": "Is the red truck on the runway closer to the camera than the larger white airplane behind it?",
+      "false_premise": true
+    }
+  ]
+}

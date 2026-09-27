@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2415",
+    "source": "COCO",
+    "complexity": 2,
+    "category": 4,
+    "target": "hot dog"
+  },
+  "base": {
+    "target_description": "the hot dog in a bun with ketchup and relish",
+    "modified_target_description": "the hamburger in a bun with ketchup and relish",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What toppings are visible on the hot dog in a bun with ketchup and relish?",
+      "modified": "What toppings are visible on the hot dog in a bun with ketchup and relish?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the hot dog in a bun with ketchup and relish shown close up in the image?",
+      "modified": "Is the hot dog in a bun with ketchup and relish shown close up in the image?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the hot dog in a bun with ketchup and relish look fully assembled and ready to eat?",
+      "modified": "Does the hot dog in a bun with ketchup and relish look fully assembled and ready to eat?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Can you see the sausage clearly inside the hot dog in a bun with ketchup and relish?",
+      "modified": "Can you see the sausage clearly inside the hamburger in a bun with ketchup and relish?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the bun holding the hot dog in a bun with ketchup and relish split open from the top?",
+      "modified": "Is the bun holding the hamburger in a bun with ketchup and relish split open from the top?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the hot dog in a bun with ketchup and relish appear to have any mustard on it as well?",
+      "modified": "Does the hamburger in a bun with ketchup and relish appear to have any mustard on it as well?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the hot dog in a bun with ketchup and relish one of two similar hot dogs in the picture?",
+      "modified": "Is the hamburger in a bun with ketchup and relish one of two similar hot dogs in the picture?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the hot dog in a bun with ketchup and relish look like it is sitting on a plate?",
+      "modified": "Does the hamburger in a bun with ketchup and relish look like it is sitting on a plate?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the hot dog in a bun with ketchup and relish photographed from a close, slightly angled view?",
+      "modified": "Is the hamburger in a bun with ketchup and relish photographed from a close, slightly angled view?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the hot dog in a bun with ketchup and relish appear to be a simple fast-food style meal?",
+      "modified": "Does the hamburger in a bun with ketchup and relish appear to be a simple fast-food style meal?",
+      "false_premise": true
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2284",
+    "source": "Open Images",
+    "complexity": 2,
+    "category": 2,
+    "target": "car"
+  },
+  "base": {
+    "target_description": "the white car parked by the building",
+    "modified_target_description": "the white car parked in front of the building",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the white car parked by the building facing toward the right side of the image?",
+      "modified": "Is the white car parked by the building facing toward the right side of the image?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the white car parked by the building appear to be stationary?",
+      "modified": "Does the white car parked by the building appear to be stationary?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the white car parked by the building close to the blue door?",
+      "modified": "Is the white car parked by the building close to the blue door?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Can you see the rear of the white car parked by the building?",
+      "modified": "Can you see the rear of the white car parked in front of the building?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the white car parked by the building on a gravel surface?",
+      "modified": "Is the white car parked in front of the building on a gravel surface?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the white car parked by the building look like a hatchback?",
+      "modified": "Does the white car parked in front of the building look like a hatchback?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is most of the white car parked by the building visible in the frame?",
+      "modified": "Is most of the white car parked in front of the building visible in the frame?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the white car parked by the building located on the right side of the image?",
+      "modified": "Is the white car parked in front of the building located on the right side of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the white car parked by the building have dark windows?",
+      "modified": "Does the white car parked in front of the building have dark windows?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the white car parked by the building next to the corner of the building?",
+      "modified": "Is the white car parked in front of the building next to the corner of the building?",
+      "false_premise": true
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3215",
+    "source": "COCO",
+    "complexity": 3,
+    "category": 2,
+    "target": "boat"
+  },
+  "base": {
+    "target_description": "the white boat by the dock",
+    "modified_target_description": "the white truck by the dock",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the white boat by the dock floating in the water?",
+      "modified": "Is the white boat by the dock floating in the water?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the white boat by the dock appear to be moored alongside the marina?",
+      "modified": "Does the white boat by the dock appear to be moored alongside the marina?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the white boat by the dock one of several small boats in the harbor?",
+      "modified": "Is the white boat by the dock one of several small boats in the harbor?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Can you see the white boat by the dock near the center of the image?",
+      "modified": "Can you see the white truck by the dock near the center of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the white boat by the dock look empty right now?",
+      "modified": "Does the white truck by the dock look empty right now?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the white boat by the dock positioned close to the walkway and posts?",
+      "modified": "Is the white truck by the dock positioned close to the walkway and posts?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the white boat by the dock have its reflection visible in the water?",
+      "modified": "Does the white truck by the dock have its reflection visible in the water?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the white boat by the dock surrounded by other parked boats?",
+      "modified": "Is the white truck by the dock surrounded by other parked boats?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the white boat by the dock seem to be a small motorboat?",
+      "modified": "Does the white truck by the dock seem to be a small motorboat?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the white boat by the dock sitting calmly in the marina basin?",
+      "modified": "Is the white truck by the dock sitting calmly in the marina basin?",
+      "false_premise": true
+    }
+  ]
+}

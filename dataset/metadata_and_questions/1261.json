@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1261",
+    "source": "Open Images",
+    "complexity": 1,
+    "category": 2,
+    "target": "bicycle"
+  },
+  "base": {
+    "target_description": "the gray road bicycle",
+    "modified_target_description": "the gray road bicycle on the right",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the gray road bicycle parked outdoors?",
+      "modified": "Is the gray road bicycle parked outdoors?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the gray road bicycle have thin tires?",
+      "modified": "Does the gray road bicycle have thin tires?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the gray road bicycle leaning on anything, or standing by itself?",
+      "modified": "Is the gray road bicycle leaning on anything, or standing by itself?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Can you see drop handlebars on the gray road bicycle?",
+      "modified": "Can you see drop handlebars on the gray road bicycle on the right?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the gray road bicycle closer to the camera than the cars in the background?",
+      "modified": "Is the gray road bicycle on the right closer to the camera than the cars in the background?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the gray road bicycle appear to be a racing-style bike?",
+      "modified": "Does the gray road bicycle on the right appear to be a racing-style bike?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the gray road bicycle positioned on a paved surface?",
+      "modified": "Is the gray road bicycle on the right positioned on a paved surface?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Can both wheels of the gray road bicycle be seen in the image?",
+      "modified": "Can both wheels of the gray road bicycle on the right be seen in the image?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the gray road bicycle shown from the side at an angle?",
+      "modified": "Is the gray road bicycle on the right shown from the side at an angle?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the gray road bicycle have a visible brand name on the frame?",
+      "modified": "Does the gray road bicycle on the right have a visible brand name on the frame?",
+      "false_premise": true
+    }
+  ]
+}

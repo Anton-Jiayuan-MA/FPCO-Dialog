@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1311",
+    "source": "Open Images",
+    "complexity": 1,
+    "category": 3,
+    "target": "zebra"
+  },
+  "base": {
+    "target_description": "the striped zebra near the wooden fence",
+    "modified_target_description": "the striped horse near the wooden fence",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the striped zebra near the wooden fence doing in the grass?",
+      "modified": "What is the striped zebra near the wooden fence doing in the grass?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the striped zebra near the wooden fence walking or standing still?",
+      "modified": "Is the striped zebra near the wooden fence walking or standing still?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Which direction is the striped zebra near the wooden fence facing?",
+      "modified": "Which direction is the striped zebra near the wooden fence facing?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the striped zebra near the wooden fence close to the fence posts?",
+      "modified": "Is the striped horse near the wooden fence close to the fence posts?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the striped zebra near the wooden fence appear to be inside a grassy enclosure?",
+      "modified": "Does the striped horse near the wooden fence appear to be inside a grassy enclosure?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Can you see the full body of the striped zebra near the wooden fence?",
+      "modified": "Can you see the full body of the striped horse near the wooden fence?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the striped zebra near the wooden fence next to a rustic wooden gate?",
+      "modified": "Is the striped horse near the wooden fence next to a rustic wooden gate?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the striped zebra near the wooden fence have its head lowered slightly?",
+      "modified": "Does the striped horse near the wooden fence have its head lowered slightly?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the striped zebra near the wooden fence out in an open field?",
+      "modified": "Is the striped horse near the wooden fence out in an open field?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the striped zebra near the wooden fence look calm in the scene?",
+      "modified": "Does the striped horse near the wooden fence look calm in the scene?",
+      "false_premise": true
+    }
+  ]
+}

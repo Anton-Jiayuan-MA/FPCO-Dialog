@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3369",
+    "source": "Open Images",
+    "complexity": 3,
+    "category": 3,
+    "target": "elephant"
+  },
+  "base": {
+    "target_description": "the elephant in a red ceremonial covering",
+    "modified_target_description": "the elephant in a red ceremonial covering on the right",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the elephant in a red ceremonial covering doing in the parade?",
+      "modified": "What is the elephant in a red ceremonial covering doing in the parade?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the elephant in a red ceremonial covering facing toward the left side of the image?",
+      "modified": "Is the elephant in a red ceremonial covering facing toward the left side of the image?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the elephant in a red ceremonial covering appear to be walking or standing still?",
+      "modified": "Does the elephant in a red ceremonial covering appear to be walking or standing still?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the elephant in a red ceremonial covering decorated for a special event?",
+      "modified": "Is the elephant in a red ceremonial covering on the right decorated for a special event?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Can you see the trunk of the elephant in a red ceremonial covering stretched forward?",
+      "modified": "Can you see the trunk of the elephant in a red ceremonial covering on the right stretched forward?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the elephant in a red ceremonial covering have any tusks visible?",
+      "modified": "Does the elephant in a red ceremonial covering on the right have any tusks visible?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the elephant in a red ceremonial covering surrounded by people?",
+      "modified": "Is the elephant in a red ceremonial covering on the right surrounded by people?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the elephant in a red ceremonial covering look larger than the nearby people?",
+      "modified": "Does the elephant in a red ceremonial covering on the right look larger than the nearby people?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the elephant in a red ceremonial covering carrying an ornate structure on its back?",
+      "modified": "Is the elephant in a red ceremonial covering on the right carrying an ornate structure on its back?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the elephant in a red ceremonial covering stand near another similarly dressed elephant?",
+      "modified": "Does the elephant in a red ceremonial covering on the right stand near another similarly dressed elephant?",
+      "false_premise": true
+    }
+  ]
+}

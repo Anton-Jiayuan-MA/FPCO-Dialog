@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2467",
+    "source": "Open Images",
+    "complexity": 2,
+    "category": 4,
+    "target": "cupcakes"
+  },
+  "base": {
+    "target_description": "the frosted cupcakes with blueberries",
+    "modified_target_description": "the frosted cupcakes with blueberries on the left",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "How many of the frosted cupcakes with blueberries are visible in the image?",
+      "modified": "How many of the frosted cupcakes with blueberries are visible in the image?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Are the frosted cupcakes with blueberries topped with white frosting?",
+      "modified": "Are the frosted cupcakes with blueberries topped with white frosting?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Do the frosted cupcakes with blueberries appear to be sitting close together?",
+      "modified": "Do the frosted cupcakes with blueberries appear to be sitting close together?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Are the frosted cupcakes with blueberries in colorful paper liners?",
+      "modified": "Are the frosted cupcakes with blueberries on the left in colorful paper liners?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Do the frosted cupcakes with blueberries look homemade or bakery-style?",
+      "modified": "Do the frosted cupcakes with blueberries on the left look homemade or bakery-style?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Are the frosted cupcakes with blueberries photographed up close?",
+      "modified": "Are the frosted cupcakes with blueberries on the left photographed up close?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Do the frosted cupcakes with blueberries each have one blueberry on top?",
+      "modified": "Do the frosted cupcakes with blueberries on the left each have one blueberry on top?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Are the frosted cupcakes with blueberries placed against a plain background?",
+      "modified": "Are the frosted cupcakes with blueberries on the left placed against a plain background?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Do the frosted cupcakes with blueberries look ready to be served?",
+      "modified": "Do the frosted cupcakes with blueberries on the left look ready to be served?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the frosting on the frosted cupcakes with blueberries swirled in a spiral shape?",
+      "modified": "Is the frosting on the frosted cupcakes with blueberries on the left swirled in a spiral shape?",
+      "false_premise": true
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3219",
+    "source": "COCO",
+    "complexity": 3,
+    "category": 2,
+    "target": "truck"
+  },
+  "base": {
+    "target_description": "the tan pickup truck in front",
+    "modified_target_description": "the tan sedan in front",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What color is the tan pickup truck in front?",
+      "modified": "What color is the tan pickup truck in front?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the tan pickup truck in front parked or moving?",
+      "modified": "Is the tan pickup truck in front parked or moving?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Can you see the side window of the tan pickup truck in front?",
+      "modified": "Can you see the side window of the tan pickup truck in front?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the tan pickup truck in front have a bird sitting near its side mirror?",
+      "modified": "Does the tan sedan in front have a bird sitting near its side mirror?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the tan pickup truck in front closer to the camera than the other truck?",
+      "modified": "Is the tan sedan in front closer to the camera than the other truck?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "What part of the tan pickup truck in front is most visible in the image?",
+      "modified": "What part of the tan sedan in front is most visible in the image?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the tan pickup truck in front appear to be on a street or in a parking area?",
+      "modified": "Does the tan sedan in front appear to be on a street or in a parking area?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Can you see the front wheel of the tan pickup truck in front?",
+      "modified": "Can you see the front wheel of the tan sedan in front?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the tan pickup truck in front blocking part of the truck behind it?",
+      "modified": "Is the tan sedan in front blocking part of the truck behind it?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the tan pickup truck in front look clean or a bit dusty?",
+      "modified": "Does the tan sedan in front look clean or a bit dusty?",
+      "false_premise": true
+    }
+  ]
+}

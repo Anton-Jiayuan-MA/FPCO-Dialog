@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1256",
+    "source": "Open Images",
+    "complexity": 1,
+    "category": 2,
+    "target": "boat"
+  },
+  "base": {
+    "target_description": "the tall white sailing boat",
+    "modified_target_description": "the short white sailing boat",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the tall white sailing boat docked at the harbor?",
+      "modified": "Is the tall white sailing boat docked at the harbor?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the tall white sailing boat have several masts rising above it?",
+      "modified": "Does the tall white sailing boat have several masts rising above it?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the tall white sailing boat floating on calm water?",
+      "modified": "Is the tall white sailing boat floating on calm water?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Can you see flags attached to the tall white sailing boat?",
+      "modified": "Can you see flags attached to the short white sailing boat?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the tall white sailing boat positioned next to the pier?",
+      "modified": "Is the short white sailing boat positioned next to the pier?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the tall white sailing boat appear larger than the nearby vehicles?",
+      "modified": "Does the short white sailing boat appear larger than the nearby vehicles?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the bow of the tall white sailing boat pointing toward the left side of the image?",
+      "modified": "Is the bow of the short white sailing boat pointing toward the left side of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the tall white sailing boat have visible rigging lines running up the masts?",
+      "modified": "Does the short white sailing boat have visible rigging lines running up the masts?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the tall white sailing boat the main subject in the foreground?",
+      "modified": "Is the short white sailing boat the main subject in the foreground?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the tall white sailing boat moored close to the waterfront buildings?",
+      "modified": "Is the short white sailing boat moored close to the waterfront buildings?",
+      "false_premise": true
+    }
+  ]
+}

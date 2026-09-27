@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2139",
+    "source": "Open Images",
+    "complexity": 2,
+    "category": 1,
+    "target": "woman"
+  },
+  "base": {
+    "target_description": "the woman in the white striped shirt",
+    "modified_target_description": "the woman in the black striped shirt",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the woman in the white striped shirt looking toward the camera?",
+      "modified": "Is the woman in the white striped shirt looking toward the camera?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the woman in the white striped shirt smiling?",
+      "modified": "Is the woman in the white striped shirt smiling?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the woman in the white striped shirt have short hair?",
+      "modified": "Does the woman in the white striped shirt have short hair?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the woman in the white striped shirt sitting close to another woman?",
+      "modified": "Is the woman in the black striped shirt sitting close to another woman?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the woman in the white striped shirt indoors at a table?",
+      "modified": "Is the woman in the black striped shirt indoors at a table?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the woman in the white striped shirt leaning slightly forward?",
+      "modified": "Is the woman in the black striped shirt leaning slightly forward?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the woman in the white striped shirt appear to be posing for the photo?",
+      "modified": "Does the woman in the black striped shirt appear to be posing for the photo?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the woman in the white striped shirt wearing earrings?",
+      "modified": "Is the woman in the black striped shirt wearing earrings?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the woman in the white striped shirt positioned on the right side of the image?",
+      "modified": "Is the woman in the black striped shirt positioned on the right side of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the woman in the white striped shirt seem to be at a formal event?",
+      "modified": "Does the woman in the black striped shirt seem to be at a formal event?",
+      "false_premise": true
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2203",
+    "source": "COCO",
+    "complexity": 2,
+    "category": 2,
+    "target": "airplane"
+  },
+  "base": {
+    "target_description": "the small white and red airplane",
+    "modified_target_description": "the small white and red helicopter",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the small white and red airplane flying low over the runway?",
+      "modified": "Is the small white and red airplane flying low over the runway?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the small white and red airplane have someone hanging from a ladder beneath it?",
+      "modified": "Does the small white and red airplane have someone hanging from a ladder beneath it?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the small white and red airplane moving through the air rather than parked on the ground?",
+      "modified": "Is the small white and red airplane moving through the air rather than parked on the ground?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Can you see the propeller spinning on the small white and red airplane?",
+      "modified": "Can you see the propeller spinning on the small white and red helicopter?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the small white and red airplane close to the ground in this scene?",
+      "modified": "Is the small white and red helicopter close to the ground in this scene?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the small white and red airplane appear to be part of an airshow stunt?",
+      "modified": "Does the small white and red helicopter appear to be part of an airshow stunt?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is there a pilot visible inside the small white and red airplane?",
+      "modified": "Is there a pilot visible inside the small white and red helicopter?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the small white and red airplane positioned above a motorcycle?",
+      "modified": "Is the small white and red helicopter positioned above a motorcycle?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the small white and red airplane have its landing gear extended?",
+      "modified": "Does the small white and red helicopter have its landing gear extended?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the small white and red airplane the main vehicle shown in the image?",
+      "modified": "Is the small white and red helicopter the main vehicle shown in the image?",
+      "false_premise": true
+    }
+  ]
+}

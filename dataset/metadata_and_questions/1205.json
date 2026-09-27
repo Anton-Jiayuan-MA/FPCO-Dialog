@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1205",
+    "source": "COCO",
+    "complexity": 1,
+    "category": 2,
+    "target": "truck"
+  },
+  "base": {
+    "target_description": "the white highway pickup truck",
+    "modified_target_description": "the white highway sedan",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What color is the white highway pickup truck?",
+      "modified": "What color is the white highway pickup truck?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the white highway pickup truck parked or moving in the image?",
+      "modified": "Is the white highway pickup truck parked or moving in the image?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the white highway pickup truck have any lights mounted on top?",
+      "modified": "Does the white highway pickup truck have any lights mounted on top?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the white highway pickup truck facing toward the left or the right?",
+      "modified": "Is the white highway sedan facing toward the left or the right?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Can you see the bed of the white highway pickup truck?",
+      "modified": "Can you see the bed of the white highway sedan?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the white highway pickup truck appear to be in front of a garage?",
+      "modified": "Does the white highway sedan appear to be in front of a garage?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is there a logo visible on the door of the white highway pickup truck?",
+      "modified": "Is there a logo visible on the door of the white highway sedan?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the white highway pickup truck look like a work vehicle?",
+      "modified": "Does the white highway sedan look like a work vehicle?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Are there colored stripes along the side of the white highway pickup truck?",
+      "modified": "Are there colored stripes along the side of the white highway sedan?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Can you see the front grille of the white highway pickup truck clearly?",
+      "modified": "Can you see the front grille of the white highway sedan clearly?",
+      "false_premise": true
+    }
+  ]
+}

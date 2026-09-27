@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1331",
+    "source": "COCO",
+    "complexity": 1,
+    "category": 3,
+    "target": "dog"
+  },
+  "base": {
+    "target_description": "the small tan dog with large ears",
+    "modified_target_description": "the small black dog with large ears",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What direction is the small tan dog with large ears looking?",
+      "modified": "What direction is the small tan dog with large ears looking?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the small tan dog with large ears lying down or sitting up?",
+      "modified": "Is the small tan dog with large ears lying down or sitting up?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the small tan dog with large ears appear to be indoors?",
+      "modified": "Does the small tan dog with large ears appear to be indoors?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the small tan dog with large ears resting on something soft?",
+      "modified": "Is the small black dog with large ears resting on something soft?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Can you clearly see the face of the small tan dog with large ears?",
+      "modified": "Can you clearly see the face of the small black dog with large ears?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Are the ears of the small tan dog with large ears standing upright?",
+      "modified": "Are the ears of the small black dog with large ears standing upright?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the small tan dog with large ears seem calm in this scene?",
+      "modified": "Does the small black dog with large ears seem calm in this scene?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the small tan dog with large ears close to the camera?",
+      "modified": "Is the small black dog with large ears close to the camera?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Can you see most of the body of the small tan dog with large ears, or mainly the head and upper body?",
+      "modified": "Can you see most of the body of the small black dog with large ears, or mainly the head and upper body?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the small tan dog with large ears the main focus of the image?",
+      "modified": "Is the small black dog with large ears the main focus of the image?",
+      "false_premise": true
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1467",
+    "source": "COCO",
+    "complexity": 1,
+    "category": 4,
+    "target": "sandwich"
+  },
+  "base": {
+    "target_description": "the hot dog in a bun",
+    "modified_target_description": "the hot dog in a bun on the left",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is being held in the hand besides the hot dog in a bun?",
+      "modified": "What is being held in the hand besides the hot dog in a bun?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the hot dog in a bun shown close up in the image?",
+      "modified": "Is the hot dog in a bun shown close up in the image?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the hot dog in a bun appear ready to eat?",
+      "modified": "Does the hot dog in a bun appear ready to eat?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the hot dog in a bun being held by someone?",
+      "modified": "Is the hot dog in a bun on the left being held by someone?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the hot dog in a bun stand out against the dark background?",
+      "modified": "Does the hot dog in a bun on the left stand out against the dark background?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Can you clearly see the sausage inside the hot dog in a bun?",
+      "modified": "Can you clearly see the sausage inside the hot dog in a bun on the left?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the hot dog in a bun the main focus of the picture?",
+      "modified": "Is the hot dog in a bun on the left the main focus of the picture?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the hot dog in a bun look like it has any toppings on it?",
+      "modified": "Does the hot dog in a bun on the left look like it has any toppings on it?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the hot dog in a bun angled slightly upward in the image?",
+      "modified": "Is the hot dog in a bun on the left angled slightly upward in the image?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Would you say the hot dog in a bun fills most of the frame?",
+      "modified": "Would you say the hot dog in a bun on the left fills most of the frame?",
+      "false_premise": true
+    }
+  ]
+}

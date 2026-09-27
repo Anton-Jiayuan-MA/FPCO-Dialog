@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3409",
+    "source": "COCO",
+    "complexity": 3,
+    "category": 4,
+    "target": "hot dog"
+  },
+  "base": {
+    "target_description": "the hot dog in a bun",
+    "modified_target_description": "the hamburger in a bun",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the hot dog in a bun served on a plate shaped like a car?",
+      "modified": "Is the hot dog in a bun served on a plate shaped like a car?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the hot dog in a bun appear to be next to some fries?",
+      "modified": "Does the hot dog in a bun appear to be next to some fries?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the hot dog in a bun wrapped partly in paper?",
+      "modified": "Is the hot dog in a bun wrapped partly in paper?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the hot dog in a bun look ready to eat?",
+      "modified": "Does the hamburger in a bun look ready to eat?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the hot dog in a bun placed on top of a colorful serving dish?",
+      "modified": "Is the hamburger in a bun placed on top of a colorful serving dish?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the hot dog in a bun look plain without visible toppings?",
+      "modified": "Does the hamburger in a bun look plain without visible toppings?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the hot dog in a bun sitting near the front edge of the serving dish?",
+      "modified": "Is the hamburger in a bun sitting near the front edge of the serving dish?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the hot dog in a bun appear to be part of a diner-style meal?",
+      "modified": "Does the hamburger in a bun appear to be part of a diner-style meal?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the hot dog in a bun shown from a close-up angle?",
+      "modified": "Is the hamburger in a bun shown from a close-up angle?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the hot dog in a bun look larger than the fries beside it?",
+      "modified": "Does the hamburger in a bun look larger than the fries beside it?",
+      "false_premise": true
+    }
+  ]
+}

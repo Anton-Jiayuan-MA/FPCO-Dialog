@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2218",
+    "source": "COCO",
+    "complexity": 2,
+    "category": 2,
+    "target": "jet"
+  },
+  "base": {
+    "target_description": "the white jet leaving a smoke trail",
+    "modified_target_description": "the white helicopter leaving a smoke trail",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the white jet leaving a smoke trail flying through a clear blue sky?",
+      "modified": "Is the white jet leaving a smoke trail flying through a clear blue sky?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the white jet leaving a smoke trail appear to be part of an air show formation?",
+      "modified": "Does the white jet leaving a smoke trail appear to be part of an air show formation?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the white jet leaving a smoke trail positioned near the top of the group?",
+      "modified": "Is the white jet leaving a smoke trail positioned near the top of the group?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the white jet leaving a smoke trail have its nose pointed to the left?",
+      "modified": "Does the white helicopter leaving a smoke trail have its nose pointed to the left?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the white jet leaving a smoke trail shown in motion?",
+      "modified": "Is the white helicopter leaving a smoke trail shown in motion?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Can you see the wings clearly on the white jet leaving a smoke trail?",
+      "modified": "Can you see the wings clearly on the white helicopter leaving a smoke trail?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the white jet leaving a smoke trail close to other jets in the image?",
+      "modified": "Is the white helicopter leaving a smoke trail close to other jets in the image?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the white jet leaving a smoke trail have a visible cockpit area?",
+      "modified": "Does the white helicopter leaving a smoke trail have a visible cockpit area?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the white jet leaving a smoke trail producing a long trail behind it?",
+      "modified": "Is the white helicopter leaving a smoke trail producing a long trail behind it?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the white jet leaving a smoke trail look like a military aircraft?",
+      "modified": "Does the white helicopter leaving a smoke trail look like a military aircraft?",
+      "false_premise": true
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2115",
+    "source": "Open Images",
+    "complexity": 2,
+    "category": 1,
+    "target": "man"
+  },
+  "base": {
+    "target_description": "the man in a dark suit holding a coffee cup",
+    "modified_target_description": "the woman in a dark suit holding a coffee cup",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the man in a dark suit holding a coffee cup standing near the window?",
+      "modified": "Is the man in a dark suit holding a coffee cup standing near the window?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the man in a dark suit holding a coffee cup appear to be talking to someone?",
+      "modified": "Does the man in a dark suit holding a coffee cup appear to be talking to someone?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the man in a dark suit holding a coffee cup wearing glasses?",
+      "modified": "Is the man in a dark suit holding a coffee cup wearing glasses?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the man in a dark suit holding a coffee cup have something tucked under his arm?",
+      "modified": "Does the woman in a dark suit holding a coffee cup have something tucked under her arm?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the man in a dark suit holding a coffee cup facing toward the left side of the image?",
+      "modified": "Is the woman in a dark suit holding a coffee cup facing toward the left side of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the man in a dark suit holding a coffee cup look like he is indoors?",
+      "modified": "Does the woman in a dark suit holding a coffee cup look like she is indoors?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the man in a dark suit holding a coffee cup standing upright?",
+      "modified": "Is the woman in a dark suit holding a coffee cup standing upright?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the man in a dark suit holding a coffee cup seem to be in a formal setting?",
+      "modified": "Does the woman in a dark suit holding a coffee cup seem to be in a formal setting?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the man in a dark suit holding a coffee cup positioned on the right side of the image?",
+      "modified": "Is the woman in a dark suit holding a coffee cup positioned on the right side of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the man in a dark suit holding a coffee cup appear to be holding a folder or binder?",
+      "modified": "Does the woman in a dark suit holding a coffee cup appear to be holding a folder or binder?",
+      "false_premise": true
+    }
+  ]
+}

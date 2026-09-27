@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2367",
+    "source": "Open Images",
+    "complexity": 2,
+    "category": 3,
+    "target": "horse"
+  },
+  "base": {
+    "target_description": "the brown horse with a black mane",
+    "modified_target_description": "the brown horse with a black mane on the left side of the image",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the brown horse with a black mane standing on the road or off to the side?",
+      "modified": "Is the brown horse with a black mane standing on the road or off to the side?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the brown horse with a black mane have its head lowered toward the ground?",
+      "modified": "Does the brown horse with a black mane have its head lowered toward the ground?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the brown horse with a black mane facing the camera?",
+      "modified": "Is the brown horse with a black mane facing the camera?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the brown horse with a black mane appear to be eating something?",
+      "modified": "Does the brown horse with a black mane on the left side of the image appear to be eating something?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the brown horse with a black mane standing close to another horse?",
+      "modified": "Is the brown horse with a black mane on the left side of the image standing close to another horse?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Can you see the legs of the brown horse with a black mane clearly?",
+      "modified": "Can you see the legs of the brown horse with a black mane on the left side of the image clearly?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the brown horse with a black mane look thin?",
+      "modified": "Does the brown horse with a black mane on the left side of the image look thin?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the brown horse with a black mane on the right side of the image?",
+      "modified": "Is the brown horse with a black mane on the left side of the image on the right side of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Can you see the tail of the brown horse with a black mane?",
+      "modified": "Can you see the tail of the brown horse with a black mane on the left side of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the brown horse with a black mane outdoors in a dry area?",
+      "modified": "Is the brown horse with a black mane on the left side of the image outdoors in a dry area?",
+      "false_premise": true
+    }
+  ]
+}

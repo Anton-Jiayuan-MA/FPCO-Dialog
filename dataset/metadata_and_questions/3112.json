@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3112",
+    "source": "COCO",
+    "complexity": 3,
+    "category": 1,
+    "target": "child"
+  },
+  "base": {
+    "target_description": "the blond child in a striped hoodie",
+    "modified_target_description": "the blond dog in a striped hoodie",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the blond child in a striped hoodie looking at?",
+      "modified": "What is the blond child in a striped hoodie looking at?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the blond child in a striped hoodie standing close to the cake?",
+      "modified": "Is the blond child in a striped hoodie standing close to the cake?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the blond child in a striped hoodie appear to be reaching toward the table?",
+      "modified": "Does the blond child in a striped hoodie appear to be reaching toward the table?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the blond child in a striped hoodie behind the girl in pink?",
+      "modified": "Is the blond dog in a striped hoodie behind the girl in pink?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "What expression does the blond child in a striped hoodie seem to have?",
+      "modified": "What expression does the blond dog in a striped hoodie seem to have?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the blond child in a striped hoodie watching the candles on the cake?",
+      "modified": "Is the blond dog in a striped hoodie watching the candles on the cake?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the blond child in a striped hoodie have a hand near the girl in pink?",
+      "modified": "Does the blond dog in a striped hoodie have a hand near the girl in pink?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the blond child in a striped hoodie one of the children gathered around the dessert table?",
+      "modified": "Is the blond dog in a striped hoodie one of the children gathered around the dessert table?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "What is directly in front of the blond child in a striped hoodie?",
+      "modified": "What is directly in front of the blond dog in a striped hoodie?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the blond child in a striped hoodie indoors at what looks like a party?",
+      "modified": "Is the blond dog in a striped hoodie indoors at what looks like a party?",
+      "false_premise": true
+    }
+  ]
+}

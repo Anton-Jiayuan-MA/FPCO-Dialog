@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3348",
+    "source": "Open Images",
+    "complexity": 3,
+    "category": 3,
+    "target": "sheep"
+  },
+  "base": {
+    "target_description": "the woolly sheep by the white truck",
+    "modified_target_description": "the black sheep by the white truck",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the woolly sheep by the white truck standing still or walking?",
+      "modified": "Is the woolly sheep by the white truck standing still or walking?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the woolly sheep by the white truck appear to be facing the camera?",
+      "modified": "Does the woolly sheep by the white truck appear to be facing the camera?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the woolly sheep by the white truck close to other sheep?",
+      "modified": "Is the woolly sheep by the white truck close to other sheep?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the woolly sheep by the white truck look like it is eating?",
+      "modified": "Does the black sheep by the white truck look like it is eating?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the woolly sheep by the white truck in the foreground of the scene?",
+      "modified": "Is the black sheep by the white truck in the foreground of the scene?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Can you see the full body of the woolly sheep by the white truck?",
+      "modified": "Can you see the full body of the black sheep by the white truck?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the woolly sheep by the white truck standing on dirt ground?",
+      "modified": "Is the black sheep by the white truck standing on dirt ground?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the woolly sheep by the white truck have its head raised?",
+      "modified": "Does the black sheep by the white truck have its head raised?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the woolly sheep by the white truck next to the pile of feed?",
+      "modified": "Is the black sheep by the white truck next to the pile of feed?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the woolly sheep by the white truck appear larger than the nearby lambs?",
+      "modified": "Does the black sheep by the white truck appear larger than the nearby lambs?",
+      "false_premise": true
+    }
+  ]
+}

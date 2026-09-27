@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2244",
+    "source": "Open Images",
+    "complexity": 2,
+    "category": 2,
+    "target": "car"
+  },
+  "base": {
+    "target_description": "the blue and gray car",
+    "modified_target_description": "the red and gray car",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the blue and gray car moving along the racetrack?",
+      "modified": "Is the blue and gray car moving along the racetrack?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the blue and gray car closer to the camera than the other car?",
+      "modified": "Is the blue and gray car closer to the camera than the other car?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the blue and gray car appear to be racing beside another car?",
+      "modified": "Does the blue and gray car appear to be racing beside another car?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the blue and gray car in the lower part of the image?",
+      "modified": "Is the red and gray car in the lower part of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the blue and gray car have two different body colors?",
+      "modified": "Does the red and gray car have two different body colors?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the blue and gray car traveling from left to right in the scene?",
+      "modified": "Is the red and gray car traveling from left to right in the scene?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the blue and gray car on a paved racing lane?",
+      "modified": "Is the red and gray car on a paved racing lane?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the blue and gray car look like a classic muscle car?",
+      "modified": "Does the red and gray car look like a classic muscle car?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the blue and gray car positioned in front of the wall with advertisements?",
+      "modified": "Is the red and gray car positioned in front of the wall with advertisements?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Can you see the rear and side of the blue and gray car?",
+      "modified": "Can you see the rear and side of the red and gray car?",
+      "false_premise": true
+    }
+  ]
+}

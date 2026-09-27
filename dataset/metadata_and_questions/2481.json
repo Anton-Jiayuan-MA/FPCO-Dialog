@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2481",
+    "source": "Open Images",
+    "complexity": 2,
+    "category": 4,
+    "target": "beans"
+  },
+  "base": {
+    "target_description": "the baked beans on the plate",
+    "modified_target_description": "the baked beans on the left side of the plate",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Are the baked beans on the plate covered in a thick sauce?",
+      "modified": "Are the baked beans on the plate covered in a thick sauce?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Do the baked beans on the plate look like a side dish in this meal?",
+      "modified": "Do the baked beans on the plate look like a side dish in this meal?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Are the baked beans on the plate placed near the edge of the plate?",
+      "modified": "Are the baked beans on the plate placed near the edge of the plate?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Do the baked beans on the plate take up a large portion of the lower right side?",
+      "modified": "Do the baked beans on the left side of the plate take up a large portion of the lower right side?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Are the baked beans on the plate next to the potato salad?",
+      "modified": "Are the baked beans on the left side of the plate next to the potato salad?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Do the baked beans on the plate appear warm and freshly served?",
+      "modified": "Do the baked beans on the left side of the plate appear warm and freshly served?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Are the baked beans on the plate separate from the meat with sauce?",
+      "modified": "Are the baked beans on the left side of the plate separate from the meat with sauce?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Do the baked beans on the plate look glossy from the sauce?",
+      "modified": "Do the baked beans on the left side of the plate look glossy from the sauce?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Are the baked beans on the plate served on a white disposable plate?",
+      "modified": "Are the baked beans on the left side of the plate served on a white disposable plate?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Do the baked beans on the plate look like they are part of a barbecue meal?",
+      "modified": "Do the baked beans on the left side of the plate look like they are part of a barbecue meal?",
+      "false_premise": true
+    }
+  ]
+}

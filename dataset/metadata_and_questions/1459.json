@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1459",
+    "source": "COCO",
+    "complexity": 1,
+    "category": 4,
+    "target": "cake"
+  },
+  "base": {
+    "target_description": "the blue birthday cake",
+    "modified_target_description": "the red birthday cake",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is sitting on top of the blue birthday cake?",
+      "modified": "What is sitting on top of the blue birthday cake?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the blue birthday cake decorated with a beach scene?",
+      "modified": "Is the blue birthday cake decorated with a beach scene?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "What color frosting covers the blue birthday cake?",
+      "modified": "What color frosting covers the blue birthday cake?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the blue birthday cake have palm trees on it?",
+      "modified": "Does the red birthday cake have palm trees on it?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is there a birthday message displayed on the blue birthday cake?",
+      "modified": "Is there a birthday message displayed on the red birthday cake?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "What kind of occasion does the blue birthday cake seem to be for?",
+      "modified": "What kind of occasion does the red birthday cake seem to be for?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Are there surfboards placed on the blue birthday cake?",
+      "modified": "Are there surfboards placed on the red birthday cake?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the blue birthday cake look round in shape?",
+      "modified": "Does the red birthday cake look round in shape?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the blue birthday cake shown close up against a dark background?",
+      "modified": "Is the red birthday cake shown close up against a dark background?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Would you say the blue birthday cake is heavily decorated?",
+      "modified": "Would you say the red birthday cake is heavily decorated?",
+      "false_premise": true
+    }
+  ]
+}

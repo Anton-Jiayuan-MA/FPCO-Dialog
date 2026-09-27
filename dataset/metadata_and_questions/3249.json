@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3249",
+    "source": "Open Images",
+    "complexity": 3,
+    "category": 2,
+    "target": "bicycle"
+  },
+  "base": {
+    "target_description": "the black bicycle on the rack",
+    "modified_target_description": "the white bicycle on the rack",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the black bicycle on the rack parked rather than being ridden?",
+      "modified": "Is the black bicycle on the rack parked rather than being ridden?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the black bicycle on the rack appear to be on an upper level of the bike parking structure?",
+      "modified": "Does the black bicycle on the rack appear to be on an upper level of the bike parking structure?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Can you see both wheels of the black bicycle on the rack clearly?",
+      "modified": "Can you see both wheels of the black bicycle on the rack clearly?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the black bicycle on the rack have a basket attached near the front?",
+      "modified": "Does the white bicycle on the rack have a basket attached near the front?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the black bicycle on the rack facing toward the left side of the image?",
+      "modified": "Is the white bicycle on the rack facing toward the left side of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the black bicycle on the rack look larger in the frame than the other bicycles behind it?",
+      "modified": "Does the white bicycle on the rack look larger in the frame than the other bicycles behind it?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the black bicycle on the rack positioned among many other parked bicycles?",
+      "modified": "Is the white bicycle on the rack positioned among many other parked bicycles?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Can you see the frame of the black bicycle on the rack in the foreground?",
+      "modified": "Can you see the frame of the white bicycle on the rack in the foreground?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the black bicycle on the rack have thin tires visible in the image?",
+      "modified": "Does the white bicycle on the rack have thin tires visible in the image?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the black bicycle on the rack outdoors in a sunny area?",
+      "modified": "Is the white bicycle on the rack outdoors in a sunny area?",
+      "false_premise": true
+    }
+  ]
+}

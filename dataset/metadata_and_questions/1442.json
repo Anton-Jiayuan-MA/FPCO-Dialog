@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1442",
+    "source": "Open Images",
+    "complexity": 1,
+    "category": 4,
+    "target": "cookie"
+  },
+  "base": {
+    "target_description": "the brown cookie sandwich with white cream",
+    "modified_target_description": "the black cookie sandwich with white cream",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What kind of dessert is the brown cookie sandwich with white cream?",
+      "modified": "What kind of dessert is the brown cookie sandwich with white cream?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the brown cookie sandwich with white cream sitting on a plate?",
+      "modified": "Is the brown cookie sandwich with white cream sitting on a plate?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the brown cookie sandwich with white cream look soft or crunchy?",
+      "modified": "Does the brown cookie sandwich with white cream look soft or crunchy?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the brown cookie sandwich with white cream made with two cookies?",
+      "modified": "Is the black cookie sandwich with white cream made with two cookies?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Can you see the filling inside the brown cookie sandwich with white cream?",
+      "modified": "Can you see the filling inside the black cookie sandwich with white cream?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the brown cookie sandwich with white cream appear homemade?",
+      "modified": "Does the black cookie sandwich with white cream appear homemade?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the brown cookie sandwich with white cream the main focus of the image?",
+      "modified": "Is the black cookie sandwich with white cream the main focus of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the brown cookie sandwich with white cream have a thick layer of cream?",
+      "modified": "Does the black cookie sandwich with white cream have a thick layer of cream?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Are there visible dark bits in the brown cookie sandwich with white cream?",
+      "modified": "Are there visible dark bits in the black cookie sandwich with white cream?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the brown cookie sandwich with white cream shown close up?",
+      "modified": "Is the black cookie sandwich with white cream shown close up?",
+      "false_premise": true
+    }
+  ]
+}

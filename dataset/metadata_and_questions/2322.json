@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2322",
+    "source": "Open Images",
+    "complexity": 2,
+    "category": 3,
+    "target": "sheep"
+  },
+  "base": {
+    "target_description": "the white sheep with black spots",
+    "modified_target_description": "the white cow with black spots",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the white sheep with black spots lying down in the grass?",
+      "modified": "Is the white sheep with black spots lying down in the grass?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the white sheep with black spots appear to be resting?",
+      "modified": "Does the white sheep with black spots appear to be resting?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the white sheep with black spots next to another sheep?",
+      "modified": "Is the white sheep with black spots next to another sheep?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the white sheep with black spots have ear tags visible?",
+      "modified": "Does the white cow with black spots have ear tags visible?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the white sheep with black spots facing toward the camera?",
+      "modified": "Is the white cow with black spots facing toward the camera?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the white sheep with black spots look larger than the other sheep beside it?",
+      "modified": "Does the white cow with black spots look larger than the other sheep beside it?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the white sheep with black spots touching the smaller sheep with its head?",
+      "modified": "Is the white cow with black spots touching the smaller sheep with its head?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the white sheep with black spots have short wool?",
+      "modified": "Does the white cow with black spots have short wool?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the white sheep with black spots outdoors in a grassy area?",
+      "modified": "Is the white cow with black spots outdoors in a grassy area?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the white sheep with black spots seem calm in the scene?",
+      "modified": "Does the white cow with black spots seem calm in the scene?",
+      "false_premise": true
+    }
+  ]
+}

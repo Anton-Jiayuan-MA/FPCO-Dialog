@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3425",
+    "source": "Open Images",
+    "complexity": 3,
+    "category": 4,
+    "target": "apple"
+  },
+  "base": {
+    "target_description": "the green apple in the wooden crate",
+    "modified_target_description": "the green pear in the wooden crate",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the green apple in the wooden crate near some oranges?",
+      "modified": "Is the green apple in the wooden crate near some oranges?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the green apple in the wooden crate look fresh and uncut?",
+      "modified": "Does the green apple in the wooden crate look fresh and uncut?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the green apple in the wooden crate placed among other fruit?",
+      "modified": "Is the green apple in the wooden crate placed among other fruit?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Can you see the green apple in the wooden crate on the left side of the display?",
+      "modified": "Can you see the green pear in the wooden crate on the left side of the display?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the green apple in the wooden crate sitting below the black price sign?",
+      "modified": "Is the green pear in the wooden crate sitting below the black price sign?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the green apple in the wooden crate appear larger than some of the nearby fruit?",
+      "modified": "Does the green pear in the wooden crate appear larger than some of the nearby fruit?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the green apple in the wooden crate touching another green apple?",
+      "modified": "Is the green pear in the wooden crate touching another green apple?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the green apple in the wooden crate have a smooth skin?",
+      "modified": "Does the green pear in the wooden crate have a smooth skin?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the green apple in the wooden crate part of a market fruit display?",
+      "modified": "Is the green pear in the wooden crate part of a market fruit display?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Can the green apple in the wooden crate be seen next to citrus fruit?",
+      "modified": "Can the green pear in the wooden crate be seen next to citrus fruit?",
+      "false_premise": true
+    }
+  ]
+}

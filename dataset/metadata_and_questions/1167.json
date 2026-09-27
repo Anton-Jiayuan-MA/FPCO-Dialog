@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1167",
+    "source": "Open Images",
+    "complexity": 1,
+    "category": 1,
+    "target": "child"
+  },
+  "base": {
+    "target_description": "the child in an orange shirt holding sandals",
+    "modified_target_description": "the child in an orange shirt holding sandals on the right",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the child in an orange shirt holding sandals doing on the beach?",
+      "modified": "What is the child in an orange shirt holding sandals doing on the beach?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the child in an orange shirt holding sandals standing on wet sand?",
+      "modified": "Is the child in an orange shirt holding sandals standing on wet sand?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "What kind of expression does the child in an orange shirt holding sandals have?",
+      "modified": "What kind of expression does the child in an orange shirt holding sandals have?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the child in an orange shirt holding sandals barefoot?",
+      "modified": "Is the child in an orange shirt holding sandals on the right barefoot?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "What is the child in an orange shirt holding sandals wearing besides the shirt?",
+      "modified": "What is the child in an orange shirt holding sandals on the right wearing besides the shirt?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the child in an orange shirt holding sandals close to the camera?",
+      "modified": "Is the child in an orange shirt holding sandals on the right close to the camera?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the child in an orange shirt holding sandals appear to be holding one sandal in each hand?",
+      "modified": "Does the child in an orange shirt holding sandals on the right appear to be holding one sandal in each hand?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the child in an orange shirt holding sandals facing the camera?",
+      "modified": "Is the child in an orange shirt holding sandals on the right facing the camera?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Where is the child in an orange shirt holding sandals standing?",
+      "modified": "Where is the child in an orange shirt holding sandals on the right standing?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the child in an orange shirt holding sandals look like the main subject of the image?",
+      "modified": "Does the child in an orange shirt holding sandals on the right look like the main subject of the image?",
+      "false_premise": true
+    }
+  ]
+}

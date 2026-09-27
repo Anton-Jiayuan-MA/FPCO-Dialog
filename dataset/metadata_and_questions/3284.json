@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3284",
+    "source": "Open Images",
+    "complexity": 3,
+    "category": 2,
+    "target": "car"
+  },
+  "base": {
+    "target_description": "the black car in the foreground",
+    "modified_target_description": "the black car in the background",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the black car in the foreground parked or moving?",
+      "modified": "Is the black car in the foreground parked or moving?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Which direction is the black car in the foreground facing?",
+      "modified": "Which direction is the black car in the foreground facing?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the black car in the foreground closer to the right side or the left side of the image?",
+      "modified": "Is the black car in the foreground closer to the right side or the left side of the image?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the black car in the foreground appear to be on a street or in a parking area?",
+      "modified": "Does the black car in the background appear to be on a street or in a parking area?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the black car in the foreground near any bicycles?",
+      "modified": "Is the black car in the background near any bicycles?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Can you see the full body of the black car in the foreground?",
+      "modified": "Can you see the full body of the black car in the background?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the black car in the foreground angled toward the viewer or away from the viewer?",
+      "modified": "Is the black car in the background angled toward the viewer or away from the viewer?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the black car in the foreground look larger than the cars behind it?",
+      "modified": "Does the black car in the background look larger than the cars behind it?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the black car in the foreground separated from the nearest parked cars?",
+      "modified": "Is the black car in the background separated from the nearest parked cars?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the black car in the foreground stand out clearly against the pavement?",
+      "modified": "Does the black car in the background stand out clearly against the pavement?",
+      "false_premise": true
+    }
+  ]
+}

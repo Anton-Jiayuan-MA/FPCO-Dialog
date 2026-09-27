@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3168",
+    "source": "Open Images",
+    "complexity": 3,
+    "category": 1,
+    "target": "person"
+  },
+  "base": {
+    "target_description": "the woman in a green hat and green shirt",
+    "modified_target_description": "the woman on the right in a green hat and green shirt",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the woman in a green hat and green shirt doing at the table?",
+      "modified": "What is the woman in a green hat and green shirt doing at the table?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the woman in a green hat and green shirt standing behind a display of items?",
+      "modified": "Is the woman in a green hat and green shirt standing behind a display of items?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the woman in a green hat and green shirt appear to be helping a customer?",
+      "modified": "Does the woman in a green hat and green shirt appear to be helping a customer?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "What is the woman in a green hat and green shirt holding in her hands?",
+      "modified": "What is the woman on the right in a green hat and green shirt holding in her hands?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the woman in a green hat and green shirt facing toward the people on the left side of the image?",
+      "modified": "Is the woman on the right in a green hat and green shirt facing toward the people on the left side of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the woman in a green hat and green shirt indoors?",
+      "modified": "Is the woman on the right in a green hat and green shirt indoors?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the woman in a green hat and green shirt have her hair tied up?",
+      "modified": "Does the woman on the right in a green hat and green shirt have her hair tied up?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the woman in a green hat and green shirt leaning slightly over the table?",
+      "modified": "Is the woman on the right in a green hat and green shirt leaning slightly over the table?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "What is in front of the woman in a green hat and green shirt on the table?",
+      "modified": "What is in front of the woman on the right in a green hat and green shirt on the table?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the woman in a green hat and green shirt look busy with the display?",
+      "modified": "Does the woman on the right in a green hat and green shirt look busy with the display?",
+      "false_premise": true
+    }
+  ]
+}

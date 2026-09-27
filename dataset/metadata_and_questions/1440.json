@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1440",
+    "source": "Open Images",
+    "complexity": 1,
+    "category": 4,
+    "target": "cake"
+  },
+  "base": {
+    "target_description": "the chocolate cake on a white plate",
+    "modified_target_description": "the vanilla cake on a white plate",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the chocolate cake on a white plate mostly whole or partly eaten?",
+      "modified": "Is the chocolate cake on a white plate mostly whole or partly eaten?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the chocolate cake on a white plate have a slice missing?",
+      "modified": "Does the chocolate cake on a white plate have a slice missing?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the chocolate cake on a white plate topped with a smooth dark layer?",
+      "modified": "Is the chocolate cake on a white plate topped with a smooth dark layer?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Are there crumbs scattered around the chocolate cake on a white plate?",
+      "modified": "Are there crumbs scattered around the vanilla cake on a white plate?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the chocolate cake on a white plate sitting on a countertop?",
+      "modified": "Is the vanilla cake on a white plate sitting on a countertop?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the chocolate cake on a white plate have a utensil resting on it?",
+      "modified": "Does the vanilla cake on a white plate have a utensil resting on it?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the chocolate cake on a white plate look round in shape?",
+      "modified": "Does the vanilla cake on a white plate look round in shape?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the chocolate cake on a white plate served as a dessert?",
+      "modified": "Is the vanilla cake on a white plate served as a dessert?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the chocolate cake on a white plate appear homemade?",
+      "modified": "Does the vanilla cake on a white plate appear homemade?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the chocolate cake on a white plate shown from above?",
+      "modified": "Is the vanilla cake on a white plate shown from above?",
+      "false_premise": true
+    }
+  ]
+}

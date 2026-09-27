@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2133",
+    "source": "Open Images",
+    "complexity": 2,
+    "category": 1,
+    "target": "man"
+  },
+  "base": {
+    "target_description": "the man in white facing left",
+    "modified_target_description": "the man in black facing left",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the man in white facing left holding in his hands?",
+      "modified": "What is the man in white facing left holding in his hands?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the man in white facing left standing near the woman by the microphones?",
+      "modified": "Is the man in white facing left standing near the woman by the microphones?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the man in white facing left appear to be talking to someone?",
+      "modified": "Does the man in white facing left appear to be talking to someone?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the man in white facing left wearing glasses?",
+      "modified": "Is the man in black facing left wearing glasses?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "What direction is the man in white facing left looking?",
+      "modified": "What direction is the man in black facing left looking?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the man in white facing left seem to be part of a formal event?",
+      "modified": "Does the man in black facing left seem to be part of a formal event?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the man in white facing left smiling in the scene?",
+      "modified": "Is the man in black facing left smiling in the scene?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "What is the man in white facing left wearing on his wrist?",
+      "modified": "What is the man in black facing left wearing on his wrist?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the man in white facing left standing indoors?",
+      "modified": "Is the man in black facing left standing indoors?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the man in white facing left positioned on the right side of the image?",
+      "modified": "Is the man in black facing left positioned on the right side of the image?",
+      "false_premise": true
+    }
+  ]
+}

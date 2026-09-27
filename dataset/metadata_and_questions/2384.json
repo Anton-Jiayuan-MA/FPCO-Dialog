@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2384",
+    "source": "COCO",
+    "complexity": 2,
+    "category": 3,
+    "target": "dog"
+  },
+  "base": {
+    "target_description": "the black dog on the couch",
+    "modified_target_description": "the black dog by the couch",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the black dog on the couch doing with the slipper?",
+      "modified": "What is the black dog on the couch doing with the slipper?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the black dog on the couch facing toward the camera or away from it?",
+      "modified": "Is the black dog on the couch facing toward the camera or away from it?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the black dog on the couch have its head down?",
+      "modified": "Does the black dog on the couch have its head down?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the black dog on the couch standing or lying down?",
+      "modified": "Is the black dog by the couch standing or lying down?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "What is right in front of the black dog on the couch?",
+      "modified": "What is right in front of the black dog by the couch?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the black dog on the couch appear to be chewing on something?",
+      "modified": "Does the black dog by the couch appear to be chewing on something?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the black dog on the couch next to another dog?",
+      "modified": "Is the black dog by the couch next to another dog?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "What color is the black dog on the couch?",
+      "modified": "What color is the black dog by the couch?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the black dog on the couch on a patterned piece of furniture?",
+      "modified": "Is the black dog by the couch on a patterned piece of furniture?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the black dog on the couch look busy with the slipper?",
+      "modified": "Does the black dog by the couch look busy with the slipper?",
+      "false_premise": true
+    }
+  ]
+}

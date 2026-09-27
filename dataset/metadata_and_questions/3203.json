@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3203",
+    "source": "COCO",
+    "complexity": 3,
+    "category": 2,
+    "target": "boat"
+  },
+  "base": {
+    "target_description": "the colorful wooden boat by the dock",
+    "modified_target_description": "the colorful wooden truck by the dock",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the colorful wooden boat by the dock floating on calm water?",
+      "modified": "Is the colorful wooden boat by the dock floating on calm water?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the colorful wooden boat by the dock appear to be tied up beside the pier?",
+      "modified": "Does the colorful wooden boat by the dock appear to be tied up beside the pier?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the colorful wooden boat by the dock painted in bright stripes?",
+      "modified": "Is the colorful wooden boat by the dock painted in bright stripes?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Can you see the colorful wooden boat by the dock in the foreground of the image?",
+      "modified": "Can you see the colorful wooden truck by the dock in the foreground of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the colorful wooden boat by the dock have tall poles rising from it?",
+      "modified": "Does the colorful wooden truck by the dock have tall poles rising from it?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the colorful wooden boat by the dock sitting close to other boats?",
+      "modified": "Is the colorful wooden truck by the dock sitting close to other boats?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the colorful wooden boat by the dock look empty of passengers?",
+      "modified": "Does the colorful wooden truck by the dock look empty of passengers?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the colorful wooden boat by the dock positioned near the right side pier?",
+      "modified": "Is the colorful wooden truck by the dock positioned near the right side pier?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Can you tell whether the colorful wooden boat by the dock is moored rather than moving?",
+      "modified": "Can you tell whether the colorful wooden truck by the dock is moored rather than moving?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the colorful wooden boat by the dock the most prominent boat in the scene?",
+      "modified": "Is the colorful wooden truck by the dock the most prominent boat in the scene?",
+      "false_premise": true
+    }
+  ]
+}

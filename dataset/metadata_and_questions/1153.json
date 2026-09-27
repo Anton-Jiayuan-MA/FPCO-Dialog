@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1153",
+    "source": "Open Images",
+    "complexity": 1,
+    "category": 1,
+    "target": "woman"
+  },
+  "base": {
+    "target_description": "the woman with dark messy hair and a black shirt",
+    "modified_target_description": "the woman with blonde messy hair and a black shirt",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the woman with dark messy hair and a black shirt standing outdoors?",
+      "modified": "Is the woman with dark messy hair and a black shirt standing outdoors?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the woman with dark messy hair and a black shirt looking toward the camera?",
+      "modified": "Is the woman with dark messy hair and a black shirt looking toward the camera?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the woman with dark messy hair and a black shirt have a slight smile?",
+      "modified": "Does the woman with dark messy hair and a black shirt have a slight smile?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the woman with dark messy hair and a black shirt shown close up in the image?",
+      "modified": "Is the woman with blonde messy hair and a black shirt shown close up in the image?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the woman with dark messy hair and a black shirt appear to be in sunlight?",
+      "modified": "Does the woman with blonde messy hair and a black shirt appear to be in sunlight?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the woman with dark messy hair and a black shirt wearing any visible accessories?",
+      "modified": "Is the woman with blonde messy hair and a black shirt wearing any visible accessories?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the woman with dark messy hair and a black shirt have her hair blown upward?",
+      "modified": "Does the woman with blonde messy hair and a black shirt have her hair blown upward?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the woman with dark messy hair and a black shirt positioned near the center of the image?",
+      "modified": "Is the woman with blonde messy hair and a black shirt positioned near the center of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the woman with dark messy hair and a black shirt appear to be standing on a sidewalk?",
+      "modified": "Does the woman with blonde messy hair and a black shirt appear to be standing on a sidewalk?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the woman with dark messy hair and a black shirt facing forward?",
+      "modified": "Is the woman with blonde messy hair and a black shirt facing forward?",
+      "false_premise": true
+    }
+  ]
+}

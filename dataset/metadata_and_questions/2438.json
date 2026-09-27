@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2438",
+    "source": "Open Images",
+    "complexity": 2,
+    "category": 4,
+    "target": "apple"
+  },
+  "base": {
+    "target_description": "the red apple with a smooth skin",
+    "modified_target_description": "the green apple with a smooth skin",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the red apple with a smooth skin shown close up in the image?",
+      "modified": "Is the red apple with a smooth skin shown close up in the image?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the red apple with a smooth skin look fresh?",
+      "modified": "Does the red apple with a smooth skin look fresh?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the red apple with a smooth skin resting among other apples?",
+      "modified": "Is the red apple with a smooth skin resting among other apples?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Can you see any stem on the red apple with a smooth skin?",
+      "modified": "Can you see any stem on the green apple with a smooth skin?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the red apple with a smooth skin have any visible blemishes?",
+      "modified": "Does the green apple with a smooth skin have any visible blemishes?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the red apple with a smooth skin filling a large part of the frame?",
+      "modified": "Is the green apple with a smooth skin filling a large part of the frame?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the red apple with a smooth skin appear shiny under the light?",
+      "modified": "Does the green apple with a smooth skin appear shiny under the light?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the red apple with a smooth skin packed tightly with the other apples?",
+      "modified": "Is the green apple with a smooth skin packed tightly with the other apples?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the red apple with a smooth skin look round and full?",
+      "modified": "Does the green apple with a smooth skin look round and full?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the red apple with a smooth skin photographed from above?",
+      "modified": "Is the green apple with a smooth skin photographed from above?",
+      "false_premise": true
+    }
+  ]
+}

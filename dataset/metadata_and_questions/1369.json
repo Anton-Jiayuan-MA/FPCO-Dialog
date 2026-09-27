@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1369",
+    "source": "Open Images",
+    "complexity": 1,
+    "category": 3,
+    "target": "insect"
+  },
+  "base": {
+    "target_description": "the blue dragonfly on the branch",
+    "modified_target_description": "the blue dragonfly by the water",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the blue dragonfly on the branch resting on?",
+      "modified": "What is the blue dragonfly on the branch resting on?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Are the wings of the blue dragonfly on the branch spread out?",
+      "modified": "Are the wings of the blue dragonfly on the branch spread out?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the blue dragonfly on the branch facing to the left or to the right?",
+      "modified": "Is the blue dragonfly on the branch facing to the left or to the right?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the blue dragonfly on the branch appear to be perched or flying?",
+      "modified": "Does the blue dragonfly by the water appear to be perched or flying?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Can you clearly see the eyes of the blue dragonfly on the branch?",
+      "modified": "Can you clearly see the eyes of the blue dragonfly by the water?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the blue dragonfly on the branch surrounded by green plants?",
+      "modified": "Is the blue dragonfly by the water surrounded by green plants?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the blue dragonfly on the branch have transparent wings?",
+      "modified": "Does the blue dragonfly by the water have transparent wings?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the body of the blue dragonfly on the branch slender and long?",
+      "modified": "Is the body of the blue dragonfly by the water slender and long?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the blue dragonfly on the branch look like it is near water plants?",
+      "modified": "Does the blue dragonfly by the water look like it is near water plants?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the blue dragonfly on the branch shown in close-up?",
+      "modified": "Is the blue dragonfly by the water shown in close-up?",
+      "false_premise": true
+    }
+  ]
+}

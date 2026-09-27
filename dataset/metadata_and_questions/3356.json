@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3356",
+    "source": "COCO",
+    "complexity": 3,
+    "category": 3,
+    "target": "cow"
+  },
+  "base": {
+    "target_description": "the black and white cow standing in the dirt",
+    "modified_target_description": "the brown and white cow standing in the dirt",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What direction is the black and white cow standing in the dirt facing?",
+      "modified": "What direction is the black and white cow standing in the dirt facing?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the black and white cow standing in the dirt standing still or moving?",
+      "modified": "Is the black and white cow standing in the dirt standing still or moving?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the black and white cow standing in the dirt appear to be alone or beside other cows?",
+      "modified": "Does the black and white cow standing in the dirt appear to be alone or beside other cows?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "What kind of pattern is visible on the black and white cow standing in the dirt?",
+      "modified": "What kind of pattern is visible on the brown and white cow standing in the dirt?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the black and white cow standing in the dirt closer to the left or right side of the image?",
+      "modified": "Is the brown and white cow standing in the dirt closer to the left or right side of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the black and white cow standing in the dirt look like it is in a field or inside a barn?",
+      "modified": "Does the brown and white cow standing in the dirt look like it is in a field or inside a barn?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Can you see the full body of the black and white cow standing in the dirt?",
+      "modified": "Can you see the full body of the brown and white cow standing in the dirt?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the black and white cow standing in the dirt in front of or behind the other cows?",
+      "modified": "Is the brown and white cow standing in the dirt in front of or behind the other cows?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the black and white cow standing in the dirt have its head lowered or held up?",
+      "modified": "Does the brown and white cow standing in the dirt have its head lowered or held up?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "What is directly under the black and white cow standing in the dirt?",
+      "modified": "What is directly under the brown and white cow standing in the dirt?",
+      "false_premise": true
+    }
+  ]
+}

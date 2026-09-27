@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1190",
+    "source": "COCO",
+    "complexity": 1,
+    "category": 1,
+    "target": "woman"
+  },
+  "base": {
+    "target_description": "the smiling woman in a knit hat",
+    "modified_target_description": "the smiling woman in a knit hat on the left",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the smiling woman in a knit hat holding in front of her?",
+      "modified": "What is the smiling woman in a knit hat holding in front of her?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the smiling woman in a knit hat wearing gloves?",
+      "modified": "Is the smiling woman in a knit hat wearing gloves?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "What kind of sporting gear is the smiling woman in a knit hat standing with?",
+      "modified": "What kind of sporting gear is the smiling woman in a knit hat standing with?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the smiling woman in a knit hat dressed for cold weather?",
+      "modified": "Is the smiling woman in a knit hat on the left dressed for cold weather?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the smiling woman in a knit hat appear to be outdoors?",
+      "modified": "Does the smiling woman in a knit hat on the left appear to be outdoors?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the smiling woman in a knit hat standing in front of a sign?",
+      "modified": "Is the smiling woman in a knit hat on the left standing in front of a sign?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "What expression does the smiling woman in a knit hat have on her face?",
+      "modified": "What expression does the smiling woman in a knit hat on the left have on her face?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the smiling woman in a knit hat wearing a race bib?",
+      "modified": "Is the smiling woman in a knit hat on the left wearing a race bib?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Are skis visible next to the smiling woman in a knit hat?",
+      "modified": "Are skis visible next to the smiling woman in a knit hat on the left?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the smiling woman in a knit hat look like she is participating in a ski event?",
+      "modified": "Does the smiling woman in a knit hat on the left look like she is participating in a ski event?",
+      "false_premise": true
+    }
+  ]
+}

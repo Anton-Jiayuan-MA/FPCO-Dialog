@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3419",
+    "source": "COCO",
+    "complexity": 3,
+    "category": 4,
+    "target": "orange"
+  },
+  "base": {
+    "target_description": "the large orange on the right",
+    "modified_target_description": "the large apple on the right",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the large orange on the right stacked with other oranges?",
+      "modified": "Is the large orange on the right stacked with other oranges?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the large orange on the right have a sticker on it?",
+      "modified": "Does the large orange on the right have a sticker on it?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the large orange on the right closer to the camera than most of the others?",
+      "modified": "Is the large orange on the right closer to the camera than most of the others?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the large orange on the right appear fresh and whole?",
+      "modified": "Does the large apple on the right appear fresh and whole?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the large orange on the right part of a display of fruit?",
+      "modified": "Is the large apple on the right part of a display of fruit?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the large orange on the right look round in shape?",
+      "modified": "Does the large apple on the right look round in shape?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the large orange on the right touching other oranges around it?",
+      "modified": "Is the large apple on the right touching other oranges around it?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the large orange on the right fill a big part of the foreground?",
+      "modified": "Does the large apple on the right fill a big part of the foreground?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the large orange on the right shown indoors at a market or store?",
+      "modified": "Is the large apple on the right shown indoors at a market or store?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the large orange on the right have a textured peel?",
+      "modified": "Does the large apple on the right have a textured peel?",
+      "false_premise": true
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2107",
+    "source": "Open Images",
+    "complexity": 2,
+    "category": 1,
+    "target": "man"
+  },
+  "base": {
+    "target_description": "the man in the black cap holding a microphone",
+    "modified_target_description": "the woman in the black cap holding a microphone",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the man in the black cap holding a microphone doing in this scene?",
+      "modified": "What is the man in the black cap holding a microphone doing in this scene?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the man in the black cap holding a microphone standing close to another performer?",
+      "modified": "Is the man in the black cap holding a microphone standing close to another performer?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the man in the black cap holding a microphone appear to be speaking or singing?",
+      "modified": "Does the man in the black cap holding a microphone appear to be speaking or singing?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "What is the expression on the face of the man in the black cap holding a microphone?",
+      "modified": "What is the expression on the face of the woman in the black cap holding a microphone?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the man in the black cap holding a microphone indoors under stage lighting?",
+      "modified": "Is the woman in the black cap holding a microphone indoors under stage lighting?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "What color shirt is the man in the black cap holding a microphone wearing?",
+      "modified": "What color shirt is the woman in the black cap holding a microphone wearing?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the man in the black cap holding a microphone facing toward the camera?",
+      "modified": "Is the woman in the black cap holding a microphone facing toward the camera?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the man in the black cap holding a microphone look engaged with the audience?",
+      "modified": "Does the woman in the black cap holding a microphone look engaged with the audience?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the man in the black cap holding a microphone in the foreground of the image?",
+      "modified": "Is the woman in the black cap holding a microphone in the foreground of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "How is the man in the black cap holding a microphone positioned relative to the other man behind him?",
+      "modified": "How is the woman in the black cap holding a microphone positioned relative to the other man behind her?",
+      "false_premise": true
+    }
+  ]
+}

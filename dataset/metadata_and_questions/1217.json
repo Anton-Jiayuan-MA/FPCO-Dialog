@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1217",
+    "source": "COCO",
+    "complexity": 1,
+    "category": 2,
+    "target": "bus"
+  },
+  "base": {
+    "target_description": "the silver double-decker bus",
+    "modified_target_description": "the silver double-decker train",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the silver double-decker bus parked along the street?",
+      "modified": "Is the silver double-decker bus parked along the street?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the silver double-decker bus have tinted windows?",
+      "modified": "Does the silver double-decker bus have tinted windows?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the silver double-decker bus facing toward the right side of the image?",
+      "modified": "Is the silver double-decker bus facing toward the right side of the image?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the silver double-decker bus appear to be a charter coach?",
+      "modified": "Does the silver double-decker train appear to be a charter coach?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the silver double-decker bus stopped in front of a building?",
+      "modified": "Is the silver double-decker train stopped in front of a building?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Can you see the front door open on the silver double-decker bus?",
+      "modified": "Can you see the front door open on the silver double-decker train?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the silver double-decker bus have writing on its side?",
+      "modified": "Does the silver double-decker train have writing on its side?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the silver double-decker bus occupying most of the image?",
+      "modified": "Is the silver double-decker train occupying most of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the silver double-decker bus look like it is carrying passengers right now?",
+      "modified": "Does the silver double-decker train look like it is carrying passengers right now?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Are multiple wheels visible on the silver double-decker bus?",
+      "modified": "Are multiple wheels visible on the silver double-decker train?",
+      "false_premise": true
+    }
+  ]
+}

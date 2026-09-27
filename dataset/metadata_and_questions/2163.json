@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2163",
+    "source": "COCO",
+    "complexity": 2,
+    "category": 1,
+    "target": "man"
+  },
+  "base": {
+    "target_description": "the man in the blue shirt and red cap",
+    "modified_target_description": "the man in the blue shirt and red cap on the right",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the man in the blue shirt and red cap holding in his hands?",
+      "modified": "What is the man in the blue shirt and red cap holding in his hands?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the man in the blue shirt and red cap standing on the grass?",
+      "modified": "Is the man in the blue shirt and red cap standing on the grass?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the man in the blue shirt and red cap look like he is playing a sport?",
+      "modified": "Does the man in the blue shirt and red cap look like he is playing a sport?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the man in the blue shirt and red cap facing another player?",
+      "modified": "Is the man in the blue shirt and red cap on the right facing another player?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "What direction is the man in the blue shirt and red cap looking?",
+      "modified": "What direction is the man in the blue shirt and red cap on the right looking?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the man in the blue shirt and red cap wearing dark shorts?",
+      "modified": "Is the man in the blue shirt and red cap on the right wearing dark shorts?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the man in the blue shirt and red cap appear ready to catch or throw the disc?",
+      "modified": "Does the man in the blue shirt and red cap on the right appear ready to catch or throw the disc?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the man in the blue shirt and red cap bent slightly at the knees?",
+      "modified": "Is the man in the blue shirt and red cap on the right bent slightly at the knees?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the man in the blue shirt and red cap outdoors in a field?",
+      "modified": "Is the man in the blue shirt and red cap on the right outdoors in a field?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "How close is the man in the blue shirt and red cap to the other player?",
+      "modified": "How close is the man in the blue shirt and red cap on the right to the other player?",
+      "false_premise": true
+    }
+  ]
+}

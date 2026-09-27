@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3257",
+    "source": "COCO",
+    "complexity": 3,
+    "category": 2,
+    "target": "bus"
+  },
+  "base": {
+    "target_description": "the city bus with route 510",
+    "modified_target_description": "the red city bus with route 510",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What direction is the city bus with route 510 facing in the image?",
+      "modified": "What direction is the city bus with route 510 facing in the image?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the city bus with route 510 stopped at the curb?",
+      "modified": "Is the city bus with route 510 stopped at the curb?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the city bus with route 510 have its lights turned on?",
+      "modified": "Does the city bus with route 510 have its lights turned on?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Can you see the front number displayed on the city bus with route 510?",
+      "modified": "Can you see the front number displayed on the red city bus with route 510?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the city bus with route 510 next to a bus stop sign?",
+      "modified": "Is the red city bus with route 510 next to a bus stop sign?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the city bus with route 510 appear to be picking up passengers?",
+      "modified": "Does the red city bus with route 510 appear to be picking up passengers?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the city bus with route 510 on a city street lined with buildings?",
+      "modified": "Is the red city bus with route 510 on a city street lined with buildings?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Can you tell whether the city bus with route 510 has a bike rack mounted on the front?",
+      "modified": "Can you tell whether the red city bus with route 510 has a bike rack mounted on the front?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the city bus with route 510 occupying the lane closest to the sidewalk?",
+      "modified": "Is the red city bus with route 510 occupying the lane closest to the sidewalk?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the city bus with route 510 look larger than the nearby car?",
+      "modified": "Does the red city bus with route 510 look larger than the nearby car?",
+      "false_premise": true
+    }
+  ]
+}

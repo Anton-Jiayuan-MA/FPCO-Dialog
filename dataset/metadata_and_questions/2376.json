@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2376",
+    "source": "Open Images",
+    "complexity": 2,
+    "category": 3,
+    "target": "bird"
+  },
+  "base": {
+    "target_description": "the green bird on the wooden rail",
+    "modified_target_description": "the green bird beside the wooden rail",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What direction is the green bird on the wooden rail facing?",
+      "modified": "What direction is the green bird on the wooden rail facing?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the green bird on the wooden rail perched or flying?",
+      "modified": "Is the green bird on the wooden rail perched or flying?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the green bird on the wooden rail appear closer to the camera than the other bird?",
+      "modified": "Does the green bird on the wooden rail appear closer to the camera than the other bird?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "What is the green bird on the wooden rail standing on?",
+      "modified": "What is the green bird beside the wooden rail standing on?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the green bird on the wooden rail looking toward the camera?",
+      "modified": "Is the green bird beside the wooden rail looking toward the camera?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the green bird on the wooden rail have a long tail?",
+      "modified": "Does the green bird beside the wooden rail have a long tail?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the green bird on the wooden rail near a shallow round dish?",
+      "modified": "Is the green bird beside the wooden rail near a shallow round dish?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "What color is the beak of the green bird on the wooden rail?",
+      "modified": "What color is the beak of the green bird beside the wooden rail?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the green bird on the wooden rail in front of or behind the red bird?",
+      "modified": "Is the green bird beside the wooden rail in front of or behind the red bird?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the green bird on the wooden rail appear to be outdoors?",
+      "modified": "Does the green bird beside the wooden rail appear to be outdoors?",
+      "false_premise": true
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1350",
+    "source": "Open Images",
+    "complexity": 1,
+    "category": 3,
+    "target": "dog"
+  },
+  "base": {
+    "target_description": "the black and white puppy with blue eyes",
+    "modified_target_description": "the black and white puppy with brown eyes",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the black and white puppy with blue eyes looking toward the camera?",
+      "modified": "Is the black and white puppy with blue eyes looking toward the camera?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the black and white puppy with blue eyes appear to be very young?",
+      "modified": "Does the black and white puppy with blue eyes appear to be very young?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the black and white puppy with blue eyes shown in a close-up view?",
+      "modified": "Is the black and white puppy with blue eyes shown in a close-up view?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Are both eyes of the black and white puppy with blue eyes clearly visible?",
+      "modified": "Are both eyes of the black and white puppy with brown eyes clearly visible?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the black and white puppy with blue eyes have a small black nose?",
+      "modified": "Does the black and white puppy with brown eyes have a small black nose?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the black and white puppy with blue eyes indoors?",
+      "modified": "Is the black and white puppy with brown eyes indoors?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the black and white puppy with blue eyes have one ear partly visible on each side?",
+      "modified": "Does the black and white puppy with brown eyes have one ear partly visible on each side?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the face of the black and white puppy with blue eyes centered in the image?",
+      "modified": "Is the face of the black and white puppy with brown eyes centered in the image?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the black and white puppy with blue eyes have mostly white fur on its face?",
+      "modified": "Does the black and white puppy with brown eyes have mostly white fur on its face?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the black and white puppy with blue eyes fill most of the frame?",
+      "modified": "Does the black and white puppy with brown eyes fill most of the frame?",
+      "false_premise": true
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2465",
+    "source": "Open Images",
+    "complexity": 2,
+    "category": 4,
+    "target": "sushi"
+  },
+  "base": {
+    "target_description": "the assorted sushi rolls on a white plate",
+    "modified_target_description": "the assorted sushi rolls on the left",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "How many pieces are visible in the assorted sushi rolls on a white plate?",
+      "modified": "How many pieces are visible in the assorted sushi rolls on a white plate?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Are the assorted sushi rolls on a white plate arranged neatly or piled together?",
+      "modified": "Are the assorted sushi rolls on a white plate arranged neatly or piled together?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Do the assorted sushi rolls on a white plate include different fillings?",
+      "modified": "Do the assorted sushi rolls on a white plate include different fillings?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Are the assorted sushi rolls on a white plate topped with any orange fish roe?",
+      "modified": "Are the assorted sushi rolls on the left topped with any orange fish roe?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Do the assorted sushi rolls on a white plate have seaweed wrapped around some pieces?",
+      "modified": "Do the assorted sushi rolls on the left have seaweed wrapped around some pieces?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Are the assorted sushi rolls on a white plate served as a mixed variety?",
+      "modified": "Are the assorted sushi rolls on the left served as a mixed variety?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Do the assorted sushi rolls on a white plate look freshly prepared?",
+      "modified": "Do the assorted sushi rolls on the left look freshly prepared?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Are the assorted sushi rolls on a white plate taking up most of the plate?",
+      "modified": "Are the assorted sushi rolls on the left taking up most of the plate?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Can you see cucumber in the assorted sushi rolls on a white plate?",
+      "modified": "Can you see cucumber in the assorted sushi rolls on the left?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Are the assorted sushi rolls on a white plate shown close up in the image?",
+      "modified": "Are the assorted sushi rolls on the left shown close up in the image?",
+      "false_premise": true
+    }
+  ]
+}

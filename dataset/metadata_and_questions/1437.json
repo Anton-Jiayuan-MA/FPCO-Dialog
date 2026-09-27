@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1437",
+    "source": "COCO",
+    "complexity": 1,
+    "category": 4,
+    "target": "hot dog"
+  },
+  "base": {
+    "target_description": "the hot dog in a foam container",
+    "modified_target_description": "the cold hot dog in a foam container",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the hot dog in a foam container topped with pickles?",
+      "modified": "Is the hot dog in a foam container topped with pickles?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the hot dog in a foam container look ready to eat?",
+      "modified": "Does the hot dog in a foam container look ready to eat?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the hot dog in a foam container sitting in an open takeout box?",
+      "modified": "Is the hot dog in a foam container sitting in an open takeout box?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the hot dog in a foam container have a bun around it?",
+      "modified": "Does the cold hot dog in a foam container have a bun around it?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the hot dog in a foam container covered with several toppings?",
+      "modified": "Is the cold hot dog in a foam container covered with several toppings?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the hot dog in a foam container appear to be served indoors?",
+      "modified": "Does the cold hot dog in a foam container appear to be served indoors?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the hot dog in a foam container placed on a table?",
+      "modified": "Is the cold hot dog in a foam container placed on a table?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the hot dog in a foam container include a long pickle spear on top?",
+      "modified": "Does the cold hot dog in a foam container include a long pickle spear on top?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the hot dog in a foam container shown from above at a slight angle?",
+      "modified": "Is the cold hot dog in a foam container shown from above at a slight angle?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the hot dog in a foam container take up most of the takeout container?",
+      "modified": "Does the cold hot dog in a foam container take up most of the takeout container?",
+      "false_premise": true
+    }
+  ]
+}

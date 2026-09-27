@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3414",
+    "source": "COCO",
+    "complexity": 3,
+    "category": 4,
+    "target": "banana"
+  },
+  "base": {
+    "target_description": "the bunches of yellow bananas",
+    "modified_target_description": "the bunches of yellow grapes",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "How many of the bunches of yellow bananas are visible in the image?",
+      "modified": "How many of the bunches of yellow bananas are visible in the image?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Are the bunches of yellow bananas stacked closely together?",
+      "modified": "Are the bunches of yellow bananas stacked closely together?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Do the bunches of yellow bananas look ripe?",
+      "modified": "Do the bunches of yellow bananas look ripe?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Are the bunches of yellow bananas hanging or resting on a surface?",
+      "modified": "Are the bunches of yellow grapes hanging or resting on a surface?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Do the bunches of yellow bananas fill most of the frame?",
+      "modified": "Do the bunches of yellow grapes fill most of the frame?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Are the bunches of yellow bananas arranged in rows?",
+      "modified": "Are the bunches of yellow grapes arranged in rows?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Do the bunches of yellow bananas appear to be in a market display?",
+      "modified": "Do the bunches of yellow grapes appear to be in a market display?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Are the ends of the bunches of yellow bananas pointing downward?",
+      "modified": "Are the ends of the bunches of yellow grapes pointing downward?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Do the bunches of yellow bananas look clean and unpeeled?",
+      "modified": "Do the bunches of yellow grapes look clean and unpeeled?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Are the bunches of yellow bananas shown close up?",
+      "modified": "Are the bunches of yellow grapes shown close up?",
+      "false_premise": true
+    }
+  ]
+}

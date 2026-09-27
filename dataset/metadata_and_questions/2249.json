@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2249",
+    "source": "COCO",
+    "complexity": 2,
+    "category": 2,
+    "target": "airplane"
+  },
+  "base": {
+    "target_description": "the white cargo airplane on the right",
+    "modified_target_description": "the black cargo airplane on the right",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the white cargo airplane on the right parked on the wet tarmac?",
+      "modified": "Is the white cargo airplane on the right parked on the wet tarmac?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the white cargo airplane on the right have a red logo on its side?",
+      "modified": "Does the white cargo airplane on the right have a red logo on its side?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the white cargo airplane on the right facing toward the left side of the image?",
+      "modified": "Is the white cargo airplane on the right facing toward the left side of the image?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Are there service vehicles near the white cargo airplane on the right?",
+      "modified": "Are there service vehicles near the black cargo airplane on the right?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the white cargo airplane on the right appear to be loading or unloading at the airport?",
+      "modified": "Does the black cargo airplane on the right appear to be loading or unloading at the airport?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the white cargo airplane on the right larger than the other plane in the scene?",
+      "modified": "Is the black cargo airplane on the right larger than the other plane in the scene?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the white cargo airplane on the right under dark storm clouds?",
+      "modified": "Is the black cargo airplane on the right under dark storm clouds?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Can you see the tail engine on the white cargo airplane on the right?",
+      "modified": "Can you see the tail engine on the black cargo airplane on the right?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the white cargo airplane on the right sitting still rather than taking off?",
+      "modified": "Is the black cargo airplane on the right sitting still rather than taking off?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the white cargo airplane on the right positioned close to the terminal area?",
+      "modified": "Is the black cargo airplane on the right positioned close to the terminal area?",
+      "false_premise": true
+    }
+  ]
+}

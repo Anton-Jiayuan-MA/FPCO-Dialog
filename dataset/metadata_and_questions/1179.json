@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1179",
+    "source": "COCO",
+    "complexity": 1,
+    "category": 1,
+    "target": "man"
+  },
+  "base": {
+    "target_description": "the man in white tennis clothes",
+    "modified_target_description": "the man in white tennis clothes on the left",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the man in white tennis clothes doing in this moment?",
+      "modified": "What is the man in white tennis clothes doing in this moment?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the man in white tennis clothes swinging a racket at the ball?",
+      "modified": "Is the man in white tennis clothes swinging a racket at the ball?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Where on the court is the man in white tennis clothes standing?",
+      "modified": "Where on the court is the man in white tennis clothes standing?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the man in white tennis clothes appear to be playing tennis?",
+      "modified": "Does the man in white tennis clothes on the left appear to be playing tennis?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "What is the man in white tennis clothes holding in his hand?",
+      "modified": "What is the man in white tennis clothes on the left holding in his hand?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the man in white tennis clothes near a boundary line on the court?",
+      "modified": "Is the man in white tennis clothes on the left near a boundary line on the court?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the man in white tennis clothes look focused on the ball?",
+      "modified": "Does the man in white tennis clothes on the left look focused on the ball?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "What kind of surface is the man in white tennis clothes playing on?",
+      "modified": "What kind of surface is the man in white tennis clothes on the left playing on?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the man in white tennis clothes wearing a headband?",
+      "modified": "Is the man in white tennis clothes on the left wearing a headband?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the man in white tennis clothes captured mid-swing?",
+      "modified": "Is the man in white tennis clothes on the left captured mid-swing?",
+      "false_premise": true
+    }
+  ]
+}

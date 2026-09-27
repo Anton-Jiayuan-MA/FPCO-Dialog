@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1101",
+    "source": "COCO",
+    "complexity": 1,
+    "category": 1,
+    "target": "woman"
+  },
+  "base": {
+    "target_description": "the smiling woman with dark hair",
+    "modified_target_description": "the smiling man with dark hair",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the smiling woman with dark hair looking toward the camera?",
+      "modified": "Is the smiling woman with dark hair looking toward the camera?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the smiling woman with dark hair appear to be sitting in a vehicle?",
+      "modified": "Does the smiling woman with dark hair appear to be sitting in a vehicle?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the smiling woman with dark hair wearing a necklace?",
+      "modified": "Is the smiling woman with dark hair wearing a necklace?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the smiling woman with dark hair strapped in with a seatbelt?",
+      "modified": "Is the smiling man with dark hair strapped in with a seatbelt?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the smiling woman with dark hair have her hair blowing upward?",
+      "modified": "Does the smiling man with dark hair have his hair blowing upward?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the smiling woman with dark hair shown close to the camera?",
+      "modified": "Is the smiling man with dark hair shown close to the camera?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the smiling woman with dark hair seem relaxed and cheerful?",
+      "modified": "Does the smiling man with dark hair seem relaxed and cheerful?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the smiling woman with dark hair indoors or inside a car?",
+      "modified": "Is the smiling man with dark hair indoors or inside a car?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Can you see the shoulders of the smiling woman with dark hair?",
+      "modified": "Can you see the shoulders of the smiling man with dark hair?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the smiling woman with dark hair the main subject of the image?",
+      "modified": "Is the smiling man with dark hair the main subject of the image?",
+      "false_premise": true
+    }
+  ]
+}

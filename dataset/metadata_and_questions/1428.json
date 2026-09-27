@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1428",
+    "source": "COCO",
+    "complexity": 1,
+    "category": 4,
+    "target": "pizza"
+  },
+  "base": {
+    "target_description": "the large pizza with basil leaves",
+    "modified_target_description": "the large cake with basil leaves",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the large pizza with basil leaves taking up most of the table?",
+      "modified": "Is the large pizza with basil leaves taking up most of the table?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the large pizza with basil leaves look freshly baked?",
+      "modified": "Does the large pizza with basil leaves look freshly baked?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the crust on the large pizza with basil leaves browned and puffy?",
+      "modified": "Is the crust on the large pizza with basil leaves browned and puffy?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the large pizza with basil leaves have melted cheese spread across it?",
+      "modified": "Does the large cake with basil leaves have melted cheese spread across it?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Are there several dollops of cheese on the large pizza with basil leaves?",
+      "modified": "Are there several dollops of cheese on the large cake with basil leaves?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the large pizza with basil leaves appear to be on a serving stand?",
+      "modified": "Does the large cake with basil leaves appear to be on a serving stand?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the large pizza with basil leaves cut into slices?",
+      "modified": "Is the large cake with basil leaves cut into slices?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the large pizza with basil leaves look bigger than a typical dinner plate?",
+      "modified": "Does the large cake with basil leaves look bigger than a typical dinner plate?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the large pizza with basil leaves topped with visible tomato sauce?",
+      "modified": "Is the large cake with basil leaves topped with visible tomato sauce?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Would the large pizza with basil leaves be enough to share with a group?",
+      "modified": "Would the large cake with basil leaves be enough to share with a group?",
+      "false_premise": true
+    }
+  ]
+}

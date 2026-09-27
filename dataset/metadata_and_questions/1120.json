@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1120",
+    "source": "COCO",
+    "complexity": 1,
+    "category": 1,
+    "target": "man"
+  },
+  "base": {
+    "target_description": "the man in a white striped shirt",
+    "modified_target_description": "the woman in a white striped shirt",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the man in a white striped shirt holding in his hands?",
+      "modified": "What is the man in a white striped shirt holding in his hands?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the man in a white striped shirt standing indoors?",
+      "modified": "Is the man in a white striped shirt standing indoors?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the man in a white striped shirt appear to be using a game controller?",
+      "modified": "Does the man in a white striped shirt appear to be using a game controller?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "What direction is the man in a white striped shirt looking?",
+      "modified": "What direction is the woman in a white striped shirt looking?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the man in a white striped shirt smiling?",
+      "modified": "Is the woman in a white striped shirt smiling?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "What is the man in a white striped shirt wearing on his wrist?",
+      "modified": "What is the woman in a white striped shirt wearing on her wrist?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the man in a white striped shirt raising one arm?",
+      "modified": "Is the woman in a white striped shirt raising one arm?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the man in a white striped shirt seem focused on something?",
+      "modified": "Does the woman in a white striped shirt seem focused on something?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the man in a white striped shirt close to a curtain?",
+      "modified": "Is the woman in a white striped shirt close to a curtain?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "What activity might the man in a white striped shirt be doing?",
+      "modified": "What activity might the woman in a white striped shirt be doing?",
+      "false_premise": true
+    }
+  ]
+}

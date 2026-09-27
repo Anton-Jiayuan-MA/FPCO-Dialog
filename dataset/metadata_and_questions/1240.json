@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1240",
+    "source": "COCO",
+    "complexity": 1,
+    "category": 2,
+    "target": "train"
+  },
+  "base": {
+    "target_description": "the purple and yellow train on the tracks",
+    "modified_target_description": "the red and yellow train on the tracks",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the purple and yellow train on the tracks stopped at a station?",
+      "modified": "Is the purple and yellow train on the tracks stopped at a station?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Which direction is the purple and yellow train on the tracks facing in the image?",
+      "modified": "Which direction is the purple and yellow train on the tracks facing in the image?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the purple and yellow train on the tracks appear close to the platform?",
+      "modified": "Does the purple and yellow train on the tracks appear close to the platform?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the purple and yellow train on the tracks viewed mostly from the front or the side?",
+      "modified": "Is the red and yellow train on the tracks viewed mostly from the front or the side?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the purple and yellow train on the tracks have more than one carriage visible?",
+      "modified": "Does the red and yellow train on the tracks have more than one carriage visible?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the purple and yellow train on the tracks occupying the right side of the image?",
+      "modified": "Is the red and yellow train on the tracks occupying the right side of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Are the doors on the purple and yellow train on the tracks visibly closed?",
+      "modified": "Are the doors on the red and yellow train on the tracks visibly closed?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the purple and yellow train on the tracks look like it is parked rather than moving?",
+      "modified": "Does the red and yellow train on the tracks look like it is parked rather than moving?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Can you see the front of the purple and yellow train on the tracks clearly?",
+      "modified": "Can you see the front of the red and yellow train on the tracks clearly?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the purple and yellow train on the tracks the main focus of the scene?",
+      "modified": "Is the red and yellow train on the tracks the main focus of the scene?",
+      "false_premise": true
+    }
+  ]
+}

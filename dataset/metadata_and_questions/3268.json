@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3268",
+    "source": "Open Images",
+    "complexity": 3,
+    "category": 2,
+    "target": "boat"
+  },
+  "base": {
+    "target_description": "the dark boat with a blue cabin",
+    "modified_target_description": "the dark boat with a blue cabin on the right",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the dark boat with a blue cabin floating on the water?",
+      "modified": "Is the dark boat with a blue cabin floating on the water?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the dark boat with a blue cabin appear to be docked near the shore?",
+      "modified": "Does the dark boat with a blue cabin appear to be docked near the shore?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the dark boat with a blue cabin larger than the nearby boats?",
+      "modified": "Is the dark boat with a blue cabin larger than the nearby boats?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Can you see the dark boat with a blue cabin from the side?",
+      "modified": "Can you see the dark boat with a blue cabin on the right from the side?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the dark boat with a blue cabin have an opening or doorway on its cabin?",
+      "modified": "Does the dark boat with a blue cabin on the right have an opening or doorway on its cabin?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the dark boat with a blue cabin positioned in the middle of the image?",
+      "modified": "Is the dark boat with a blue cabin on the right positioned in the middle of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the dark boat with a blue cabin look like a working boat rather than a speedboat?",
+      "modified": "Does the dark boat with a blue cabin on the right look like a working boat rather than a speedboat?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the dark boat with a blue cabin tied up instead of moving?",
+      "modified": "Is the dark boat with a blue cabin on the right tied up instead of moving?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the dark boat with a blue cabin sit beside another smaller boat?",
+      "modified": "Does the dark boat with a blue cabin on the right sit beside another smaller boat?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the dark boat with a blue cabin the most prominent boat in the scene?",
+      "modified": "Is the dark boat with a blue cabin on the right the most prominent boat in the scene?",
+      "false_premise": true
+    }
+  ]
+}

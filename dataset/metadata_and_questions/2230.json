@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2230",
+    "source": "Open Images",
+    "complexity": 2,
+    "category": 2,
+    "target": "airplane"
+  },
+  "base": {
+    "target_description": "the yellow crop-dusting airplane",
+    "modified_target_description": "the yellow crop-dusting helicopter",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the yellow crop-dusting airplane parked on the tarmac?",
+      "modified": "Is the yellow crop-dusting airplane parked on the tarmac?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the yellow crop-dusting airplane have its propeller spinning?",
+      "modified": "Does the yellow crop-dusting airplane have its propeller spinning?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the yellow crop-dusting airplane viewed mostly from the side?",
+      "modified": "Is the yellow crop-dusting airplane viewed mostly from the side?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the yellow crop-dusting airplane appear ready for takeoff?",
+      "modified": "Does the yellow crop-dusting helicopter appear ready for takeoff?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Can you see the spraying equipment under the yellow crop-dusting airplane?",
+      "modified": "Can you see the spraying equipment under the yellow crop-dusting helicopter?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the yellow crop-dusting airplane the closest vehicle in the image?",
+      "modified": "Is the yellow crop-dusting helicopter the closest vehicle in the image?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the yellow crop-dusting airplane have blue stripes on its body?",
+      "modified": "Does the yellow crop-dusting helicopter have blue stripes on its body?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the yellow crop-dusting airplane facing toward the right side of the image?",
+      "modified": "Is the yellow crop-dusting helicopter facing toward the right side of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Are the wheels of the yellow crop-dusting airplane visible?",
+      "modified": "Are the wheels of the yellow crop-dusting helicopter visible?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is another aircraft parked behind the yellow crop-dusting airplane?",
+      "modified": "Is another aircraft parked behind the yellow crop-dusting helicopter?",
+      "false_premise": true
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2403",
+    "source": "COCO",
+    "complexity": 2,
+    "category": 4,
+    "target": "donut"
+  },
+  "base": {
+    "target_description": "the glazed donut on a napkin",
+    "modified_target_description": "the glazed bagel on a napkin",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What shape is the glazed donut on a napkin?",
+      "modified": "What shape is the glazed donut on a napkin?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the glazed donut on a napkin have a hole in the middle?",
+      "modified": "Does the glazed donut on a napkin have a hole in the middle?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the glazed donut on a napkin sitting next to a banana?",
+      "modified": "Is the glazed donut on a napkin sitting next to a banana?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "What color is the glazed donut on a napkin?",
+      "modified": "What color is the glazed bagel on a napkin?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the glazed donut on a napkin look plain or topped with sprinkles?",
+      "modified": "Does the glazed bagel on a napkin look plain or topped with sprinkles?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the glazed donut on a napkin on the table in front of the camera?",
+      "modified": "Is the glazed bagel on a napkin on the table in front of the camera?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the glazed donut on a napkin appear larger than the banana beside it?",
+      "modified": "Does the glazed bagel on a napkin appear larger than the banana beside it?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the glazed donut on a napkin being held by anyone?",
+      "modified": "Is the glazed bagel on a napkin being held by anyone?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the glazed donut on a napkin look whole or partially eaten?",
+      "modified": "Does the glazed bagel on a napkin look whole or partially eaten?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the glazed donut on a napkin placed near a cup of coffee?",
+      "modified": "Is the glazed bagel on a napkin placed near a cup of coffee?",
+      "false_premise": true
+    }
+  ]
+}

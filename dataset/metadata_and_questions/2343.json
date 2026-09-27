@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2343",
+    "source": "COCO",
+    "complexity": 2,
+    "category": 3,
+    "target": "elephant"
+  },
+  "base": {
+    "target_description": "the elephant with a raised trunk and visible tusks",
+    "modified_target_description": "the elephant with a lowered trunk and visible tusks",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the elephant with a raised trunk and visible tusks doing in the grass?",
+      "modified": "What is the elephant with a raised trunk and visible tusks doing in the grass?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the elephant with a raised trunk and visible tusks facing another elephant?",
+      "modified": "Is the elephant with a raised trunk and visible tusks facing another elephant?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the elephant with a raised trunk and visible tusks look like it is interacting with the other elephant?",
+      "modified": "Does the elephant with a raised trunk and visible tusks look like it is interacting with the other elephant?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the elephant with a raised trunk and visible tusks standing in a grassy area?",
+      "modified": "Is the elephant with a lowered trunk and visible tusks standing in a grassy area?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Can you see the elephant with a raised trunk and visible tusks clearly from the side?",
+      "modified": "Can you see the elephant with a lowered trunk and visible tusks clearly from the side?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the elephant with a raised trunk and visible tusks appear to be an adult?",
+      "modified": "Does the elephant with a lowered trunk and visible tusks appear to be an adult?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the elephant with a raised trunk and visible tusks on the right side of the image?",
+      "modified": "Is the elephant with a lowered trunk and visible tusks on the right side of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the elephant with a raised trunk and visible tusks have its trunk curled upward?",
+      "modified": "Does the elephant with a lowered trunk and visible tusks have its trunk curled upward?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the elephant with a raised trunk and visible tusks near some trees?",
+      "modified": "Is the elephant with a lowered trunk and visible tusks near some trees?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the elephant with a raised trunk and visible tusks seem calm or playful?",
+      "modified": "Does the elephant with a lowered trunk and visible tusks seem calm or playful?",
+      "false_premise": true
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3471",
+    "source": "COCO",
+    "complexity": 3,
+    "category": 4,
+    "target": "banana"
+  },
+  "base": {
+    "target_description": "the bunches of yellow bananas on the table",
+    "modified_target_description": "the bunches of yellow bananas on the floor",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Are the bunches of yellow bananas on the table stacked closely together?",
+      "modified": "Are the bunches of yellow bananas on the table stacked closely together?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Do the bunches of yellow bananas on the table look ripe?",
+      "modified": "Do the bunches of yellow bananas on the table look ripe?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Are the bunches of yellow bananas on the table being displayed for sale?",
+      "modified": "Are the bunches of yellow bananas on the table being displayed for sale?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Do the bunches of yellow bananas on the table cover most of the tabletop?",
+      "modified": "Do the bunches of yellow bananas on the floor cover most of the tabletop?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Are the bunches of yellow bananas on the table arranged in several clusters?",
+      "modified": "Are the bunches of yellow bananas on the floor arranged in several clusters?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Do the bunches of yellow bananas on the table appear fresh?",
+      "modified": "Do the bunches of yellow bananas on the floor appear fresh?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Are the bunches of yellow bananas on the table inside a market stall?",
+      "modified": "Are the bunches of yellow bananas on the floor inside a market stall?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Do the bunches of yellow bananas on the table include both large and small bunches?",
+      "modified": "Do the bunches of yellow bananas on the floor include both large and small bunches?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Are the bunches of yellow bananas on the table the main food item visible in the scene?",
+      "modified": "Are the bunches of yellow bananas on the floor the main food item visible in the scene?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Do the bunches of yellow bananas on the table look ready to be picked up by shoppers?",
+      "modified": "Do the bunches of yellow bananas on the floor look ready to be picked up by shoppers?",
+      "false_premise": true
+    }
+  ]
+}

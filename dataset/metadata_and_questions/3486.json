@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3486",
+    "source": "Open Images",
+    "complexity": 3,
+    "category": 4,
+    "target": "juice"
+  },
+  "base": {
+    "target_description": "the bottle of orange juice with a blue cap",
+    "modified_target_description": "the bottle of orange juice with a blue cap next to the fruit cup",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What brand is the bottle of orange juice with a blue cap?",
+      "modified": "What brand is the bottle of orange juice with a blue cap?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the bottle of orange juice with a blue cap standing upright on the table?",
+      "modified": "Is the bottle of orange juice with a blue cap standing upright on the table?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the bottle of orange juice with a blue cap look full or partly empty?",
+      "modified": "Does the bottle of orange juice with a blue cap look full or partly empty?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "What flavor label is shown on the bottle of orange juice with a blue cap?",
+      "modified": "What flavor label is shown on the bottle of orange juice with a blue cap next to the fruit cup?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the bottle of orange juice with a blue cap next to another juice bottle?",
+      "modified": "Is the bottle of orange juice with a blue cap next to the fruit cup next to another juice bottle?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "What color is the drink inside the bottle of orange juice with a blue cap?",
+      "modified": "What color is the drink inside the bottle of orange juice with a blue cap next to the fruit cup?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the bottle of orange juice with a blue cap placed in front of the packaged sandwich?",
+      "modified": "Is the bottle of orange juice with a blue cap next to the fruit cup placed in front of the packaged sandwich?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the bottle of orange juice with a blue cap appear unopened?",
+      "modified": "Does the bottle of orange juice with a blue cap next to the fruit cup appear unopened?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the bottle of orange juice with a blue cap near the fruit cup?",
+      "modified": "Is the bottle of orange juice with a blue cap next to the fruit cup near the fruit cup?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the bottle of orange juice with a blue cap one of the main food items in the image?",
+      "modified": "Is the bottle of orange juice with a blue cap next to the fruit cup one of the main food items in the image?",
+      "false_premise": true
+    }
+  ]
+}

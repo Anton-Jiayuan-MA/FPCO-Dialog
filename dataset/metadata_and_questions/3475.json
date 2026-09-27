@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3475",
+    "source": "COCO",
+    "complexity": 3,
+    "category": 4,
+    "target": "sandwich"
+  },
+  "base": {
+    "target_description": "the sliced sandwich with lettuce and tomato",
+    "modified_target_description": "the sliced sandwich with lettuce and tomato on the right",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What kind of bread is the sliced sandwich with lettuce and tomato made with?",
+      "modified": "What kind of bread is the sliced sandwich with lettuce and tomato made with?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the sliced sandwich with lettuce and tomato cut into triangular pieces?",
+      "modified": "Is the sliced sandwich with lettuce and tomato cut into triangular pieces?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the sliced sandwich with lettuce and tomato look freshly prepared?",
+      "modified": "Does the sliced sandwich with lettuce and tomato look freshly prepared?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "What fillings can be seen inside the sliced sandwich with lettuce and tomato?",
+      "modified": "What fillings can be seen inside the sliced sandwich with lettuce and tomato on the right?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the sliced sandwich with lettuce and tomato served on a plate?",
+      "modified": "Is the sliced sandwich with lettuce and tomato on the right served on a plate?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the sliced sandwich with lettuce and tomato appear to have a creamy spread?",
+      "modified": "Does the sliced sandwich with lettuce and tomato on the right appear to have a creamy spread?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the sliced sandwich with lettuce and tomato positioned in the foreground of the image?",
+      "modified": "Is the sliced sandwich with lettuce and tomato on the right positioned in the foreground of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the sliced sandwich with lettuce and tomato look lightly toasted or plain?",
+      "modified": "Does the sliced sandwich with lettuce and tomato on the right look lightly toasted or plain?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the sliced sandwich with lettuce and tomato part of a meal with a side dish?",
+      "modified": "Is the sliced sandwich with lettuce and tomato on the right part of a meal with a side dish?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Can you clearly see the layers inside the sliced sandwich with lettuce and tomato?",
+      "modified": "Can you clearly see the layers inside the sliced sandwich with lettuce and tomato on the right?",
+      "false_premise": true
+    }
+  ]
+}

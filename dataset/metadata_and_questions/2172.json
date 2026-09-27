@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2172",
+    "source": "COCO",
+    "complexity": 2,
+    "category": 1,
+    "target": "man"
+  },
+  "base": {
+    "target_description": "the man in the gray shirt",
+    "modified_target_description": "the man on the right",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the man in the gray shirt holding in his hands?",
+      "modified": "What is the man in the gray shirt holding in his hands?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the man in the gray shirt looking toward the camera?",
+      "modified": "Is the man in the gray shirt looking toward the camera?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the man in the gray shirt appear to be smiling?",
+      "modified": "Does the man in the gray shirt appear to be smiling?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "What message is the man in the gray shirt showing on the sign?",
+      "modified": "What message is the man on the right showing on the sign?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the man in the gray shirt standing beside another person?",
+      "modified": "Is the man on the right standing beside another person?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "What toy is the man in the gray shirt holding on the left side?",
+      "modified": "What toy is the man on the right holding on the left side?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the man in the gray shirt posing for the photo?",
+      "modified": "Is the man on the right posing for the photo?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the man in the gray shirt seem to be indoors?",
+      "modified": "Does the man on the right seem to be indoors?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the man in the gray shirt holding the sign up at chest level?",
+      "modified": "Is the man on the right holding the sign up at chest level?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the man in the gray shirt have a calm or playful expression?",
+      "modified": "Does the man on the right have a calm or playful expression?",
+      "false_premise": true
+    }
+  ]
+}

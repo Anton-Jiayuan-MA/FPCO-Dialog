@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1239",
+    "source": "COCO",
+    "complexity": 1,
+    "category": 2,
+    "target": "train"
+  },
+  "base": {
+    "target_description": "the black train with the number 71",
+    "modified_target_description": "the red train with the number 71",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the black train with the number 71 facing toward the camera?",
+      "modified": "Is the black train with the number 71 facing toward the camera?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Are lights visible on the black train with the number 71?",
+      "modified": "Are lights visible on the black train with the number 71?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the black train with the number 71 sitting on railroad tracks?",
+      "modified": "Is the black train with the number 71 sitting on railroad tracks?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the black train with the number 71 appear to be outdoors?",
+      "modified": "Does the red train with the number 71 appear to be outdoors?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the black train with the number 71 shown at dusk or nighttime?",
+      "modified": "Is the red train with the number 71 shown at dusk or nighttime?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the black train with the number 71 have a large round front?",
+      "modified": "Does the red train with the number 71 have a large round front?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the black train with the number 71 decorated with string lights?",
+      "modified": "Is the red train with the number 71 decorated with string lights?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the black train with the number 71 look stationary in the image?",
+      "modified": "Does the red train with the number 71 look stationary in the image?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the black train with the number 71 positioned near a rocky area?",
+      "modified": "Is the red train with the number 71 positioned near a rocky area?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Can you see the smokestack on the black train with the number 71?",
+      "modified": "Can you see the smokestack on the red train with the number 71?",
+      "false_premise": true
+    }
+  ]
+}

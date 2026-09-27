@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3222",
+    "source": "COCO",
+    "complexity": 3,
+    "category": 2,
+    "target": "car"
+  },
+  "base": {
+    "target_description": "the green SUV on the right",
+    "modified_target_description": "the green truck on the right",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the green SUV on the right parked in the lot?",
+      "modified": "Is the green SUV on the right parked in the lot?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "What is parked next to the green SUV on the right?",
+      "modified": "What is parked next to the green SUV on the right?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the green SUV on the right facing toward the left or the right?",
+      "modified": "Is the green SUV on the right facing toward the left or the right?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the green SUV on the right appear closer to the camera than the white cars nearby?",
+      "modified": "Does the green truck on the right appear closer to the camera than the white cars nearby?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the green SUV on the right along the same row as the other parked cars?",
+      "modified": "Is the green truck on the right along the same row as the other parked cars?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Can you see the rear of the green SUV on the right?",
+      "modified": "Can you see the rear of the green truck on the right?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the green SUV on the right near the edge of the image?",
+      "modified": "Is the green truck on the right near the edge of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the green SUV on the right have another vehicle directly beside it?",
+      "modified": "Does the green truck on the right have another vehicle directly beside it?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the green SUV on the right on a paved road or a dirt surface?",
+      "modified": "Is the green truck on the right on a paved road or a dirt surface?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Would you say the green SUV on the right is partially blocked by anything?",
+      "modified": "Would you say the green truck on the right is partially blocked by anything?",
+      "false_premise": true
+    }
+  ]
+}

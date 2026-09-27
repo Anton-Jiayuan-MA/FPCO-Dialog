@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1113",
+    "source": "COCO",
+    "complexity": 1,
+    "category": 1,
+    "target": "child"
+  },
+  "base": {
+    "target_description": "the blond child in a blue jacket",
+    "modified_target_description": "the blond dog in a blue jacket",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the blond child in a blue jacket eating?",
+      "modified": "What is the blond child in a blue jacket eating?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the blond child in a blue jacket holding food in one hand or both hands?",
+      "modified": "Is the blond child in a blue jacket holding food in one hand or both hands?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the blond child in a blue jacket look like they are in the middle of taking a bite?",
+      "modified": "Does the blond child in a blue jacket look like they are in the middle of taking a bite?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "What expression does the blond child in a blue jacket have?",
+      "modified": "What expression does the blond dog in a blue jacket have?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Can you see crumbs on the face of the blond child in a blue jacket?",
+      "modified": "Can you see crumbs on the face of the blond dog in a blue jacket?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the blond child in a blue jacket looking straight ahead or off to the side?",
+      "modified": "Is the blond dog in a blue jacket looking straight ahead or off to the side?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "What color are the eyes of the blond child in a blue jacket?",
+      "modified": "What color are the eyes of the blond dog in a blue jacket?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the blond child in a blue jacket outdoors?",
+      "modified": "Is the blond dog in a blue jacket outdoors?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the blond child in a blue jacket appear to be enjoying the snack?",
+      "modified": "Does the blond dog in a blue jacket appear to be enjoying the snack?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the blond child in a blue jacket holding a piece of food close to the mouth?",
+      "modified": "Is the blond dog in a blue jacket holding a piece of food close to the mouth?",
+      "false_premise": true
+    }
+  ]
+}

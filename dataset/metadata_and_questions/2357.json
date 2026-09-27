@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2357",
+    "source": "COCO",
+    "complexity": 2,
+    "category": 3,
+    "target": "elephant"
+  },
+  "base": {
+    "target_description": "the gray elephant with large ears",
+    "modified_target_description": "the brown elephant with large ears",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the gray elephant with large ears standing in tall dry grass?",
+      "modified": "Is the gray elephant with large ears standing in tall dry grass?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the gray elephant with large ears have its ears spread wide?",
+      "modified": "Does the gray elephant with large ears have its ears spread wide?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the gray elephant with large ears facing toward the camera?",
+      "modified": "Is the gray elephant with large ears facing toward the camera?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Can you see tusks on the gray elephant with large ears?",
+      "modified": "Can you see tusks on the brown elephant with large ears?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the gray elephant with large ears closer to the viewer than the other elephants?",
+      "modified": "Is the brown elephant with large ears closer to the viewer than the other elephants?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the gray elephant with large ears appear to be walking forward?",
+      "modified": "Does the brown elephant with large ears appear to be walking forward?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the trunk of the gray elephant with large ears hanging down in front?",
+      "modified": "Is the trunk of the brown elephant with large ears hanging down in front?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the gray elephant with large ears out in an open grassy area?",
+      "modified": "Is the brown elephant with large ears out in an open grassy area?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the gray elephant with large ears look like the most prominent animal in the image?",
+      "modified": "Does the brown elephant with large ears look like the most prominent animal in the image?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the gray elephant with large ears positioned near the center-right of the image?",
+      "modified": "Is the brown elephant with large ears positioned near the center-right of the image?",
+      "false_premise": true
+    }
+  ]
+}

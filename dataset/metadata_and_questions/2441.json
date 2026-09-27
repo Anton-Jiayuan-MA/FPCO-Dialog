@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2441",
+    "source": "COCO",
+    "complexity": 2,
+    "category": 4,
+    "target": "hot dog"
+  },
+  "base": {
+    "target_description": "the hot dog with mustard in a bun",
+    "modified_target_description": "the hot dog with ketchup in a bun",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the hot dog with mustard in a bun served in an open foam container?",
+      "modified": "Is the hot dog with mustard in a bun served in an open foam container?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the hot dog with mustard in a bun appear to have chopped onions on top?",
+      "modified": "Does the hot dog with mustard in a bun appear to have chopped onions on top?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the hot dog with mustard in a bun placed below another hot dog?",
+      "modified": "Is the hot dog with mustard in a bun placed below another hot dog?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the hot dog with mustard in a bun look fully assembled and ready to eat?",
+      "modified": "Does the hot dog with ketchup in a bun look fully assembled and ready to eat?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the hot dog with mustard in a bun topped with a bright yellow sauce?",
+      "modified": "Is the hot dog with ketchup in a bun topped with a bright yellow sauce?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the hot dog with mustard in a bun sit on the right side of the image?",
+      "modified": "Does the hot dog with ketchup in a bun sit on the right side of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the hot dog with mustard in a bun inside the same container as another hot dog?",
+      "modified": "Is the hot dog with ketchup in a bun inside the same container as another hot dog?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the hot dog with mustard in a bun look like it is resting in a soft white bun?",
+      "modified": "Does the hot dog with ketchup in a bun look like it is resting in a soft white bun?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the hot dog with mustard in a bun shown from above?",
+      "modified": "Is the hot dog with ketchup in a bun shown from above?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the hot dog with mustard in a bun appear to be in the lower half of its container?",
+      "modified": "Does the hot dog with ketchup in a bun appear to be in the lower half of its container?",
+      "false_premise": true
+    }
+  ]
+}

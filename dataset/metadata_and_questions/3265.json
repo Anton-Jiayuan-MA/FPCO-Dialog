@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3265",
+    "source": "Open Images",
+    "complexity": 3,
+    "category": 2,
+    "target": "bus"
+  },
+  "base": {
+    "target_description": "the yellow school bus with an open door",
+    "modified_target_description": "the yellow school bus in the background with an open door",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the yellow school bus with an open door parked in a lot?",
+      "modified": "Is the yellow school bus with an open door parked in a lot?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the yellow school bus with an open door appear to be empty?",
+      "modified": "Does the yellow school bus with an open door appear to be empty?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the yellow school bus with an open door facing toward the left side of the image?",
+      "modified": "Is the yellow school bus with an open door facing toward the left side of the image?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Can you see the back of the yellow school bus with an open door?",
+      "modified": "Can you see the back of the yellow school bus in the background with an open door?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the yellow school bus with an open door closer to the camera than the other bus?",
+      "modified": "Is the yellow school bus in the background with an open door closer to the camera than the other bus?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the yellow school bus with an open door have a stop sign extended on its side?",
+      "modified": "Does the yellow school bus in the background with an open door have a stop sign extended on its side?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the yellow school bus with an open door sitting outdoors under a blue sky?",
+      "modified": "Is the yellow school bus in the background with an open door sitting outdoors under a blue sky?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Are the windows on the yellow school bus with an open door tinted or dark?",
+      "modified": "Are the windows on the yellow school bus in the background with an open door tinted or dark?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the yellow school bus with an open door surrounded by trees in the background?",
+      "modified": "Is the yellow school bus in the background with an open door surrounded by trees in the background?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the yellow school bus with an open door take up most of the foreground?",
+      "modified": "Does the yellow school bus in the background with an open door take up most of the foreground?",
+      "false_premise": true
+    }
+  ]
+}

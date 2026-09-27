@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1476",
+    "source": "COCO",
+    "complexity": 1,
+    "category": 4,
+    "target": "pizza"
+  },
+  "base": {
+    "target_description": "the large cheese pizza slice on a white plate",
+    "modified_target_description": "the large cheese pizza slice on the right",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What toppings can you see on the large cheese pizza slice on a white plate?",
+      "modified": "What toppings can you see on the large cheese pizza slice on a white plate?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the large cheese pizza slice on a white plate just a single slice or part of a whole pie?",
+      "modified": "Is the large cheese pizza slice on a white plate just a single slice or part of a whole pie?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the large cheese pizza slice on a white plate look freshly baked?",
+      "modified": "Does the large cheese pizza slice on a white plate look freshly baked?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the crust on the large cheese pizza slice on a white plate thick or thin?",
+      "modified": "Is the crust on the large cheese pizza slice on the right thick or thin?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "What color is the cheese on the large cheese pizza slice on a white plate?",
+      "modified": "What color is the cheese on the large cheese pizza slice on the right?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the large cheese pizza slice on a white plate take up most of the plate?",
+      "modified": "Does the large cheese pizza slice on the right take up most of the plate?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the large cheese pizza slice on a white plate resting flat on the table?",
+      "modified": "Is the large cheese pizza slice on the right resting flat on the table?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the large cheese pizza slice on a white plate appear bigger than a typical pizza slice?",
+      "modified": "Does the large cheese pizza slice on the right appear bigger than a typical pizza slice?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Can you see any tomato sauce on the large cheese pizza slice on a white plate?",
+      "modified": "Can you see any tomato sauce on the large cheese pizza slice on the right?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the large cheese pizza slice on a white plate the main food item in the image?",
+      "modified": "Is the large cheese pizza slice on the right the main food item in the image?",
+      "false_premise": true
+    }
+  ]
+}

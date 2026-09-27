@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2281",
+    "source": "Open Images",
+    "complexity": 2,
+    "category": 2,
+    "target": "boat"
+  },
+  "base": {
+    "target_description": "the red boat on the right",
+    "modified_target_description": "the red boat on the left",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the red boat on the right floating on the water?",
+      "modified": "Is the red boat on the right floating on the water?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the red boat on the right appear to be docked by the shore?",
+      "modified": "Does the red boat on the right appear to be docked by the shore?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the red boat on the right larger than the small blue-covered boat nearby?",
+      "modified": "Is the red boat on the right larger than the small blue-covered boat nearby?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Can you see windows on the red boat on the right?",
+      "modified": "Can you see windows on the red boat on the left?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the red boat on the right facing toward the left side of the image?",
+      "modified": "Is the red boat on the left facing toward the left side of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the red boat on the right have a dark stripe along its side?",
+      "modified": "Does the red boat on the left have a dark stripe along its side?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the red boat on the right positioned in front of the houses?",
+      "modified": "Is the red boat on the left positioned in front of the houses?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the red boat on the right look like a canal boat?",
+      "modified": "Does the red boat on the left look like a canal boat?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the red boat on the right close to the edge of the waterway?",
+      "modified": "Is the red boat on the left close to the edge of the waterway?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Can you see the reflection of the red boat on the right in the water?",
+      "modified": "Can you see the reflection of the red boat on the left in the water?",
+      "false_premise": true
+    }
+  ]
+}

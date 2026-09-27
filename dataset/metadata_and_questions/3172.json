@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3172",
+    "source": "Open Images",
+    "complexity": 3,
+    "category": 1,
+    "target": "person"
+  },
+  "base": {
+    "target_description": "the older man in a gray blazer with white hair",
+    "modified_target_description": "the older man in a gray blazer with white hair on the left",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the older man in a gray blazer with white hair doing with his hand?",
+      "modified": "What is the older man in a gray blazer with white hair doing with his hand?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the older man in a gray blazer with white hair facing toward the other people?",
+      "modified": "Is the older man in a gray blazer with white hair facing toward the other people?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the older man in a gray blazer with white hair appear to be part of the conversation?",
+      "modified": "Does the older man in a gray blazer with white hair appear to be part of the conversation?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the older man in a gray blazer with white hair wearing glasses?",
+      "modified": "Is the older man in a gray blazer with white hair on the left wearing glasses?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Which direction is the older man in a gray blazer with white hair looking?",
+      "modified": "Which direction is the older man in a gray blazer with white hair on the left looking?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the older man in a gray blazer with white hair standing near a table with cups and a water bottle?",
+      "modified": "Is the older man in a gray blazer with white hair on the left standing near a table with cups and a water bottle?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the older man in a gray blazer with white hair have his back partly turned to the camera?",
+      "modified": "Does the older man in a gray blazer with white hair on the left have his back partly turned to the camera?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the older man in a gray blazer with white hair gesturing as he speaks?",
+      "modified": "Is the older man in a gray blazer with white hair on the left gesturing as he speaks?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the older man in a gray blazer with white hair standing indoors or outdoors?",
+      "modified": "Is the older man in a gray blazer with white hair on the left standing indoors or outdoors?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Who is the older man in a gray blazer with white hair interacting with in the scene?",
+      "modified": "Who is the older man in a gray blazer with white hair on the left interacting with in the scene?",
+      "false_premise": true
+    }
+  ]
+}

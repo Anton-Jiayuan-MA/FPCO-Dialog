@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3223",
+    "source": "COCO",
+    "complexity": 3,
+    "category": 2,
+    "target": "motorcycle"
+  },
+  "base": {
+    "target_description": "the bright police motorcycle with a windshield",
+    "modified_target_description": "the bright police car with a windshield",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the bright police motorcycle with a windshield being ridden on a city street?",
+      "modified": "Is the bright police motorcycle with a windshield being ridden on a city street?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the bright police motorcycle with a windshield appear to be part of a group?",
+      "modified": "Does the bright police motorcycle with a windshield appear to be part of a group?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the bright police motorcycle with a windshield moving forward in traffic?",
+      "modified": "Is the bright police motorcycle with a windshield moving forward in traffic?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Can you see a rider wearing a white helmet on the bright police motorcycle with a windshield?",
+      "modified": "Can you see a rider wearing a white helmet on the bright police car with a windshield?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the bright police motorcycle with a windshield closer to the right side of the image?",
+      "modified": "Is the bright police car with a windshield closer to the right side of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the bright police motorcycle with a windshield have high-visibility markings on it?",
+      "modified": "Does the bright police car with a windshield have high-visibility markings on it?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the bright police motorcycle with a windshield on the road rather than parked?",
+      "modified": "Is the bright police car with a windshield on the road rather than parked?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the bright police motorcycle with a windshield look larger than the nearby black motorcycle?",
+      "modified": "Does the bright police car with a windshield look larger than the nearby black motorcycle?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the bright police motorcycle with a windshield traveling near another police motorcycle?",
+      "modified": "Is the bright police car with a windshield traveling near another police motorcycle?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Can the front of the bright police motorcycle with a windshield be clearly seen?",
+      "modified": "Can the front of the bright police car with a windshield be clearly seen?",
+      "false_premise": true
+    }
+  ]
+}

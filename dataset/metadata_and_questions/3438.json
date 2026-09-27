@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3438",
+    "source": "COCO",
+    "complexity": 3,
+    "category": 4,
+    "target": "fruit"
+  },
+  "base": {
+    "target_description": "the bunch of yellow bananas",
+    "modified_target_description": "the bunch of green bananas",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Where is the bunch of yellow bananas hanging in the stall?",
+      "modified": "Where is the bunch of yellow bananas hanging in the stall?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the bunch of yellow bananas near other kinds of fruit?",
+      "modified": "Is the bunch of yellow bananas near other kinds of fruit?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the bunch of yellow bananas look ripe?",
+      "modified": "Does the bunch of yellow bananas look ripe?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the bunch of yellow bananas hanging high or low?",
+      "modified": "Is the bunch of green bananas hanging high or low?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Can you see the bunch of yellow bananas clearly in the market display?",
+      "modified": "Can you see the bunch of green bananas clearly in the market display?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the bunch of yellow bananas grouped with more bananas nearby?",
+      "modified": "Is the bunch of green bananas grouped with more bananas nearby?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the bunch of yellow bananas appear to be for sale at the fruit stand?",
+      "modified": "Does the bunch of green bananas appear to be for sale at the fruit stand?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the bunch of yellow bananas closer to the front or the back of the scene?",
+      "modified": "Is the bunch of green bananas closer to the front or the back of the scene?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the bunch of yellow bananas hang above other produce?",
+      "modified": "Does the bunch of green bananas hang above other produce?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the bunch of yellow bananas one of the most noticeable fruits in the image?",
+      "modified": "Is the bunch of green bananas one of the most noticeable fruits in the image?",
+      "false_premise": true
+    }
+  ]
+}

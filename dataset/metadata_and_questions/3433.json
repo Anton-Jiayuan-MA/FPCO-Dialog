@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3433",
+    "source": "COCO",
+    "complexity": 3,
+    "category": 4,
+    "target": "orange"
+  },
+  "base": {
+    "target_description": "the bright orange fruit",
+    "modified_target_description": "the dull orange fruit",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What color is the bright orange fruit?",
+      "modified": "What color is the bright orange fruit?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the bright orange fruit whole or cut open?",
+      "modified": "Is the bright orange fruit whole or cut open?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the bright orange fruit look fresh in the image?",
+      "modified": "Does the bright orange fruit look fresh in the image?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the bright orange fruit part of a pile of similar fruit?",
+      "modified": "Is the dull orange fruit part of a pile of similar fruit?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the bright orange fruit displayed at a market stand?",
+      "modified": "Is the dull orange fruit displayed at a market stand?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the bright orange fruit have a smooth peel?",
+      "modified": "Does the dull orange fruit have a smooth peel?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Are there many pieces of the bright orange fruit visible here?",
+      "modified": "Are there many pieces of the dull orange fruit visible here?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the bright orange fruit placed below the sweet potatoes?",
+      "modified": "Is the dull orange fruit placed below the sweet potatoes?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the bright orange fruit next to a price sign?",
+      "modified": "Is the dull orange fruit next to a price sign?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Can you see any cut pieces among the bright orange fruit?",
+      "modified": "Can you see any cut pieces among the dull orange fruit?",
+      "false_premise": true
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3129",
+    "source": "COCO",
+    "complexity": 3,
+    "category": 1,
+    "target": "man"
+  },
+  "base": {
+    "target_description": "the man in a straw hat and apron",
+    "modified_target_description": "the woman in a straw hat and apron",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the man in a straw hat and apron doing at the table?",
+      "modified": "What is the man in a straw hat and apron doing at the table?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the man in a straw hat and apron holding a bottle opener or another tool?",
+      "modified": "Is the man in a straw hat and apron holding a bottle opener or another tool?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the man in a straw hat and apron appear to be serving wine?",
+      "modified": "Does the man in a straw hat and apron appear to be serving wine?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "What is placed on the table in front of the man in a straw hat and apron?",
+      "modified": "What is placed on the table in front of the woman in a straw hat and apron?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the man in a straw hat and apron standing beside large barrels?",
+      "modified": "Is the woman in a straw hat and apron standing beside large barrels?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "What is the man in a straw hat and apron looking at?",
+      "modified": "What is the woman in a straw hat and apron looking at?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the man in a straw hat and apron indoors or outdoors?",
+      "modified": "Is the woman in a straw hat and apron indoors or outdoors?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the man in a straw hat and apron seem to be part of a wine tasting?",
+      "modified": "Does the woman in a straw hat and apron seem to be part of a wine tasting?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "What is the man in a straw hat and apron wearing on his head?",
+      "modified": "What is the woman in a straw hat and apron wearing on her head?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the man in a straw hat and apron interacting with the people across the table?",
+      "modified": "Is the woman in a straw hat and apron interacting with the people across the table?",
+      "false_premise": true
+    }
+  ]
+}

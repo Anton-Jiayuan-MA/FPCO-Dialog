@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1163",
+    "source": "Open Images",
+    "complexity": 1,
+    "category": 1,
+    "target": "man"
+  },
+  "base": {
+    "target_description": "the man in a black blazer and glasses",
+    "modified_target_description": "the man on the left in a black blazer and glasses",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the man in a black blazer and glasses doing in this scene?",
+      "modified": "What is the man in a black blazer and glasses doing in this scene?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the man in a black blazer and glasses speaking into a microphone?",
+      "modified": "Is the man in a black blazer and glasses speaking into a microphone?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Where is the man in a black blazer and glasses seated?",
+      "modified": "Where is the man in a black blazer and glasses seated?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the man in a black blazer and glasses appear to be giving a presentation or talk?",
+      "modified": "Does the man on the left in a black blazer and glasses appear to be giving a presentation or talk?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "What is in front of the man in a black blazer and glasses on the table?",
+      "modified": "What is in front of the man on the left in a black blazer and glasses on the table?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the man in a black blazer and glasses looking toward the audience or camera?",
+      "modified": "Is the man on the left in a black blazer and glasses looking toward the audience or camera?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "How is the man in a black blazer and glasses positioned relative to the microphone?",
+      "modified": "How is the man on the left in a black blazer and glasses positioned relative to the microphone?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the man in a black blazer and glasses seem formal or casual in appearance?",
+      "modified": "Does the man on the left in a black blazer and glasses seem formal or casual in appearance?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the man in a black blazer and glasses sitting at a conference table?",
+      "modified": "Is the man on the left in a black blazer and glasses sitting at a conference table?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "What expression does the man in a black blazer and glasses have?",
+      "modified": "What expression does the man on the left in a black blazer and glasses have?",
+      "false_premise": true
+    }
+  ]
+}

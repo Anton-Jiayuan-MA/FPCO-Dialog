@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1402",
+    "source": "Open Images",
+    "complexity": 1,
+    "category": 4,
+    "target": "bread"
+  },
+  "base": {
+    "target_description": "the large flat bread on the black plate",
+    "modified_target_description": "the large flat pizza on the black plate",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What color is the large flat bread on the black plate?",
+      "modified": "What color is the large flat bread on the black plate?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the large flat bread on the black plate look crispy or soft?",
+      "modified": "Does the large flat bread on the black plate look crispy or soft?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the large flat bread on the black plate folded over itself?",
+      "modified": "Is the large flat bread on the black plate folded over itself?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the large flat bread on the black plate take up most of the plate?",
+      "modified": "Does the large flat pizza on the black plate take up most of the plate?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the large flat bread on the black plate golden brown?",
+      "modified": "Is the large flat pizza on the black plate golden brown?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the large flat bread on the black plate appear freshly cooked?",
+      "modified": "Does the large flat pizza on the black plate appear freshly cooked?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the large flat bread on the black plate thicker in some areas than others?",
+      "modified": "Is the large flat pizza on the black plate thicker in some areas than others?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the large flat bread on the black plate have uneven edges?",
+      "modified": "Does the large flat pizza on the black plate have uneven edges?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the large flat bread on the black plate stacked in more than one layer?",
+      "modified": "Is the large flat pizza on the black plate stacked in more than one layer?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the large flat bread on the black plate sitting on a table?",
+      "modified": "Is the large flat pizza on the black plate sitting on a table?",
+      "false_premise": true
+    }
+  ]
+}

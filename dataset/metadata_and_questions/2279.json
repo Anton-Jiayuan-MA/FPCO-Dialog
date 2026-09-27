@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2279",
+    "source": "COCO",
+    "complexity": 2,
+    "category": 2,
+    "target": "boat"
+  },
+  "base": {
+    "target_description": "the white sailboat in the water",
+    "modified_target_description": "the white sailboat on the right",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the white sailboat in the water floating calmly?",
+      "modified": "Is the white sailboat in the water floating calmly?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the white sailboat in the water have a tall mast?",
+      "modified": "Does the white sailboat in the water have a tall mast?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the white sailboat in the water close to the rocky shore?",
+      "modified": "Is the white sailboat in the water close to the rocky shore?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Can you see a reflection of the white sailboat in the water?",
+      "modified": "Can you see a reflection of the white sailboat on the right in the water?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the white sailboat in the water appear to be anchored?",
+      "modified": "Does the white sailboat on the right appear to be anchored?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the white sailboat in the water facing toward the right?",
+      "modified": "Is the white sailboat on the right facing toward the right?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the white sailboat in the water have its sails down?",
+      "modified": "Does the white sailboat on the right have its sails down?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the white sailboat in the water near another boat?",
+      "modified": "Is the white sailboat on the right near another boat?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the white sailboat in the water look empty?",
+      "modified": "Does the white sailboat on the right look empty?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the white sailboat in the water sitting in a marina area?",
+      "modified": "Is the white sailboat on the right sitting in a marina area?",
+      "false_premise": true
+    }
+  ]
+}

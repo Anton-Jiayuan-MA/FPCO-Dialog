@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1107",
+    "source": "COCO",
+    "complexity": 1,
+    "category": 1,
+    "target": "woman"
+  },
+  "base": {
+    "target_description": "the woman with dark hair and a knit hat",
+    "modified_target_description": "the man with dark hair and a knit hat",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the woman with dark hair and a knit hat holding to her ear?",
+      "modified": "What is the woman with dark hair and a knit hat holding to her ear?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the woman with dark hair and a knit hat smiling?",
+      "modified": "Is the woman with dark hair and a knit hat smiling?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the woman with dark hair and a knit hat appear to be talking on the phone?",
+      "modified": "Does the woman with dark hair and a knit hat appear to be talking on the phone?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "What kind of outerwear is the woman with dark hair and a knit hat wearing?",
+      "modified": "What kind of outerwear is the man with dark hair and a knit hat wearing?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the woman with dark hair and a knit hat looking down?",
+      "modified": "Is the man with dark hair and a knit hat looking down?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the woman with dark hair and a knit hat seem indoors or outdoors?",
+      "modified": "Does the man with dark hair and a knit hat seem indoors or outdoors?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the woman with dark hair and a knit hat wearing a jacket with a furry hood?",
+      "modified": "Is the man with dark hair and a knit hat wearing a jacket with a furry hood?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "What expression does the woman with dark hair and a knit hat have?",
+      "modified": "What expression does the man with dark hair and a knit hat have?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the woman with dark hair and a knit hat using her left hand or right hand to hold the phone?",
+      "modified": "Is the man with dark hair and a knit hat using his left hand or right hand to hold the phone?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the woman with dark hair and a knit hat look relaxed while on the call?",
+      "modified": "Does the man with dark hair and a knit hat look relaxed while on the call?",
+      "false_premise": true
+    }
+  ]
+}

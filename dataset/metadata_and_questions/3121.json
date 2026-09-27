@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3121",
+    "source": "Open Images",
+    "complexity": 3,
+    "category": 1,
+    "target": "man"
+  },
+  "base": {
+    "target_description": "the older bearded man in a green jacket",
+    "modified_target_description": "the older bearded woman in a green jacket",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the older bearded man in a green jacket looking toward?",
+      "modified": "What is the older bearded man in a green jacket looking toward?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the older bearded man in a green jacket standing near other people on the boat?",
+      "modified": "Is the older bearded man in a green jacket standing near other people on the boat?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the older bearded man in a green jacket appear to be talking to someone?",
+      "modified": "Does the older bearded man in a green jacket appear to be talking to someone?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the older bearded man in a green jacket wearing any kind of vest or outer layer over the jacket?",
+      "modified": "Is the older bearded woman in a green jacket wearing any kind of vest or outer layer over the jacket?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Where on the boat is the older bearded man in a green jacket standing?",
+      "modified": "Where on the boat is the older bearded woman in a green jacket standing?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the older bearded man in a green jacket facing more to the left or to the right?",
+      "modified": "Is the older bearded woman in a green jacket facing more to the left or to the right?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the older bearded man in a green jacket seem to be part of the group of passengers?",
+      "modified": "Does the older bearded woman in a green jacket seem to be part of the group of passengers?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the older bearded man in a green jacket near the railing?",
+      "modified": "Is the older bearded woman in a green jacket near the railing?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "What color is the beard of the older bearded man in a green jacket?",
+      "modified": "What color is the beard of the older bearded woman in a green jacket?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the older bearded man in a green jacket look relaxed or busy?",
+      "modified": "Does the older bearded woman in a green jacket look relaxed or busy?",
+      "false_premise": true
+    }
+  ]
+}

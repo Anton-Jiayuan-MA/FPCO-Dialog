@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3232",
+    "source": "COCO",
+    "complexity": 3,
+    "category": 2,
+    "target": "car"
+  },
+  "base": {
+    "target_description": "the dark blue sedan in the foreground",
+    "modified_target_description": "the light blue sedan in the foreground",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the dark blue sedan in the foreground parked in a parking lot?",
+      "modified": "Is the dark blue sedan in the foreground parked in a parking lot?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the dark blue sedan in the foreground have a bird standing on it?",
+      "modified": "Does the dark blue sedan in the foreground have a bird standing on it?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the dark blue sedan in the foreground facing toward the left side of the image?",
+      "modified": "Is the dark blue sedan in the foreground facing toward the left side of the image?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Can you see the front license plate on the dark blue sedan in the foreground?",
+      "modified": "Can you see the front license plate on the light blue sedan in the foreground?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the dark blue sedan in the foreground closer to the camera than the gray minivan?",
+      "modified": "Is the light blue sedan in the foreground closer to the camera than the gray minivan?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the dark blue sedan in the foreground appear to be occupying a marked parking space?",
+      "modified": "Does the light blue sedan in the foreground appear to be occupying a marked parking space?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Are the headlights of the dark blue sedan in the foreground visible?",
+      "modified": "Are the headlights of the light blue sedan in the foreground visible?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the dark blue sedan in the foreground positioned beside another vehicle?",
+      "modified": "Is the light blue sedan in the foreground positioned beside another vehicle?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the dark blue sedan in the foreground look stationary?",
+      "modified": "Does the light blue sedan in the foreground look stationary?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the windshield of the dark blue sedan in the foreground clearly visible?",
+      "modified": "Is the windshield of the light blue sedan in the foreground clearly visible?",
+      "false_premise": true
+    }
+  ]
+}

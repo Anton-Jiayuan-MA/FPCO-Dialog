@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3161",
+    "source": "Open Images",
+    "complexity": 3,
+    "category": 1,
+    "target": "person"
+  },
+  "base": {
+    "target_description": "the woman in a white cap",
+    "modified_target_description": "the woman on the right",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the woman in a white cap holding in her hand?",
+      "modified": "What is the woman in a white cap holding in her hand?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the woman in a white cap standing near a table of food?",
+      "modified": "Is the woman in a white cap standing near a table of food?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the woman in a white cap appear to be serving herself or waiting?",
+      "modified": "Does the woman in a white cap appear to be serving herself or waiting?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the woman in a white cap facing toward the right side of the image?",
+      "modified": "Is the woman on the right facing toward the right side of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the woman in a white cap seem to be part of a group gathering outdoors?",
+      "modified": "Does the woman on the right seem to be part of a group gathering outdoors?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "What color jacket is the woman in a white cap wearing?",
+      "modified": "What color jacket is the woman on the right wearing?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the woman in a white cap looking down at the food?",
+      "modified": "Is the woman on the right looking down at the food?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the woman in a white cap closer to the camera than most of the other people?",
+      "modified": "Is the woman on the right closer to the camera than most of the other people?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the woman in a white cap have long dark hair visible under the cap?",
+      "modified": "Does the woman on the right have long dark hair visible under the cap?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the woman in a white cap beside another person who is also holding a plate?",
+      "modified": "Is the woman on the right beside another person who is also holding a plate?",
+      "false_premise": true
+    }
+  ]
+}

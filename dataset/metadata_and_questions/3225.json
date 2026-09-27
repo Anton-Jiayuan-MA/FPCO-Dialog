@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3225",
+    "source": "COCO",
+    "complexity": 3,
+    "category": 2,
+    "target": "airplane"
+  },
+  "base": {
+    "target_description": "the large white and blue airplane",
+    "modified_target_description": "the large white and blue truck",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the large white and blue airplane parked on the ground?",
+      "modified": "Is the large white and blue airplane parked on the ground?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the large white and blue airplane appear to be in an airport storage area?",
+      "modified": "Does the large white and blue airplane appear to be in an airport storage area?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the large white and blue airplane facing toward the left side of the image?",
+      "modified": "Is the large white and blue airplane facing toward the left side of the image?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Can you see the wings of the large white and blue airplane clearly?",
+      "modified": "Can you see the wings of the large white and blue truck clearly?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the large white and blue airplane look like it is moving or staying still?",
+      "modified": "Does the large white and blue truck look like it is moving or staying still?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the large white and blue airplane the closest airplane to the camera?",
+      "modified": "Is the large white and blue truck the closest airplane to the camera?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the large white and blue airplane have its landing gear visible?",
+      "modified": "Does the large white and blue truck have its landing gear visible?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the large white and blue airplane positioned in front of several other airplanes?",
+      "modified": "Is the large white and blue truck positioned in front of several other airplanes?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the large white and blue airplane appear intact and complete?",
+      "modified": "Does the large white and blue truck appear intact and complete?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the large white and blue airplane sitting on a dry, sandy surface?",
+      "modified": "Is the large white and blue truck sitting on a dry, sandy surface?",
+      "false_premise": true
+    }
+  ]
+}

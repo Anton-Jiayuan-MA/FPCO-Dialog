@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1404",
+    "source": "Open Images",
+    "complexity": 1,
+    "category": 4,
+    "target": "egg"
+  },
+  "base": {
+    "target_description": "the poached egg with herbs on top",
+    "modified_target_description": "the poached pear with herbs on top",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the poached egg with herbs on top sitting in the middle of the bowl?",
+      "modified": "Is the poached egg with herbs on top sitting in the middle of the bowl?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the poached egg with herbs on top look soft and freshly prepared?",
+      "modified": "Does the poached egg with herbs on top look soft and freshly prepared?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is there a light sauce or liquid around the poached egg with herbs on top?",
+      "modified": "Is there a light sauce or liquid around the poached egg with herbs on top?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the poached egg with herbs on top appear to be seasoned with black pepper?",
+      "modified": "Does the poached pear with herbs on top appear to be seasoned with black pepper?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the poached egg with herbs on top served in a shallow bowl?",
+      "modified": "Is the poached pear with herbs on top served in a shallow bowl?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the poached egg with herbs on top have several thin green herb strands over it?",
+      "modified": "Does the poached pear with herbs on top have several thin green herb strands over it?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the poached egg with herbs on top look like the main focus of the dish?",
+      "modified": "Does the poached pear with herbs on top look like the main focus of the dish?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the poached egg with herbs on top placed on a wooden table?",
+      "modified": "Is the poached pear with herbs on top placed on a wooden table?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the poached egg with herbs on top appear whole rather than cut open?",
+      "modified": "Does the poached pear with herbs on top appear whole rather than cut open?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the poached egg with herbs on top presented as a plated restaurant-style dish?",
+      "modified": "Is the poached pear with herbs on top presented as a plated restaurant-style dish?",
+      "false_premise": true
+    }
+  ]
+}

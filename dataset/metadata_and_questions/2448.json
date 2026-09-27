@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2448",
+    "source": "COCO",
+    "complexity": 2,
+    "category": 4,
+    "target": "bread"
+  },
+  "base": {
+    "target_description": "the oval bread rolls in a wicker basket",
+    "modified_target_description": "the round bread rolls in a wicker basket",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "How many of the oval bread rolls in a wicker basket can be seen?",
+      "modified": "How many of the oval bread rolls in a wicker basket can be seen?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Are the oval bread rolls in a wicker basket arranged in a neat pile or spread apart?",
+      "modified": "Are the oval bread rolls in a wicker basket arranged in a neat pile or spread apart?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Do the oval bread rolls in a wicker basket look plain or topped with anything?",
+      "modified": "Do the oval bread rolls in a wicker basket look plain or topped with anything?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "What color are the oval bread rolls in a wicker basket?",
+      "modified": "What color are the round bread rolls in a wicker basket?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Are the oval bread rolls in a wicker basket sitting on a table?",
+      "modified": "Are the round bread rolls in a wicker basket sitting on a table?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Do the oval bread rolls in a wicker basket appear freshly baked?",
+      "modified": "Do the round bread rolls in a wicker basket appear freshly baked?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Are the oval bread rolls in a wicker basket all about the same size?",
+      "modified": "Are the round bread rolls in a wicker basket all about the same size?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the oval bread rolls in a wicker basket filling most of the basket?",
+      "modified": "Is the round bread rolls in a wicker basket filling most of the basket?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Do the oval bread rolls in a wicker basket look soft or hard from the outside?",
+      "modified": "Do the round bread rolls in a wicker basket look soft or hard from the outside?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Are the oval bread rolls in a wicker basket stacked in more than one layer?",
+      "modified": "Are the round bread rolls in a wicker basket stacked in more than one layer?",
+      "false_premise": true
+    }
+  ]
+}

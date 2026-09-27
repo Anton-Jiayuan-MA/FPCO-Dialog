@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2380",
+    "source": "Open Images",
+    "complexity": 2,
+    "category": 3,
+    "target": "monkey"
+  },
+  "base": {
+    "target_description": "the shaggy monkey by the fence",
+    "modified_target_description": "the shaggy monkey in the background",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the shaggy monkey by the fence sitting on the ground?",
+      "modified": "Is the shaggy monkey by the fence sitting on the ground?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the shaggy monkey by the fence appear to be close to another monkey?",
+      "modified": "Does the shaggy monkey by the fence appear to be close to another monkey?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the shaggy monkey by the fence facing toward the camera?",
+      "modified": "Is the shaggy monkey by the fence facing toward the camera?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the shaggy monkey by the fence look calm in this scene?",
+      "modified": "Does the shaggy monkey in the background look calm in this scene?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the shaggy monkey by the fence inside an enclosed area?",
+      "modified": "Is the shaggy monkey in the background inside an enclosed area?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the shaggy monkey by the fence have gray-brown fur?",
+      "modified": "Does the shaggy monkey in the background have gray-brown fur?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the shaggy monkey by the fence resting near some dry grass?",
+      "modified": "Is the shaggy monkey in the background resting near some dry grass?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the shaggy monkey by the fence seem to be part of a small group?",
+      "modified": "Does the shaggy monkey in the background seem to be part of a small group?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the shaggy monkey by the fence positioned beside a wire barrier?",
+      "modified": "Is the shaggy monkey in the background positioned beside a wire barrier?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the shaggy monkey by the fence appear to be outdoors?",
+      "modified": "Does the shaggy monkey in the background appear to be outdoors?",
+      "false_premise": true
+    }
+  ]
+}

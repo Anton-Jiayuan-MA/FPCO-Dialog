@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2409",
+    "source": "COCO",
+    "complexity": 2,
+    "category": 4,
+    "target": "apple"
+  },
+  "base": {
+    "target_description": "the shiny green apple",
+    "modified_target_description": "the shiny green pear",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the shiny green apple sitting in a display tray?",
+      "modified": "Is the shiny green apple sitting in a display tray?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the shiny green apple appear fresh and uncut?",
+      "modified": "Does the shiny green apple appear fresh and uncut?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the shiny green apple next to some oranges?",
+      "modified": "Is the shiny green apple next to some oranges?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the shiny green apple have a smooth skin?",
+      "modified": "Does the shiny green pear have a smooth skin?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the shiny green apple one of several apples in the image?",
+      "modified": "Is the shiny green pear one of several apples in the image?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the shiny green apple look round from this angle?",
+      "modified": "Does the shiny green pear look round from this angle?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the shiny green apple shown among other pieces of fruit?",
+      "modified": "Is the shiny green pear shown among other pieces of fruit?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the shiny green apple appear larger than the nearby oranges?",
+      "modified": "Does the shiny green pear appear larger than the nearby oranges?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the shiny green apple placed in a black holder?",
+      "modified": "Is the shiny green pear placed in a black holder?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the shiny green apple have a produce sticker on it?",
+      "modified": "Does the shiny green pear have a produce sticker on it?",
+      "false_premise": true
+    }
+  ]
+}

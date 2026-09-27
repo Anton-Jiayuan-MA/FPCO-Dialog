@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2372",
+    "source": "Open Images",
+    "complexity": 2,
+    "category": 3,
+    "target": "cat"
+  },
+  "base": {
+    "target_description": "the light-colored cat on the blue rug",
+    "modified_target_description": "the light-colored cat beside the blue rug",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the light-colored cat on the blue rug doing in the scene?",
+      "modified": "What is the light-colored cat on the blue rug doing in the scene?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the light-colored cat on the blue rug standing or sitting?",
+      "modified": "Is the light-colored cat on the blue rug standing or sitting?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the light-colored cat on the blue rug appear to be facing the dog?",
+      "modified": "Does the light-colored cat on the blue rug appear to be facing the dog?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Where is the light-colored cat on the blue rug positioned in the room?",
+      "modified": "Where is the light-colored cat beside the blue rug positioned in the room?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the light-colored cat on the blue rug indoors?",
+      "modified": "Is the light-colored cat beside the blue rug indoors?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the light-colored cat on the blue rug look like it is walking forward?",
+      "modified": "Does the light-colored cat beside the blue rug look like it is walking forward?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "What is directly in front of the light-colored cat on the blue rug?",
+      "modified": "What is directly in front of the light-colored cat beside the blue rug?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the light-colored cat on the blue rug near the edge of the rug?",
+      "modified": "Is the light-colored cat beside the blue rug near the edge of the rug?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "How close is the light-colored cat on the blue rug to the dog?",
+      "modified": "How close is the light-colored cat beside the blue rug to the dog?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Can you see the full body of the light-colored cat on the blue rug?",
+      "modified": "Can you see the full body of the light-colored cat beside the blue rug?",
+      "false_premise": true
+    }
+  ]
+}

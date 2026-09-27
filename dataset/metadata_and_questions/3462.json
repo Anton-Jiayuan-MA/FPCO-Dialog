@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3462",
+    "source": "Open Images",
+    "complexity": 3,
+    "category": 4,
+    "target": "steak"
+  },
+  "base": {
+    "target_description": "the grilled steak on the white plate",
+    "modified_target_description": "the grilled steak on the table",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "How much of the white plate is covered by the grilled steak on the white plate?",
+      "modified": "How much of the white plate is covered by the grilled steak on the white plate?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the grilled steak on the white plate look freshly cooked?",
+      "modified": "Does the grilled steak on the white plate look freshly cooked?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Are there visible grill marks on the grilled steak on the white plate?",
+      "modified": "Are there visible grill marks on the grilled steak on the white plate?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the grilled steak on the white plate arranged in several pieces?",
+      "modified": "Is the grilled steak on the table arranged in several pieces?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the grilled steak on the white plate appear to be the main dish in the scene?",
+      "modified": "Does the grilled steak on the table appear to be the main dish in the scene?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the grilled steak on the white plate next to any roasted vegetables?",
+      "modified": "Is the grilled steak on the table next to any roasted vegetables?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the grilled steak on the white plate look browned on the outside?",
+      "modified": "Does the grilled steak on the table look browned on the outside?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the grilled steak on the white plate taking up most of the platter?",
+      "modified": "Is the grilled steak on the table taking up most of the platter?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Would you say the grilled steak on the white plate looks thick or thinly sliced?",
+      "modified": "Would you say the grilled steak on the table looks thick or thinly sliced?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the grilled steak on the white plate served on a dining table?",
+      "modified": "Is the grilled steak on the table served on a dining table?",
+      "false_premise": true
+    }
+  ]
+}

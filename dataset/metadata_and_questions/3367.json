@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3367",
+    "source": "Open Images",
+    "complexity": 3,
+    "category": 3,
+    "target": "penguin"
+  },
+  "base": {
+    "target_description": "the fluffy gray penguin chick",
+    "modified_target_description": "the fluffy gray penguin chick on the right",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the fluffy gray penguin chick standing upright on the snow?",
+      "modified": "Is the fluffy gray penguin chick standing upright on the snow?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the fluffy gray penguin chick appear to be facing slightly to the side?",
+      "modified": "Does the fluffy gray penguin chick appear to be facing slightly to the side?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the fluffy gray penguin chick positioned in front of a larger penguin?",
+      "modified": "Is the fluffy gray penguin chick positioned in front of a larger penguin?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the fluffy gray penguin chick have soft downy feathers instead of sleek adult plumage?",
+      "modified": "Does the fluffy gray penguin chick on the right have soft downy feathers instead of sleek adult plumage?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the fluffy gray penguin chick shown close to the camera in the center of the image?",
+      "modified": "Is the fluffy gray penguin chick on the right shown close to the camera in the center of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the fluffy gray penguin chick look like a young penguin rather than an adult?",
+      "modified": "Does the fluffy gray penguin chick on the right look like a young penguin rather than an adult?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Can you see the beak of the fluffy gray penguin chick clearly?",
+      "modified": "Can you see the beak of the fluffy gray penguin chick on the right clearly?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the fluffy gray penguin chick standing alone, or is it right beside another penguin?",
+      "modified": "Is the fluffy gray penguin chick on the right standing alone, or is it right beside another penguin?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the fluffy gray penguin chick appear calm in the scene?",
+      "modified": "Does the fluffy gray penguin chick on the right appear calm in the scene?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the fluffy gray penguin chick outdoors on an icy snowy surface?",
+      "modified": "Is the fluffy gray penguin chick on the right outdoors on an icy snowy surface?",
+      "false_premise": true
+    }
+  ]
+}

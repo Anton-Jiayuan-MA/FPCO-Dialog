@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1178",
+    "source": "COCO",
+    "complexity": 1,
+    "category": 1,
+    "target": "man"
+  },
+  "base": {
+    "target_description": "the man in a white shirt",
+    "modified_target_description": "the man on the left",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the man in a white shirt holding out in front of him?",
+      "modified": "What is the man in a white shirt holding out in front of him?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the man in a white shirt looking at the large glass?",
+      "modified": "Is the man in a white shirt looking at the large glass?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the man in a white shirt appear to be standing indoors?",
+      "modified": "Does the man in a white shirt appear to be standing indoors?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "What is inside the glass that the man in a white shirt is holding?",
+      "modified": "What is inside the glass that the man on the left is holding?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the man in a white shirt extending one arm toward the camera?",
+      "modified": "Is the man on the left extending one arm toward the camera?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the man in a white shirt seem to be examining the drink?",
+      "modified": "Does the man on the left seem to be examining the drink?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the man in a white shirt wearing anything besides the white shirt that is clearly visible?",
+      "modified": "Is the man on the left wearing anything besides the white shirt that is clearly visible?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Would you say the man in a white shirt is the main focus of the image?",
+      "modified": "Would you say the man on the left is the main focus of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the man in a white shirt holding a stemmed wine glass?",
+      "modified": "Is the man on the left holding a stemmed wine glass?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the man in a white shirt have dark hair?",
+      "modified": "Does the man on the left have dark hair?",
+      "false_premise": true
+    }
+  ]
+}

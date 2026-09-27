@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3185",
+    "source": "COCO",
+    "complexity": 3,
+    "category": 1,
+    "target": "person"
+  },
+  "base": {
+    "target_description": "the blond-haired boy in a black suit and blue tie",
+    "modified_target_description": "the blond-haired boy in a black suit and blue tie on the left",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What direction is the blond-haired boy in a black suit and blue tie looking?",
+      "modified": "What direction is the blond-haired boy in a black suit and blue tie looking?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the blond-haired boy in a black suit and blue tie appear to be standing still?",
+      "modified": "Does the blond-haired boy in a black suit and blue tie appear to be standing still?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the blond-haired boy in a black suit and blue tie near other formally dressed people?",
+      "modified": "Is the blond-haired boy in a black suit and blue tie near other formally dressed people?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the blond-haired boy in a black suit and blue tie look serious or cheerful?",
+      "modified": "Does the blond-haired boy in a black suit and blue tie on the left look serious or cheerful?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the blond-haired boy in a black suit and blue tie facing toward the camera or off to the side?",
+      "modified": "Is the blond-haired boy in a black suit and blue tie on the left facing toward the camera or off to the side?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Can you see the blond-haired boy in a black suit and blue tie from about the waist up?",
+      "modified": "Can you see the blond-haired boy in a black suit and blue tie on the left from about the waist up?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the blond-haired boy in a black suit and blue tie wearing his tie neatly?",
+      "modified": "Is the blond-haired boy in a black suit and blue tie on the left wearing his tie neatly?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the blond-haired boy in a black suit and blue tie seem to be part of a formal gathering?",
+      "modified": "Does the blond-haired boy in a black suit and blue tie on the left seem to be part of a formal gathering?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the blond-haired boy in a black suit and blue tie positioned on the right side of the image?",
+      "modified": "Is the blond-haired boy in a black suit and blue tie on the left positioned on the right side of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Are the facial features of the blond-haired boy in a black suit and blue tie clearly visible?",
+      "modified": "Are the facial features of the blond-haired boy in a black suit and blue tie on the left clearly visible?",
+      "false_premise": true
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1345",
+    "source": "Open Images",
+    "complexity": 1,
+    "category": 3,
+    "target": "sheep"
+  },
+  "base": {
+    "target_description": "the black-faced sheep with thick wool",
+    "modified_target_description": "the white-faced sheep with thick wool",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the black-faced sheep with thick wool standing close to the camera?",
+      "modified": "Is the black-faced sheep with thick wool standing close to the camera?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the black-faced sheep with thick wool have an ear tag visible?",
+      "modified": "Does the black-faced sheep with thick wool have an ear tag visible?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the black-faced sheep with thick wool facing toward the viewer?",
+      "modified": "Is the black-faced sheep with thick wool facing toward the viewer?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the black-faced sheep with thick wool appear to be outdoors on a farm?",
+      "modified": "Does the white-faced sheep with thick wool appear to be outdoors on a farm?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the black-faced sheep with thick wool standing on grass and dirt?",
+      "modified": "Is the white-faced sheep with thick wool standing on grass and dirt?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the black-faced sheep with thick wool have a rope or string attached near its side?",
+      "modified": "Does the white-faced sheep with thick wool have a rope or string attached near its side?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the black-faced sheep with thick wool the main subject in the foreground?",
+      "modified": "Is the white-faced sheep with thick wool the main subject in the foreground?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the black-faced sheep with thick wool look calm in the scene?",
+      "modified": "Does the white-faced sheep with thick wool look calm in the scene?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the black-faced sheep with thick wool positioned in front of a barn-like building?",
+      "modified": "Is the white-faced sheep with thick wool positioned in front of a barn-like building?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Can you see the full body of the black-faced sheep with thick wool in the image?",
+      "modified": "Can you see the full body of the white-faced sheep with thick wool in the image?",
+      "false_premise": true
+    }
+  ]
+}

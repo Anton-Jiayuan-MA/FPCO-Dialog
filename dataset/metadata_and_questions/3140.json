@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3140",
+    "source": "COCO",
+    "complexity": 3,
+    "category": 1,
+    "target": "man"
+  },
+  "base": {
+    "target_description": "the man in a white uniform holding a microphone",
+    "modified_target_description": "the man in a black uniform holding a microphone",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the man in a white uniform holding a microphone doing in this scene?",
+      "modified": "What is the man in a white uniform holding a microphone doing in this scene?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the man in a white uniform holding a microphone standing or sitting?",
+      "modified": "Is the man in a white uniform holding a microphone standing or sitting?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "What is the man in a white uniform holding a microphone looking toward?",
+      "modified": "What is the man in a white uniform holding a microphone looking toward?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the man in a white uniform holding a microphone appear to be speaking into it?",
+      "modified": "Does the man in a black uniform holding a microphone appear to be speaking into it?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the man in a white uniform holding a microphone wearing sunglasses?",
+      "modified": "Is the man in a black uniform holding a microphone wearing sunglasses?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Where is the man in a white uniform holding a microphone positioned relative to the others?",
+      "modified": "Where is the man in a black uniform holding a microphone positioned relative to the others?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the man in a white uniform holding a microphone seem to be operating or monitoring something?",
+      "modified": "Does the man in a black uniform holding a microphone seem to be operating or monitoring something?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "What is next to the man in a white uniform holding a microphone on the control surface?",
+      "modified": "What is next to the man in a black uniform holding a microphone on the control surface?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the man in a white uniform holding a microphone indoors or outdoors?",
+      "modified": "Is the man in a black uniform holding a microphone indoors or outdoors?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the man in a white uniform holding a microphone look focused on his task?",
+      "modified": "Does the man in a black uniform holding a microphone look focused on his task?",
+      "false_premise": true
+    }
+  ]
+}

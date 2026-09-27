@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2222",
+    "source": "Open Images",
+    "complexity": 2,
+    "category": 2,
+    "target": "sailboat"
+  },
+  "base": {
+    "target_description": "the white sailboat on the water",
+    "modified_target_description": "the white airplane on the water",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the white sailboat on the water close to another boat?",
+      "modified": "Is the white sailboat on the water close to another boat?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the white sailboat on the water have its sails raised?",
+      "modified": "Does the white sailboat on the water have its sails raised?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Are any people visible on the white sailboat on the water?",
+      "modified": "Are any people visible on the white sailboat on the water?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the white sailboat on the water facing toward the left side of the image?",
+      "modified": "Is the white airplane on the water facing toward the left side of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the white sailboat on the water appear to be moving slowly?",
+      "modified": "Does the white airplane on the water appear to be moving slowly?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the white sailboat on the water in the foreground of the scene?",
+      "modified": "Is the white airplane on the water in the foreground of the scene?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Can you see the mast clearly on the white sailboat on the water?",
+      "modified": "Can you see the mast clearly on the white airplane on the water?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the white sailboat on the water floating on calm water?",
+      "modified": "Is the white airplane on the water floating on calm water?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the white sailboat on the water look larger than the distant sailboats?",
+      "modified": "Does the white airplane on the water look larger than the distant sailboats?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the white sailboat on the water positioned near the center of the image?",
+      "modified": "Is the white airplane on the water positioned near the center of the image?",
+      "false_premise": true
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1157",
+    "source": "Open Images",
+    "complexity": 1,
+    "category": 1,
+    "target": "man"
+  },
+  "base": {
+    "target_description": "the smiling man in a gray suit and tall hat",
+    "modified_target_description": "the smiling man in a black suit and tall hat",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the smiling man in a gray suit and tall hat wearing on his head?",
+      "modified": "What is the smiling man in a gray suit and tall hat wearing on his head?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the smiling man in a gray suit and tall hat facing toward the camera?",
+      "modified": "Is the smiling man in a gray suit and tall hat facing toward the camera?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the smiling man in a gray suit and tall hat appear to be outdoors?",
+      "modified": "Does the smiling man in a gray suit and tall hat appear to be outdoors?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "What kind of expression does the smiling man in a gray suit and tall hat have?",
+      "modified": "What kind of expression does the smiling man in a black suit and tall hat have?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the smiling man in a gray suit and tall hat dressed formally?",
+      "modified": "Is the smiling man in a black suit and tall hat dressed formally?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "What color is the suit worn by the smiling man in a gray suit and tall hat?",
+      "modified": "What color is the suit worn by the smiling man in a black suit and tall hat?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the smiling man in a gray suit and tall hat seem to be standing still?",
+      "modified": "Does the smiling man in a black suit and tall hat seem to be standing still?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the smiling man in a gray suit and tall hat wearing a tie?",
+      "modified": "Is the smiling man in a black suit and tall hat wearing a tie?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the smiling man in a gray suit and tall hat look older or younger?",
+      "modified": "Does the smiling man in a black suit and tall hat look older or younger?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the smiling man in a gray suit and tall hat the main subject of the image?",
+      "modified": "Is the smiling man in a black suit and tall hat the main subject of the image?",
+      "false_premise": true
+    }
+  ]
+}

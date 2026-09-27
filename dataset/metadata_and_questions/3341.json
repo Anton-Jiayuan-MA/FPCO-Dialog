@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3341",
+    "source": "Open Images",
+    "complexity": 3,
+    "category": 3,
+    "target": "horse"
+  },
+  "base": {
+    "target_description": "the brown foal with a dark mane",
+    "modified_target_description": "the black foal with a dark mane",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the brown foal with a dark mane doing in the pen?",
+      "modified": "What is the brown foal with a dark mane doing in the pen?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the brown foal with a dark mane standing close to the other horses?",
+      "modified": "Is the brown foal with a dark mane standing close to the other horses?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Which way is the brown foal with a dark mane facing?",
+      "modified": "Which way is the brown foal with a dark mane facing?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the brown foal with a dark mane appear smaller than the other horses nearby?",
+      "modified": "Does the black foal with a dark mane appear smaller than the other horses nearby?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the brown foal with a dark mane inside a fenced enclosure?",
+      "modified": "Is the black foal with a dark mane inside a fenced enclosure?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Can you see the full body of the brown foal with a dark mane?",
+      "modified": "Can you see the full body of the black foal with a dark mane?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the brown foal with a dark mane looking to the right side of the image?",
+      "modified": "Is the black foal with a dark mane looking to the right side of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the brown foal with a dark mane have its tail visible?",
+      "modified": "Does the black foal with a dark mane have its tail visible?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the brown foal with a dark mane standing in front of another horse?",
+      "modified": "Is the black foal with a dark mane standing in front of another horse?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the brown foal with a dark mane seem calm in the scene?",
+      "modified": "Does the black foal with a dark mane seem calm in the scene?",
+      "false_premise": true
+    }
+  ]
+}

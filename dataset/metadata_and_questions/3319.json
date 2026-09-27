@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3319",
+    "source": "COCO",
+    "complexity": 3,
+    "category": 3,
+    "target": "elephant"
+  },
+  "base": {
+    "target_description": "the large gray elephant with long tusks",
+    "modified_target_description": "the large gray rhinoceros with long tusks",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the large gray elephant with long tusks facing toward the camera?",
+      "modified": "Is the large gray elephant with long tusks facing toward the camera?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Are the ears of the large gray elephant with long tusks spread wide?",
+      "modified": "Are the ears of the large gray elephant with long tusks spread wide?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the large gray elephant with long tusks appear to be standing still?",
+      "modified": "Does the large gray elephant with long tusks appear to be standing still?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the trunk of the large gray elephant with long tusks hanging down?",
+      "modified": "Is the trunk of the large gray rhinoceros with long tusks hanging down?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Can you see both tusks on the large gray elephant with long tusks?",
+      "modified": "Can you see both tusks on the large gray rhinoceros with long tusks?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the large gray elephant with long tusks in the middle of the group?",
+      "modified": "Is the large gray rhinoceros with long tusks in the middle of the group?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the large gray elephant with long tusks look bigger than the nearby elephants?",
+      "modified": "Does the large gray rhinoceros with long tusks look bigger than the nearby elephants?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the body of the large gray elephant with long tusks partly blocking the elephants behind it?",
+      "modified": "Is the body of the large gray rhinoceros with long tusks partly blocking the elephants behind it?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the large gray elephant with long tusks have wrinkled skin?",
+      "modified": "Does the large gray rhinoceros with long tusks have wrinkled skin?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the large gray elephant with long tusks outdoors?",
+      "modified": "Is the large gray rhinoceros with long tusks outdoors?",
+      "false_premise": true
+    }
+  ]
+}

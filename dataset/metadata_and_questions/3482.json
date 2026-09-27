@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3482",
+    "source": "Open Images",
+    "complexity": 3,
+    "category": 4,
+    "target": "berries"
+  },
+  "base": {
+    "target_description": "the small red berries on stems",
+    "modified_target_description": "the small red berries on stems on the left",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Are the small red berries on stems hanging in a cluster?",
+      "modified": "Are the small red berries on stems hanging in a cluster?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Do the small red berries on stems look ripe?",
+      "modified": "Do the small red berries on stems look ripe?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Are the small red berries on stems attached to a tree or bush?",
+      "modified": "Are the small red berries on stems attached to a tree or bush?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Do the small red berries on stems have smooth skins?",
+      "modified": "Do the small red berries on stems on the left have smooth skins?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Are the small red berries on stems growing outdoors?",
+      "modified": "Are the small red berries on stems on the left growing outdoors?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Do the small red berries on stems appear glossy in the sunlight?",
+      "modified": "Do the small red berries on stems on the left appear glossy in the sunlight?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Are the small red berries on stems close together in the image?",
+      "modified": "Are the small red berries on stems on the left close together in the image?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Do the small red berries on stems have dark spots at their ends?",
+      "modified": "Do the small red berries on stems on the left have dark spots at their ends?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Are the small red berries on stems shown in a close-up view?",
+      "modified": "Are the small red berries on stems on the left shown in a close-up view?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Do the small red berries on stems stand out against a blurred background?",
+      "modified": "Do the small red berries on stems on the left stand out against a blurred background?",
+      "false_premise": true
+    }
+  ]
+}

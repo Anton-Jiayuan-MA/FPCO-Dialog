@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1285",
+    "source": "Open Images",
+    "complexity": 1,
+    "category": 2,
+    "target": "car"
+  },
+  "base": {
+    "target_description": "the white car with its headlights on",
+    "modified_target_description": "the white car by the water",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What make is the white car with its headlights on?",
+      "modified": "What make is the white car with its headlights on?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the white car with its headlights on facing toward the camera?",
+      "modified": "Is the white car with its headlights on facing toward the camera?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Where is the white car with its headlights on parked?",
+      "modified": "Where is the white car with its headlights on parked?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Can you see the license plate on the white car with its headlights on?",
+      "modified": "Can you see the license plate on the white car by the water?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the white car with its headlights on appear to be stopped by the water?",
+      "modified": "Does the white car by the water appear to be stopped by the water?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Are both headlights visible on the white car with its headlights on?",
+      "modified": "Are both headlights visible on the white car by the water?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the white car with its headlights on centered in the image?",
+      "modified": "Is the white car by the water centered in the image?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the white car with its headlights on look clean and well-kept?",
+      "modified": "Does the white car by the water look clean and well-kept?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "What direction is the white car with its headlights on pointing?",
+      "modified": "What direction is the white car by the water pointing?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the white car with its headlights on shown from the front?",
+      "modified": "Is the white car by the water shown from the front?",
+      "false_premise": true
+    }
+  ]
+}

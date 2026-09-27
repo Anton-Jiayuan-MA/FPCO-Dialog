@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3170",
+    "source": "Open Images",
+    "complexity": 3,
+    "category": 1,
+    "target": "person"
+  },
+  "base": {
+    "target_description": "the lacrosse player in a navy jersey with number 3",
+    "modified_target_description": "the lacrosse player on the right in a navy jersey with number 3",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the lacrosse player in a navy jersey with number 3 doing in this moment?",
+      "modified": "What is the lacrosse player in a navy jersey with number 3 doing in this moment?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the lacrosse player in a navy jersey with number 3 wearing a helmet?",
+      "modified": "Is the lacrosse player in a navy jersey with number 3 wearing a helmet?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the lacrosse player in a navy jersey with number 3 appear to be standing near other players?",
+      "modified": "Does the lacrosse player in a navy jersey with number 3 appear to be standing near other players?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Which direction is the lacrosse player in a navy jersey with number 3 facing?",
+      "modified": "Which direction is the lacrosse player on the right in a navy jersey with number 3 facing?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the lacrosse player in a navy jersey with number 3 holding a lacrosse stick?",
+      "modified": "Is the lacrosse player on the right in a navy jersey with number 3 holding a lacrosse stick?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the lacrosse player in a navy jersey with number 3 look like part of the opposing team from the players in white?",
+      "modified": "Does the lacrosse player on the right in a navy jersey with number 3 look like part of the opposing team from the players in white?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "What color are the shorts worn by the lacrosse player in a navy jersey with number 3?",
+      "modified": "What color are the shorts worn by the lacrosse player on the right in a navy jersey with number 3?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the lacrosse player in a navy jersey with number 3 in the middle of the group?",
+      "modified": "Is the lacrosse player on the right in a navy jersey with number 3 in the middle of the group?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the lacrosse player in a navy jersey with number 3 seem to be watching the nearby players?",
+      "modified": "Does the lacrosse player on the right in a navy jersey with number 3 seem to be watching the nearby players?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the lacrosse player in a navy jersey with number 3 on a sports field?",
+      "modified": "Is the lacrosse player on the right in a navy jersey with number 3 on a sports field?",
+      "false_premise": true
+    }
+  ]
+}

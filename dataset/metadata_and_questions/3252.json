@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3252",
+    "source": "COCO",
+    "complexity": 3,
+    "category": 2,
+    "target": "car"
+  },
+  "base": {
+    "target_description": "the black car driving uphill",
+    "modified_target_description": "the white car driving uphill",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the black car driving uphill in the middle of the street or closer to the curb?",
+      "modified": "Is the black car driving uphill in the middle of the street or closer to the curb?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the black car driving uphill appear to be moving away from the camera?",
+      "modified": "Does the black car driving uphill appear to be moving away from the camera?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the black car driving uphill behind another vehicle on the road?",
+      "modified": "Is the black car driving uphill behind another vehicle on the road?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Can you see the rear of the black car driving uphill more clearly than the front?",
+      "modified": "Can you see the rear of the white car driving uphill more clearly than the front?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the black car driving uphill on a city street with parked cars along the side?",
+      "modified": "Is the white car driving uphill on a city street with parked cars along the side?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the black car driving uphill look like it is staying in its lane?",
+      "modified": "Does the white car driving uphill look like it is staying in its lane?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the black car driving uphill closer to the right side of the road than the left?",
+      "modified": "Is the white car driving uphill closer to the right side of the road than the left?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Are there any pedestrians visible near the black car driving uphill?",
+      "modified": "Are there any pedestrians visible near the white car driving uphill?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the black car driving uphill appear smaller than the parked cars in the foreground?",
+      "modified": "Does the white car driving uphill appear smaller than the parked cars in the foreground?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the black car driving uphill heading toward the top of the image?",
+      "modified": "Is the white car driving uphill heading toward the top of the image?",
+      "false_premise": true
+    }
+  ]
+}

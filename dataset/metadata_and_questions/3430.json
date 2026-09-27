@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3430",
+    "source": "Open Images",
+    "complexity": 3,
+    "category": 4,
+    "target": "apple"
+  },
+  "base": {
+    "target_description": "the yellow-red apple in the box",
+    "modified_target_description": "the yellow-red orange in the box",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the yellow-red apple in the box resting on top of other apples?",
+      "modified": "Is the yellow-red apple in the box resting on top of other apples?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the yellow-red apple in the box look fresh or a little bruised?",
+      "modified": "Does the yellow-red apple in the box look fresh or a little bruised?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the yellow-red apple in the box part of a large pile at a market stand?",
+      "modified": "Is the yellow-red apple in the box part of a large pile at a market stand?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the yellow-red apple in the box have more yellow than red on its skin?",
+      "modified": "Does the yellow-red orange in the box have more yellow than red on its skin?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the yellow-red apple in the box near a handwritten sign?",
+      "modified": "Is the yellow-red orange in the box near a handwritten sign?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the yellow-red apple in the box appear round and full-sized?",
+      "modified": "Does the yellow-red orange in the box appear round and full-sized?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the yellow-red apple in the box surrounded by many other apples?",
+      "modified": "Is the yellow-red orange in the box surrounded by many other apples?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the yellow-red apple in the box look like it is being sold loose rather than packaged?",
+      "modified": "Does the yellow-red orange in the box look like it is being sold loose rather than packaged?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the yellow-red apple in the box in the foreground of the image?",
+      "modified": "Is the yellow-red orange in the box in the foreground of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the yellow-red apple in the box seem to be one of the Fuji apples on display?",
+      "modified": "Does the yellow-red orange in the box seem to be one of the Fuji apples on display?",
+      "false_premise": true
+    }
+  ]
+}

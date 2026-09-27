@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2472",
+    "source": "COCO",
+    "complexity": 2,
+    "category": 4,
+    "target": "hot dog"
+  },
+  "base": {
+    "target_description": "the hot dog with relish and diced tomatoes",
+    "modified_target_description": "the hot dog with relish and diced tomatoes on the right side of the tray",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the hot dog with relish and diced tomatoes resting on?",
+      "modified": "What is the hot dog with relish and diced tomatoes resting on?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the hot dog with relish and diced tomatoes served in a bun?",
+      "modified": "Is the hot dog with relish and diced tomatoes served in a bun?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the hot dog with relish and diced tomatoes look like it has condiments on top?",
+      "modified": "Does the hot dog with relish and diced tomatoes look like it has condiments on top?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the hot dog with relish and diced tomatoes placed next to a side of fries?",
+      "modified": "Is the hot dog with relish and diced tomatoes on the right side of the tray placed next to a side of fries?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "What kind of tray is the hot dog with relish and diced tomatoes sitting on?",
+      "modified": "What kind of tray is the hot dog with relish and diced tomatoes on the right side of the tray sitting on?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the hot dog with relish and diced tomatoes appear longer than the fries beside it?",
+      "modified": "Does the hot dog with relish and diced tomatoes on the right side of the tray appear longer than the fries beside it?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the hot dog with relish and diced tomatoes positioned on the left side of the tray?",
+      "modified": "Is the hot dog with relish and diced tomatoes on the right side of the tray positioned on the left side of the tray?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the hot dog with relish and diced tomatoes look ready to eat?",
+      "modified": "Does the hot dog with relish and diced tomatoes on the right side of the tray look ready to eat?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Are there visible toppings spread along the hot dog with relish and diced tomatoes?",
+      "modified": "Are there visible toppings spread along the hot dog with relish and diced tomatoes on the right side of the tray?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the hot dog with relish and diced tomatoes served as part of a meal with dipping sauces?",
+      "modified": "Is the hot dog with relish and diced tomatoes on the right side of the tray served as part of a meal with dipping sauces?",
+      "false_premise": true
+    }
+  ]
+}

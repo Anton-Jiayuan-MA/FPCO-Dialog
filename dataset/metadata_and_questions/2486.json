@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2486",
+    "source": "Open Images",
+    "complexity": 2,
+    "category": 4,
+    "target": "liquor"
+  },
+  "base": {
+    "target_description": "the dark Brugal liquor bottle with a blue label",
+    "modified_target_description": "the dark Brugal liquor bottle with a blue label on the left",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the dark Brugal liquor bottle with a blue label standing upright on the table?",
+      "modified": "Is the dark Brugal liquor bottle with a blue label standing upright on the table?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Can you clearly see the brand name on the dark Brugal liquor bottle with a blue label?",
+      "modified": "Can you clearly see the brand name on the dark Brugal liquor bottle with a blue label?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the dark Brugal liquor bottle with a blue label positioned near other bottles?",
+      "modified": "Is the dark Brugal liquor bottle with a blue label positioned near other bottles?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the dark Brugal liquor bottle with a blue label appear to be full?",
+      "modified": "Does the dark Brugal liquor bottle with a blue label on the left appear to be full?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the dark Brugal liquor bottle with a blue label in the front row of the display?",
+      "modified": "Is the dark Brugal liquor bottle with a blue label on the left in the front row of the display?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the dark Brugal liquor bottle with a blue label partly blocked by the wooden box?",
+      "modified": "Is the dark Brugal liquor bottle with a blue label on the left partly blocked by the wooden box?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the dark Brugal liquor bottle with a blue label have a light-colored cap?",
+      "modified": "Does the dark Brugal liquor bottle with a blue label on the left have a light-colored cap?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the dark Brugal liquor bottle with a blue label placed indoors?",
+      "modified": "Is the dark Brugal liquor bottle with a blue label on the left placed indoors?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the dark Brugal liquor bottle with a blue label darker than the clear Brugal bottles beside it?",
+      "modified": "Is the dark Brugal liquor bottle with a blue label on the left darker than the clear Brugal bottles beside it?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the dark Brugal liquor bottle with a blue label look like part of a product display?",
+      "modified": "Does the dark Brugal liquor bottle with a blue label on the left look like part of a product display?",
+      "false_premise": true
+    }
+  ]
+}

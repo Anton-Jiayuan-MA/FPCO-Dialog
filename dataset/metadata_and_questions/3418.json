@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3418",
+    "source": "COCO",
+    "complexity": 3,
+    "category": 4,
+    "target": "apple"
+  },
+  "base": {
+    "target_description": "the green apples in plastic bags",
+    "modified_target_description": "the green pears in plastic bags",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "How many of the green apples in plastic bags are visible in the image?",
+      "modified": "How many of the green apples in plastic bags are visible in the image?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Are the green apples in plastic bags stacked closely together?",
+      "modified": "Are the green apples in plastic bags stacked closely together?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Do the green apples in plastic bags look fresh?",
+      "modified": "Do the green apples in plastic bags look fresh?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Are the green apples in plastic bags being displayed for sale?",
+      "modified": "Are the green pears in plastic bags being displayed for sale?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Do the green apples in plastic bags fill most of the frame?",
+      "modified": "Do the green pears in plastic bags fill most of the frame?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Are the green apples in plastic bags packed in clear wrapping?",
+      "modified": "Are the green pears in plastic bags packed in clear wrapping?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Do the green apples in plastic bags appear to be in a grocery produce section?",
+      "modified": "Do the green pears in plastic bags appear to be in a grocery produce section?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Are the green apples in plastic bags all the same shade of green?",
+      "modified": "Are the green pears in plastic bags all the same shade of green?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Do the green apples in plastic bags have brand labels on the packaging?",
+      "modified": "Do the green pears in plastic bags have brand labels on the packaging?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Are the green apples in plastic bags arranged in overlapping piles?",
+      "modified": "Are the green pears in plastic bags arranged in overlapping piles?",
+      "false_premise": true
+    }
+  ]
+}

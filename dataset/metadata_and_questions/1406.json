@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1406",
+    "source": "COCO",
+    "complexity": 1,
+    "category": 4,
+    "target": "pizza"
+  },
+  "base": {
+    "target_description": "the mushroom and ham pizza",
+    "modified_target_description": "the mushroom and ham sandwich",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What toppings can you see on the mushroom and ham pizza?",
+      "modified": "What toppings can you see on the mushroom and ham pizza?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the mushroom and ham pizza cut into slices yet?",
+      "modified": "Is the mushroom and ham pizza cut into slices yet?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the mushroom and ham pizza look fully baked?",
+      "modified": "Does the mushroom and ham pizza look fully baked?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "What kind of crust does the mushroom and ham pizza appear to have?",
+      "modified": "What kind of crust does the mushroom and ham sandwich appear to have?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is there melted cheese covering the mushroom and ham pizza?",
+      "modified": "Is there melted cheese covering the mushroom and ham sandwich?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the mushroom and ham pizza look homemade or store-bought?",
+      "modified": "Does the mushroom and ham sandwich look homemade or store-bought?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Are the mushrooms spread evenly across the mushroom and ham pizza?",
+      "modified": "Are the mushrooms spread evenly across the mushroom and ham sandwich?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "What is the mushroom and ham pizza resting on?",
+      "modified": "What is the mushroom and ham sandwich resting on?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the mushroom and ham pizza have a thick layer of toppings?",
+      "modified": "Does the mushroom and ham sandwich have a thick layer of toppings?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Can you see any tomato sauce on the mushroom and ham pizza?",
+      "modified": "Can you see any tomato sauce on the mushroom and ham sandwich?",
+      "false_premise": true
+    }
+  ]
+}

@@ -52,7 +52,7 @@ Read README.md and code/README.md first, then:
    a smoke test reproduces the paper's scores.
 ```
 
-## Quick start
+## Quick Start
 
 Use Python 3.10 for the reference environment. The published dataset already
 contains the questions; you do not need to regenerate them.

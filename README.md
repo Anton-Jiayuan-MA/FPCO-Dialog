@@ -10,6 +10,26 @@ Official code and dataset for FPCO-Dialog, accepted at EMNLP2026 Main Conference
 
 Click the figure to view or download the original PDF.
 
+## Quick start
+
+Use Python 3.10 for the reference environment. The published dataset already
+contains the questions; you do not need to regenerate them.
+
+```bash
+git clone https://github.com/lab-klc/FPCO-Dialog.git
+cd FPCO-Dialog
+python3.10 -m venv .venv
+source .venv/bin/activate
+python -m pip install -r requirements.txt
+python code/check_dataset.py --expected-count 1080
+```
+
+The check is read-only and needs no API key or GPU. See the
+[installation and evaluation guide](code/README.md) for API credentials, local
+model environments, inference, response detection, statistics, and troubleshooting.
+API calls incur provider charges; local inference requires downloaded model
+weights and sufficient hardware. API model availability depends on your account.
+
 ## Citation
 
 If you find this code useful, please cite our paper:

@@ -1,0 +1,4 @@
+# API runners and offline tests. Python 3.10 is the reference environment.
+# Gemini, dataset validation, and statistics also run with the standard library alone.
+openai==2.30.0
+httpx==0.28.1

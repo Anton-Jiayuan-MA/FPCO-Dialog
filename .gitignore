@@ -1,4 +1,9 @@
 # Byte-compiled / optimized / DLL files
+# Local inference artifacts and isolated environments (published results stay tracked).
+/output/
+/runs/
+/models/
+/.venv*/
 __pycache__/
 *.py[codz]
 *$py.class

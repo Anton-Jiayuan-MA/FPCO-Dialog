@@ -319,7 +319,7 @@ class LocalInternRunner:
         if transformers_version != "4.37.2":
             raise RuntimeError(
                 "InternVL2.5 requires its separate Transformers 4.37.2 environment. "
-                "Install requirements-internvl.txt in a new virtual environment; see code/README.md."
+                "Install requirements/requirements-internvl.txt in a new virtual environment; see code/README.md."
             )
         self.model_path = args.model_path
         self.device = args.device

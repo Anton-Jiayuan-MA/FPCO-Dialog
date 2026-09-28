@@ -17,6 +17,7 @@ jobs:
         with:
           python-version: ${{ matrix.python-version }}
           cache: pip
-      - run: python -m pip install -r requirements.txt
+          cache-dependency-path: 'requirements/*.txt'
+      - run: python -m pip install -r requirements/requirements.txt
       - run: python -B -m unittest discover -s tests -v
       - run: python -B code/check_dataset.py --expected-count 1080

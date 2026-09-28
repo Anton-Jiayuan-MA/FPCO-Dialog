@@ -10,9 +10,9 @@ create a Python 3.10 Conda environment. On Windows, activate a venv with
 
 | Workflow | Dependency file | Notes |
 | --- | --- | --- |
-| API benchmarks and detectors | `requirements.txt` | No GPU or model weights needed |
-| Local Qwen / LLaVA | `requirements-local.txt` | Transformers 5.4.0 |
-| Local InternVL2.5 | `requirements-internvl.txt` | Separate environment, Transformers 4.37.2 |
+| API benchmarks and detectors | `requirements/requirements.txt` | No GPU or model weights needed |
+| Local Qwen / LLaVA | `requirements/requirements-local.txt` | Transformers 5.4.0 |
+| Local InternVL2.5 | `requirements/requirements-internvl.txt` | Separate environment, Transformers 4.37.2 |
 | Dataset checks / statistics / Gemini HTTP calls | Standard library | No third-party dependencies required |
 
 Start with the API environment:
@@ -20,7 +20,7 @@ Start with the API environment:
 ```bash
 python3.10 -m venv .venv
 source .venv/bin/activate
-python -m pip install -r requirements.txt
+python -m pip install -r requirements/requirements.txt
 ```
 
 The files pin the principal runtime dependencies from the reference environment;
@@ -143,7 +143,7 @@ for CPU or other supported CUDA builds.
 python3.10 -m venv .venv-local
 source .venv-local/bin/activate
 python -m pip install torch==2.11.0 torchvision==0.26.0 --index-url https://download.pytorch.org/whl/cu128
-python -m pip install -r requirements-local.txt
+python -m pip install -r requirements/requirements-local.txt
 hf download Qwen/Qwen2.5-VL-3B-Instruct --local-dir models/Qwen2.5-VL-3B-Instruct
 python code/benchmark_local_qwen.py --model-path models/Qwen2.5-VL-3B-Instruct --output-subdir qwen_local --limit 1
 ```
@@ -163,7 +163,7 @@ version follows the reference experiment setup and the model's
 python3.10 -m venv .venv-internvl
 source .venv-internvl/bin/activate
 python -m pip install torch==2.11.0 torchvision==0.26.0 --index-url https://download.pytorch.org/whl/cu128
-python -m pip install -r requirements-internvl.txt
+python -m pip install -r requirements/requirements-internvl.txt
 hf download OpenGVLab/InternVL2_5-8B --local-dir models/InternVL2_5-8B
 python code/benchmark_local_intern.py --model-path models/InternVL2_5-8B --torch-dtype bfloat16 --use-flash-attn false --limit 1
 ```

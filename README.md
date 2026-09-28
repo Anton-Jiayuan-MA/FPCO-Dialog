@@ -62,7 +62,7 @@ git clone https://github.com/lab-klc/FPCO-Dialog.git
 cd FPCO-Dialog
 python3.10 -m venv .venv
 source .venv/bin/activate
-python -m pip install -r requirements.txt
+python -m pip install -r requirements/requirements.txt
 python code/check_dataset.py --expected-count 1080
 ```
 

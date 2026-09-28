@@ -17,7 +17,7 @@ local models and measure their correction and cooperation behavior.
 
 Click the figure to view or download the original PDF.
 
-## Quicker Start (AI-Assisted)
+## Quicker Start (Copy the Prompt Below to Your AI Agent)
 
 Copy the prompt below into an AI coding assistant with terminal and file access:
 

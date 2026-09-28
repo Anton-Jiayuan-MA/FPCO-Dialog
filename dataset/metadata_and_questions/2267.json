@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2267",
+    "source": "Open Images",
+    "complexity": 2,
+    "category": 2,
+    "target": "race car"
+  },
+  "base": {
+    "target_description": "the red race car on the track",
+    "modified_target_description": "the red race car on the left",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the red race car on the track moving forward along the racetrack?",
+      "modified": "Is the red race car on the track moving forward along the racetrack?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the red race car on the track appear to be near other race cars?",
+      "modified": "Does the red race car on the track appear to be near other race cars?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the red race car on the track closer to the right side of the image than the left?",
+      "modified": "Is the red race car on the track closer to the right side of the image than the left?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the red race car on the track have a low, sleek shape?",
+      "modified": "Does the red race car on the left have a low, sleek shape?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the red race car on the track driving on a paved racing surface?",
+      "modified": "Is the red race car on the left driving on a paved racing surface?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the red race car on the track look like it is in the middle of a race?",
+      "modified": "Does the red race car on the left look like it is in the middle of a race?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the red race car on the track positioned in front of the pit building area?",
+      "modified": "Is the red race car on the left positioned in front of the pit building area?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the red race car on the track appear smaller than the nearby white race car to its left?",
+      "modified": "Does the red race car on the left appear smaller than the nearby white race car to its left?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the red race car on the track beneath large track signage?",
+      "modified": "Is the red race car on the left beneath large track signage?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the red race car on the track seem to be approaching the camera?",
+      "modified": "Does the red race car on the left seem to be approaching the camera?",
+      "false_premise": true
+    }
+  ]
+}

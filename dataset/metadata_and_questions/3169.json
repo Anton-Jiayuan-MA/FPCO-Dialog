@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3169",
+    "source": "Open Images",
+    "complexity": 3,
+    "category": 1,
+    "target": "person"
+  },
+  "base": {
+    "target_description": "the bride in a white dress with a veil",
+    "modified_target_description": "the bride in a white dress with a veil on the left",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the bride in a white dress with a veil sitting down in the photo?",
+      "modified": "Is the bride in a white dress with a veil sitting down in the photo?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "What is the bride in a white dress with a veil holding in her hands?",
+      "modified": "What is the bride in a white dress with a veil holding in her hands?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the bride in a white dress with a veil smiling?",
+      "modified": "Is the bride in a white dress with a veil smiling?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Where is the bride in a white dress with a veil positioned among the group?",
+      "modified": "Where is the bride in a white dress with a veil on the left positioned among the group?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the bride in a white dress with a veil wearing a necklace?",
+      "modified": "Is the bride in a white dress with a veil on the left wearing a necklace?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "What color are the flowers held by the bride in a white dress with a veil?",
+      "modified": "What color are the flowers held by the bride in a white dress with a veil on the left?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the bride in a white dress with a veil looking toward the camera?",
+      "modified": "Is the bride in a white dress with a veil on the left looking toward the camera?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Who is sitting next to the bride in a white dress with a veil?",
+      "modified": "Who is sitting next to the bride in a white dress with a veil on the left?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the bride in a white dress with a veil appear to be the center of attention in the group?",
+      "modified": "Does the bride in a white dress with a veil on the left appear to be the center of attention in the group?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the bride in a white dress with a veil indoors or in a covered outdoor setting?",
+      "modified": "Is the bride in a white dress with a veil on the left indoors or in a covered outdoor setting?",
+      "false_premise": true
+    }
+  ]
+}

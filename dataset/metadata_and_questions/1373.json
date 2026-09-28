@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1373",
+    "source": "COCO",
+    "complexity": 1,
+    "category": 3,
+    "target": "dog"
+  },
+  "base": {
+    "target_description": "the brown and white dog running in the grass",
+    "modified_target_description": "the brown and white dog on the right",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the brown and white dog running in the grass moving toward?",
+      "modified": "What is the brown and white dog running in the grass moving toward?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the brown and white dog running in the grass close to a frisbee?",
+      "modified": "Is the brown and white dog running in the grass close to a frisbee?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the brown and white dog running in the grass look like it is playing?",
+      "modified": "Does the brown and white dog running in the grass look like it is playing?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the brown and white dog running in the grass facing the camera?",
+      "modified": "Is the brown and white dog on the right facing the camera?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the brown and white dog running in the grass appear to be in motion?",
+      "modified": "Does the brown and white dog on the right appear to be in motion?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the brown and white dog running in the grass out in an open field?",
+      "modified": "Is the brown and white dog on the right out in an open field?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the brown and white dog running in the grass have its mouth open?",
+      "modified": "Does the brown and white dog on the right have its mouth open?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the brown and white dog running in the grass behind the frisbee?",
+      "modified": "Is the brown and white dog on the right behind the frisbee?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the brown and white dog running in the grass seem energetic?",
+      "modified": "Does the brown and white dog on the right seem energetic?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the brown and white dog running in the grass the main focus of the image?",
+      "modified": "Is the brown and white dog on the right the main focus of the image?",
+      "false_premise": true
+    }
+  ]
+}

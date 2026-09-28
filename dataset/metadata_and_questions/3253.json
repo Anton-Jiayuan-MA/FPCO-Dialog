@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3253",
+    "source": "COCO",
+    "complexity": 3,
+    "category": 2,
+    "target": "bicycle"
+  },
+  "base": {
+    "target_description": "the blue bicycle with a front basket",
+    "modified_target_description": "the red bicycle with a front basket",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the blue bicycle with a front basket being ridden across the street?",
+      "modified": "Is the blue bicycle with a front basket being ridden across the street?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the blue bicycle with a front basket appear to be moving in traffic?",
+      "modified": "Does the blue bicycle with a front basket appear to be moving in traffic?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Can you see both wheels of the blue bicycle with a front basket clearly?",
+      "modified": "Can you see both wheels of the blue bicycle with a front basket clearly?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the blue bicycle with a front basket next to larger vehicles on the road?",
+      "modified": "Is the red bicycle with a front basket next to larger vehicles on the road?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the blue bicycle with a front basket have anything visible inside the basket?",
+      "modified": "Does the red bicycle with a front basket have anything visible inside the basket?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the blue bicycle with a front basket oriented toward the left side of the image?",
+      "modified": "Is the red bicycle with a front basket oriented toward the left side of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the blue bicycle with a front basket look like a city or commuter bike?",
+      "modified": "Does the red bicycle with a front basket look like a city or commuter bike?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the blue bicycle with a front basket the main vehicle in the foreground?",
+      "modified": "Is the red bicycle with a front basket the main vehicle in the foreground?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the blue bicycle with a front basket have a rear rack attached?",
+      "modified": "Does the red bicycle with a front basket have a rear rack attached?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the blue bicycle with a front basket being used by someone wearing a helmet?",
+      "modified": "Is the red bicycle with a front basket being used by someone wearing a helmet?",
+      "false_premise": true
+    }
+  ]
+}

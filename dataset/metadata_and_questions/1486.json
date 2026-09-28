@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1486",
+    "source": "Open Images",
+    "complexity": 1,
+    "category": 4,
+    "target": "celeriac"
+  },
+  "base": {
+    "target_description": "the round celeriac with green stalks",
+    "modified_target_description": "the round celeriac with green stalks on the left",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What color is the round celeriac with green stalks?",
+      "modified": "What color is the round celeriac with green stalks?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the round celeriac with green stalks sitting on a white plate?",
+      "modified": "Is the round celeriac with green stalks sitting on a white plate?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the round celeriac with green stalks still have its stems attached?",
+      "modified": "Does the round celeriac with green stalks still have its stems attached?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the round celeriac with green stalks shown whole or cut up?",
+      "modified": "Is the round celeriac with green stalks on the left shown whole or cut up?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the round celeriac with green stalks have roots visible at the bottom?",
+      "modified": "Does the round celeriac with green stalks on the left have roots visible at the bottom?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the round celeriac with green stalks photographed close up?",
+      "modified": "Is the round celeriac with green stalks on the left photographed close up?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the round celeriac with green stalks look fresh?",
+      "modified": "Does the round celeriac with green stalks on the left look fresh?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the round celeriac with green stalks centered in the image?",
+      "modified": "Is the round celeriac with green stalks on the left centered in the image?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the round celeriac with green stalks appear raw?",
+      "modified": "Does the round celeriac with green stalks on the left appear raw?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the round celeriac with green stalks placed upright?",
+      "modified": "Is the round celeriac with green stalks on the left placed upright?",
+      "false_premise": true
+    }
+  ]
+}

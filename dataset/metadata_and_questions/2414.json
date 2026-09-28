@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2414",
+    "source": "COCO",
+    "complexity": 2,
+    "category": 4,
+    "target": "pizza"
+  },
+  "base": {
+    "target_description": "the rectangular pizza on the right tray",
+    "modified_target_description": "the rectangular cake on the right tray",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What toppings are visible on the rectangular pizza on the right tray?",
+      "modified": "What toppings are visible on the rectangular pizza on the right tray?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the rectangular pizza on the right tray covered with shredded cheese?",
+      "modified": "Is the rectangular pizza on the right tray covered with shredded cheese?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the rectangular pizza on the right tray look baked yet or still uncooked?",
+      "modified": "Does the rectangular pizza on the right tray look baked yet or still uncooked?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "What kind of sauce can you see on the rectangular pizza on the right tray?",
+      "modified": "What kind of sauce can you see on the rectangular cake on the right tray?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the rectangular pizza on the right tray sitting in a baking pan?",
+      "modified": "Is the rectangular cake on the right tray sitting in a baking pan?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the rectangular pizza on the right tray have meat among its toppings?",
+      "modified": "Does the rectangular cake on the right tray have meat among its toppings?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Are there diced vegetables visible on the rectangular pizza on the right tray?",
+      "modified": "Are there diced vegetables visible on the rectangular cake on the right tray?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "How full of toppings does the rectangular pizza on the right tray look?",
+      "modified": "How full of toppings does the rectangular cake on the right tray look?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the crust of the rectangular pizza on the right tray thick around the edges?",
+      "modified": "Is the crust of the rectangular cake on the right tray thick around the edges?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the rectangular pizza on the right tray appear to be prepared alongside another pizza?",
+      "modified": "Does the rectangular cake on the right tray appear to be prepared alongside another pizza?",
+      "false_premise": true
+    }
+  ]
+}

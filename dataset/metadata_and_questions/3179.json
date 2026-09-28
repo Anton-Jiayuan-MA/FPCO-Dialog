@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3179",
+    "source": "COCO",
+    "complexity": 3,
+    "category": 1,
+    "target": "person"
+  },
+  "base": {
+    "target_description": "the blonde woman in a white sleeveless top",
+    "modified_target_description": "the blonde woman in a white sleeveless top on the right",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the blonde woman in a white sleeveless top doing at the table?",
+      "modified": "What is the blonde woman in a white sleeveless top doing at the table?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the blonde woman in a white sleeveless top seated or standing?",
+      "modified": "Is the blonde woman in a white sleeveless top seated or standing?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Which side of the table is the blonde woman in a white sleeveless top sitting on?",
+      "modified": "Which side of the table is the blonde woman in a white sleeveless top sitting on?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the blonde woman in a white sleeveless top appear to be holding a plate?",
+      "modified": "Does the blonde woman in a white sleeveless top on the right appear to be holding a plate?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the blonde woman in a white sleeveless top close to the grill?",
+      "modified": "Is the blonde woman in a white sleeveless top on the right close to the grill?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the blonde woman in a white sleeveless top eating during the outdoor gathering?",
+      "modified": "Is the blonde woman in a white sleeveless top on the right eating during the outdoor gathering?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "What is directly in front of the blonde woman in a white sleeveless top?",
+      "modified": "What is directly in front of the blonde woman in a white sleeveless top on the right?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the blonde woman in a white sleeveless top facing toward the center of the table?",
+      "modified": "Is the blonde woman in a white sleeveless top on the right facing toward the center of the table?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the blonde woman in a white sleeveless top seem engaged with the group meal?",
+      "modified": "Does the blonde woman in a white sleeveless top on the right seem engaged with the group meal?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the blonde woman in a white sleeveless top sitting near the front left of the image?",
+      "modified": "Is the blonde woman in a white sleeveless top on the right sitting near the front left of the image?",
+      "false_premise": true
+    }
+  ]
+}

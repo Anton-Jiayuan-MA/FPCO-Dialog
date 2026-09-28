@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3371",
+    "source": "Open Images",
+    "complexity": 3,
+    "category": 3,
+    "target": "goat"
+  },
+  "base": {
+    "target_description": "the white and brown goat lying in the foreground",
+    "modified_target_description": "the white and brown goat lying in the background",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the white and brown goat lying in the foreground resting on the dry grass?",
+      "modified": "Is the white and brown goat lying in the foreground resting on the dry grass?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the white and brown goat lying in the foreground appear relaxed?",
+      "modified": "Does the white and brown goat lying in the foreground appear relaxed?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the white and brown goat lying in the foreground facing toward the right side of the image?",
+      "modified": "Is the white and brown goat lying in the foreground facing toward the right side of the image?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the white and brown goat lying in the foreground have long floppy ears?",
+      "modified": "Does the white and brown goat lying in the background have long floppy ears?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the white and brown goat lying in the foreground closer to the camera than the other goats?",
+      "modified": "Is the white and brown goat lying in the background closer to the camera than the other goats?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the white and brown goat lying in the foreground look like a young goat?",
+      "modified": "Does the white and brown goat lying in the background look like a young goat?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the white and brown goat lying in the foreground stretched out on the ground?",
+      "modified": "Is the white and brown goat lying in the background stretched out on the ground?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the white and brown goat lying in the foreground have its eyes partly closed?",
+      "modified": "Does the white and brown goat lying in the background have its eyes partly closed?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the white and brown goat lying in the foreground surrounded by straw or dry grass?",
+      "modified": "Is the white and brown goat lying in the background surrounded by straw or dry grass?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the white and brown goat lying in the foreground seem to be resting beside other goats?",
+      "modified": "Does the white and brown goat lying in the background seem to be resting beside other goats?",
+      "false_premise": true
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1318",
+    "source": "COCO",
+    "complexity": 1,
+    "category": 3,
+    "target": "cat"
+  },
+  "base": {
+    "target_description": "the white and orange cat with pale eyes",
+    "modified_target_description": "the white and orange dog with pale eyes",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the white and orange cat with pale eyes looking toward the camera?",
+      "modified": "Is the white and orange cat with pale eyes looking toward the camera?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the white and orange cat with pale eyes appear calm in this image?",
+      "modified": "Does the white and orange cat with pale eyes appear calm in this image?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the white and orange cat with pale eyes shown in a close-up view?",
+      "modified": "Is the white and orange cat with pale eyes shown in a close-up view?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Can you clearly see the face of the white and orange cat with pale eyes?",
+      "modified": "Can you clearly see the face of the white and orange dog with pale eyes?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the white and orange cat with pale eyes have a pink nose?",
+      "modified": "Does the white and orange dog with pale eyes have a pink nose?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the white and orange cat with pale eyes centered in the frame?",
+      "modified": "Is the white and orange dog with pale eyes centered in the frame?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the white and orange cat with pale eyes have orange fur around the top of its head?",
+      "modified": "Does the white and orange dog with pale eyes have orange fur around the top of its head?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Are both eyes of the white and orange cat with pale eyes visible?",
+      "modified": "Are both eyes of the white and orange dog with pale eyes visible?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the white and orange cat with pale eyes seem to be indoors?",
+      "modified": "Does the white and orange dog with pale eyes seem to be indoors?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the white and orange cat with pale eyes filling most of the picture?",
+      "modified": "Is the white and orange dog with pale eyes filling most of the picture?",
+      "false_premise": true
+    }
+  ]
+}

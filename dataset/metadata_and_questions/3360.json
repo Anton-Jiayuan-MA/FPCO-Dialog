@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3360",
+    "source": "COCO",
+    "complexity": 3,
+    "category": 3,
+    "target": "giraffe"
+  },
+  "base": {
+    "target_description": "the sitting giraffe in the foreground",
+    "modified_target_description": "the standing giraffe in the foreground",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the sitting giraffe in the foreground doing in the scene?",
+      "modified": "What is the sitting giraffe in the foreground doing in the scene?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the sitting giraffe in the foreground facing toward the camera or away from it?",
+      "modified": "Is the sitting giraffe in the foreground facing toward the camera or away from it?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the sitting giraffe in the foreground have its neck raised upright?",
+      "modified": "Does the sitting giraffe in the foreground have its neck raised upright?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the sitting giraffe in the foreground resting on the grass?",
+      "modified": "Is the standing giraffe in the foreground resting on the grass?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Can you clearly see the spotted pattern on the sitting giraffe in the foreground?",
+      "modified": "Can you clearly see the spotted pattern on the standing giraffe in the foreground?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the sitting giraffe in the foreground closer to the viewer than the other giraffes?",
+      "modified": "Is the standing giraffe in the foreground closer to the viewer than the other giraffes?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the sitting giraffe in the foreground appear calm and still?",
+      "modified": "Does the standing giraffe in the foreground appear calm and still?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the sitting giraffe in the foreground surrounded by other giraffes in the background?",
+      "modified": "Is the standing giraffe in the foreground surrounded by other giraffes in the background?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Can you see the full body of the sitting giraffe in the foreground?",
+      "modified": "Can you see the full body of the standing giraffe in the foreground?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the sitting giraffe in the foreground positioned near the center of the image?",
+      "modified": "Is the standing giraffe in the foreground positioned near the center of the image?",
+      "false_premise": true
+    }
+  ]
+}

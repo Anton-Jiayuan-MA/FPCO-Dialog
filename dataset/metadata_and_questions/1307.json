@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1307",
+    "source": "COCO",
+    "complexity": 1,
+    "category": 3,
+    "target": "horse"
+  },
+  "base": {
+    "target_description": "the white horse grazing by a wooden fence",
+    "modified_target_description": "the white cow grazing by a wooden fence",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the white horse grazing by a wooden fence doing in the grass?",
+      "modified": "What is the white horse grazing by a wooden fence doing in the grass?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the white horse grazing by a wooden fence standing with its head down?",
+      "modified": "Is the white horse grazing by a wooden fence standing with its head down?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the white horse grazing by a wooden fence appear to be eating?",
+      "modified": "Does the white horse grazing by a wooden fence appear to be eating?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the white horse grazing by a wooden fence positioned next to a fence?",
+      "modified": "Is the white cow grazing by a wooden fence positioned next to a fence?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the white horse grazing by a wooden fence take up most of the image?",
+      "modified": "Does the white cow grazing by a wooden fence take up most of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the white horse grazing by a wooden fence facing left in the picture?",
+      "modified": "Is the white cow grazing by a wooden fence facing left in the picture?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Can you see the full body of the white horse grazing by a wooden fence?",
+      "modified": "Can you see the full body of the white cow grazing by a wooden fence?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the white horse grazing by a wooden fence out in a grassy area?",
+      "modified": "Is the white cow grazing by a wooden fence out in a grassy area?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the white horse grazing by a wooden fence look calm and still?",
+      "modified": "Does the white cow grazing by a wooden fence look calm and still?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the white horse grazing by a wooden fence the main subject of the scene?",
+      "modified": "Is the white cow grazing by a wooden fence the main subject of the scene?",
+      "false_premise": true
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3279",
+    "source": "Open Images",
+    "complexity": 3,
+    "category": 2,
+    "target": "motorcycle"
+  },
+  "base": {
+    "target_description": "the black vintage motorcycle with a sidecar",
+    "modified_target_description": "the black vintage motorcycle with a sidecar on the right",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the black vintage motorcycle with a sidecar parked on grass?",
+      "modified": "Is the black vintage motorcycle with a sidecar parked on grass?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the black vintage motorcycle with a sidecar appear to be part of a motorcycle gathering?",
+      "modified": "Does the black vintage motorcycle with a sidecar appear to be part of a motorcycle gathering?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the black vintage motorcycle with a sidecar facing toward the left side of the image?",
+      "modified": "Is the black vintage motorcycle with a sidecar facing toward the left side of the image?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the black vintage motorcycle with a sidecar have a large round headlight?",
+      "modified": "Does the black vintage motorcycle with a sidecar on the right have a large round headlight?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Can you see chrome details on the black vintage motorcycle with a sidecar?",
+      "modified": "Can you see chrome details on the black vintage motorcycle with a sidecar on the right?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the black vintage motorcycle with a sidecar closer to the camera than the other motorcycles?",
+      "modified": "Is the black vintage motorcycle with a sidecar on the right closer to the camera than the other motorcycles?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the black vintage motorcycle with a sidecar look like an older model than most of the others nearby?",
+      "modified": "Does the black vintage motorcycle with a sidecar on the right look like an older model than most of the others nearby?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the sidecar attached to the black vintage motorcycle with a sidecar on its left side?",
+      "modified": "Is the sidecar attached to the black vintage motorcycle with a sidecar on the right on its left side?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the black vintage motorcycle with a sidecar have a black seat?",
+      "modified": "Does the black vintage motorcycle with a sidecar on the right have a black seat?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the black vintage motorcycle with a sidecar stationary in the scene?",
+      "modified": "Is the black vintage motorcycle with a sidecar on the right stationary in the scene?",
+      "false_premise": true
+    }
+  ]
+}

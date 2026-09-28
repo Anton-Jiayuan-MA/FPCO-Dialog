@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1309",
+    "source": "Open Images",
+    "complexity": 1,
+    "category": 3,
+    "target": "dog"
+  },
+  "base": {
+    "target_description": "the black shaggy dog with an open mouth",
+    "modified_target_description": "the black shaggy cat with an open mouth",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the black shaggy dog with an open mouth sitting on a rug?",
+      "modified": "Is the black shaggy dog with an open mouth sitting on a rug?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the black shaggy dog with an open mouth look like it is panting?",
+      "modified": "Does the black shaggy dog with an open mouth look like it is panting?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the black shaggy dog with an open mouth indoors?",
+      "modified": "Is the black shaggy dog with an open mouth indoors?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the black shaggy dog with an open mouth facing the camera?",
+      "modified": "Is the black shaggy cat with an open mouth facing the camera?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the black shaggy dog with an open mouth have a collar on?",
+      "modified": "Does the black shaggy cat with an open mouth have a collar on?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the black shaggy dog with an open mouth near a door?",
+      "modified": "Is the black shaggy cat with an open mouth near a door?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the black shaggy dog with an open mouth standing or sitting?",
+      "modified": "Is the black shaggy cat with an open mouth standing or sitting?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the black shaggy dog with an open mouth appear to be on a wooden floor?",
+      "modified": "Does the black shaggy cat with an open mouth appear to be on a wooden floor?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the black shaggy dog with an open mouth looking upward?",
+      "modified": "Is the black shaggy cat with an open mouth looking upward?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Would you say the black shaggy dog with an open mouth seems alert?",
+      "modified": "Would you say the black shaggy cat with an open mouth seems alert?",
+      "false_premise": true
+    }
+  ]
+}

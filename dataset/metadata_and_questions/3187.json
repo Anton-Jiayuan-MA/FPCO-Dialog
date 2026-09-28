@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3187",
+    "source": "COCO",
+    "complexity": 3,
+    "category": 1,
+    "target": "person"
+  },
+  "base": {
+    "target_description": "the man in a blue vest drinking from a glass",
+    "modified_target_description": "the man in a blue vest on the left drinking from a glass",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the man in a blue vest drinking from a glass doing in the scene?",
+      "modified": "What is the man in a blue vest drinking from a glass doing in the scene?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the man in a blue vest drinking from a glass facing toward the counter?",
+      "modified": "Is the man in a blue vest drinking from a glass facing toward the counter?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "What is the man in a blue vest drinking from a glass holding up to his mouth?",
+      "modified": "What is the man in a blue vest drinking from a glass holding up to his mouth?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the man in a blue vest drinking from a glass appear to be tasting a drink?",
+      "modified": "Does the man in a blue vest on the left drinking from a glass appear to be tasting a drink?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the man in a blue vest drinking from a glass standing near several bottles?",
+      "modified": "Is the man in a blue vest on the left drinking from a glass standing near several bottles?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the man in a blue vest drinking from a glass indoors?",
+      "modified": "Is the man in a blue vest on the left drinking from a glass indoors?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the man in a blue vest drinking from a glass have his back mostly toward the camera?",
+      "modified": "Does the man in a blue vest on the left drinking from a glass have his back mostly toward the camera?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the man in a blue vest drinking from a glass next to another customer?",
+      "modified": "Is the man in a blue vest on the left drinking from a glass next to another customer?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the man in a blue vest drinking from a glass seem to be at a market stall or shop counter?",
+      "modified": "Does the man in a blue vest on the left drinking from a glass seem to be at a market stall or shop counter?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the man in a blue vest drinking from a glass interacting with the vendor across the counter?",
+      "modified": "Is the man in a blue vest on the left drinking from a glass interacting with the vendor across the counter?",
+      "false_premise": true
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3183",
+    "source": "COCO",
+    "complexity": 3,
+    "category": 1,
+    "target": "person"
+  },
+  "base": {
+    "target_description": "the man in a red ski jacket on the left",
+    "modified_target_description": "the man in a red ski jacket on the right",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the man in a red ski jacket on the left holding in his hands?",
+      "modified": "What is the man in a red ski jacket on the left holding in his hands?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the man in a red ski jacket on the left wearing skis on his feet?",
+      "modified": "Is the man in a red ski jacket on the left wearing skis on his feet?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the man in a red ski jacket on the left appear to be standing still for the photo?",
+      "modified": "Does the man in a red ski jacket on the left appear to be standing still for the photo?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the man in a red ski jacket on the left closer to the camera than the others?",
+      "modified": "Is the man in a red ski jacket on the right closer to the camera than the others?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "What kind of winter activity does the man in a red ski jacket on the left seem to be doing?",
+      "modified": "What kind of winter activity does the man in a red ski jacket on the right seem to be doing?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the man in a red ski jacket on the left wearing gloves?",
+      "modified": "Is the man in a red ski jacket on the right wearing gloves?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the man in a red ski jacket on the left have a hat on?",
+      "modified": "Does the man in a red ski jacket on the right have a hat on?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the man in a red ski jacket on the left smiling at the camera?",
+      "modified": "Is the man in a red ski jacket on the right smiling at the camera?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Where is the man in a red ski jacket on the left standing in relation to the rest of the group?",
+      "modified": "Where is the man in a red ski jacket on the right standing in relation to the rest of the group?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the man in a red ski jacket on the left out on a snowy slope?",
+      "modified": "Is the man in a red ski jacket on the right out on a snowy slope?",
+      "false_premise": true
+    }
+  ]
+}

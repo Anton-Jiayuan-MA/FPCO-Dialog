@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2406",
+    "source": "Open Images",
+    "complexity": 2,
+    "category": 4,
+    "target": "ice cream"
+  },
+  "base": {
+    "target_description": "the pink ice cream in the display case",
+    "modified_target_description": "the pink cake in the display case",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What flavor might the pink ice cream in the display case be?",
+      "modified": "What flavor might the pink ice cream in the display case be?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the pink ice cream in the display case in the top row or the bottom row?",
+      "modified": "Is the pink ice cream in the display case in the top row or the bottom row?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the pink ice cream in the display case look smooth or chunky?",
+      "modified": "Does the pink ice cream in the display case look smooth or chunky?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the pink ice cream in the display case partially scooped out?",
+      "modified": "Is the pink cake in the display case partially scooped out?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "What is placed directly next to the pink ice cream in the display case?",
+      "modified": "What is placed directly next to the pink cake in the display case?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the pink ice cream in the display case appear brightly lit?",
+      "modified": "Does the pink cake in the display case appear brightly lit?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the pink ice cream in the display case near the right side of the freezer?",
+      "modified": "Is the pink cake in the display case near the right side of the freezer?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the pink ice cream in the display case have a flavor label in front of it?",
+      "modified": "Does the pink cake in the display case have a flavor label in front of it?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the pink ice cream in the display case one of several flavors shown together?",
+      "modified": "Is the pink cake in the display case one of several flavors shown together?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the pink ice cream in the display case look ready to be served?",
+      "modified": "Does the pink cake in the display case look ready to be served?",
+      "false_premise": true
+    }
+  ]
+}

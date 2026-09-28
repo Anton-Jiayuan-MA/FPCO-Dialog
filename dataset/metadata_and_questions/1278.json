@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1278",
+    "source": "COCO",
+    "complexity": 1,
+    "category": 2,
+    "target": "boat"
+  },
+  "base": {
+    "target_description": "the large white yacht on the water",
+    "modified_target_description": "the large white yacht on the right side of the image",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the large white yacht on the water parked near the shore?",
+      "modified": "Is the large white yacht on the water parked near the shore?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the large white yacht on the water look stationary in the harbor?",
+      "modified": "Does the large white yacht on the water look stationary in the harbor?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the large white yacht on the water bigger than the nearby sailboat?",
+      "modified": "Is the large white yacht on the water bigger than the nearby sailboat?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the large white yacht on the water have multiple decks visible?",
+      "modified": "Does the large white yacht on the right side of the image have multiple decks visible?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the large white yacht on the water facing toward the right side of the image?",
+      "modified": "Is the large white yacht on the right side of the image facing toward the right side of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the large white yacht on the water appear to be docked rather than moving?",
+      "modified": "Does the large white yacht on the right side of the image appear to be docked rather than moving?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Can you see windows along the side of the large white yacht on the water?",
+      "modified": "Can you see windows along the side of the large white yacht on the right side of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the large white yacht on the water close to the edge of the marina?",
+      "modified": "Is the large white yacht on the right side of the image close to the edge of the marina?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the large white yacht on the water have ropes extending from its front?",
+      "modified": "Does the large white yacht on the right side of the image have ropes extending from its front?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the large white yacht on the water the most prominent boat in the scene?",
+      "modified": "Is the large white yacht on the right side of the image the most prominent boat in the scene?",
+      "false_premise": true
+    }
+  ]
+}

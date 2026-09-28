@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3164",
+    "source": "Open Images",
+    "complexity": 3,
+    "category": 1,
+    "target": "person"
+  },
+  "base": {
+    "target_description": "the man in a gray suit holding a camera",
+    "modified_target_description": "the man in a gray suit holding a camera on the right",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the man in a gray suit holding a camera doing in the room?",
+      "modified": "What is the man in a gray suit holding a camera doing in the room?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the man in a gray suit holding a camera seated or standing?",
+      "modified": "Is the man in a gray suit holding a camera seated or standing?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Which direction is the man in a gray suit holding a camera facing?",
+      "modified": "Which direction is the man in a gray suit holding a camera facing?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the man in a gray suit holding a camera appear to be taking a photo?",
+      "modified": "Does the man in a gray suit holding a camera on the right appear to be taking a photo?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the man in a gray suit holding a camera among rows of chairs?",
+      "modified": "Is the man in a gray suit holding a camera on the right among rows of chairs?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the man in a gray suit holding a camera seem focused on something ahead?",
+      "modified": "Does the man in a gray suit holding a camera on the right seem focused on something ahead?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the man in a gray suit holding a camera close to other seated attendees?",
+      "modified": "Is the man in a gray suit holding a camera on the right close to other seated attendees?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "What is the man in a gray suit holding a camera holding up near his face?",
+      "modified": "What is the man in a gray suit holding a camera on the right holding up near his face?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the man in a gray suit holding a camera look like part of the event staff or press?",
+      "modified": "Does the man in a gray suit holding a camera on the right look like part of the event staff or press?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the man in a gray suit holding a camera positioned near the aisle?",
+      "modified": "Is the man in a gray suit holding a camera on the right positioned near the aisle?",
+      "false_premise": true
+    }
+  ]
+}

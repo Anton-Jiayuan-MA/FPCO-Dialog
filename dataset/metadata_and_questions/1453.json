@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1453",
+    "source": "Open Images",
+    "complexity": 1,
+    "category": 4,
+    "target": "crepe"
+  },
+  "base": {
+    "target_description": "the triangular crepe on a brown plate",
+    "modified_target_description": "the rectangular crepe on a brown plate",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What color is the triangular crepe on a brown plate?",
+      "modified": "What color is the triangular crepe on a brown plate?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the triangular crepe on a brown plate look thick or thin?",
+      "modified": "Does the triangular crepe on a brown plate look thick or thin?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the triangular crepe on a brown plate topped with any visible seeds?",
+      "modified": "Is the triangular crepe on a brown plate topped with any visible seeds?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the triangular crepe on a brown plate appear folded or cut into a wedge?",
+      "modified": "Does the rectangular crepe on a brown plate appear folded or cut into a wedge?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the triangular crepe on a brown plate taking up most of the plate?",
+      "modified": "Is the rectangular crepe on a brown plate taking up most of the plate?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the triangular crepe on a brown plate look freshly cooked?",
+      "modified": "Does the rectangular crepe on a brown plate look freshly cooked?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the surface of the triangular crepe on a brown plate smooth or bubbly?",
+      "modified": "Is the surface of the rectangular crepe on a brown plate smooth or bubbly?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the triangular crepe on a brown plate have a golden-brown top?",
+      "modified": "Does the rectangular crepe on a brown plate have a golden-brown top?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the triangular crepe on a brown plate shown close up in the image?",
+      "modified": "Is the rectangular crepe on a brown plate shown close up in the image?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Can you see the edges of the triangular crepe on a brown plate clearly?",
+      "modified": "Can you see the edges of the rectangular crepe on a brown plate clearly?",
+      "false_premise": true
+    }
+  ]
+}

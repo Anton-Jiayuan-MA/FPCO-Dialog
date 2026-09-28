@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1218",
+    "source": "COCO",
+    "complexity": 1,
+    "category": 2,
+    "target": "train"
+  },
+  "base": {
+    "target_description": "the red train numbered 5901",
+    "modified_target_description": "the red bus numbered 5901",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What kind of building is the red train numbered 5901 inside?",
+      "modified": "What kind of building is the red train numbered 5901 inside?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the red train numbered 5901 parked or moving in this scene?",
+      "modified": "Is the red train numbered 5901 parked or moving in this scene?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "What color stripes are visible along the side of the red train numbered 5901?",
+      "modified": "What color stripes are visible along the side of the red train numbered 5901?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the red train numbered 5901 appear to be on display indoors?",
+      "modified": "Does the red bus numbered 5901 appear to be on display indoors?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Can you see the front end of the red train numbered 5901 clearly?",
+      "modified": "Can you see the front end of the red bus numbered 5901 clearly?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the red train numbered 5901 taking up most of the image?",
+      "modified": "Is the red bus numbered 5901 taking up most of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Are there any people standing near the red train numbered 5901?",
+      "modified": "Are there any people standing near the red bus numbered 5901?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the red train numbered 5901 look polished and well maintained?",
+      "modified": "Does the red bus numbered 5901 look polished and well maintained?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "What name is written along the side of the red train numbered 5901?",
+      "modified": "What name is written along the side of the red bus numbered 5901?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the red train numbered 5901 positioned on tracks inside the building?",
+      "modified": "Is the red bus numbered 5901 positioned on tracks inside the building?",
+      "false_premise": true
+    }
+  ]
+}

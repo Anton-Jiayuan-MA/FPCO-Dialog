@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2168",
+    "source": "COCO",
+    "complexity": 2,
+    "category": 1,
+    "target": "man"
+  },
+  "base": {
+    "target_description": "the man in orange shorts jumping for a frisbee",
+    "modified_target_description": "the man in orange shorts on the left jumping for a frisbee",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the man in orange shorts jumping for a frisbee in the middle of the action?",
+      "modified": "Is the man in orange shorts jumping for a frisbee in the middle of the action?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the man in orange shorts jumping for a frisbee appear to be off the ground?",
+      "modified": "Does the man in orange shorts jumping for a frisbee appear to be off the ground?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the man in orange shorts jumping for a frisbee reaching upward with one arm?",
+      "modified": "Is the man in orange shorts jumping for a frisbee reaching upward with one arm?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the man in orange shorts jumping for a frisbee look like he is trying to catch the disc?",
+      "modified": "Does the man in orange shorts on the left jumping for a frisbee look like he is trying to catch the disc?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the man in orange shorts jumping for a frisbee playing in shallow water?",
+      "modified": "Is the man in orange shorts on the left jumping for a frisbee playing in shallow water?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the man in orange shorts jumping for a frisbee facing away from the camera?",
+      "modified": "Is the man in orange shorts on the left jumping for a frisbee facing away from the camera?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the man in orange shorts jumping for a frisbee have another player close beside him?",
+      "modified": "Does the man in orange shorts on the left jumping for a frisbee have another player close beside him?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the man in orange shorts jumping for a frisbee wearing a patterned shirt?",
+      "modified": "Is the man in orange shorts on the left jumping for a frisbee wearing a patterned shirt?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the man in orange shorts jumping for a frisbee part of a game on a wet field?",
+      "modified": "Is the man in orange shorts on the left jumping for a frisbee part of a game on a wet field?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the man in orange shorts jumping for a frisbee near the center of the image?",
+      "modified": "Is the man in orange shorts on the left jumping for a frisbee near the center of the image?",
+      "false_premise": true
+    }
+  ]
+}

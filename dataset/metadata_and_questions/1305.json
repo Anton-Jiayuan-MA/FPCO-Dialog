@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1305",
+    "source": "COCO",
+    "complexity": 1,
+    "category": 3,
+    "target": "elephant"
+  },
+  "base": {
+    "target_description": "the large gray elephant with long tusks",
+    "modified_target_description": "the large gray rhinoceros with long tusks",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the large gray elephant with long tusks shown up close in the image?",
+      "modified": "Is the large gray elephant with long tusks shown up close in the image?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the large gray elephant with long tusks appear to be standing still?",
+      "modified": "Does the large gray elephant with long tusks appear to be standing still?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Can you see the face of the large gray elephant with long tusks clearly?",
+      "modified": "Can you see the face of the large gray elephant with long tusks clearly?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the large gray elephant with long tusks facing toward the left side of the image?",
+      "modified": "Is the large gray rhinoceros with long tusks facing toward the left side of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the large gray elephant with long tusks have its trunk hanging downward?",
+      "modified": "Does the large gray rhinoceros with long tusks have its trunk hanging downward?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is one ear of the large gray elephant with long tusks visible?",
+      "modified": "Is one ear of the large gray rhinoceros with long tusks visible?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the large gray elephant with long tusks take up most of the frame?",
+      "modified": "Does the large gray rhinoceros with long tusks take up most of the frame?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the skin of the large gray elephant with long tusks visibly wrinkled?",
+      "modified": "Is the skin of the large gray rhinoceros with long tusks visibly wrinkled?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Are both tusks of the large gray elephant with long tusks visible in the image?",
+      "modified": "Are both tusks of the large gray rhinoceros with long tusks visible in the image?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the large gray elephant with long tusks outdoors?",
+      "modified": "Is the large gray rhinoceros with long tusks outdoors?",
+      "false_premise": true
+    }
+  ]
+}

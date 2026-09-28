@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2236",
+    "source": "Open Images",
+    "complexity": 2,
+    "category": 2,
+    "target": "car"
+  },
+  "base": {
+    "target_description": "the red convertible car",
+    "modified_target_description": "the blue convertible car",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the red convertible car parked on grass?",
+      "modified": "Is the red convertible car parked on grass?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the red convertible car have its top down?",
+      "modified": "Does the red convertible car have its top down?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the red convertible car facing toward the camera?",
+      "modified": "Is the red convertible car facing toward the camera?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Are the headlights of the red convertible car closed?",
+      "modified": "Are the headlights of the blue convertible car closed?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the red convertible car appear to be at a car show?",
+      "modified": "Does the blue convertible car appear to be at a car show?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the red convertible car parked next to another vehicle?",
+      "modified": "Is the blue convertible car parked next to another vehicle?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Can you see the front license plate on the red convertible car?",
+      "modified": "Can you see the front license plate on the blue convertible car?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the red convertible car have shiny chrome wheels?",
+      "modified": "Does the blue convertible car have shiny chrome wheels?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is there a paper sign displayed on the windshield of the red convertible car?",
+      "modified": "Is there a paper sign displayed on the windshield of the blue convertible car?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the red convertible car look clean and polished?",
+      "modified": "Does the blue convertible car look clean and polished?",
+      "false_premise": true
+    }
+  ]
+}

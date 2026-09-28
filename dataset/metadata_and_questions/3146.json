@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3146",
+    "source": "Open Images",
+    "complexity": 3,
+    "category": 1,
+    "target": "person"
+  },
+  "base": {
+    "target_description": "the woman in a white flowing robe",
+    "modified_target_description": "the woman in a black flowing robe",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the woman in a white flowing robe doing with her arms?",
+      "modified": "What is the woman in a white flowing robe doing with her arms?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the woman in a white flowing robe facing toward the camera or to the side?",
+      "modified": "Is the woman in a white flowing robe facing toward the camera or to the side?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the woman in a white flowing robe appear to be performing or dancing in the street?",
+      "modified": "Does the woman in a white flowing robe appear to be performing or dancing in the street?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "What kind of expression does the woman in a white flowing robe have on her face?",
+      "modified": "What kind of expression does the woman in a black flowing robe have on her face?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the woman in a white flowing robe wearing any kind of head covering?",
+      "modified": "Is the woman in a black flowing robe wearing any kind of head covering?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Where is the woman in a white flowing robe positioned in the image?",
+      "modified": "Where is the woman in a black flowing robe positioned in the image?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the woman in a white flowing robe standing alone or among other people?",
+      "modified": "Is the woman in a black flowing robe standing alone or among other people?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "What color trim or inner layer can be seen on the woman in a white flowing robe?",
+      "modified": "What color trim or inner layer can be seen on the woman in a black flowing robe?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the woman in a white flowing robe look like part of a coordinated group performance?",
+      "modified": "Does the woman in a black flowing robe look like part of a coordinated group performance?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Are the sleeves of the woman in a white flowing robe long and draped?",
+      "modified": "Are the sleeves of the woman in a black flowing robe long and draped?",
+      "false_premise": true
+    }
+  ]
+}

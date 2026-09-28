@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1450",
+    "source": "Open Images",
+    "complexity": 1,
+    "category": 4,
+    "target": "beer"
+  },
+  "base": {
+    "target_description": "the red and gold beer can",
+    "modified_target_description": "the blue and gold beer can",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What brand name is printed on the red and gold beer can?",
+      "modified": "What brand name is printed on the red and gold beer can?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the red and gold beer can standing upright on the surface?",
+      "modified": "Is the red and gold beer can standing upright on the surface?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the red and gold beer can appear to be opened at the top?",
+      "modified": "Does the red and gold beer can appear to be opened at the top?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Are there water droplets visible on the red and gold beer can?",
+      "modified": "Are there water droplets visible on the blue and gold beer can?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "What color is the top of the red and gold beer can?",
+      "modified": "What color is the top of the blue and gold beer can?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the red and gold beer can placed indoors?",
+      "modified": "Is the blue and gold beer can placed indoors?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the red and gold beer can look cold from its appearance?",
+      "modified": "Does the blue and gold beer can look cold from its appearance?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the label on the red and gold beer can mostly red?",
+      "modified": "Is the label on the blue and gold beer can mostly red?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "What is the red and gold beer can resting on?",
+      "modified": "What is the blue and gold beer can resting on?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the red and gold beer can the main focus of the image?",
+      "modified": "Is the blue and gold beer can the main focus of the image?",
+      "false_premise": true
+    }
+  ]
+}

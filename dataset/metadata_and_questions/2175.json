@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2175",
+    "source": "COCO",
+    "complexity": 2,
+    "category": 1,
+    "target": "man"
+  },
+  "base": {
+    "target_description": "the bald man riding a bicycle",
+    "modified_target_description": "the bald man on the left riding a bicycle",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the bald man riding a bicycle on a road?",
+      "modified": "Is the bald man riding a bicycle on a road?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the bald man riding a bicycle closer to the left side of the image?",
+      "modified": "Is the bald man riding a bicycle closer to the left side of the image?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the bald man riding a bicycle appear to be wearing a vest?",
+      "modified": "Does the bald man riding a bicycle appear to be wearing a vest?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the bald man riding a bicycle next to another cyclist?",
+      "modified": "Is the bald man on the left riding a bicycle next to another cyclist?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the bald man riding a bicycle have a bag attached to the bike?",
+      "modified": "Does the bald man on the left riding a bicycle have a bag attached to the bike?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the bald man riding a bicycle moving toward the camera?",
+      "modified": "Is the bald man on the left riding a bicycle moving toward the camera?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the bald man riding a bicycle in front of a line of trees?",
+      "modified": "Is the bald man on the left riding a bicycle in front of a line of trees?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the bald man riding a bicycle appear to be outdoors?",
+      "modified": "Does the bald man on the left riding a bicycle appear to be outdoors?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the bald man riding a bicycle pedaling on a paved surface?",
+      "modified": "Is the bald man on the left riding a bicycle pedaling on a paved surface?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the bald man riding a bicycle seem to be part of a biking outing?",
+      "modified": "Does the bald man on the left riding a bicycle seem to be part of a biking outing?",
+      "false_premise": true
+    }
+  ]
+}

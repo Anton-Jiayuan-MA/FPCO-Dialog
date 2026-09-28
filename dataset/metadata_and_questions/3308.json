@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3308",
+    "source": "COCO",
+    "complexity": 3,
+    "category": 3,
+    "target": "zebra"
+  },
+  "base": {
+    "target_description": "the young zebra in the center",
+    "modified_target_description": "the young giraffe in the center",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the young zebra in the center facing toward the camera?",
+      "modified": "Is the young zebra in the center facing toward the camera?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Are the ears of the young zebra in the center standing upright?",
+      "modified": "Are the ears of the young zebra in the center standing upright?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the young zebra in the center appear smaller than the other zebras around it?",
+      "modified": "Does the young zebra in the center appear smaller than the other zebras around it?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the young zebra in the center partially framed by other zebras in the foreground?",
+      "modified": "Is the young giraffe in the center partially framed by other zebras in the foreground?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Can you clearly see the face of the young zebra in the center?",
+      "modified": "Can you clearly see the face of the young giraffe in the center?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the young zebra in the center have visible black-and-white stripes on its face?",
+      "modified": "Does the young giraffe in the center have visible black-and-white stripes on its face?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the young zebra in the center standing still in the scene?",
+      "modified": "Is the young giraffe in the center standing still in the scene?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the young zebra in the center look directly ahead?",
+      "modified": "Does the young giraffe in the center look directly ahead?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the young zebra in the center surrounded closely by other zebras?",
+      "modified": "Is the young giraffe in the center surrounded closely by other zebras?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Can the young zebra in the center be seen between the bodies of other zebras?",
+      "modified": "Can the young giraffe in the center be seen between the bodies of other zebras?",
+      "false_premise": true
+    }
+  ]
+}

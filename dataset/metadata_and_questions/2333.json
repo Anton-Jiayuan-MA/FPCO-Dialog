@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2333",
+    "source": "Open Images",
+    "complexity": 2,
+    "category": 3,
+    "target": "sheep"
+  },
+  "base": {
+    "target_description": "the lamb with a black face",
+    "modified_target_description": "the lamb with a white face",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the lamb with a black face standing on grass?",
+      "modified": "Is the lamb with a black face standing on grass?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the lamb with a black face facing toward the camera?",
+      "modified": "Is the lamb with a black face facing toward the camera?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the lamb with a black face appear to be young?",
+      "modified": "Does the lamb with a black face appear to be young?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the lamb with a black face near other sheep?",
+      "modified": "Is the lamb with a white face near other sheep?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the lamb with a black face have light-colored wool on its body?",
+      "modified": "Does the lamb with a white face have light-colored wool on its body?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the lamb with a black face standing still in the field?",
+      "modified": "Is the lamb with a white face standing still in the field?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the lamb with a black face have all four legs visible?",
+      "modified": "Does the lamb with a white face have all four legs visible?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the lamb with a black face looking slightly to one side?",
+      "modified": "Is the lamb with a white face looking slightly to one side?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the lamb with a black face appear clean and fluffy?",
+      "modified": "Does the lamb with a white face appear clean and fluffy?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the lamb with a black face in the foreground of the image?",
+      "modified": "Is the lamb with a white face in the foreground of the image?",
+      "false_premise": true
+    }
+  ]
+}

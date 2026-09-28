@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3314",
+    "source": "COCO",
+    "complexity": 3,
+    "category": 3,
+    "target": "giraffe"
+  },
+  "base": {
+    "target_description": "the giraffe with a long neck and white patches",
+    "modified_target_description": "the zebra with a long neck and white patches",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the giraffe with a long neck and white patches standing outdoors among trees?",
+      "modified": "Is the giraffe with a long neck and white patches standing outdoors among trees?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the giraffe with a long neck and white patches facing to the right?",
+      "modified": "Is the giraffe with a long neck and white patches facing to the right?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Can you see most of the body of the giraffe with a long neck and white patches?",
+      "modified": "Can you see most of the body of the giraffe with a long neck and white patches?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the giraffe with a long neck and white patches appear to be calm?",
+      "modified": "Does the zebra with a long neck and white patches appear to be calm?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the giraffe with a long neck and white patches overlapping with another giraffe?",
+      "modified": "Is the zebra with a long neck and white patches overlapping with another giraffe?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the giraffe with a long neck and white patches have its head raised higher than the other giraffe?",
+      "modified": "Does the zebra with a long neck and white patches have its head raised higher than the other giraffe?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the giraffe with a long neck and white patches closer to the right side of the image?",
+      "modified": "Is the zebra with a long neck and white patches closer to the right side of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Can you clearly see the face of the giraffe with a long neck and white patches?",
+      "modified": "Can you clearly see the face of the zebra with a long neck and white patches?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the giraffe with a long neck and white patches in front of a leafy background?",
+      "modified": "Is the zebra with a long neck and white patches in front of a leafy background?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the giraffe with a long neck and white patches look larger in the frame than the other giraffe?",
+      "modified": "Does the zebra with a long neck and white patches look larger in the frame than the other giraffe?",
+      "false_premise": true
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1356",
+    "source": "Open Images",
+    "complexity": 1,
+    "category": 3,
+    "target": "bird"
+  },
+  "base": {
+    "target_description": "the green parrot on the tree trunk",
+    "modified_target_description": "the blue parrot on the tree trunk",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the green parrot on the tree trunk doing with its foot?",
+      "modified": "What is the green parrot on the tree trunk doing with its foot?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the green parrot on the tree trunk facing toward the left side of the image?",
+      "modified": "Is the green parrot on the tree trunk facing toward the left side of the image?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the green parrot on the tree trunk appear to be holding food?",
+      "modified": "Does the green parrot on the tree trunk appear to be holding food?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the green parrot on the tree trunk perched above the ground?",
+      "modified": "Is the blue parrot on the tree trunk perched above the ground?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Can you see the red beak of the green parrot on the tree trunk?",
+      "modified": "Can you see the red beak of the blue parrot on the tree trunk?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the green parrot on the tree trunk have bright green feathers?",
+      "modified": "Does the blue parrot on the tree trunk have bright green feathers?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the green parrot on the tree trunk standing alone in the scene?",
+      "modified": "Is the blue parrot on the tree trunk standing alone in the scene?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the green parrot on the tree trunk look downward?",
+      "modified": "Does the blue parrot on the tree trunk look downward?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the green parrot on the tree trunk partly hidden behind the trunk?",
+      "modified": "Is the blue parrot on the tree trunk partly hidden behind the trunk?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the green parrot on the tree trunk appear calm and perched?",
+      "modified": "Does the blue parrot on the tree trunk appear calm and perched?",
+      "false_premise": true
+    }
+  ]
+}

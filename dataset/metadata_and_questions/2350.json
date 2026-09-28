@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2350",
+    "source": "COCO",
+    "complexity": 2,
+    "category": 3,
+    "target": "zebra"
+  },
+  "base": {
+    "target_description": "the zebra on the right",
+    "modified_target_description": "the standing zebra on the right",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the zebra on the right standing on grass?",
+      "modified": "Is the zebra on the right standing on grass?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the zebra on the right facing toward the left side of the image?",
+      "modified": "Is the zebra on the right facing toward the left side of the image?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the zebra on the right appear to be walking?",
+      "modified": "Does the zebra on the right appear to be walking?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the zebra on the right in front of some leafy bushes?",
+      "modified": "Is the standing zebra on the right in front of some leafy bushes?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Can you clearly see the stripes on the zebra on the right?",
+      "modified": "Can you clearly see the stripes on the standing zebra on the right?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the zebra on the right closer to the camera than the other zebra?",
+      "modified": "Is the standing zebra on the right closer to the camera than the other zebra?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the zebra on the right have all four legs visible?",
+      "modified": "Does the standing zebra on the right have all four legs visible?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the zebra on the right looking toward the viewer?",
+      "modified": "Is the standing zebra on the right looking toward the viewer?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the zebra on the right next to another zebra?",
+      "modified": "Is the standing zebra on the right next to another zebra?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the zebra on the right appear calm in the scene?",
+      "modified": "Does the standing zebra on the right appear calm in the scene?",
+      "false_premise": true
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1214",
+    "source": "COCO",
+    "complexity": 1,
+    "category": 2,
+    "target": "motorcycle"
+  },
+  "base": {
+    "target_description": "the black motorcycle with a windshield",
+    "modified_target_description": "the black car with a windshield",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the black motorcycle with a windshield parked still?",
+      "modified": "Is the black motorcycle with a windshield parked still?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the black motorcycle with a windshield appear to be outdoors?",
+      "modified": "Does the black motorcycle with a windshield appear to be outdoors?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the black motorcycle with a windshield facing toward the right side of the image?",
+      "modified": "Is the black motorcycle with a windshield facing toward the right side of the image?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the black motorcycle with a windshield have saddlebags attached?",
+      "modified": "Does the black car with a windshield have saddlebags attached?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the black motorcycle with a windshield on a paved surface?",
+      "modified": "Is the black car with a windshield on a paved surface?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the black motorcycle with a windshield look like a large touring bike?",
+      "modified": "Does the black car with a windshield look like a large touring bike?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Can you see the front wheel of the black motorcycle with a windshield clearly?",
+      "modified": "Can you see the front wheel of the black car with a windshield clearly?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the black motorcycle with a windshield shown from the side?",
+      "modified": "Is the black car with a windshield shown from the side?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the black motorcycle with a windshield have chrome parts visible on it?",
+      "modified": "Does the black car with a windshield have chrome parts visible on it?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the black motorcycle with a windshield the main focus of the image?",
+      "modified": "Is the black car with a windshield the main focus of the image?",
+      "false_premise": true
+    }
+  ]
+}

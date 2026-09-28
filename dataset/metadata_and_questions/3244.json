@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3244",
+    "source": "Open Images",
+    "complexity": 3,
+    "category": 2,
+    "target": "bicycle"
+  },
+  "base": {
+    "target_description": "the gray rental bicycle with a front basket",
+    "modified_target_description": "the red rental bicycle with a front basket",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the gray rental bicycle with a front basket parked in a docking station?",
+      "modified": "Is the gray rental bicycle with a front basket parked in a docking station?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the gray rental bicycle with a front basket appear to be empty and not being ridden?",
+      "modified": "Does the gray rental bicycle with a front basket appear to be empty and not being ridden?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the gray rental bicycle with a front basket facing toward the right side of the image?",
+      "modified": "Is the gray rental bicycle with a front basket facing toward the right side of the image?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Can you see the gray rental bicycle with a front basket as part of a long row of similar bikes?",
+      "modified": "Can you see the red rental bicycle with a front basket as part of a long row of similar bikes?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the gray rental bicycle with a front basket on a city street?",
+      "modified": "Is the red rental bicycle with a front basket on a city street?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the gray rental bicycle with a front basket have its kickstand down?",
+      "modified": "Does the red rental bicycle with a front basket have its kickstand down?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the gray rental bicycle with a front basket closest to the camera compared with the other bikes?",
+      "modified": "Is the red rental bicycle with a front basket closest to the camera compared with the other bikes?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the gray rental bicycle with a front basket have a black seat?",
+      "modified": "Does the red rental bicycle with a front basket have a black seat?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the gray rental bicycle with a front basket beside a sidewalk and building wall?",
+      "modified": "Is the red rental bicycle with a front basket beside a sidewalk and building wall?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Can you clearly see the wheels of the gray rental bicycle with a front basket?",
+      "modified": "Can you clearly see the wheels of the red rental bicycle with a front basket?",
+      "false_premise": true
+    }
+  ]
+}

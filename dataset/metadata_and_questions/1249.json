@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1249",
+    "source": "Open Images",
+    "complexity": 1,
+    "category": 2,
+    "target": "car"
+  },
+  "base": {
+    "target_description": "the blue Nissan minivan",
+    "modified_target_description": "the red Nissan minivan",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the blue Nissan minivan parked in front of a building?",
+      "modified": "Is the blue Nissan minivan parked in front of a building?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "What direction is the blue Nissan minivan facing in the image?",
+      "modified": "What direction is the blue Nissan minivan facing in the image?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the blue Nissan minivan appear clean and polished?",
+      "modified": "Does the blue Nissan minivan appear clean and polished?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Are the windows of the blue Nissan minivan tinted?",
+      "modified": "Are the windows of the red Nissan minivan tinted?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Can you see the front grille of the blue Nissan minivan clearly?",
+      "modified": "Can you see the front grille of the red Nissan minivan clearly?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the blue Nissan minivan shown from a side angle or straight on?",
+      "modified": "Is the red Nissan minivan shown from a side angle or straight on?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the blue Nissan minivan have four visible doors?",
+      "modified": "Does the red Nissan minivan have four visible doors?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the blue Nissan minivan positioned on a paved surface?",
+      "modified": "Is the red Nissan minivan positioned on a paved surface?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Can you see both front and rear wheels on the blue Nissan minivan?",
+      "modified": "Can you see both front and rear wheels on the red Nissan minivan?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the blue Nissan minivan the main focus of the image?",
+      "modified": "Is the red Nissan minivan the main focus of the image?",
+      "false_premise": true
+    }
+  ]
+}

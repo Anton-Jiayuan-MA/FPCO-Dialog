@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2289",
+    "source": "Open Images",
+    "complexity": 2,
+    "category": 2,
+    "target": "bicycle"
+  },
+  "base": {
+    "target_description": "the blue EnCicla bicycle in the foreground",
+    "modified_target_description": "the blue EnCicla bicycle in the background",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the blue EnCicla bicycle in the foreground parked rather than being ridden?",
+      "modified": "Is the blue EnCicla bicycle in the foreground parked rather than being ridden?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the blue EnCicla bicycle in the foreground have a front basket attached?",
+      "modified": "Does the blue EnCicla bicycle in the foreground have a front basket attached?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the blue EnCicla bicycle in the foreground closer to the camera than the people behind it?",
+      "modified": "Is the blue EnCicla bicycle in the foreground closer to the camera than the people behind it?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Can you see both wheels of the blue EnCicla bicycle in the foreground?",
+      "modified": "Can you see both wheels of the blue EnCicla bicycle in the background?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the blue EnCicla bicycle in the foreground positioned on a paved street or sidewalk?",
+      "modified": "Is the blue EnCicla bicycle in the background positioned on a paved street or sidewalk?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the blue EnCicla bicycle in the foreground appear to be a public rental bike?",
+      "modified": "Does the blue EnCicla bicycle in the background appear to be a public rental bike?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the blue EnCicla bicycle in the foreground leaning slightly to one side?",
+      "modified": "Is the blue EnCicla bicycle in the background leaning slightly to one side?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Can the branding on the blue EnCicla bicycle in the foreground be read clearly?",
+      "modified": "Can the branding on the blue EnCicla bicycle in the background be read clearly?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the blue EnCicla bicycle in the foreground next to a yellow railing?",
+      "modified": "Is the blue EnCicla bicycle in the background next to a yellow railing?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the blue EnCicla bicycle in the foreground look larger in the frame than the other bicycle?",
+      "modified": "Does the blue EnCicla bicycle in the background look larger in the frame than the other bicycle?",
+      "false_premise": true
+    }
+  ]
+}

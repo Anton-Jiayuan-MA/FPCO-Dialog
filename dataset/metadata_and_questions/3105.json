@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3105",
+    "source": "Open Images",
+    "complexity": 3,
+    "category": 1,
+    "target": "woman"
+  },
+  "base": {
+    "target_description": "the gray-haired woman in a dark dress",
+    "modified_target_description": "the gray-haired man in a dark dress",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the gray-haired woman in a dark dress holding in her lap?",
+      "modified": "What is the gray-haired woman in a dark dress holding in her lap?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the gray-haired woman in a dark dress sitting in the front row?",
+      "modified": "Is the gray-haired woman in a dark dress sitting in the front row?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the gray-haired woman in a dark dress appear to be looking forward?",
+      "modified": "Does the gray-haired woman in a dark dress appear to be looking forward?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the gray-haired woman in a dark dress wearing any jewelry?",
+      "modified": "Is the gray-haired man in a dark dress wearing any jewelry?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the gray-haired woman in a dark dress have her legs crossed?",
+      "modified": "Does the gray-haired man in a dark dress have his legs crossed?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the gray-haired woman in a dark dress seated next to other attendees?",
+      "modified": "Is the gray-haired man in a dark dress seated next to other attendees?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the gray-haired woman in a dark dress seem to be attending an indoor event?",
+      "modified": "Does the gray-haired man in a dark dress seem to be attending an indoor event?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the gray-haired woman in a dark dress holding papers or a booklet?",
+      "modified": "Is the gray-haired man in a dark dress holding papers or a booklet?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the gray-haired woman in a dark dress have short hair?",
+      "modified": "Does the gray-haired man in a dark dress have short hair?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the gray-haired woman in a dark dress facing toward the camera?",
+      "modified": "Is the gray-haired man in a dark dress facing toward the camera?",
+      "false_premise": true
+    }
+  ]
+}

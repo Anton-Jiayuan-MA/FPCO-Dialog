@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1381",
+    "source": "COCO",
+    "complexity": 1,
+    "category": 3,
+    "target": "giraffe"
+  },
+  "base": {
+    "target_description": "the tall giraffe among the bushes",
+    "modified_target_description": "the tall giraffe on the right",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the tall giraffe among the bushes standing still in the scene?",
+      "modified": "Is the tall giraffe among the bushes standing still in the scene?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the tall giraffe among the bushes have its neck stretched upward?",
+      "modified": "Does the tall giraffe among the bushes have its neck stretched upward?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the tall giraffe among the bushes facing toward the camera?",
+      "modified": "Is the tall giraffe among the bushes facing toward the camera?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Can you clearly see the legs of the tall giraffe among the bushes?",
+      "modified": "Can you clearly see the legs of the tall giraffe on the right?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the tall giraffe among the bushes surrounded by dry vegetation?",
+      "modified": "Is the tall giraffe on the right surrounded by dry vegetation?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the tall giraffe among the bushes appear to be in a natural habitat?",
+      "modified": "Does the tall giraffe on the right appear to be in a natural habitat?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the coat pattern on the tall giraffe among the bushes easy to see?",
+      "modified": "Is the coat pattern on the tall giraffe on the right easy to see?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the tall giraffe among the bushes look like it is near a tree?",
+      "modified": "Does the tall giraffe on the right look like it is near a tree?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the head of the tall giraffe among the bushes above the surrounding plants?",
+      "modified": "Is the head of the tall giraffe on the right above the surrounding plants?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Can you see most of the body of the tall giraffe among the bushes?",
+      "modified": "Can you see most of the body of the tall giraffe on the right?",
+      "false_premise": true
+    }
+  ]
+}

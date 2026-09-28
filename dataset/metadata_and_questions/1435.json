@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1435",
+    "source": "COCO",
+    "complexity": 1,
+    "category": 4,
+    "target": "fish"
+  },
+  "base": {
+    "target_description": "the cooked fish fillet on the plate",
+    "modified_target_description": "the raw fish fillet on the plate",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What color is the cooked fish fillet on the plate?",
+      "modified": "What color is the cooked fish fillet on the plate?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the cooked fish fillet on the plate look seasoned with herbs?",
+      "modified": "Does the cooked fish fillet on the plate look seasoned with herbs?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the cooked fish fillet on the plate served with vegetables?",
+      "modified": "Is the cooked fish fillet on the plate served with vegetables?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the cooked fish fillet on the plate appear covered in sauce?",
+      "modified": "Does the raw fish fillet on the plate appear covered in sauce?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the cooked fish fillet on the plate placed next to mushrooms?",
+      "modified": "Is the raw fish fillet on the plate placed next to mushrooms?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the cooked fish fillet on the plate look like part of a meal?",
+      "modified": "Does the raw fish fillet on the plate look like part of a meal?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the cooked fish fillet on the plate larger than the broccoli beside it?",
+      "modified": "Is the raw fish fillet on the plate larger than the broccoli beside it?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the cooked fish fillet on the plate appear baked or pan-cooked?",
+      "modified": "Does the raw fish fillet on the plate appear baked or pan-cooked?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the cooked fish fillet on the plate sitting on a white plate?",
+      "modified": "Is the raw fish fillet on the plate sitting on a white plate?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the cooked fish fillet on the plate look moist and tender?",
+      "modified": "Does the raw fish fillet on the plate look moist and tender?",
+      "false_premise": true
+    }
+  ]
+}

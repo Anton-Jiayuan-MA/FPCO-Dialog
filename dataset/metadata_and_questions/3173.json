@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3173",
+    "source": "Open Images",
+    "complexity": 3,
+    "category": 1,
+    "target": "person"
+  },
+  "base": {
+    "target_description": "the man in a light blue shirt holding a cup",
+    "modified_target_description": "the man in a light blue shirt holding a cup on the right",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the man in a light blue shirt holding a cup doing in the scene?",
+      "modified": "What is the man in a light blue shirt holding a cup doing in the scene?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the man in a light blue shirt holding a cup standing or walking?",
+      "modified": "Is the man in a light blue shirt holding a cup standing or walking?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Which direction is the man in a light blue shirt holding a cup facing?",
+      "modified": "Which direction is the man in a light blue shirt holding a cup facing?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the man in a light blue shirt holding a cup appear to be talking to someone nearby?",
+      "modified": "Does the man in a light blue shirt holding a cup on the right appear to be talking to someone nearby?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "What is the man in a light blue shirt holding a cup holding in his hand besides the cup?",
+      "modified": "What is the man in a light blue shirt holding a cup on the right holding in his hand besides the cup?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the man in a light blue shirt holding a cup indoors or outdoors?",
+      "modified": "Is the man in a light blue shirt holding a cup on the right indoors or outdoors?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the man in a light blue shirt holding a cup close to a group of other people?",
+      "modified": "Is the man in a light blue shirt holding a cup on the right close to a group of other people?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "What color are the shorts worn by the man in a light blue shirt holding a cup?",
+      "modified": "What color are the shorts worn by the man in a light blue shirt holding a cup on the right?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the man in a light blue shirt holding a cup underneath a reflective structure?",
+      "modified": "Is the man in a light blue shirt holding a cup on the right underneath a reflective structure?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the man in a light blue shirt holding a cup look relaxed or busy?",
+      "modified": "Does the man in a light blue shirt holding a cup on the right look relaxed or busy?",
+      "false_premise": true
+    }
+  ]
+}

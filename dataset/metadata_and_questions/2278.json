@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2278",
+    "source": "COCO",
+    "complexity": 2,
+    "category": 2,
+    "target": "boat"
+  },
+  "base": {
+    "target_description": "the blue kayak on the right",
+    "modified_target_description": "the blue kayak on the left",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the blue kayak on the right floating on floodwater?",
+      "modified": "Is the blue kayak on the right floating on floodwater?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the blue kayak on the right have a person riding in it?",
+      "modified": "Does the blue kayak on the right have a person riding in it?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the blue kayak on the right being paddled through the water?",
+      "modified": "Is the blue kayak on the right being paddled through the water?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the blue kayak on the right close to a black fence?",
+      "modified": "Is the blue kayak on the left close to a black fence?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the blue kayak on the right appear to be moving leftward?",
+      "modified": "Does the blue kayak on the left appear to be moving leftward?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the blue kayak on the right near a tall lamppost?",
+      "modified": "Is the blue kayak on the left near a tall lamppost?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the blue kayak on the right occupied by someone wearing a red life vest?",
+      "modified": "Is the blue kayak on the left occupied by someone wearing a red life vest?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the blue kayak on the right sit lower than the nearby fence posts?",
+      "modified": "Does the blue kayak on the left sit lower than the nearby fence posts?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the blue kayak on the right in front of the flooded trees?",
+      "modified": "Is the blue kayak on the left in front of the flooded trees?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the blue kayak on the right look like a small personal boat?",
+      "modified": "Does the blue kayak on the left look like a small personal boat?",
+      "false_premise": true
+    }
+  ]
+}

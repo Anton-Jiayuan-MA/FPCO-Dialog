@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3135",
+    "source": "COCO",
+    "complexity": 3,
+    "category": 1,
+    "target": "child"
+  },
+  "base": {
+    "target_description": "the boy in a yellow T-shirt",
+    "modified_target_description": "the boy in a blue T-shirt",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the boy in a yellow T-shirt doing in the gym?",
+      "modified": "What is the boy in a yellow T-shirt doing in the gym?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the boy in a yellow T-shirt standing still or getting ready to move?",
+      "modified": "Is the boy in a yellow T-shirt standing still or getting ready to move?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Which direction is the boy in a yellow T-shirt facing?",
+      "modified": "Which direction is the boy in a yellow T-shirt facing?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "What is the boy in a yellow T-shirt wearing on his legs?",
+      "modified": "What is the boy in a blue T-shirt wearing on his legs?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the boy in a yellow T-shirt look like he is part of the game?",
+      "modified": "Does the boy in a blue T-shirt look like he is part of the game?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Where is the boy in a yellow T-shirt positioned in the scene?",
+      "modified": "Where is the boy in a blue T-shirt positioned in the scene?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the boy in a yellow T-shirt closer to the front or the back of the image?",
+      "modified": "Is the boy in a blue T-shirt closer to the front or the back of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the boy in a yellow T-shirt appear to be paying attention to the action?",
+      "modified": "Does the boy in a blue T-shirt appear to be paying attention to the action?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "What kind of shoes does the boy in a yellow T-shirt have on?",
+      "modified": "What kind of shoes does the boy in a blue T-shirt have on?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the boy in a yellow T-shirt indoors or outdoors?",
+      "modified": "Is the boy in a blue T-shirt indoors or outdoors?",
+      "false_premise": true
+    }
+  ]
+}

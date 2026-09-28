@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2206",
+    "source": "COCO",
+    "complexity": 2,
+    "category": 2,
+    "target": "airplane"
+  },
+  "base": {
+    "target_description": "the white airplane on the runway",
+    "modified_target_description": "the white truck on the runway",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the white airplane on the runway parked or moving in this scene?",
+      "modified": "Is the white airplane on the runway parked or moving in this scene?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the white airplane on the runway appear close to the camera or farther away?",
+      "modified": "Does the white airplane on the runway appear close to the camera or farther away?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the white airplane on the runway facing toward the right side of the image?",
+      "modified": "Is the white airplane on the runway facing toward the right side of the image?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Can you see the full body of the white airplane on the runway clearly?",
+      "modified": "Can you see the full body of the white truck on the runway clearly?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the white airplane on the runway being towed by a ground vehicle?",
+      "modified": "Is the white truck on the runway being towed by a ground vehicle?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the white airplane on the runway look larger than the baggage cart nearby?",
+      "modified": "Does the white truck on the runway look larger than the baggage cart nearby?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the white airplane on the runway positioned behind the wing in the foreground?",
+      "modified": "Is the white truck on the runway positioned behind the wing in the foreground?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the white airplane on the runway have a dark-colored tail?",
+      "modified": "Does the white truck on the runway have a dark-colored tail?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the white airplane on the runway sitting on the airport tarmac?",
+      "modified": "Is the white truck on the runway sitting on the airport tarmac?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the white airplane on the runway look like a commercial passenger jet?",
+      "modified": "Does the white truck on the runway look like a commercial passenger jet?",
+      "false_premise": true
+    }
+  ]
+}

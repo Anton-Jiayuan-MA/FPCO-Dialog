@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2351",
+    "source": "COCO",
+    "complexity": 2,
+    "category": 3,
+    "target": "bird"
+  },
+  "base": {
+    "target_description": "the dead brown bird on the road",
+    "modified_target_description": "the dead white bird on the road",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What happened to the dead brown bird on the road?",
+      "modified": "What happened to the dead brown bird on the road?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the dead brown bird on the road lying on its side?",
+      "modified": "Is the dead brown bird on the road lying on its side?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the dead brown bird on the road appear injured?",
+      "modified": "Does the dead brown bird on the road appear injured?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the dead brown bird on the road next to another bird?",
+      "modified": "Is the dead white bird on the road next to another bird?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "What color is the dead brown bird on the road?",
+      "modified": "What color is the dead white bird on the road?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the dead brown bird on the road on a painted line?",
+      "modified": "Is the dead white bird on the road on a painted line?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the dead brown bird on the road have its wings folded in?",
+      "modified": "Does the dead white bird on the road have its wings folded in?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the dead brown bird on the road facing toward the other bird?",
+      "modified": "Is the dead white bird on the road facing toward the other bird?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Where is the dead brown bird on the road located in the image?",
+      "modified": "Where is the dead white bird on the road located in the image?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the dead brown bird on the road look small?",
+      "modified": "Does the dead white bird on the road look small?",
+      "false_premise": true
+    }
+  ]
+}

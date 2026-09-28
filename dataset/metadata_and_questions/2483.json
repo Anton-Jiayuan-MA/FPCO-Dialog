@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2483",
+    "source": "Open Images",
+    "complexity": 2,
+    "category": 4,
+    "target": "pastries"
+  },
+  "base": {
+    "target_description": "the powdered sugar muffins on the plate",
+    "modified_target_description": "the powdered sugar muffins near the plate",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "How many of the powdered sugar muffins on the plate are visible in the image?",
+      "modified": "How many of the powdered sugar muffins on the plate are visible in the image?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Are the powdered sugar muffins on the plate arranged closely together or spread far apart?",
+      "modified": "Are the powdered sugar muffins on the plate arranged closely together or spread far apart?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Do the powdered sugar muffins on the plate look like they are in paper liners?",
+      "modified": "Do the powdered sugar muffins on the plate look like they are in paper liners?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Are the powdered sugar muffins on the plate topped with a light dusting or a heavy layer of sugar?",
+      "modified": "Are the powdered sugar muffins near the plate topped with a light dusting or a heavy layer of sugar?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Do the powdered sugar muffins on the plate appear to be homemade or factory packaged?",
+      "modified": "Do the powdered sugar muffins near the plate appear to be homemade or factory packaged?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Are the powdered sugar muffins on the plate sitting on a floral-patterned plate?",
+      "modified": "Are the powdered sugar muffins near the plate sitting on a floral-patterned plate?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Do the powdered sugar muffins on the plate look small enough to be mini muffins?",
+      "modified": "Do the powdered sugar muffins near the plate look small enough to be mini muffins?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Are the powdered sugar muffins on the plate the main pastries shown in the foreground?",
+      "modified": "Are the powdered sugar muffins near the plate the main pastries shown in the foreground?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Do the powdered sugar muffins on the plate appear plain or filled with visible icing?",
+      "modified": "Do the powdered sugar muffins near the plate appear plain or filled with visible icing?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Are the powdered sugar muffins on the plate placed near several soda cans?",
+      "modified": "Are the powdered sugar muffins near the plate placed near several soda cans?",
+      "false_premise": true
+    }
+  ]
+}

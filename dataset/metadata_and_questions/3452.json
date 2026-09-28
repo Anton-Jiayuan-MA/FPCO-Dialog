@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3452",
+    "source": "Open Images",
+    "complexity": 3,
+    "category": 4,
+    "target": "apple"
+  },
+  "base": {
+    "target_description": "the greenish-yellow apple",
+    "modified_target_description": "the reddish-yellow apple",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the greenish-yellow apple shown close up in the image?",
+      "modified": "Is the greenish-yellow apple shown close up in the image?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the greenish-yellow apple look fresh?",
+      "modified": "Does the greenish-yellow apple look fresh?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the greenish-yellow apple part of a pile of fruit?",
+      "modified": "Is the greenish-yellow apple part of a pile of fruit?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the greenish-yellow apple have any visible red blush on its skin?",
+      "modified": "Does the reddish-yellow apple have any visible red blush on its skin?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the greenish-yellow apple round in shape?",
+      "modified": "Is the reddish-yellow apple round in shape?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the greenish-yellow apple appear to have smooth skin?",
+      "modified": "Does the reddish-yellow apple appear to have smooth skin?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the greenish-yellow apple surrounded by other apples?",
+      "modified": "Is the reddish-yellow apple surrounded by other apples?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the greenish-yellow apple look ripe enough to eat?",
+      "modified": "Does the reddish-yellow apple look ripe enough to eat?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Can you see any small blemishes on the greenish-yellow apple?",
+      "modified": "Can you see any small blemishes on the reddish-yellow apple?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the greenish-yellow apple inside a container or crate?",
+      "modified": "Is the reddish-yellow apple inside a container or crate?",
+      "false_premise": true
+    }
+  ]
+}

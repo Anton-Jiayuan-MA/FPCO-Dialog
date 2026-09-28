@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1125",
+    "source": "COCO",
+    "complexity": 1,
+    "category": 1,
+    "target": "child"
+  },
+  "base": {
+    "target_description": "the child wearing a colorful helmet",
+    "modified_target_description": "the dog wearing a colorful helmet",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the child wearing a colorful helmet smiling at the camera?",
+      "modified": "Is the child wearing a colorful helmet smiling at the camera?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the child wearing a colorful helmet appear to be outdoors on grass?",
+      "modified": "Does the child wearing a colorful helmet appear to be outdoors on grass?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the child wearing a colorful helmet holding a tennis racket?",
+      "modified": "Is the child wearing a colorful helmet holding a tennis racket?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the child wearing a colorful helmet look young?",
+      "modified": "Does the dog wearing a colorful helmet look young?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the child wearing a colorful helmet facing the camera?",
+      "modified": "Is the dog wearing a colorful helmet facing the camera?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the child wearing a colorful helmet have the helmet strap fastened?",
+      "modified": "Does the dog wearing a colorful helmet have the helmet strap fastened?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the child wearing a colorful helmet standing close to the tennis racket?",
+      "modified": "Is the dog wearing a colorful helmet standing close to the tennis racket?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the child wearing a colorful helmet seem happy?",
+      "modified": "Does the dog wearing a colorful helmet seem happy?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the child wearing a colorful helmet wearing a striped shirt?",
+      "modified": "Is the dog wearing a colorful helmet wearing a striped shirt?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Can you see the face of the child wearing a colorful helmet clearly?",
+      "modified": "Can you see the face of the dog wearing a colorful helmet clearly?",
+      "false_premise": true
+    }
+  ]
+}

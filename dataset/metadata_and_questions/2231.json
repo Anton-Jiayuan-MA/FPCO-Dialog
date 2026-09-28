@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2231",
+    "source": "Open Images",
+    "complexity": 2,
+    "category": 2,
+    "target": "car"
+  },
+  "base": {
+    "target_description": "the red car on the right",
+    "modified_target_description": "the blue car on the right",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What direction is the red car on the right facing?",
+      "modified": "What direction is the red car on the right facing?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the red car on the right moving along the racetrack?",
+      "modified": "Is the red car on the right moving along the racetrack?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "How close is the red car on the right to the edge of the track?",
+      "modified": "How close is the red car on the right to the edge of the track?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the red car on the right appear to be behind the black car?",
+      "modified": "Does the blue car on the right appear to be behind the black car?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the red car on the right near the tire barrier?",
+      "modified": "Is the blue car on the right near the tire barrier?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "What part of the track is the red car on the right driving through?",
+      "modified": "What part of the track is the blue car on the right driving through?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the red car on the right look like it is taking a turn?",
+      "modified": "Does the blue car on the right look like it is taking a turn?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the red car on the right closer to the camera than the tents in the background?",
+      "modified": "Is the blue car on the right closer to the camera than the tents in the background?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Can you see the front of the red car on the right clearly?",
+      "modified": "Can you see the front of the blue car on the right clearly?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the red car on the right the only red vehicle visible on the track?",
+      "modified": "Is the blue car on the right the only red vehicle visible on the track?",
+      "false_premise": true
+    }
+  ]
+}

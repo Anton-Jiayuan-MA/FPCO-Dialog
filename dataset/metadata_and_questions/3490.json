@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3490",
+    "source": "Open Images",
+    "complexity": 3,
+    "category": 4,
+    "target": "meat"
+  },
+  "base": {
+    "target_description": "the tray of raw fish fillets",
+    "modified_target_description": "the tray of raw fish fillets on the left",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the tray of raw fish fillets displayed in the center of the counter?",
+      "modified": "Is the tray of raw fish fillets displayed in the center of the counter?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the tray of raw fish fillets look neatly arranged in rows?",
+      "modified": "Does the tray of raw fish fillets look neatly arranged in rows?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the tray of raw fish fillets sitting on top of crushed ice?",
+      "modified": "Is the tray of raw fish fillets sitting on top of crushed ice?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Are the pieces in the tray of raw fish fillets shiny and uncooked?",
+      "modified": "Are the pieces in the tray of raw fish fillets on the left shiny and uncooked?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the tray of raw fish fillets placed between other food items in the display?",
+      "modified": "Is the tray of raw fish fillets on the left placed between other food items in the display?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the tray of raw fish fillets appear to be in a refrigerated food case?",
+      "modified": "Does the tray of raw fish fillets on the left appear to be in a refrigerated food case?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Are grapes placed near the tray of raw fish fillets?",
+      "modified": "Are grapes placed near the tray of raw fish fillets on the left?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the tray of raw fish fillets the main food item shown in the middle?",
+      "modified": "Is the tray of raw fish fillets on the left the main food item shown in the middle?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the tray of raw fish fillets look ready for sale at a market counter?",
+      "modified": "Does the tray of raw fish fillets on the left look ready for sale at a market counter?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the tray of raw fish fillets behind a glass display panel?",
+      "modified": "Is the tray of raw fish fillets on the left behind a glass display panel?",
+      "false_premise": true
+    }
+  ]
+}

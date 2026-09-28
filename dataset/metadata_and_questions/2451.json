@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2451",
+    "source": "COCO",
+    "complexity": 2,
+    "category": 4,
+    "target": "cake"
+  },
+  "base": {
+    "target_description": "the slice of chocolate cake",
+    "modified_target_description": "the slice of vanilla cake",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What kind of plate is the slice of chocolate cake sitting on?",
+      "modified": "What kind of plate is the slice of chocolate cake sitting on?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the slice of chocolate cake served with a fork?",
+      "modified": "Is the slice of chocolate cake served with a fork?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the slice of chocolate cake have dark frosting on top?",
+      "modified": "Does the slice of chocolate cake have dark frosting on top?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the slice of chocolate cake on the right side of the table?",
+      "modified": "Is the slice of vanilla cake on the right side of the table?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the slice of chocolate cake look thick and tall?",
+      "modified": "Does the slice of vanilla cake look thick and tall?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the slice of chocolate cake placed on a patterned plate?",
+      "modified": "Is the slice of vanilla cake placed on a patterned plate?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is there a napkin next to the slice of chocolate cake?",
+      "modified": "Is there a napkin next to the slice of vanilla cake?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the slice of chocolate cake appear ready to be eaten?",
+      "modified": "Does the slice of vanilla cake appear ready to be eaten?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the slice of chocolate cake the darker dessert in the image?",
+      "modified": "Is the slice of vanilla cake the darker dessert in the image?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Can you see the side layers of the slice of chocolate cake?",
+      "modified": "Can you see the side layers of the slice of vanilla cake?",
+      "false_premise": true
+    }
+  ]
+}

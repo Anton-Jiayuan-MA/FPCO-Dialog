@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1337",
+    "source": "Open Images",
+    "complexity": 1,
+    "category": 3,
+    "target": "insect"
+  },
+  "base": {
+    "target_description": "the blue-eyed dragonfly on the leaf",
+    "modified_target_description": "the red-eyed dragonfly on the leaf",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the blue-eyed dragonfly on the leaf resting or flying?",
+      "modified": "Is the blue-eyed dragonfly on the leaf resting or flying?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Are the wings of the blue-eyed dragonfly on the leaf spread out to the sides?",
+      "modified": "Are the wings of the blue-eyed dragonfly on the leaf spread out to the sides?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the blue-eyed dragonfly on the leaf have a long thin body?",
+      "modified": "Does the blue-eyed dragonfly on the leaf have a long thin body?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the blue-eyed dragonfly on the leaf facing toward the right side of the image?",
+      "modified": "Is the red-eyed dragonfly on the leaf facing toward the right side of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Can you clearly see the transparent wings of the blue-eyed dragonfly on the leaf?",
+      "modified": "Can you clearly see the transparent wings of the red-eyed dragonfly on the leaf?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the blue-eyed dragonfly on the leaf perched near the edge of the leaf?",
+      "modified": "Is the red-eyed dragonfly on the leaf perched near the edge of the leaf?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the blue-eyed dragonfly on the leaf appear larger than the leaf it is sitting on?",
+      "modified": "Does the red-eyed dragonfly on the leaf appear larger than the leaf it is sitting on?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the blue-eyed dragonfly on the leaf shown in close-up?",
+      "modified": "Is the red-eyed dragonfly on the leaf shown in close-up?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Can you see the tail end of the blue-eyed dragonfly on the leaf extending past the leaf?",
+      "modified": "Can you see the tail end of the red-eyed dragonfly on the leaf extending past the leaf?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the blue-eyed dragonfly on the leaf the main subject of the image?",
+      "modified": "Is the red-eyed dragonfly on the leaf the main subject of the image?",
+      "false_premise": true
+    }
+  ]
+}

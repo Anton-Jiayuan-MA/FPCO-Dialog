@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1358",
+    "source": "Open Images",
+    "complexity": 1,
+    "category": 3,
+    "target": "bear"
+  },
+  "base": {
+    "target_description": "the brown bear standing by a log",
+    "modified_target_description": "the black bear standing by a log",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the brown bear standing by a log doing in the scene?",
+      "modified": "What is the brown bear standing by a log doing in the scene?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the brown bear standing by a log facing away from the camera?",
+      "modified": "Is the brown bear standing by a log facing away from the camera?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the brown bear standing by a log appear to be looking at the wood?",
+      "modified": "Does the brown bear standing by a log appear to be looking at the wood?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the brown bear standing by a log standing on the ground or climbing?",
+      "modified": "Is the black bear standing by a log standing on the ground or climbing?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the brown bear standing by a log have its front paws near the log?",
+      "modified": "Does the black bear standing by a log have its front paws near the log?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the brown bear standing by a log in a grassy area?",
+      "modified": "Is the black bear standing by a log in a grassy area?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the brown bear standing by a log look small or full-grown?",
+      "modified": "Does the black bear standing by a log look small or full-grown?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the brown bear standing by a log the main subject of the image?",
+      "modified": "Is the black bear standing by a log the main subject of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Can you see the back of the brown bear standing by a log more clearly than its face?",
+      "modified": "Can you see the back of the black bear standing by a log more clearly than its face?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the brown bear standing by a log next to a broken tree trunk?",
+      "modified": "Is the black bear standing by a log next to a broken tree trunk?",
+      "false_premise": true
+    }
+  ]
+}

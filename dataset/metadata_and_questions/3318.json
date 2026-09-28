@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3318",
+    "source": "COCO",
+    "complexity": 3,
+    "category": 3,
+    "target": "horse"
+  },
+  "base": {
+    "target_description": "the black horse with a harness",
+    "modified_target_description": "the black cow with a harness",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the black horse with a harness standing beside another horse?",
+      "modified": "Is the black horse with a harness standing beside another horse?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the black horse with a harness appear to be wearing working gear?",
+      "modified": "Does the black horse with a harness appear to be wearing working gear?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the black horse with a harness facing toward the left side of the image?",
+      "modified": "Is the black horse with a harness facing toward the left side of the image?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Can you see the head of the black horse with a harness clearly in the photo?",
+      "modified": "Can you see the head of the black cow with a harness clearly in the photo?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the black horse with a harness look calm in this scene?",
+      "modified": "Does the black cow with a harness look calm in this scene?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the black horse with a harness close to the camera?",
+      "modified": "Is the black cow with a harness close to the camera?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the black horse with a harness have straps going around its face?",
+      "modified": "Does the black cow with a harness have straps going around its face?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the black horse with a harness part of a pair in the image?",
+      "modified": "Is the black cow with a harness part of a pair in the image?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the black horse with a harness have its mouth closed?",
+      "modified": "Does the black cow with a harness have its mouth closed?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the black horse with a harness shown in a side view?",
+      "modified": "Is the black cow with a harness shown in a side view?",
+      "false_premise": true
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1266",
+    "source": "Open Images",
+    "complexity": 1,
+    "category": 2,
+    "target": "car"
+  },
+  "base": {
+    "target_description": "the silver car with glowing rear lights",
+    "modified_target_description": "the silver car on the right with glowing rear lights",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the silver car with glowing rear lights parked on the side of the road?",
+      "modified": "Is the silver car with glowing rear lights parked on the side of the road?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "What direction is the silver car with glowing rear lights facing?",
+      "modified": "What direction is the silver car with glowing rear lights facing?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the silver car with glowing rear lights appear to be stopped at night?",
+      "modified": "Does the silver car with glowing rear lights appear to be stopped at night?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Are the brake or tail lights on for the silver car with glowing rear lights?",
+      "modified": "Are the brake or tail lights on for the silver car on the right with glowing rear lights?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the silver car with glowing rear lights on a wet street?",
+      "modified": "Is the silver car on the right with glowing rear lights on a wet street?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Can you see the rear of the silver car with glowing rear lights more clearly than the front?",
+      "modified": "Can you see the rear of the silver car on the right with glowing rear lights more clearly than the front?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the silver car with glowing rear lights the main object in the image?",
+      "modified": "Is the silver car on the right with glowing rear lights the main object in the image?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the silver car with glowing rear lights look like it is in foggy weather?",
+      "modified": "Does the silver car on the right with glowing rear lights look like it is in foggy weather?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the silver car with glowing rear lights close to the curb?",
+      "modified": "Is the silver car on the right with glowing rear lights close to the curb?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Can the license plate area of the silver car with glowing rear lights be seen?",
+      "modified": "Can the license plate area of the silver car on the right with glowing rear lights be seen?",
+      "false_premise": true
+    }
+  ]
+}

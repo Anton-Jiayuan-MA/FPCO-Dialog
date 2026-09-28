@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3354",
+    "source": "COCO",
+    "complexity": 3,
+    "category": 3,
+    "target": "sheep"
+  },
+  "base": {
+    "target_description": "the white sheep by the roadside",
+    "modified_target_description": "the black sheep by the roadside",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the white sheep by the roadside standing or lying down?",
+      "modified": "Is the white sheep by the roadside standing or lying down?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the white sheep by the roadside facing toward the camera?",
+      "modified": "Is the white sheep by the roadside facing toward the camera?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the white sheep by the roadside appear to be grazing?",
+      "modified": "Does the white sheep by the roadside appear to be grazing?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the white sheep by the roadside on the dirt road or in the grass?",
+      "modified": "Is the black sheep by the roadside on the dirt road or in the grass?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the white sheep by the roadside close to other sheep?",
+      "modified": "Is the black sheep by the roadside close to other sheep?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the white sheep by the roadside have its head lowered?",
+      "modified": "Does the black sheep by the roadside have its head lowered?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the white sheep by the roadside near the edge of the road?",
+      "modified": "Is the black sheep by the roadside near the edge of the road?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the white sheep by the roadside look like part of the larger flock?",
+      "modified": "Does the black sheep by the roadside look like part of the larger flock?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the white sheep by the roadside beside some tall grass?",
+      "modified": "Is the black sheep by the roadside beside some tall grass?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Can you see the full body of the white sheep by the roadside?",
+      "modified": "Can you see the full body of the black sheep by the roadside?",
+      "false_premise": true
+    }
+  ]
+}

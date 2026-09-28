@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3365",
+    "source": "Open Images",
+    "complexity": 3,
+    "category": 3,
+    "target": "goose"
+  },
+  "base": {
+    "target_description": "the black and white goose in the grass",
+    "modified_target_description": "the black and white goose on the right",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the black and white goose in the grass doing?",
+      "modified": "What is the black and white goose in the grass doing?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the black and white goose in the grass facing left or right?",
+      "modified": "Is the black and white goose in the grass facing left or right?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the black and white goose in the grass have its beak open?",
+      "modified": "Does the black and white goose in the grass have its beak open?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the black and white goose in the grass standing still or moving forward?",
+      "modified": "Is the black and white goose on the right standing still or moving forward?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "How close is the black and white goose in the grass to the other goose?",
+      "modified": "How close is the black and white goose on the right to the other goose?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the black and white goose in the grass appear to be calling out?",
+      "modified": "Does the black and white goose on the right appear to be calling out?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the black and white goose in the grass in the foreground of the image?",
+      "modified": "Is the black and white goose on the right in the foreground of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "What color pattern is visible on the wings of the black and white goose in the grass?",
+      "modified": "What color pattern is visible on the wings of the black and white goose on the right?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the neck of the black and white goose in the grass stretched out?",
+      "modified": "Is the neck of the black and white goose on the right stretched out?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the black and white goose in the grass look larger than the other goose behind it?",
+      "modified": "Does the black and white goose on the right look larger than the other goose behind it?",
+      "false_premise": true
+    }
+  ]
+}

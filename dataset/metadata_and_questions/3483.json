@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3483",
+    "source": "Open Images",
+    "complexity": 3,
+    "category": 4,
+    "target": "cookies"
+  },
+  "base": {
+    "target_description": "the small round cookies in a bag",
+    "modified_target_description": "the small round cookies on the left",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "How many of the small round cookies in a bag are visible here?",
+      "modified": "How many of the small round cookies in a bag are visible here?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Are the small round cookies in a bag stacked loosely or arranged neatly?",
+      "modified": "Are the small round cookies in a bag stacked loosely or arranged neatly?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Do the small round cookies in a bag look plain or filled with something?",
+      "modified": "Do the small round cookies in a bag look plain or filled with something?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "What color do the small round cookies in a bag appear to be?",
+      "modified": "What color do the small round cookies on the left appear to be?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Are the small round cookies in a bag inside opened packaging?",
+      "modified": "Are the small round cookies on the left inside opened packaging?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Do the small round cookies in a bag look crunchy or soft from their texture?",
+      "modified": "Do the small round cookies on the left look crunchy or soft from their texture?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Are the small round cookies in a bag all about the same size?",
+      "modified": "Are the small round cookies on the left all about the same size?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Do the small round cookies in a bag fill most of the bag's opening?",
+      "modified": "Do the small round cookies on the left fill most of the bag's opening?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Are the small round cookies in a bag shown close up in the image?",
+      "modified": "Are the small round cookies on the left shown close up in the image?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Do the small round cookies in a bag appear to be snack-sized?",
+      "modified": "Do the small round cookies on the left appear to be snack-sized?",
+      "false_premise": true
+    }
+  ]
+}

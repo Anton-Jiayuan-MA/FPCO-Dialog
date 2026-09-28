@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3431",
+    "source": "Open Images",
+    "complexity": 3,
+    "category": 4,
+    "target": "apple"
+  },
+  "base": {
+    "target_description": "a pink-wrapped apple in the cart",
+    "modified_target_description": "a green-wrapped apple in the cart",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is a pink-wrapped apple in the cart being sold at the street market?",
+      "modified": "Is a pink-wrapped apple in the cart being sold at the street market?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does a pink-wrapped apple in the cart look fresh and whole?",
+      "modified": "Does a pink-wrapped apple in the cart look fresh and whole?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is a pink-wrapped apple in the cart surrounded by many other apples?",
+      "modified": "Is a pink-wrapped apple in the cart surrounded by many other apples?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Can you see a pink-wrapped apple in the cart near the women?",
+      "modified": "Can you see a green-wrapped apple in the cart near the women?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is a pink-wrapped apple in the cart protected by foam netting?",
+      "modified": "Is a green-wrapped apple in the cart protected by foam netting?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does a pink-wrapped apple in the cart appear to be on display for customers?",
+      "modified": "Does a green-wrapped apple in the cart appear to be on display for customers?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is a pink-wrapped apple in the cart lying loose rather than inside a box?",
+      "modified": "Is a green-wrapped apple in the cart lying loose rather than inside a box?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Can a pink-wrapped apple in the cart be seen from above in this image?",
+      "modified": "Can a green-wrapped apple in the cart be seen from above in this image?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is a pink-wrapped apple in the cart part of a large pile of fruit?",
+      "modified": "Is a green-wrapped apple in the cart part of a large pile of fruit?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does a pink-wrapped apple in the cart look light-colored under the pink wrap?",
+      "modified": "Does a green-wrapped apple in the cart look light-colored under the pink wrap?",
+      "false_premise": true
+    }
+  ]
+}

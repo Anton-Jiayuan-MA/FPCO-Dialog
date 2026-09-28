@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2319",
+    "source": "COCO",
+    "complexity": 2,
+    "category": 3,
+    "target": "giraffe"
+  },
+  "base": {
+    "target_description": "the giraffe with a long neck and dark patches",
+    "modified_target_description": "the zebra with a long neck and dark patches",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the giraffe with a long neck and dark patches standing close to another giraffe?",
+      "modified": "Is the giraffe with a long neck and dark patches standing close to another giraffe?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the giraffe with a long neck and dark patches facing to the right?",
+      "modified": "Is the giraffe with a long neck and dark patches facing to the right?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the giraffe with a long neck and dark patches have its head raised high?",
+      "modified": "Does the giraffe with a long neck and dark patches have its head raised high?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the giraffe with a long neck and dark patches inside a fenced area?",
+      "modified": "Is the zebra with a long neck and dark patches inside a fenced area?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Can you see the full neck of the giraffe with a long neck and dark patches?",
+      "modified": "Can you see the full neck of the zebra with a long neck and dark patches?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the giraffe with a long neck and dark patches taller than the nearby giraffe?",
+      "modified": "Is the zebra with a long neck and dark patches taller than the nearby giraffe?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the giraffe with a long neck and dark patches appear to be calm?",
+      "modified": "Does the zebra with a long neck and dark patches appear to be calm?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the giraffe with a long neck and dark patches positioned on the left side of the image?",
+      "modified": "Is the zebra with a long neck and dark patches positioned on the left side of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Are the ears of the giraffe with a long neck and dark patches visible?",
+      "modified": "Are the ears of the zebra with a long neck and dark patches visible?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the giraffe with a long neck and dark patches overlapping with another giraffe in the scene?",
+      "modified": "Is the zebra with a long neck and dark patches overlapping with another giraffe in the scene?",
+      "false_premise": true
+    }
+  ]
+}

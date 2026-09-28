@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2371",
+    "source": "Open Images",
+    "complexity": 2,
+    "category": 3,
+    "target": "beetle"
+  },
+  "base": {
+    "target_description": "the black beetle with orange spots",
+    "modified_target_description": "the black beetle with orange spots on the left",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the black beetle with orange spots shown from more than one angle?",
+      "modified": "Is the black beetle with orange spots shown from more than one angle?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the black beetle with orange spots have long antennae visible in the image?",
+      "modified": "Does the black beetle with orange spots have long antennae visible in the image?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the black beetle with orange spots placed against a plain white background?",
+      "modified": "Is the black beetle with orange spots placed against a plain white background?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Can you see the legs of the black beetle with orange spots clearly spread out?",
+      "modified": "Can you see the legs of the black beetle with orange spots on the left clearly spread out?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the black beetle with orange spots appear to be photographed as a specimen rather than in nature?",
+      "modified": "Does the black beetle with orange spots on the left appear to be photographed as a specimen rather than in nature?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the black beetle with orange spots the main subject of the image?",
+      "modified": "Is the black beetle with orange spots on the left the main subject of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Are the orange markings on the black beetle with orange spots visible on its back?",
+      "modified": "Are the orange markings on the black beetle with orange spots on the left visible on its back?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the black beetle with orange spots look shiny under the lighting?",
+      "modified": "Does the black beetle with orange spots on the left look shiny under the lighting?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the body of the black beetle with orange spots elongated rather than round?",
+      "modified": "Is the body of the black beetle with orange spots on the left elongated rather than round?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Are there two views of the black beetle with orange spots shown side by side?",
+      "modified": "Are there two views of the black beetle with orange spots on the left shown side by side?",
+      "false_premise": true
+    }
+  ]
+}

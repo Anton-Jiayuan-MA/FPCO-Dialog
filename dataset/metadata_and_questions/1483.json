@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1483",
+    "source": "COCO",
+    "complexity": 1,
+    "category": 4,
+    "target": "apple"
+  },
+  "base": {
+    "target_description": "the red apple covered in snow",
+    "modified_target_description": "the red apple on the left",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the red apple covered in snow hanging from?",
+      "modified": "What is the red apple covered in snow hanging from?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the red apple covered in snow still attached to the tree?",
+      "modified": "Is the red apple covered in snow still attached to the tree?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the red apple covered in snow look ripe?",
+      "modified": "Does the red apple covered in snow look ripe?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "How much snow is resting on the red apple covered in snow?",
+      "modified": "How much snow is resting on the red apple on the left?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the red apple covered in snow the main focus of the image?",
+      "modified": "Is the red apple on the left the main focus of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the red apple covered in snow appear to be outdoors in winter?",
+      "modified": "Does the red apple on the left appear to be outdoors in winter?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "What color is visible beneath the snow on the red apple covered in snow?",
+      "modified": "What color is visible beneath the snow on the red apple on the left?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the red apple covered in snow hanging by itself or in a cluster?",
+      "modified": "Is the red apple on the left hanging by itself or in a cluster?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the red apple covered in snow look cold and frosty?",
+      "modified": "Does the red apple on the left look cold and frosty?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Are there any leaves near the red apple covered in snow?",
+      "modified": "Are there any leaves near the red apple on the left?",
+      "false_premise": true
+    }
+  ]
+}

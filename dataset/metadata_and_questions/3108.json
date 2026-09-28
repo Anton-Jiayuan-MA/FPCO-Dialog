@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3108",
+    "source": "Open Images",
+    "complexity": 3,
+    "category": 1,
+    "target": "man"
+  },
+  "base": {
+    "target_description": "the bald man in a brown jacket",
+    "modified_target_description": "the bald woman in a brown jacket",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the bald man in a brown jacket holding in his hand?",
+      "modified": "What is the bald man in a brown jacket holding in his hand?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the bald man in a brown jacket talking with the people nearby?",
+      "modified": "Is the bald man in a brown jacket talking with the people nearby?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Which direction is the bald man in a brown jacket facing?",
+      "modified": "Which direction is the bald man in a brown jacket facing?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the bald man in a brown jacket appear to be standing indoors at an event?",
+      "modified": "Does the bald woman in a brown jacket appear to be standing indoors at an event?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the bald man in a brown jacket looking toward the woman on the left?",
+      "modified": "Is the bald woman in a brown jacket looking toward the woman on the left?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "What seems to be in the glass that the bald man in a brown jacket is holding?",
+      "modified": "What seems to be in the glass that the bald woman in a brown jacket is holding?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the bald man in a brown jacket wearing formal or casual clothing?",
+      "modified": "Is the bald woman in a brown jacket wearing formal or casual clothing?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the bald man in a brown jacket seem engaged in conversation?",
+      "modified": "Does the bald woman in a brown jacket seem engaged in conversation?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the bald man in a brown jacket positioned in the foreground of the image?",
+      "modified": "Is the bald woman in a brown jacket positioned in the foreground of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "How close is the bald man in a brown jacket to the man with the backpack?",
+      "modified": "How close is the bald woman in a brown jacket to the man with the backpack?",
+      "false_premise": true
+    }
+  ]
+}

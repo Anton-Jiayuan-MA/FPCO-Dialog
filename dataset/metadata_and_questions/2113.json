@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2113",
+    "source": "Open Images",
+    "complexity": 2,
+    "category": 1,
+    "target": "woman"
+  },
+  "base": {
+    "target_description": "the smiling blonde woman in a gray cardigan",
+    "modified_target_description": "the smiling blonde man in a gray cardigan",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the smiling blonde woman in a gray cardigan standing next to a man?",
+      "modified": "Is the smiling blonde woman in a gray cardigan standing next to a man?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the smiling blonde woman in a gray cardigan facing the camera?",
+      "modified": "Is the smiling blonde woman in a gray cardigan facing the camera?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the smiling blonde woman in a gray cardigan appear to be posing for a photo?",
+      "modified": "Does the smiling blonde woman in a gray cardigan appear to be posing for a photo?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the smiling blonde woman in a gray cardigan wearing a collared shirt under the cardigan?",
+      "modified": "Is the smiling blonde man in a gray cardigan wearing a collared shirt under the cardigan?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the smiling blonde woman in a gray cardigan have her hair pulled back?",
+      "modified": "Does the smiling blonde man in a gray cardigan have his hair pulled back?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the smiling blonde woman in a gray cardigan indoors?",
+      "modified": "Is the smiling blonde man in a gray cardigan indoors?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the smiling blonde woman in a gray cardigan standing in front of blue curtains?",
+      "modified": "Is the smiling blonde man in a gray cardigan standing in front of blue curtains?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the smiling blonde woman in a gray cardigan positioned on the right side of the image?",
+      "modified": "Is the smiling blonde man in a gray cardigan positioned on the right side of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the smiling blonde woman in a gray cardigan wearing dark bottoms?",
+      "modified": "Is the smiling blonde man in a gray cardigan wearing dark bottoms?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the smiling blonde woman in a gray cardigan look relaxed and cheerful?",
+      "modified": "Does the smiling blonde man in a gray cardigan look relaxed and cheerful?",
+      "false_premise": true
+    }
+  ]
+}

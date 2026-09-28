@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1270",
+    "source": "Open Images",
+    "complexity": 1,
+    "category": 2,
+    "target": "tractor"
+  },
+  "base": {
+    "target_description": "the green vintage tractor",
+    "modified_target_description": "the green vintage tractor on the right",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the green vintage tractor parked on grass?",
+      "modified": "Is the green vintage tractor parked on grass?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the green vintage tractor have a large smokestack at the front?",
+      "modified": "Does the green vintage tractor have a large smokestack at the front?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the green vintage tractor shown from the side?",
+      "modified": "Is the green vintage tractor shown from the side?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the green vintage tractor have a roof over the driver's area?",
+      "modified": "Does the green vintage tractor on the right have a roof over the driver's area?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Are the wheels on the green vintage tractor very large?",
+      "modified": "Are the wheels on the green vintage tractor on the right very large?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the green vintage tractor outdoors?",
+      "modified": "Is the green vintage tractor on the right outdoors?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the green vintage tractor look like an old-fashioned steam-powered vehicle?",
+      "modified": "Does the green vintage tractor on the right look like an old-fashioned steam-powered vehicle?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the green vintage tractor stationary in this image?",
+      "modified": "Is the green vintage tractor on the right stationary in this image?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Can you see both the front and rear wheels of the green vintage tractor?",
+      "modified": "Can you see both the front and rear wheels of the green vintage tractor on the right?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the green vintage tractor at some kind of show or display?",
+      "modified": "Is the green vintage tractor on the right at some kind of show or display?",
+      "false_premise": true
+    }
+  ]
+}

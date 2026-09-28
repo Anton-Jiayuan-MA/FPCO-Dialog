@@ -1,0 +1,14 @@
+# Qwen and LLaVA only; do not combine with requirements-internvl.txt.
+# Install the appropriate torch/torchvision CUDA or CPU wheels first; see code/README.md.
+-r requirements.txt
+torch==2.11.0
+torchvision==0.26.0
+transformers==5.4.0
+accelerate==1.13.0
+Pillow==12.1.1
+numpy==2.2.6
+sentencepiece==0.2.1
+protobuf==7.34.1
+safetensors==0.7.0
+tokenizers==0.22.2
+huggingface-hub==1.8.0

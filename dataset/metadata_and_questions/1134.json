@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1134",
+    "source": "Open Images",
+    "complexity": 1,
+    "category": 1,
+    "target": "child"
+  },
+  "base": {
+    "target_description": "the child in a yellow hoodie and striped socks",
+    "modified_target_description": "the child in a red hoodie and striped socks",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the child in a yellow hoodie and striped socks doing with one leg?",
+      "modified": "What is the child in a yellow hoodie and striped socks doing with one leg?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the child in a yellow hoodie and striped socks standing close to a building wall?",
+      "modified": "Is the child in a yellow hoodie and striped socks standing close to a building wall?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "What color are the socks worn by the child in a yellow hoodie and striped socks?",
+      "modified": "What color are the socks worn by the child in a yellow hoodie and striped socks?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the child in a yellow hoodie and striped socks appear to be posing for the camera?",
+      "modified": "Does the child in a red hoodie and striped socks appear to be posing for the camera?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the child in a yellow hoodie and striped socks carrying a bag over one shoulder?",
+      "modified": "Is the child in a red hoodie and striped socks carrying a bag over one shoulder?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "What is the child in a yellow hoodie and striped socks wearing on the face?",
+      "modified": "What is the child in a red hoodie and striped socks wearing on the face?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the child in a yellow hoodie and striped socks indoors or outdoors?",
+      "modified": "Is the child in a red hoodie and striped socks indoors or outdoors?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the child in a yellow hoodie and striped socks have one foot lifted off the ground?",
+      "modified": "Does the child in a red hoodie and striped socks have one foot lifted off the ground?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "What color is the hoodie worn by the child in a yellow hoodie and striped socks?",
+      "modified": "What color is the hoodie worn by the child in a red hoodie and striped socks?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the child in a yellow hoodie and striped socks standing on a sidewalk?",
+      "modified": "Is the child in a red hoodie and striped socks standing on a sidewalk?",
+      "false_premise": true
+    }
+  ]
+}

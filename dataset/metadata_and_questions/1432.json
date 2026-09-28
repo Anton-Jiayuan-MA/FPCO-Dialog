@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1432",
+    "source": "COCO",
+    "complexity": 1,
+    "category": 4,
+    "target": "cake"
+  },
+  "base": {
+    "target_description": "the slice of chocolate cake with thick frosting",
+    "modified_target_description": "the slice of vanilla cake with thick frosting",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What color is the slice of chocolate cake with thick frosting?",
+      "modified": "What color is the slice of chocolate cake with thick frosting?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the slice of chocolate cake with thick frosting look moist?",
+      "modified": "Does the slice of chocolate cake with thick frosting look moist?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the slice of chocolate cake with thick frosting shown close up?",
+      "modified": "Is the slice of chocolate cake with thick frosting shown close up?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the slice of chocolate cake with thick frosting have a soft texture?",
+      "modified": "Does the slice of vanilla cake with thick frosting have a soft texture?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the slice of chocolate cake with thick frosting sitting on a plate?",
+      "modified": "Is the slice of vanilla cake with thick frosting sitting on a plate?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the slice of chocolate cake with thick frosting have a thick top layer?",
+      "modified": "Does the slice of vanilla cake with thick frosting have a thick top layer?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the slice of chocolate cake with thick frosting appear freshly cut?",
+      "modified": "Does the slice of vanilla cake with thick frosting appear freshly cut?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the slice of chocolate cake with thick frosting the main focus of the image?",
+      "modified": "Is the slice of vanilla cake with thick frosting the main focus of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the slice of chocolate cake with thick frosting fill most of the frame?",
+      "modified": "Does the slice of vanilla cake with thick frosting fill most of the frame?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Can you see the crumb texture on the slice of chocolate cake with thick frosting?",
+      "modified": "Can you see the crumb texture on the slice of vanilla cake with thick frosting?",
+      "false_premise": true
+    }
+  ]
+}

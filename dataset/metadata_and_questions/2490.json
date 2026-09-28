@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2490",
+    "source": "Open Images",
+    "complexity": 2,
+    "category": 4,
+    "target": "rice dish"
+  },
+  "base": {
+    "target_description": "the bowl of white rice",
+    "modified_target_description": "the bowl of white rice on the left side of the tray",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Where is the bowl of white rice placed on the tray?",
+      "modified": "Where is the bowl of white rice placed on the tray?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the bowl of white rice full or only partly filled?",
+      "modified": "Is the bowl of white rice full or only partly filled?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "What color is the bowl of white rice in?",
+      "modified": "What color is the bowl of white rice in?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the bowl of white rice closer to the front or the back of the meal set?",
+      "modified": "Is the bowl of white rice on the left side of the tray closer to the front or the back of the meal set?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the bowl of white rice look plain or mixed with other ingredients?",
+      "modified": "Does the bowl of white rice on the left side of the tray look plain or mixed with other ingredients?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the bowl of white rice sitting next to any other dishes on the tray?",
+      "modified": "Is the bowl of white rice on the left side of the tray sitting next to any other dishes on the tray?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the bowl of white rice appear larger or smaller than the salad bowl?",
+      "modified": "Does the bowl of white rice on the left side of the tray appear larger or smaller than the salad bowl?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the bowl of white rice on the left side or the right side of the tray?",
+      "modified": "Is the bowl of white rice on the left side of the tray on the left side or the right side of the tray?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the bowl of white rice look like a side dish in this meal?",
+      "modified": "Does the bowl of white rice on the left side of the tray look like a side dish in this meal?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the bowl of white rice served in a dark-colored bowl?",
+      "modified": "Is the bowl of white rice on the left side of the tray served in a dark-colored bowl?",
+      "false_premise": true
+    }
+  ]
+}

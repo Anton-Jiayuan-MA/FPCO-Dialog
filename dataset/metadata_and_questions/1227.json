@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1227",
+    "source": "COCO",
+    "complexity": 1,
+    "category": 2,
+    "target": "bus"
+  },
+  "base": {
+    "target_description": "the yellow school bus",
+    "modified_target_description": "the yellow school train",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the yellow school bus parked in an open lot?",
+      "modified": "Is the yellow school bus parked in an open lot?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the yellow school bus look like it is moving or standing still?",
+      "modified": "Does the yellow school bus look like it is moving or standing still?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the yellow school bus facing toward the left side of the image?",
+      "modified": "Is the yellow school bus facing toward the left side of the image?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the yellow school bus have a white roof?",
+      "modified": "Does the yellow school train have a white roof?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Can you see multiple windows along the side of the yellow school bus?",
+      "modified": "Can you see multiple windows along the side of the yellow school train?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the yellow school bus the main vehicle visible in the scene?",
+      "modified": "Is the yellow school train the main vehicle visible in the scene?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the yellow school bus appear to be in a mostly empty parking area?",
+      "modified": "Does the yellow school train appear to be in a mostly empty parking area?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Can you read school district writing on the side of the yellow school bus?",
+      "modified": "Can you read school district writing on the side of the yellow school train?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the front of the yellow school bus closer to the camera than the back?",
+      "modified": "Is the front of the yellow school train closer to the camera than the back?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the yellow school bus cast a shadow on the pavement?",
+      "modified": "Does the yellow school train cast a shadow on the pavement?",
+      "false_premise": true
+    }
+  ]
+}

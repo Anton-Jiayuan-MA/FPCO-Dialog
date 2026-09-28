@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1384",
+    "source": "COCO",
+    "complexity": 1,
+    "category": 3,
+    "target": "zebra"
+  },
+  "base": {
+    "target_description": "the striped zebra standing on the grass",
+    "modified_target_description": "the striped zebra on the right",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the striped zebra standing on the grass facing toward the camera?",
+      "modified": "Is the striped zebra standing on the grass facing toward the camera?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the striped zebra standing on the grass appear to be outdoors?",
+      "modified": "Does the striped zebra standing on the grass appear to be outdoors?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the striped zebra standing on the grass in front of a line of trees?",
+      "modified": "Is the striped zebra standing on the grass in front of a line of trees?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the striped zebra standing on the grass have its tail raised?",
+      "modified": "Does the striped zebra on the right have its tail raised?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the striped zebra standing on the grass shown by itself in the image?",
+      "modified": "Is the striped zebra on the right shown by itself in the image?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the striped zebra standing on the grass look like it is walking or standing still?",
+      "modified": "Does the striped zebra on the right look like it is walking or standing still?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the striped zebra standing on the grass positioned near the center of the image?",
+      "modified": "Is the striped zebra on the right positioned near the center of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Can you clearly see the stripes on the striped zebra standing on the grass?",
+      "modified": "Can you clearly see the stripes on the striped zebra on the right?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the striped zebra standing on the grass on a sunny patch of ground?",
+      "modified": "Is the striped zebra on the right on a sunny patch of ground?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the striped zebra standing on the grass have both ears visible?",
+      "modified": "Does the striped zebra on the right have both ears visible?",
+      "false_premise": true
+    }
+  ]
+}

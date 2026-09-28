@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1460",
+    "source": "COCO",
+    "complexity": 1,
+    "category": 4,
+    "target": "meal"
+  },
+  "base": {
+    "target_description": "the mixed vegetable meal on a plate",
+    "modified_target_description": "the grilled vegetable meal on a plate",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What vegetables can you see in the mixed vegetable meal on a plate?",
+      "modified": "What vegetables can you see in the mixed vegetable meal on a plate?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the mixed vegetable meal on a plate look freshly cooked?",
+      "modified": "Does the mixed vegetable meal on a plate look freshly cooked?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the mixed vegetable meal on a plate served as a main dish or a side?",
+      "modified": "Is the mixed vegetable meal on a plate served as a main dish or a side?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the mixed vegetable meal on a plate include any roasted pieces?",
+      "modified": "Does the grilled vegetable meal on a plate include any roasted pieces?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "What color stands out most in the mixed vegetable meal on a plate?",
+      "modified": "What color stands out most in the grilled vegetable meal on a plate?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the mixed vegetable meal on a plate arranged neatly or piled casually?",
+      "modified": "Is the grilled vegetable meal on a plate arranged neatly or piled casually?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the mixed vegetable meal on a plate appear to include peas and carrots?",
+      "modified": "Does the grilled vegetable meal on a plate appear to include peas and carrots?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the mixed vegetable meal on a plate filling enough for one person?",
+      "modified": "Is the grilled vegetable meal on a plate filling enough for one person?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the mixed vegetable meal on a plate look more savory than sweet?",
+      "modified": "Does the grilled vegetable meal on a plate look more savory than sweet?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is there any visible seasoning on the mixed vegetable meal on a plate?",
+      "modified": "Is there any visible seasoning on the grilled vegetable meal on a plate?",
+      "false_premise": true
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3326",
+    "source": "COCO",
+    "complexity": 3,
+    "category": 3,
+    "target": "zebra"
+  },
+  "base": {
+    "target_description": "the zebra with its head down",
+    "modified_target_description": "the giraffe with its head down",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the zebra with its head down doing in the scene?",
+      "modified": "What is the zebra with its head down doing in the scene?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the zebra with its head down standing on dirt or grass?",
+      "modified": "Is the zebra with its head down standing on dirt or grass?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the zebra with its head down appear to be eating from the ground?",
+      "modified": "Does the zebra with its head down appear to be eating from the ground?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Which direction is the zebra with its head down facing?",
+      "modified": "Which direction is the giraffe with its head down facing?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the zebra with its head down closer to the front of the image?",
+      "modified": "Is the giraffe with its head down closer to the front of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Can you see the legs of the zebra with its head down clearly?",
+      "modified": "Can you see the legs of the giraffe with its head down clearly?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the zebra with its head down next to another zebra?",
+      "modified": "Is the giraffe with its head down next to another zebra?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the zebra with its head down have visible black and white stripes along its body?",
+      "modified": "Does the giraffe with its head down have visible black and white stripes along its body?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the zebra with its head down in an outdoor enclosure?",
+      "modified": "Is the giraffe with its head down in an outdoor enclosure?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the zebra with its head down look calm?",
+      "modified": "Does the giraffe with its head down look calm?",
+      "false_premise": true
+    }
+  ]
+}

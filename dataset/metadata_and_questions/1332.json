@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1332",
+    "source": "COCO",
+    "complexity": 1,
+    "category": 3,
+    "target": "cat"
+  },
+  "base": {
+    "target_description": "the upside-down orange cat with green eyes",
+    "modified_target_description": "the upside-down gray cat with green eyes",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the upside-down orange cat with green eyes looking toward?",
+      "modified": "What is the upside-down orange cat with green eyes looking toward?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the upside-down orange cat with green eyes very close to the camera?",
+      "modified": "Is the upside-down orange cat with green eyes very close to the camera?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the upside-down orange cat with green eyes appear calm and relaxed?",
+      "modified": "Does the upside-down orange cat with green eyes appear calm and relaxed?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Can you see the face of the upside-down orange cat with green eyes through a circular object?",
+      "modified": "Can you see the face of the upside-down gray cat with green eyes through a circular object?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the upside-down orange cat with green eyes lying on its side?",
+      "modified": "Is the upside-down gray cat with green eyes lying on its side?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Are the whiskers of the upside-down orange cat with green eyes clearly visible?",
+      "modified": "Are the whiskers of the upside-down gray cat with green eyes clearly visible?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the upside-down orange cat with green eyes fill most of the image?",
+      "modified": "Does the upside-down gray cat with green eyes fill most of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the upside-down orange cat with green eyes indoors?",
+      "modified": "Is the upside-down gray cat with green eyes indoors?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Can both eyes of the upside-down orange cat with green eyes be seen in the picture?",
+      "modified": "Can both eyes of the upside-down gray cat with green eyes be seen in the picture?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the nose of the upside-down orange cat with green eyes near the center of the image?",
+      "modified": "Is the nose of the upside-down gray cat with green eyes near the center of the image?",
+      "false_premise": true
+    }
+  ]
+}

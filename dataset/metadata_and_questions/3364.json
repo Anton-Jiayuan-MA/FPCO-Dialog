@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3364",
+    "source": "Open Images",
+    "complexity": 3,
+    "category": 3,
+    "target": "sheep"
+  },
+  "base": {
+    "target_description": "the woolly tan sheep",
+    "modified_target_description": "the woolly tan sheep on the right",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the woolly tan sheep standing outdoors?",
+      "modified": "Is the woolly tan sheep standing outdoors?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the woolly tan sheep facing toward the left side of the image?",
+      "modified": "Is the woolly tan sheep facing toward the left side of the image?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the woolly tan sheep appear to be in front of a horse?",
+      "modified": "Does the woolly tan sheep appear to be in front of a horse?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Can you see the head and neck of the woolly tan sheep clearly?",
+      "modified": "Can you see the head and neck of the woolly tan sheep on the right clearly?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the woolly tan sheep have a thick curly coat?",
+      "modified": "Does the woolly tan sheep on the right have a thick curly coat?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the woolly tan sheep close to the camera compared with the other animals?",
+      "modified": "Is the woolly tan sheep on the right close to the camera compared with the other animals?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the woolly tan sheep look calm in the scene?",
+      "modified": "Does the woolly tan sheep on the right look calm in the scene?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the woolly tan sheep occupying most of the foreground?",
+      "modified": "Is the woolly tan sheep on the right occupying most of the foreground?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Are the ears of the woolly tan sheep visible?",
+      "modified": "Are the ears of the woolly tan sheep on the right visible?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the woolly tan sheep in a grassy area?",
+      "modified": "Is the woolly tan sheep on the right in a grassy area?",
+      "false_premise": true
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3263",
+    "source": "Open Images",
+    "complexity": 3,
+    "category": 2,
+    "target": "boat"
+  },
+  "base": {
+    "target_description": "the long rowing boat on the river",
+    "modified_target_description": "the long rowing boat on the left",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "How many people appear to be riding in the long rowing boat on the river?",
+      "modified": "How many people appear to be riding in the long rowing boat on the river?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the long rowing boat on the river moving across the water?",
+      "modified": "Is the long rowing boat on the river moving across the water?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the long rowing boat on the river have oars extending out from both sides?",
+      "modified": "Does the long rowing boat on the river have oars extending out from both sides?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the long rowing boat on the river closer to the camera than the larger moored boat behind it?",
+      "modified": "Is the long rowing boat on the left closer to the camera than the larger moored boat behind it?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the long rowing boat on the river look narrow and low in the water?",
+      "modified": "Does the long rowing boat on the left look narrow and low in the water?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Are the people in the long rowing boat on the river seated in a line?",
+      "modified": "Are the people in the long rowing boat on the left seated in a line?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the long rowing boat on the river positioned near the middle of the image?",
+      "modified": "Is the long rowing boat on the left positioned near the middle of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Can you see ripples in the water around the long rowing boat on the river?",
+      "modified": "Can you see ripples in the water around the long rowing boat on the left?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the long rowing boat on the river lit by bright sunlight?",
+      "modified": "Is the long rowing boat on the left lit by bright sunlight?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the long rowing boat on the river appear to be part of a rowing practice or team outing?",
+      "modified": "Does the long rowing boat on the left appear to be part of a rowing practice or team outing?",
+      "false_premise": true
+    }
+  ]
+}

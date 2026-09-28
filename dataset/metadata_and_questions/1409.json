@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1409",
+    "source": "Open Images",
+    "complexity": 1,
+    "category": 4,
+    "target": "wrap"
+  },
+  "base": {
+    "target_description": "the stuffed wrap",
+    "modified_target_description": "the stuffed burrito",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What ingredients can you see sticking out of the stuffed wrap?",
+      "modified": "What ingredients can you see sticking out of the stuffed wrap?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the stuffed wrap look freshly prepared?",
+      "modified": "Does the stuffed wrap look freshly prepared?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the stuffed wrap cut open at the top so the filling is visible?",
+      "modified": "Is the stuffed wrap cut open at the top so the filling is visible?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "What kind of meat appears to be inside the stuffed wrap?",
+      "modified": "What kind of meat appears to be inside the stuffed burrito?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the stuffed wrap look tightly packed with filling?",
+      "modified": "Does the stuffed burrito look tightly packed with filling?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the stuffed wrap served in a takeout container?",
+      "modified": "Is the stuffed burrito served in a takeout container?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Would you say the stuffed wrap looks messy in a tasty way?",
+      "modified": "Would you say the stuffed burrito looks messy in a tasty way?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Can you see any sauce or dressing on the stuffed wrap?",
+      "modified": "Can you see any sauce or dressing on the stuffed burrito?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the stuffed wrap appear to be toasted or grilled on the outside?",
+      "modified": "Does the stuffed burrito appear to be toasted or grilled on the outside?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the stuffed wrap the main food item in the image?",
+      "modified": "Is the stuffed burrito the main food item in the image?",
+      "false_premise": true
+    }
+  ]
+}

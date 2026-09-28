@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1106",
+    "source": "COCO",
+    "complexity": 1,
+    "category": 1,
+    "target": "woman"
+  },
+  "base": {
+    "target_description": "the woman in a red cardigan",
+    "modified_target_description": "the man in a red cardigan",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the woman in a red cardigan holding in her hands?",
+      "modified": "What is the woman in a red cardigan holding in her hands?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the woman in a red cardigan standing outdoors?",
+      "modified": "Is the woman in a red cardigan standing outdoors?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the woman in a red cardigan appear to be in a grassy field?",
+      "modified": "Does the woman in a red cardigan appear to be in a grassy field?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "What expression does the woman in a red cardigan have on her face?",
+      "modified": "What expression does the man in a red cardigan have on his face?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the woman in a red cardigan looking toward the camera?",
+      "modified": "Is the man in a red cardigan looking toward the camera?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the woman in a red cardigan wearing anything under the cardigan?",
+      "modified": "Is the man in a red cardigan wearing anything under the cardigan?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the woman in a red cardigan have short dark hair?",
+      "modified": "Does the man in a red cardigan have short dark hair?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the woman in a red cardigan wearing a bracelet or watch?",
+      "modified": "Is the man in a red cardigan wearing a bracelet or watch?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "What is the woman in a red cardigan standing in front of?",
+      "modified": "What is the man in a red cardigan standing in front of?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the woman in a red cardigan seem to be posing for a photo?",
+      "modified": "Does the man in a red cardigan seem to be posing for a photo?",
+      "false_premise": true
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2123",
+    "source": "COCO",
+    "complexity": 2,
+    "category": 1,
+    "target": "baseball player"
+  },
+  "base": {
+    "target_description": "the baseball player in a white uniform",
+    "modified_target_description": "the soccer player in a white uniform",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the baseball player in a white uniform doing in the image?",
+      "modified": "What is the baseball player in a white uniform doing in the image?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the baseball player in a white uniform holding a bat?",
+      "modified": "Is the baseball player in a white uniform holding a bat?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Which direction is the baseball player in a white uniform facing?",
+      "modified": "Which direction is the baseball player in a white uniform facing?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the baseball player in a white uniform appear to be swinging?",
+      "modified": "Does the soccer player in a white uniform appear to be swinging?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the baseball player in a white uniform standing on the dirt near home plate?",
+      "modified": "Is the soccer player in a white uniform standing on the dirt near home plate?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "What color helmet is the baseball player in a white uniform wearing?",
+      "modified": "What color helmet is the soccer player in a white uniform wearing?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the baseball player in a white uniform closer to the catcher or the umpire?",
+      "modified": "Is the soccer player in a white uniform closer to the catcher or the umpire?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the baseball player in a white uniform have both hands on the bat?",
+      "modified": "Does the soccer player in a white uniform have both hands on the bat?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the baseball player in a white uniform in the middle of a hit attempt?",
+      "modified": "Is the soccer player in a white uniform in the middle of a hit attempt?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Can you see the baseball player in a white uniform making contact with the ball?",
+      "modified": "Can you see the soccer player in a white uniform making contact with the ball?",
+      "false_premise": true
+    }
+  ]
+}

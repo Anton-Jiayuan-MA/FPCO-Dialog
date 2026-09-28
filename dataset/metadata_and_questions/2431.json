@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2431",
+    "source": "COCO",
+    "complexity": 2,
+    "category": 4,
+    "target": "donut"
+  },
+  "base": {
+    "target_description": "the golden brown donut on the paper towel",
+    "modified_target_description": "the chocolate donut on the paper towel",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What shape is the golden brown donut on the paper towel?",
+      "modified": "What shape is the golden brown donut on the paper towel?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the golden brown donut on the paper towel have a hole in the middle?",
+      "modified": "Does the golden brown donut on the paper towel have a hole in the middle?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the golden brown donut on the paper towel plain or covered with icing?",
+      "modified": "Is the golden brown donut on the paper towel plain or covered with icing?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the golden brown donut on the paper towel look freshly fried?",
+      "modified": "Does the chocolate donut on the paper towel look freshly fried?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the golden brown donut on the paper towel resting near other donuts?",
+      "modified": "Is the chocolate donut on the paper towel resting near other donuts?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "What color is the golden brown donut on the paper towel?",
+      "modified": "What color is the chocolate donut on the paper towel?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the golden brown donut on the paper towel appear crisp on the outside?",
+      "modified": "Does the chocolate donut on the paper towel appear crisp on the outside?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the golden brown donut on the paper towel sitting on a kitchen counter?",
+      "modified": "Is the chocolate donut on the paper towel sitting on a kitchen counter?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the golden brown donut on the paper towel look larger than the others nearby?",
+      "modified": "Does the chocolate donut on the paper towel look larger than the others nearby?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the golden brown donut on the paper towel positioned closest to the front of the image?",
+      "modified": "Is the chocolate donut on the paper towel positioned closest to the front of the image?",
+      "false_premise": true
+    }
+  ]
+}

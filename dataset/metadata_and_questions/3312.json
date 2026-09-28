@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3312",
+    "source": "COCO",
+    "complexity": 3,
+    "category": 3,
+    "target": "bird"
+  },
+  "base": {
+    "target_description": "the gray bird on the branch",
+    "modified_target_description": "the gray squirrel on the branch",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the gray bird on the branch facing toward the camera or away from it?",
+      "modified": "Is the gray bird on the branch facing toward the camera or away from it?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the gray bird on the branch appear to be perched still?",
+      "modified": "Does the gray bird on the branch appear to be perched still?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the gray bird on the branch near the top of the tree?",
+      "modified": "Is the gray bird on the branch near the top of the tree?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Can you see the tail of the gray bird on the branch clearly?",
+      "modified": "Can you see the tail of the gray squirrel on the branch clearly?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the gray bird on the branch surrounded by other birds?",
+      "modified": "Is the gray squirrel on the branch surrounded by other birds?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the gray bird on the branch have its head tucked down?",
+      "modified": "Does the gray squirrel on the branch have its head tucked down?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the gray bird on the branch standing on a thin twig?",
+      "modified": "Is the gray squirrel on the branch standing on a thin twig?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the gray bird on the branch look puffed up?",
+      "modified": "Does the gray squirrel on the branch look puffed up?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the gray bird on the branch higher than some of the other birds?",
+      "modified": "Is the gray squirrel on the branch higher than some of the other birds?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the gray bird on the branch perched alone on its branch?",
+      "modified": "Is the gray squirrel on the branch perched alone on its branch?",
+      "false_premise": true
+    }
+  ]
+}

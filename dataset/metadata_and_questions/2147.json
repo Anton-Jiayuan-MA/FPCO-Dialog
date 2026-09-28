@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2147",
+    "source": "Open Images",
+    "complexity": 2,
+    "category": 1,
+    "target": "man"
+  },
+  "base": {
+    "target_description": "the bearded man in a dark plaid shirt",
+    "modified_target_description": "the clean-shaven man in a dark plaid shirt",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the bearded man in a dark plaid shirt holding in front of him?",
+      "modified": "What is the bearded man in a dark plaid shirt holding in front of him?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the bearded man in a dark plaid shirt standing next to another person?",
+      "modified": "Is the bearded man in a dark plaid shirt standing next to another person?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the bearded man in a dark plaid shirt appear to be outdoors?",
+      "modified": "Does the bearded man in a dark plaid shirt appear to be outdoors?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the bearded man in a dark plaid shirt wearing a hat?",
+      "modified": "Is the clean-shaven man in a dark plaid shirt wearing a hat?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "What kind of expression does the bearded man in a dark plaid shirt have?",
+      "modified": "What kind of expression does the clean-shaven man in a dark plaid shirt have?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the bearded man in a dark plaid shirt standing under a tree?",
+      "modified": "Is the clean-shaven man in a dark plaid shirt standing under a tree?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "What is behind the bearded man in a dark plaid shirt?",
+      "modified": "What is behind the clean-shaven man in a dark plaid shirt?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the bearded man in a dark plaid shirt facing the camera?",
+      "modified": "Is the clean-shaven man in a dark plaid shirt facing the camera?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "What color are the pants of the bearded man in a dark plaid shirt?",
+      "modified": "What color are the pants of the clean-shaven man in a dark plaid shirt?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the bearded man in a dark plaid shirt seem to be posing for a photo?",
+      "modified": "Does the clean-shaven man in a dark plaid shirt seem to be posing for a photo?",
+      "false_premise": true
+    }
+  ]
+}

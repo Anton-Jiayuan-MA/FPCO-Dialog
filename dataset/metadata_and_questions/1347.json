@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1347",
+    "source": "Open Images",
+    "complexity": 1,
+    "category": 3,
+    "target": "cat"
+  },
+  "base": {
+    "target_description": "the fluffy orange-and-white cat",
+    "modified_target_description": "the fluffy black-and-white cat",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the fluffy orange-and-white cat lying down on a desk?",
+      "modified": "Is the fluffy orange-and-white cat lying down on a desk?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the fluffy orange-and-white cat look relaxed in this image?",
+      "modified": "Does the fluffy orange-and-white cat look relaxed in this image?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the fluffy orange-and-white cat shown with one eye partly open?",
+      "modified": "Is the fluffy orange-and-white cat shown with one eye partly open?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Are the paws of the fluffy orange-and-white cat curled up near its body?",
+      "modified": "Are the paws of the fluffy black-and-white cat curled up near its body?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the fluffy orange-and-white cat appear to be resting indoors?",
+      "modified": "Does the fluffy black-and-white cat appear to be resting indoors?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the fluffy orange-and-white cat taking up most of the frame?",
+      "modified": "Is the fluffy black-and-white cat taking up most of the frame?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the fluffy orange-and-white cat have long fur around its chest and legs?",
+      "modified": "Does the fluffy black-and-white cat have long fur around its chest and legs?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the fluffy orange-and-white cat positioned on its side?",
+      "modified": "Is the fluffy black-and-white cat positioned on its side?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the fluffy orange-and-white cat seem to be next to some papers or books?",
+      "modified": "Does the fluffy black-and-white cat seem to be next to some papers or books?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the fluffy orange-and-white cat facing slightly toward the camera?",
+      "modified": "Is the fluffy black-and-white cat facing slightly toward the camera?",
+      "false_premise": true
+    }
+  ]
+}

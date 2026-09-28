@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1375",
+    "source": "COCO",
+    "complexity": 1,
+    "category": 3,
+    "target": "bear"
+  },
+  "base": {
+    "target_description": "the black bear on the rocky slope",
+    "modified_target_description": "the black bear in the foreground",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the black bear on the rocky slope standing still or moving?",
+      "modified": "Is the black bear on the rocky slope standing still or moving?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Which direction is the black bear on the rocky slope facing?",
+      "modified": "Which direction is the black bear on the rocky slope facing?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the black bear on the rocky slope look like an adult or a cub?",
+      "modified": "Does the black bear on the rocky slope look like an adult or a cub?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the black bear on the rocky slope surrounded more by rocks or by grass?",
+      "modified": "Is the black bear in the foreground surrounded more by rocks or by grass?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the black bear on the rocky slope appear to be climbing uphill?",
+      "modified": "Does the black bear in the foreground appear to be climbing uphill?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Can you clearly see the face of the black bear on the rocky slope?",
+      "modified": "Can you clearly see the face of the black bear in the foreground?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the black bear on the rocky slope near any dry plants?",
+      "modified": "Is the black bear in the foreground near any dry plants?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the black bear on the rocky slope look alert?",
+      "modified": "Does the black bear in the foreground look alert?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the black bear on the rocky slope in the foreground of the image?",
+      "modified": "Is the black bear in the foreground in the foreground of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Would you say the black bear on the rocky slope is alone in the scene?",
+      "modified": "Would you say the black bear in the foreground is alone in the scene?",
+      "false_premise": true
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1136",
+    "source": "Open Images",
+    "complexity": 1,
+    "category": 1,
+    "target": "man"
+  },
+  "base": {
+    "target_description": "the man in white overalls and sunglasses",
+    "modified_target_description": "the man in black overalls and sunglasses",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the man in white overalls and sunglasses doing in the scene?",
+      "modified": "What is the man in white overalls and sunglasses doing in the scene?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the man in white overalls and sunglasses sitting at a drum kit?",
+      "modified": "Is the man in white overalls and sunglasses sitting at a drum kit?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the man in white overalls and sunglasses appear to be performing on stage?",
+      "modified": "Does the man in white overalls and sunglasses appear to be performing on stage?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the man in white overalls and sunglasses holding a drumstick?",
+      "modified": "Is the man in black overalls and sunglasses holding a drumstick?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the man in white overalls and sunglasses positioned near a microphone?",
+      "modified": "Is the man in black overalls and sunglasses positioned near a microphone?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the man in white overalls and sunglasses look focused while playing?",
+      "modified": "Does the man in black overalls and sunglasses look focused while playing?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Can you see tattoos on the arm of the man in white overalls and sunglasses?",
+      "modified": "Can you see tattoos on the arm of the man in black overalls and sunglasses?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the man in white overalls and sunglasses wearing sleeveless clothing?",
+      "modified": "Is the man in black overalls and sunglasses wearing sleeveless clothing?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the man in white overalls and sunglasses surrounded by musical equipment?",
+      "modified": "Is the man in black overalls and sunglasses surrounded by musical equipment?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Are there drums directly in front of the man in white overalls and sunglasses?",
+      "modified": "Are there drums directly in front of the man in black overalls and sunglasses?",
+      "false_premise": true
+    }
+  ]
+}

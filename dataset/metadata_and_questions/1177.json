@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1177",
+    "source": "COCO",
+    "complexity": 1,
+    "category": 1,
+    "target": "man"
+  },
+  "base": {
+    "target_description": "the man in a gray shirt",
+    "modified_target_description": "the man on the left",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the man in a gray shirt doing with his hands?",
+      "modified": "What is the man in a gray shirt doing with his hands?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the man in a gray shirt looking toward the camera?",
+      "modified": "Is the man in a gray shirt looking toward the camera?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Where is the man in a gray shirt standing in the kitchen?",
+      "modified": "Where is the man in a gray shirt standing in the kitchen?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the man in a gray shirt appear to be pointing at the hanging pans?",
+      "modified": "Does the man on the left appear to be pointing at the hanging pans?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "What is behind the man in a gray shirt on the wall?",
+      "modified": "What is behind the man on the left on the wall?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the man in a gray shirt standing next to a counter with kitchen utensils?",
+      "modified": "Is the man on the left standing next to a counter with kitchen utensils?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the man in a gray shirt seem to be showing something on the wall rack?",
+      "modified": "Does the man on the left seem to be showing something on the wall rack?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "What expression does the man in a gray shirt have on his face?",
+      "modified": "What expression does the man on the left have on his face?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the man in a gray shirt near the microwave?",
+      "modified": "Is the man on the left near the microwave?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "What part of the kitchen is the man in a gray shirt facing?",
+      "modified": "What part of the kitchen is the man on the left facing?",
+      "false_premise": true
+    }
+  ]
+}

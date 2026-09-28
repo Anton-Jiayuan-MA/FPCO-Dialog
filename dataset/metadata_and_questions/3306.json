@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3306",
+    "source": "COCO",
+    "complexity": 3,
+    "category": 3,
+    "target": "dog"
+  },
+  "base": {
+    "target_description": "the brown and white dog with a red collar",
+    "modified_target_description": "the brown and white cat with a red collar",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the brown and white dog with a red collar doing in the image?",
+      "modified": "What is the brown and white dog with a red collar doing in the image?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the brown and white dog with a red collar lying down or standing up?",
+      "modified": "Is the brown and white dog with a red collar lying down or standing up?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Which direction is the brown and white dog with a red collar looking?",
+      "modified": "Which direction is the brown and white dog with a red collar looking?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the brown and white dog with a red collar appear calm here?",
+      "modified": "Does the brown and white cat with a red collar appear calm here?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the brown and white dog with a red collar indoors?",
+      "modified": "Is the brown and white cat with a red collar indoors?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "What animal is cuddled up next to the brown and white dog with a red collar?",
+      "modified": "What animal is cuddled up next to the brown and white cat with a red collar?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Can you clearly see the face of the brown and white dog with a red collar?",
+      "modified": "Can you clearly see the face of the brown and white cat with a red collar?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the brown and white dog with a red collar resting on a carpeted floor?",
+      "modified": "Is the brown and white cat with a red collar resting on a carpeted floor?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the brown and white dog with a red collar take up most of the image?",
+      "modified": "Does the brown and white cat with a red collar take up most of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the brown and white dog with a red collar close to the camera?",
+      "modified": "Is the brown and white cat with a red collar close to the camera?",
+      "false_premise": true
+    }
+  ]
+}

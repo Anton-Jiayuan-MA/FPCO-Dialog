@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2272",
+    "source": "COCO",
+    "complexity": 2,
+    "category": 2,
+    "target": "bus"
+  },
+  "base": {
+    "target_description": "the yellow bus in front",
+    "modified_target_description": "the yellow bus in back",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What direction is the yellow bus in front facing?",
+      "modified": "What direction is the yellow bus in front facing?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the yellow bus in front moving or stopped in the street?",
+      "modified": "Is the yellow bus in front moving or stopped in the street?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "What route number or destination is shown on the yellow bus in front?",
+      "modified": "What route number or destination is shown on the yellow bus in front?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Can you see the driver through the windshield of the yellow bus in front?",
+      "modified": "Can you see the driver through the windshield of the yellow bus in back?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the yellow bus in front closer to the camera than the other bus?",
+      "modified": "Is the yellow bus in back closer to the camera than the other bus?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "What part of the road is the yellow bus in front occupying?",
+      "modified": "What part of the road is the yellow bus in back occupying?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the yellow bus in front appear to be at an intersection or along a straight road?",
+      "modified": "Does the yellow bus in back appear to be at an intersection or along a straight road?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the yellow bus in front fully visible in the image?",
+      "modified": "Is the yellow bus in back fully visible in the image?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "How large does the yellow bus in front appear compared with the other vehicles nearby?",
+      "modified": "How large does the yellow bus in back appear compared with the other vehicles nearby?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the yellow bus in front centered in the image?",
+      "modified": "Is the yellow bus in back centered in the image?",
+      "false_premise": true
+    }
+  ]
+}

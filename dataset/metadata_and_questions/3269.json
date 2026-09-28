@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3269",
+    "source": "Open Images",
+    "complexity": 3,
+    "category": 2,
+    "target": "car"
+  },
+  "base": {
+    "target_description": "the white and red taxi on the right",
+    "modified_target_description": "the white and red taxi on the left",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the white and red taxi on the right moving through the intersection or stopped?",
+      "modified": "Is the white and red taxi on the right moving through the intersection or stopped?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Which direction is the white and red taxi on the right facing?",
+      "modified": "Which direction is the white and red taxi on the right facing?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the white and red taxi on the right closer to the camera than the pedestrians?",
+      "modified": "Is the white and red taxi on the right closer to the camera than the pedestrians?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the white and red taxi on the right appear to be in a traffic lane?",
+      "modified": "Does the white and red taxi on the left appear to be in a traffic lane?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the white and red taxi on the right seen mostly from the back or the front?",
+      "modified": "Is the white and red taxi on the left seen mostly from the back or the front?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the white and red taxi on the right have a roof sign?",
+      "modified": "Does the white and red taxi on the left have a roof sign?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the white and red taxi on the right near the edge of the road?",
+      "modified": "Is the white and red taxi on the left near the edge of the road?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Are any people crossing in front of the white and red taxi on the right?",
+      "modified": "Are any people crossing in front of the white and red taxi on the left?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the white and red taxi on the right the most prominent vehicle in the foreground?",
+      "modified": "Is the white and red taxi on the left the most prominent vehicle in the foreground?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Can you see the rear lights of the white and red taxi on the right?",
+      "modified": "Can you see the rear lights of the white and red taxi on the left?",
+      "false_premise": true
+    }
+  ]
+}

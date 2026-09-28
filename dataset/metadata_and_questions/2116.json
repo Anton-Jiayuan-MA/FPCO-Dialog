@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2116",
+    "source": "Open Images",
+    "complexity": 2,
+    "category": 1,
+    "target": "man"
+  },
+  "base": {
+    "target_description": "the man in the middle wearing a blue tie",
+    "modified_target_description": "the woman in the middle wearing a blue tie",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the man in the middle wearing a blue tie walking down the hallway?",
+      "modified": "Is the man in the middle wearing a blue tie walking down the hallway?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the man in the middle wearing a blue tie appear to be dressed formally?",
+      "modified": "Does the man in the middle wearing a blue tie appear to be dressed formally?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the man in the middle wearing a blue tie positioned between two other men?",
+      "modified": "Is the man in the middle wearing a blue tie positioned between two other men?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the man in the middle wearing a blue tie look like he is indoors?",
+      "modified": "Does the woman in the middle wearing a blue tie look like she is indoors?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the man in the middle wearing a blue tie facing toward the camera?",
+      "modified": "Is the woman in the middle wearing a blue tie facing toward the camera?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the man in the middle wearing a blue tie have one of his hands in his pocket?",
+      "modified": "Does the woman in the middle wearing a blue tie have one of her hands in her pocket?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the man in the middle wearing a blue tie wearing a dark suit jacket?",
+      "modified": "Is the woman in the middle wearing a blue tie wearing a dark suit jacket?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the man in the middle wearing a blue tie appear to be wearing glasses?",
+      "modified": "Does the woman in the middle wearing a blue tie appear to be wearing glasses?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the man in the middle wearing a blue tie walking alongside other people?",
+      "modified": "Is the woman in the middle wearing a blue tie walking alongside other people?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the man in the middle wearing a blue tie seem to be in a large open building?",
+      "modified": "Does the woman in the middle wearing a blue tie seem to be in a large open building?",
+      "false_premise": true
+    }
+  ]
+}

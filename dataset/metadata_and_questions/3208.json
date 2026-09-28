@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3208",
+    "source": "COCO",
+    "complexity": 3,
+    "category": 2,
+    "target": "motorcycle"
+  },
+  "base": {
+    "target_description": "the yellow Suzuki motorcycle",
+    "modified_target_description": "the yellow Suzuki bicycle",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the yellow Suzuki motorcycle parked indoors at an event or display?",
+      "modified": "Is the yellow Suzuki motorcycle parked indoors at an event or display?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the yellow Suzuki motorcycle have a long black seat?",
+      "modified": "Does the yellow Suzuki motorcycle have a long black seat?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Can you see the side of the yellow Suzuki motorcycle clearly in the image?",
+      "modified": "Can you see the side of the yellow Suzuki motorcycle clearly in the image?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the yellow Suzuki motorcycle surrounded by other motorcycles?",
+      "modified": "Is the yellow Suzuki bicycle surrounded by other motorcycles?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the yellow Suzuki motorcycle appear to be on display rather than being ridden?",
+      "modified": "Does the yellow Suzuki bicycle appear to be on display rather than being ridden?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Can you read the brand name on the yellow Suzuki motorcycle?",
+      "modified": "Can you read the brand name on the yellow Suzuki bicycle?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the yellow Suzuki motorcycle facing toward the left side of the image?",
+      "modified": "Is the yellow Suzuki bicycle facing toward the left side of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the yellow Suzuki motorcycle have chrome parts on the engine and wheels?",
+      "modified": "Does the yellow Suzuki bicycle have chrome parts on the engine and wheels?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the yellow Suzuki motorcycle positioned in the foreground of the scene?",
+      "modified": "Is the yellow Suzuki bicycle positioned in the foreground of the scene?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the yellow Suzuki motorcycle look clean and polished?",
+      "modified": "Does the yellow Suzuki bicycle look clean and polished?",
+      "false_premise": true
+    }
+  ]
+}

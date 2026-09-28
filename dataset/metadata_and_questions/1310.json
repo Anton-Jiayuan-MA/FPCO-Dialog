@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1310",
+    "source": "COCO",
+    "complexity": 1,
+    "category": 3,
+    "target": "elephant"
+  },
+  "base": {
+    "target_description": "the wrinkled elephant with long tusks",
+    "modified_target_description": "the wrinkled rhinoceros with long tusks",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What direction is the wrinkled elephant with long tusks facing in the image?",
+      "modified": "What direction is the wrinkled elephant with long tusks facing in the image?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the wrinkled elephant with long tusks standing outdoors?",
+      "modified": "Is the wrinkled elephant with long tusks standing outdoors?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Can you see both eyes of the wrinkled elephant with long tusks?",
+      "modified": "Can you see both eyes of the wrinkled elephant with long tusks?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the wrinkled elephant with long tusks appear close to the camera?",
+      "modified": "Does the wrinkled rhinoceros with long tusks appear close to the camera?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the trunk of the wrinkled elephant with long tusks hanging down?",
+      "modified": "Is the trunk of the wrinkled rhinoceros with long tusks hanging down?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Are the tusks of the wrinkled elephant with long tusks clearly visible?",
+      "modified": "Are the tusks of the wrinkled rhinoceros with long tusks clearly visible?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the wrinkled elephant with long tusks take up most of the frame?",
+      "modified": "Does the wrinkled rhinoceros with long tusks take up most of the frame?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the wrinkled elephant with long tusks in bright sunlight?",
+      "modified": "Is the wrinkled rhinoceros with long tusks in bright sunlight?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Can you see one large ear of the wrinkled elephant with long tusks prominently?",
+      "modified": "Can you see one large ear of the wrinkled rhinoceros with long tusks prominently?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the wrinkled elephant with long tusks look calm in the scene?",
+      "modified": "Does the wrinkled rhinoceros with long tusks look calm in the scene?",
+      "false_premise": true
+    }
+  ]
+}

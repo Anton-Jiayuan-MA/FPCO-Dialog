@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3338",
+    "source": "Open Images",
+    "complexity": 3,
+    "category": 3,
+    "target": "fish"
+  },
+  "base": {
+    "target_description": "the small silver fish underwater",
+    "modified_target_description": "the large silver fish underwater",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Are the small silver fish underwater swimming closely together?",
+      "modified": "Are the small silver fish underwater swimming closely together?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Do the small silver fish underwater appear to be moving in the same direction?",
+      "modified": "Do the small silver fish underwater appear to be moving in the same direction?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Are the small silver fish underwater forming a dense school?",
+      "modified": "Are the small silver fish underwater forming a dense school?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Do the small silver fish underwater fill most of the scene?",
+      "modified": "Do the large silver fish underwater fill most of the scene?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Are the small silver fish underwater near some seaweed?",
+      "modified": "Are the large silver fish underwater near some seaweed?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Do the small silver fish underwater look slender in shape?",
+      "modified": "Do the large silver fish underwater look slender in shape?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Are the small silver fish underwater spread across both sides of the image?",
+      "modified": "Are the large silver fish underwater spread across both sides of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Do the small silver fish underwater appear to be surrounded by blue water?",
+      "modified": "Do the large silver fish underwater appear to be surrounded by blue water?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Are the small silver fish underwater overlapping one another visually?",
+      "modified": "Are the large silver fish underwater overlapping one another visually?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Do the small silver fish underwater look like they are swimming as a group?",
+      "modified": "Do the large silver fish underwater look like they are swimming as a group?",
+      "false_premise": true
+    }
+  ]
+}

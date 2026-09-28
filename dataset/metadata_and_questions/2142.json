@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2142",
+    "source": "Open Images",
+    "complexity": 2,
+    "category": 1,
+    "target": "man"
+  },
+  "base": {
+    "target_description": "the man in a gray suit and black beret",
+    "modified_target_description": "the man in a black suit and black beret",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the man in a gray suit and black beret doing with his hand?",
+      "modified": "What is the man in a gray suit and black beret doing with his hand?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the man in a gray suit and black beret shaking hands with someone?",
+      "modified": "Is the man in a gray suit and black beret shaking hands with someone?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "What is the man in a gray suit and black beret holding in his other hand?",
+      "modified": "What is the man in a gray suit and black beret holding in his other hand?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the man in a gray suit and black beret looking downward?",
+      "modified": "Is the man in a black suit and black beret looking downward?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the man in a gray suit and black beret appear to be indoors?",
+      "modified": "Does the man in a black suit and black beret appear to be indoors?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the man in a gray suit and black beret standing near two other men?",
+      "modified": "Is the man in a black suit and black beret standing near two other men?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the man in a gray suit and black beret seem dressed formally?",
+      "modified": "Does the man in a black suit and black beret seem dressed formally?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the man in a gray suit and black beret wearing a collared shirt under the suit?",
+      "modified": "Is the man in a black suit and black beret wearing a collared shirt under the suit?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the man in a gray suit and black beret positioned on the left side of the image?",
+      "modified": "Is the man in a black suit and black beret positioned on the left side of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the man in a gray suit and black beret appear to be interacting with the people beside him?",
+      "modified": "Does the man in a black suit and black beret appear to be interacting with the people beside him?",
+      "false_premise": true
+    }
+  ]
+}

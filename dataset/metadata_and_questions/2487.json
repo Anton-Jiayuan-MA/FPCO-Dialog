@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2487",
+    "source": "Open Images",
+    "complexity": 2,
+    "category": 4,
+    "target": "beer"
+  },
+  "base": {
+    "target_description": "the foamy glass of beer",
+    "modified_target_description": "the foamy glass of beer on the left",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the foamy glass of beer sitting on a round coaster?",
+      "modified": "Is the foamy glass of beer sitting on a round coaster?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the foamy glass of beer look partly full?",
+      "modified": "Does the foamy glass of beer look partly full?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the foamy glass of beer placed on a glass table?",
+      "modified": "Is the foamy glass of beer placed on a glass table?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the foamy glass of beer have a thick layer of foam at the top?",
+      "modified": "Does the foamy glass of beer on the left have a thick layer of foam at the top?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the foamy glass of beer to the right of the food item in the cone?",
+      "modified": "Is the foamy glass of beer on the left to the right of the food item in the cone?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Can you see the foamy glass of beer near the stone wall background?",
+      "modified": "Can you see the foamy glass of beer on the left near the stone wall background?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the foamy glass of beer transparent enough to see the golden drink inside?",
+      "modified": "Is the foamy glass of beer on the left transparent enough to see the golden drink inside?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the foamy glass of beer appear to be indoors?",
+      "modified": "Does the foamy glass of beer on the left appear to be indoors?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the foamy glass of beer closer to the right side of the image than the left?",
+      "modified": "Is the foamy glass of beer on the left closer to the right side of the image than the left?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the foamy glass of beer look like it has been sipped already?",
+      "modified": "Does the foamy glass of beer on the left look like it has been sipped already?",
+      "false_premise": true
+    }
+  ]
+}

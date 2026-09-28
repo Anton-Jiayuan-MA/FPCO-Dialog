@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1472",
+    "source": "COCO",
+    "complexity": 1,
+    "category": 4,
+    "target": "apple"
+  },
+  "base": {
+    "target_description": "the red apple on the wooden desk",
+    "modified_target_description": "the red apple on the floor",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What color is the red apple on the wooden desk?",
+      "modified": "What color is the red apple on the wooden desk?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the red apple on the wooden desk whole or sliced?",
+      "modified": "Is the red apple on the wooden desk whole or sliced?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the red apple on the wooden desk look shiny?",
+      "modified": "Does the red apple on the wooden desk look shiny?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the red apple on the wooden desk sitting by itself?",
+      "modified": "Is the red apple on the floor sitting by itself?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Where is the red apple on the wooden desk placed in the scene?",
+      "modified": "Where is the red apple on the floor placed in the scene?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the red apple on the wooden desk appear fresh?",
+      "modified": "Does the red apple on the floor appear fresh?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the red apple on the wooden desk closer to the front or the back of the image?",
+      "modified": "Is the red apple on the floor closer to the front or the back of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the red apple on the wooden desk have any visible stem?",
+      "modified": "Does the red apple on the floor have any visible stem?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the red apple on the wooden desk the main focus of the photo?",
+      "modified": "Is the red apple on the floor the main focus of the photo?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the red apple on the wooden desk look round?",
+      "modified": "Does the red apple on the floor look round?",
+      "false_premise": true
+    }
+  ]
+}

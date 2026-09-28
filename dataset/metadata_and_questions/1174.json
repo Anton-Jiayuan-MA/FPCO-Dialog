@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1174",
+    "source": "Open Images",
+    "complexity": 1,
+    "category": 1,
+    "target": "man"
+  },
+  "base": {
+    "target_description": "the man in a dark suit holding glasses",
+    "modified_target_description": "the man on the left in a dark suit holding glasses",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the man in a dark suit holding glasses doing at the table?",
+      "modified": "What is the man in a dark suit holding glasses doing at the table?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the man in a dark suit holding glasses seated indoors?",
+      "modified": "Is the man in a dark suit holding glasses seated indoors?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the man in a dark suit holding glasses appear to be looking to the side?",
+      "modified": "Does the man in a dark suit holding glasses appear to be looking to the side?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the man in a dark suit holding glasses wearing a tie?",
+      "modified": "Is the man on the left in a dark suit holding glasses wearing a tie?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "What is in front of the man in a dark suit holding glasses on the table?",
+      "modified": "What is in front of the man on the left in a dark suit holding glasses on the table?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the man in a dark suit holding glasses seem to be part of a formal meeting?",
+      "modified": "Does the man on the left in a dark suit holding glasses seem to be part of a formal meeting?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the man in a dark suit holding glasses holding the glasses with both hands?",
+      "modified": "Is the man on the left in a dark suit holding glasses holding the glasses with both hands?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the man in a dark suit holding glasses have papers in front of him?",
+      "modified": "Does the man on the left in a dark suit holding glasses have papers in front of him?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the man in a dark suit holding glasses sitting behind a name card?",
+      "modified": "Is the man on the left in a dark suit holding glasses sitting behind a name card?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the man in a dark suit holding glasses appear attentive?",
+      "modified": "Does the man on the left in a dark suit holding glasses appear attentive?",
+      "false_premise": true
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3133",
+    "source": "COCO",
+    "complexity": 3,
+    "category": 1,
+    "target": "man"
+  },
+  "base": {
+    "target_description": "the man in a blue shirt sitting on the bench",
+    "modified_target_description": "the man in a red shirt sitting on the bench",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the man in a blue shirt sitting on the bench doing in the scene?",
+      "modified": "What is the man in a blue shirt sitting on the bench doing in the scene?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the man in a blue shirt sitting on the bench facing toward the left side of the image?",
+      "modified": "Is the man in a blue shirt sitting on the bench facing toward the left side of the image?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the man in a blue shirt sitting on the bench appear to be outdoors?",
+      "modified": "Does the man in a blue shirt sitting on the bench appear to be outdoors?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the man in a blue shirt sitting on the bench sitting near other people?",
+      "modified": "Is the man in a red shirt sitting on the bench sitting near other people?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the man in a blue shirt sitting on the bench have a dark jacket or bag beside him?",
+      "modified": "Does the man in a red shirt sitting on the bench have a dark jacket or bag beside him?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the man in a blue shirt sitting on the bench looking away from the camera?",
+      "modified": "Is the man in a red shirt sitting on the bench looking away from the camera?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the man in a blue shirt sitting on the bench seem relaxed while seated?",
+      "modified": "Does the man in a red shirt sitting on the bench seem relaxed while seated?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the man in a blue shirt sitting on the bench in a public place?",
+      "modified": "Is the man in a red shirt sitting on the bench in a public place?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Can you see the man in a blue shirt sitting on the bench with his arms crossed?",
+      "modified": "Can you see the man in a red shirt sitting on the bench with his arms crossed?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the man in a blue shirt sitting on the bench positioned on the left side of the image?",
+      "modified": "Is the man in a red shirt sitting on the bench positioned on the left side of the image?",
+      "false_premise": true
+    }
+  ]
+}

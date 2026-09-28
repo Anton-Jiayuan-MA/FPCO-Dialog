@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2313",
+    "source": "COCO",
+    "complexity": 2,
+    "category": 3,
+    "target": "elephant"
+  },
+  "base": {
+    "target_description": "the baby elephant between two adults",
+    "modified_target_description": "the baby giraffe between two adults",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the baby elephant between two adults doing with its trunk?",
+      "modified": "What is the baby elephant between two adults doing with its trunk?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the baby elephant between two adults look much smaller than the others around it?",
+      "modified": "Does the baby elephant between two adults look much smaller than the others around it?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the baby elephant between two adults standing close to the adult elephants for protection?",
+      "modified": "Is the baby elephant between two adults standing close to the adult elephants for protection?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Are the ears of the baby elephant between two adults spread out to the sides?",
+      "modified": "Are the ears of the baby giraffe between two adults spread out to the sides?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Can you see the full body of the baby elephant between two adults?",
+      "modified": "Can you see the full body of the baby giraffe between two adults?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the baby elephant between two adults facing toward the camera or away from it?",
+      "modified": "Is the baby giraffe between two adults facing toward the camera or away from it?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the baby elephant between two adults appear to be walking or standing still?",
+      "modified": "Does the baby giraffe between two adults appear to be walking or standing still?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the baby elephant between two adults surrounded closely by the legs of the larger elephants?",
+      "modified": "Is the baby giraffe between two adults surrounded closely by the legs of the larger adults?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the baby elephant between two adults have its trunk lifted upward?",
+      "modified": "Does the baby giraffe between two adults have its trunk lifted upward?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the baby elephant between two adults the main focus near the center of the image?",
+      "modified": "Is the baby giraffe between two adults the main focus near the center of the image?",
+      "false_premise": true
+    }
+  ]
+}

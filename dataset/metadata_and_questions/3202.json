@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3202",
+    "source": "Open Images",
+    "complexity": 3,
+    "category": 2,
+    "target": "bicycle"
+  },
+  "base": {
+    "target_description": "the blue bicycle with a rear rack",
+    "modified_target_description": "the blue motorcycle with a rear rack",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the blue bicycle with a rear rack parked in a bike rack?",
+      "modified": "Is the blue bicycle with a rear rack parked in a bike rack?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the blue bicycle with a rear rack have both wheels visible in the image?",
+      "modified": "Does the blue bicycle with a rear rack have both wheels visible in the image?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the blue bicycle with a rear rack leaning among other bicycles?",
+      "modified": "Is the blue bicycle with a rear rack leaning among other bicycles?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Can you see the handlebars of the blue bicycle with a rear rack clearly?",
+      "modified": "Can you see the handlebars of the blue motorcycle with a rear rack clearly?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the blue bicycle with a rear rack appear to be locked up?",
+      "modified": "Does the blue motorcycle with a rear rack appear to be locked up?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the blue bicycle with a rear rack facing toward the right side of the image?",
+      "modified": "Is the blue motorcycle with a rear rack facing toward the right side of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the blue bicycle with a rear rack have fenders over its wheels?",
+      "modified": "Does the blue motorcycle with a rear rack have fenders over its wheels?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the seat of the blue bicycle with a rear rack black?",
+      "modified": "Is the seat of the blue motorcycle with a rear rack black?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the blue bicycle with a rear rack look like an adult-sized bike?",
+      "modified": "Does the blue motorcycle with a rear rack look like an adult-sized bike?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the blue bicycle with a rear rack positioned on a sidewalk or paved area?",
+      "modified": "Is the blue motorcycle with a rear rack positioned on a sidewalk or paved area?",
+      "false_premise": true
+    }
+  ]
+}

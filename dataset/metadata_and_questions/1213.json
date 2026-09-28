@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1213",
+    "source": "COCO",
+    "complexity": 1,
+    "category": 2,
+    "target": "train"
+  },
+  "base": {
+    "target_description": "the red and silver train on the tracks",
+    "modified_target_description": "the red and silver bus on the tracks",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What direction is the red and silver train on the tracks facing in the image?",
+      "modified": "What direction is the red and silver train on the tracks facing in the image?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the red and silver train on the tracks stopped at a station?",
+      "modified": "Is the red and silver train on the tracks stopped at a station?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the red and silver train on the tracks appear to be carrying passengers?",
+      "modified": "Does the red and silver train on the tracks appear to be carrying passengers?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "What kind of design is painted along the side of the red and silver train on the tracks?",
+      "modified": "What kind of design is painted along the side of the red and silver bus on the tracks?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the red and silver train on the tracks closer to the camera at its front or its back?",
+      "modified": "Is the red and silver bus on the tracks closer to the camera at its front or its back?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Are there overhead wires above the red and silver train on the tracks?",
+      "modified": "Are there overhead wires above the red and silver bus on the tracks?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the red and silver train on the tracks have more than one car visible?",
+      "modified": "Does the red and silver bus on the tracks have more than one car visible?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the red and silver train on the tracks next to a platform?",
+      "modified": "Is the red and silver bus on the tracks next to a platform?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "What electronic route sign is shown on the front of the red and silver train on the tracks?",
+      "modified": "What electronic route sign is shown on the front of the red and silver bus on the tracks?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the red and silver train on the tracks outdoors in daylight?",
+      "modified": "Is the red and silver bus on the tracks outdoors in daylight?",
+      "false_premise": true
+    }
+  ]
+}

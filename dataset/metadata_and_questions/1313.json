@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1313",
+    "source": "COCO",
+    "complexity": 1,
+    "category": 3,
+    "target": "cat"
+  },
+  "base": {
+    "target_description": "the blue-eyed Siamese cat",
+    "modified_target_description": "the blue-eyed Siamese dog",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What direction is the blue-eyed Siamese cat looking?",
+      "modified": "What direction is the blue-eyed Siamese cat looking?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the blue-eyed Siamese cat resting or moving in the image?",
+      "modified": "Is the blue-eyed Siamese cat resting or moving in the image?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the blue-eyed Siamese cat appear to be in the foreground or background?",
+      "modified": "Does the blue-eyed Siamese cat appear to be in the foreground or background?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Are the ears of the blue-eyed Siamese cat standing upright?",
+      "modified": "Are the ears of the blue-eyed Siamese dog standing upright?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Can you clearly see the face of the blue-eyed Siamese cat?",
+      "modified": "Can you clearly see the face of the blue-eyed Siamese dog?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the blue-eyed Siamese cat lit by sunlight?",
+      "modified": "Is the blue-eyed Siamese dog lit by sunlight?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the blue-eyed Siamese cat have dark fur around its face?",
+      "modified": "Does the blue-eyed Siamese dog have dark fur around its face?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the blue-eyed Siamese cat facing toward the camera or away from it?",
+      "modified": "Is the blue-eyed Siamese dog facing toward the camera or away from it?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Are the whiskers of the blue-eyed Siamese cat easy to see?",
+      "modified": "Are the whiskers of the blue-eyed Siamese dog easy to see?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the blue-eyed Siamese cat the main focus of the image?",
+      "modified": "Is the blue-eyed Siamese dog the main focus of the image?",
+      "false_premise": true
+    }
+  ]
+}

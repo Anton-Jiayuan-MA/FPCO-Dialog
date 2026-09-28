@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3428",
+    "source": "Open Images",
+    "complexity": 3,
+    "category": 4,
+    "target": "apple"
+  },
+  "base": {
+    "target_description": "the red apples in a cardboard box",
+    "modified_target_description": "the red oranges in a cardboard box",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What kind of fruit are the red apples in a cardboard box?",
+      "modified": "What kind of fruit are the red apples in a cardboard box?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Are the red apples in a cardboard box piled up together?",
+      "modified": "Are the red apples in a cardboard box piled up together?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Do the red apples in a cardboard box look fresh?",
+      "modified": "Do the red apples in a cardboard box look fresh?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "What color are the red apples in a cardboard box?",
+      "modified": "What color are the red oranges in a cardboard box?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Are the red apples in a cardboard box being displayed for sale?",
+      "modified": "Are the red oranges in a cardboard box being displayed for sale?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Do the red apples in a cardboard box fill most of the box?",
+      "modified": "Do the red oranges in a cardboard box fill most of the box?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Are the red apples in a cardboard box shiny or dull?",
+      "modified": "Are the red oranges in a cardboard box shiny or dull?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Do the red apples in a cardboard box appear to be organic?",
+      "modified": "Do the red oranges in a cardboard box appear to be organic?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Are the red apples in a cardboard box stacked loosely or neatly arranged?",
+      "modified": "Are the red oranges in a cardboard box stacked loosely or neatly arranged?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is there a sign above the red apples in a cardboard box?",
+      "modified": "Is there a sign above the red oranges in a cardboard box?",
+      "false_premise": true
+    }
+  ]
+}

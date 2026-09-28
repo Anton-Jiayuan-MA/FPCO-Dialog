@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2212",
+    "source": "COCO",
+    "complexity": 2,
+    "category": 2,
+    "target": "streetcar"
+  },
+  "base": {
+    "target_description": "the red streetcar on the tracks",
+    "modified_target_description": "the red bus on the tracks",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the red streetcar on the tracks facing toward the camera?",
+      "modified": "Is the red streetcar on the tracks facing toward the camera?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the red streetcar on the tracks appear to be moving along the rail line?",
+      "modified": "Does the red streetcar on the tracks appear to be moving along the rail line?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the red streetcar on the tracks positioned near the center of the image?",
+      "modified": "Is the red streetcar on the tracks positioned near the center of the image?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Can you see the front of the red streetcar on the tracks clearly?",
+      "modified": "Can you see the front of the red bus on the tracks clearly?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the red streetcar on the tracks farther away than the nearby truck?",
+      "modified": "Is the red bus on the tracks farther away than the nearby truck?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the red streetcar on the tracks look like part of a city transit system?",
+      "modified": "Does the red bus on the tracks look like part of a city transit system?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the red streetcar on the tracks traveling through an urban neighborhood?",
+      "modified": "Is the red bus on the tracks traveling through an urban neighborhood?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Are there overhead wires above the red streetcar on the tracks?",
+      "modified": "Are there overhead wires above the red bus on the tracks?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the red streetcar on the tracks appear to be on a straight section of rail?",
+      "modified": "Does the red bus on the tracks appear to be on a straight section of rail?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the red streetcar on the tracks the most noticeable vehicle in the scene?",
+      "modified": "Is the red bus on the tracks the most noticeable vehicle in the scene?",
+      "false_premise": true
+    }
+  ]
+}

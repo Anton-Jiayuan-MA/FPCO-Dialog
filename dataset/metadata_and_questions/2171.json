@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2171",
+    "source": "COCO",
+    "complexity": 2,
+    "category": 1,
+    "target": "woman"
+  },
+  "base": {
+    "target_description": "the woman in a dress and apron",
+    "modified_target_description": "the woman by the stove",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the woman in a dress and apron doing at the stove?",
+      "modified": "What is the woman in a dress and apron doing at the stove?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the woman in a dress and apron standing on the left or the right side of the stove?",
+      "modified": "Is the woman in a dress and apron standing on the left or the right side of the stove?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the woman in a dress and apron appear to be cooking or serving food?",
+      "modified": "Does the woman in a dress and apron appear to be cooking or serving food?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the woman in a dress and apron facing toward the other person in the kitchen?",
+      "modified": "Is the woman by the stove facing toward the other person in the kitchen?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "What is the woman in a dress and apron holding near the stove?",
+      "modified": "What is the woman by the stove holding near the stove?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the woman in a dress and apron wearing dark shoes?",
+      "modified": "Is the woman by the stove wearing dark shoes?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the woman in a dress and apron seem to be working with a pot on the stove?",
+      "modified": "Does the woman by the stove seem to be working with a pot on the stove?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the woman in a dress and apron standing close to the stove?",
+      "modified": "Is the woman by the stove standing close to the stove?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the woman in a dress and apron appear indoors in a kitchen?",
+      "modified": "Does the woman by the stove appear indoors in a kitchen?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the woman in a dress and apron wearing an apron over the dress?",
+      "modified": "Is the woman by the stove wearing an apron over the dress?",
+      "false_premise": true
+    }
+  ]
+}

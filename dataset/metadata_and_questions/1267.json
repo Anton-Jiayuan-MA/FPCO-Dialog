@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1267",
+    "source": "Open Images",
+    "complexity": 1,
+    "category": 2,
+    "target": "car"
+  },
+  "base": {
+    "target_description": "the brown classic car with its hood open",
+    "modified_target_description": "the brown classic car beside a canopy",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the brown classic car with its hood open parked on?",
+      "modified": "What is the brown classic car with its hood open parked on?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the brown classic car with its hood open displayed outdoors?",
+      "modified": "Is the brown classic car with its hood open displayed outdoors?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Can you see the engine inside the brown classic car with its hood open?",
+      "modified": "Can you see the engine inside the brown classic car with its hood open?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the brown classic car with its hood open look like it is part of a car show?",
+      "modified": "Does the brown classic car beside a canopy look like it is part of a car show?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "What color is the brown classic car with its hood open?",
+      "modified": "What color is the brown classic car beside a canopy?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the brown classic car with its hood open facing toward the camera?",
+      "modified": "Is the brown classic car beside a canopy facing toward the camera?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the brown classic car with its hood open have two doors visible?",
+      "modified": "Does the brown classic car beside a canopy have two doors visible?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Are the front lights of the brown classic car with its hood open visible?",
+      "modified": "Are the front lights of the brown classic car beside a canopy visible?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the brown classic car with its hood open sitting next to a canopy?",
+      "modified": "Is the brown classic car beside a canopy sitting next to a canopy?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the brown classic car with its hood open appear clean and polished?",
+      "modified": "Does the brown classic car beside a canopy appear clean and polished?",
+      "false_premise": true
+    }
+  ]
+}

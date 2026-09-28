@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3383",
+    "source": "Open Images",
+    "complexity": 3,
+    "category": 3,
+    "target": "sheep"
+  },
+  "base": {
+    "target_description": "the white sheep with black spots",
+    "modified_target_description": "the white sheep with black spots on the left",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the white sheep with black spots lying down in the grass?",
+      "modified": "Is the white sheep with black spots lying down in the grass?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the white sheep with black spots appear to be resting?",
+      "modified": "Does the white sheep with black spots appear to be resting?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the white sheep with black spots next to another sheep?",
+      "modified": "Is the white sheep with black spots next to another sheep?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the white sheep with black spots have its head lowered toward the other sheep?",
+      "modified": "Does the white sheep with black spots on the left have its head lowered toward the other sheep?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Can you see ear tags on the white sheep with black spots?",
+      "modified": "Can you see ear tags on the white sheep with black spots on the left?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the white sheep with black spots facing slightly toward the camera?",
+      "modified": "Is the white sheep with black spots on the left facing slightly toward the camera?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the white sheep with black spots look calm in this scene?",
+      "modified": "Does the white sheep with black spots on the left look calm in this scene?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the white sheep with black spots surrounded by cut grass or hay?",
+      "modified": "Is the white sheep with black spots on the left surrounded by cut grass or hay?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the white sheep with black spots take up most of the right side of the image?",
+      "modified": "Does the white sheep with black spots on the left take up most of the right side of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the white sheep with black spots an adult sheep?",
+      "modified": "Is the white sheep with black spots on the left an adult sheep?",
+      "false_premise": true
+    }
+  ]
+}

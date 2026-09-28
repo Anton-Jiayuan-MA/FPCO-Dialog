@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2444",
+    "source": "COCO",
+    "complexity": 2,
+    "category": 4,
+    "target": "sandwich"
+  },
+  "base": {
+    "target_description": "the open sandwich with tuna filling",
+    "modified_target_description": "the open sandwich with chicken filling",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is spread on the bread of the open sandwich with tuna filling?",
+      "modified": "What is spread on the bread of the open sandwich with tuna filling?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the open sandwich with tuna filling fully assembled yet?",
+      "modified": "Is the open sandwich with tuna filling fully assembled yet?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "What kind of filling is piled onto the open sandwich with tuna filling?",
+      "modified": "What kind of filling is piled onto the open sandwich with tuna filling?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the open sandwich with tuna filling sitting on a countertop?",
+      "modified": "Is the open sandwich with chicken filling sitting on a countertop?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the open sandwich with tuna filling appear to have sauce underneath the filling?",
+      "modified": "Does the open sandwich with chicken filling appear to have sauce underneath the filling?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the open sandwich with tuna filling on one slice of bread or two?",
+      "modified": "Is the open sandwich with chicken filling on one slice of bread or two?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the open sandwich with tuna filling look freshly prepared?",
+      "modified": "Does the open sandwich with chicken filling look freshly prepared?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the open sandwich with tuna filling next to a bowl of extra mixture?",
+      "modified": "Is the open sandwich with chicken filling next to a bowl of extra mixture?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Would you say the open sandwich with tuna filling looks ready to be closed with another slice?",
+      "modified": "Would you say the open sandwich with chicken filling looks ready to be closed with another slice?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the open sandwich with tuna filling topped generously with the mixture?",
+      "modified": "Is the open sandwich with chicken filling topped generously with the mixture?",
+      "false_premise": true
+    }
+  ]
+}

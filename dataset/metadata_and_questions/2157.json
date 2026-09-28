@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2157",
+    "source": "COCO",
+    "complexity": 2,
+    "category": 1,
+    "target": "man"
+  },
+  "base": {
+    "target_description": "the man in uniform on the right",
+    "modified_target_description": "the man in uniform on the left",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the man in uniform on the right doing with his hand?",
+      "modified": "What is the man in uniform on the right doing with his hand?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the man in uniform on the right wearing a hat?",
+      "modified": "Is the man in uniform on the right wearing a hat?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "What is the man in uniform on the right holding in his other hand?",
+      "modified": "What is the man in uniform on the right holding in his other hand?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the man in uniform on the right sitting on a bench?",
+      "modified": "Is the man in uniform on the left sitting on a bench?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the man in uniform on the right look like he is facing toward the other two men?",
+      "modified": "Does the man in uniform on the left look like he is facing toward the other two men?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the man in uniform on the right leaning his head on one hand?",
+      "modified": "Is the man in uniform on the left leaning his head on one hand?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the man in uniform on the right appear relaxed or serious?",
+      "modified": "Does the man in uniform on the left appear relaxed or serious?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the man in uniform on the right wearing dark formal shoes?",
+      "modified": "Is the man in uniform on the left wearing dark formal shoes?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the man in uniform on the right seated close to the man in the middle?",
+      "modified": "Is the man in uniform on the left seated close to the man in the middle?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the man in uniform on the right seem to be waiting rather than reading?",
+      "modified": "Does the man in uniform on the left seem to be waiting rather than reading?",
+      "false_premise": true
+    }
+  ]
+}

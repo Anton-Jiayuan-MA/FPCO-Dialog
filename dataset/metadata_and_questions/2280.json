@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2280",
+    "source": "Open Images",
+    "complexity": 2,
+    "category": 2,
+    "target": "car"
+  },
+  "base": {
+    "target_description": "the green car parked by the curb",
+    "modified_target_description": "the green car parked in front of the building",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What direction is the green car parked by the curb facing?",
+      "modified": "What direction is the green car parked by the curb facing?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the green car parked by the curb on the street or in a driveway?",
+      "modified": "Is the green car parked by the curb on the street or in a driveway?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Are any people standing next to the green car parked by the curb?",
+      "modified": "Are any people standing next to the green car parked by the curb?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the green car parked by the curb appear to be moving or stationary?",
+      "modified": "Does the green car parked in front of the building appear to be moving or stationary?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the green car parked by the curb directly in front of the building?",
+      "modified": "Is the green car parked in front of the building directly in front of the building?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Can you see the front wheels of the green car parked by the curb?",
+      "modified": "Can you see the front wheels of the green car parked in front of the building?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the green car parked by the curb closer to the left side or the right side of the image?",
+      "modified": "Is the green car parked in front of the building closer to the left side or the right side of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the green car parked by the curb have four doors visible?",
+      "modified": "Does the green car parked in front of the building have four doors visible?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the green car parked by the curb parallel to the sidewalk?",
+      "modified": "Is the green car parked in front of the building parallel to the sidewalk?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Can you clearly see the windshield of the green car parked by the curb?",
+      "modified": "Can you clearly see the windshield of the green car parked in front of the building?",
+      "false_premise": true
+    }
+  ]
+}

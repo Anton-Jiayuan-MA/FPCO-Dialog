@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2250",
+    "source": "COCO",
+    "complexity": 2,
+    "category": 2,
+    "target": "car"
+  },
+  "base": {
+    "target_description": "the black car on the right",
+    "modified_target_description": "the white car on the right",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the black car on the right driving in the same direction as the other traffic?",
+      "modified": "Is the black car on the right driving in the same direction as the other traffic?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the black car on the right look close to the camera?",
+      "modified": "Does the black car on the right look close to the camera?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the black car on the right in the rightmost lane?",
+      "modified": "Is the black car on the right in the rightmost lane?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Can you see the rear of the black car on the right?",
+      "modified": "Can you see the rear of the white car on the right?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the black car on the right appear to be moving along the highway?",
+      "modified": "Does the white car on the right appear to be moving along the highway?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the black car on the right behind the truck ahead?",
+      "modified": "Is the white car on the right behind the truck ahead?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the black car on the right take up a large part of the foreground?",
+      "modified": "Does the white car on the right take up a large part of the foreground?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the black car on the right partially cut off by the edge of the image?",
+      "modified": "Is the white car on the right partially cut off by the edge of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the black car on the right appear darker than the other vehicles nearby?",
+      "modified": "Does the white car on the right appear darker than the other vehicles nearby?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the black car on the right traveling on a multi-lane road?",
+      "modified": "Is the white car on the right traveling on a multi-lane road?",
+      "false_premise": true
+    }
+  ]
+}

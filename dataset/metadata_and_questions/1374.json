@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1374",
+    "source": "COCO",
+    "complexity": 1,
+    "category": 3,
+    "target": "dog"
+  },
+  "base": {
+    "target_description": "the white dog holding a purple frisbee",
+    "modified_target_description": "the white dog on the right holding a purple frisbee",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the white dog holding a purple frisbee doing in the grass?",
+      "modified": "What is the white dog holding a purple frisbee doing in the grass?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the white dog holding a purple frisbee looking toward the camera?",
+      "modified": "Is the white dog holding a purple frisbee looking toward the camera?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the white dog holding a purple frisbee appear to be standing still?",
+      "modified": "Does the white dog holding a purple frisbee appear to be standing still?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "What is in the mouth of the white dog holding a purple frisbee?",
+      "modified": "What is in the mouth of the white dog on the right holding a purple frisbee?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the white dog holding a purple frisbee seem to be playing fetch?",
+      "modified": "Does the white dog on the right holding a purple frisbee seem to be playing fetch?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the white dog holding a purple frisbee outdoors?",
+      "modified": "Is the white dog on the right holding a purple frisbee outdoors?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "What color is the toy carried by the white dog holding a purple frisbee?",
+      "modified": "What color is the toy carried by the white dog on the right holding a purple frisbee?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the white dog holding a purple frisbee on a lawn?",
+      "modified": "Is the white dog on the right holding a purple frisbee on a lawn?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the white dog holding a purple frisbee have fluffy fur?",
+      "modified": "Does the white dog on the right holding a purple frisbee have fluffy fur?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the white dog holding a purple frisbee facing the viewer?",
+      "modified": "Is the white dog on the right holding a purple frisbee facing the viewer?",
+      "false_premise": true
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2478",
+    "source": "Open Images",
+    "complexity": 2,
+    "category": 4,
+    "target": "bread rolls"
+  },
+  "base": {
+    "target_description": "the golden bread rolls on a cooling rack",
+    "modified_target_description": "the golden bread rolls beside a cooling rack",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "How many of the golden bread rolls on a cooling rack are visible in the image?",
+      "modified": "How many of the golden bread rolls on a cooling rack are visible in the image?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Do the golden bread rolls on a cooling rack look freshly baked?",
+      "modified": "Do the golden bread rolls on a cooling rack look freshly baked?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Are the golden bread rolls on a cooling rack arranged closely together?",
+      "modified": "Are the golden bread rolls on a cooling rack arranged closely together?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Do the golden bread rolls on a cooling rack have a shiny top?",
+      "modified": "Do the golden bread rolls beside a cooling rack have a shiny top?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Are the golden bread rolls on a cooling rack sitting indoors?",
+      "modified": "Are the golden bread rolls beside a cooling rack sitting indoors?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Do the golden bread rolls on a cooling rack appear round in shape?",
+      "modified": "Do the golden bread rolls beside a cooling rack appear round in shape?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Are the golden bread rolls on a cooling rack cooling above a dark baking tray?",
+      "modified": "Are the golden bread rolls beside a cooling rack cooling above a dark baking tray?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Do the golden bread rolls on a cooling rack look soft and puffy?",
+      "modified": "Do the golden bread rolls beside a cooling rack look soft and puffy?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Are the golden bread rolls on a cooling rack spread across most of the rack?",
+      "modified": "Are the golden bread rolls beside a cooling rack spread across most of the rack?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Would you say the golden bread rolls on a cooling rack are lightly browned?",
+      "modified": "Would you say the golden bread rolls beside a cooling rack are lightly browned?",
+      "false_premise": true
+    }
+  ]
+}

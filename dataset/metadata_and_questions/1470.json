@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1470",
+    "source": "COCO",
+    "complexity": 1,
+    "category": 4,
+    "target": "pizza"
+  },
+  "base": {
+    "target_description": "the round pizza in an open box",
+    "modified_target_description": "the round pizza on the floor",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What toppings are visible on the round pizza in an open box?",
+      "modified": "What toppings are visible on the round pizza in an open box?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the round pizza in an open box look whole or partly eaten?",
+      "modified": "Does the round pizza in an open box look whole or partly eaten?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the round pizza in an open box cut into slices?",
+      "modified": "Is the round pizza in an open box cut into slices?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "What kind of crust does the round pizza in an open box appear to have?",
+      "modified": "What kind of crust does the round pizza on the floor appear to have?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the round pizza in an open box look freshly baked?",
+      "modified": "Does the round pizza on the floor look freshly baked?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the round pizza in an open box sitting on a table or on the floor?",
+      "modified": "Is the round pizza on the floor sitting on a table or on the floor?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the round pizza in an open box have more sauce or more cheese visible?",
+      "modified": "Does the round pizza on the floor have more sauce or more cheese visible?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Are there dark toppings scattered across the round pizza in an open box?",
+      "modified": "Are there dark toppings scattered across the round pizza on the floor?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the lid folded back behind the round pizza in an open box?",
+      "modified": "Is the lid folded back behind the round pizza on the floor?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the round pizza in an open box appear ready to be served?",
+      "modified": "Does the round pizza on the floor appear ready to be served?",
+      "false_premise": true
+    }
+  ]
+}

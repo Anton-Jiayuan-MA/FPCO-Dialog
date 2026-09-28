@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2181",
+    "source": "Open Images",
+    "complexity": 2,
+    "category": 1,
+    "target": "person"
+  },
+  "base": {
+    "target_description": "the woman in the red sleeveless top",
+    "modified_target_description": "the woman in the red sleeveless top on the left side of the image",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the woman in the red sleeveless top sitting down in a chair?",
+      "modified": "Is the woman in the red sleeveless top sitting down in a chair?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the woman in the red sleeveless top smiling at the camera?",
+      "modified": "Is the woman in the red sleeveless top smiling at the camera?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the woman in the red sleeveless top appear to be indoors or outdoors?",
+      "modified": "Does the woman in the red sleeveless top appear to be indoors or outdoors?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the woman in the red sleeveless top next to another seated woman?",
+      "modified": "Is the woman in the red sleeveless top on the left side of the image next to another seated woman?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Are the arms of the woman in the red sleeveless top resting near her lap?",
+      "modified": "Are the arms of the woman in the red sleeveless top on the left side of the image resting near her lap?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the woman in the red sleeveless top wearing a skirt or shorts with a light pattern?",
+      "modified": "Is the woman in the red sleeveless top on the left side of the image wearing a skirt or shorts with a light pattern?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the woman in the red sleeveless top have short dark hair?",
+      "modified": "Does the woman in the red sleeveless top on the left side of the image have short dark hair?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the woman in the red sleeveless top facing toward the camera?",
+      "modified": "Is the woman in the red sleeveless top on the left side of the image facing toward the camera?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the woman in the red sleeveless top look relaxed in the scene?",
+      "modified": "Does the woman in the red sleeveless top on the left side of the image look relaxed in the scene?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the woman in the red sleeveless top seated on the right side of the image?",
+      "modified": "Is the woman in the red sleeveless top on the left side of the image seated on the right side of the image?",
+      "false_premise": true
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3329",
+    "source": "COCO",
+    "complexity": 3,
+    "category": 3,
+    "target": "chicken"
+  },
+  "base": {
+    "target_description": "the red and brown chicken",
+    "modified_target_description": "the red and brown duck",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the red and brown chicken standing in the foreground?",
+      "modified": "Is the red and brown chicken standing in the foreground?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the red and brown chicken have a bright red comb?",
+      "modified": "Does the red and brown chicken have a bright red comb?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the red and brown chicken facing toward the right side of the image?",
+      "modified": "Is the red and brown chicken facing toward the right side of the image?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Can you see the red and brown chicken on a bed of straw?",
+      "modified": "Can you see the red and brown duck on a bed of straw?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the red and brown chicken appear larger than the other bird behind it?",
+      "modified": "Does the red and brown duck appear larger than the other bird behind it?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the red and brown chicken standing still rather than flying?",
+      "modified": "Is the red and brown duck standing still rather than flying?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Can you clearly see the tail feathers of the red and brown chicken?",
+      "modified": "Can you clearly see the tail feathers of the red and brown duck?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the red and brown chicken outdoors in this scene?",
+      "modified": "Is the red and brown duck outdoors in this scene?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the red and brown chicken have dark feathers near its tail?",
+      "modified": "Does the red and brown duck have dark feathers near its tail?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the red and brown chicken the most prominent animal in the image?",
+      "modified": "Is the red and brown duck the most prominent animal in the image?",
+      "false_premise": true
+    }
+  ]
+}

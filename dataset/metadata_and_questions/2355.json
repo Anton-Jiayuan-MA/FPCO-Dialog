@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2355",
+    "source": "COCO",
+    "complexity": 2,
+    "category": 3,
+    "target": "zebra"
+  },
+  "base": {
+    "target_description": "the zebra lying on the grass",
+    "modified_target_description": "the zebra standing on the grass",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the zebra lying on the grass doing in the scene?",
+      "modified": "What is the zebra lying on the grass doing in the scene?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the zebra lying on the grass resting or getting up?",
+      "modified": "Is the zebra lying on the grass resting or getting up?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Where is the zebra lying on the grass positioned in the image?",
+      "modified": "Where is the zebra lying on the grass positioned in the image?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the zebra lying on the grass appear close to the other zebras?",
+      "modified": "Does the zebra standing on the grass appear close to the other zebras?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the zebra lying on the grass facing toward the left or the right?",
+      "modified": "Is the zebra standing on the grass facing toward the left or the right?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Can you see the full body of the zebra lying on the grass?",
+      "modified": "Can you see the full body of the zebra standing on the grass?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the zebra lying on the grass look like a younger zebra?",
+      "modified": "Does the zebra standing on the grass look like a younger zebra?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "What color are the stripes on the zebra lying on the grass?",
+      "modified": "What color are the stripes on the zebra standing on the grass?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the zebra lying on the grass in front of or behind the standing zebras?",
+      "modified": "Is the zebra standing on the grass in front of or behind the standing zebras?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the zebra lying on the grass seem calm?",
+      "modified": "Does the zebra standing on the grass seem calm?",
+      "false_premise": true
+    }
+  ]
+}

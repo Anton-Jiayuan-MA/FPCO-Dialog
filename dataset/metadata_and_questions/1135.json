@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1135",
+    "source": "Open Images",
+    "complexity": 1,
+    "category": 1,
+    "target": "woman"
+  },
+  "base": {
+    "target_description": "the woman playing a guitar",
+    "modified_target_description": "the smiling woman playing a guitar",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the woman playing a guitar doing on stage?",
+      "modified": "What is the woman playing a guitar doing on stage?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the woman playing a guitar also singing into a microphone?",
+      "modified": "Is the woman playing a guitar also singing into a microphone?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "What kind of instrument is the woman playing a guitar holding?",
+      "modified": "What kind of instrument is the woman playing a guitar holding?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the woman playing a guitar standing or sitting?",
+      "modified": "Is the smiling woman playing a guitar standing or sitting?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "How is the woman playing a guitar positioned relative to the microphone?",
+      "modified": "How is the smiling woman playing a guitar positioned relative to the microphone?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "What expression does the woman playing a guitar have on her face?",
+      "modified": "What expression does the smiling woman playing a guitar have on her face?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the woman playing a guitar performing alone in the foreground?",
+      "modified": "Is the smiling woman playing a guitar performing alone in the foreground?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "What is the woman playing a guitar wearing?",
+      "modified": "What is the smiling woman playing a guitar wearing?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the woman playing a guitar appear to be in the middle of a live performance?",
+      "modified": "Does the smiling woman playing a guitar appear to be in the middle of a live performance?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Under what kind of lighting is the woman playing a guitar performing?",
+      "modified": "Under what kind of lighting is the smiling woman playing a guitar performing?",
+      "false_premise": true
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2241",
+    "source": "Open Images",
+    "complexity": 2,
+    "category": 2,
+    "target": "cable car"
+  },
+  "base": {
+    "target_description": "the small cable car on the wire",
+    "modified_target_description": "the large cable car on the wire",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the small cable car on the wire hanging high above the ground?",
+      "modified": "Is the small cable car on the wire hanging high above the ground?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the small cable car on the wire appear to be moving across the scene?",
+      "modified": "Does the small cable car on the wire appear to be moving across the scene?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the small cable car on the wire positioned in front of the tall tower?",
+      "modified": "Is the small cable car on the wire positioned in front of the tall tower?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Can you see windows on the small cable car on the wire?",
+      "modified": "Can you see windows on the large cable car on the wire?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the small cable car on the wire closer to the left side or the right side of the image?",
+      "modified": "Is the large cable car on the wire closer to the left side or the right side of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the small cable car on the wire look enclosed for passengers?",
+      "modified": "Does the large cable car on the wire look enclosed for passengers?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the small cable car on the wire suspended from a cable above the trees?",
+      "modified": "Is the large cable car on the wire suspended from a cable above the trees?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the small cable car on the wire appear smaller than the nearby tower?",
+      "modified": "Does the large cable car on the wire appear smaller than the nearby tower?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the small cable car on the wire silhouetted against the evening sky?",
+      "modified": "Is the large cable car on the wire silhouetted against the evening sky?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Are there multiple cabins visible, including the small cable car on the wire?",
+      "modified": "Are there multiple cabins visible, including the large cable car on the wire?",
+      "false_premise": true
+    }
+  ]
+}

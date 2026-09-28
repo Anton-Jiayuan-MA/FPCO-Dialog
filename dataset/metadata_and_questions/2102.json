@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2102",
+    "source": "Open Images",
+    "complexity": 2,
+    "category": 1,
+    "target": "man"
+  },
+  "base": {
+    "target_description": "the man in the middle wearing a dark suit",
+    "modified_target_description": "the woman in the middle wearing a dark suit",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the man in the middle wearing a dark suit doing with his arms?",
+      "modified": "What is the man in the middle wearing a dark suit doing with his arms?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the man in the middle wearing a dark suit looking down?",
+      "modified": "Is the man in the middle wearing a dark suit looking down?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the man in the middle wearing a dark suit seem to be listening to the men beside him?",
+      "modified": "Does the man in the middle wearing a dark suit seem to be listening to the men beside him?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the man in the middle wearing a dark suit seated at a table?",
+      "modified": "Is the woman in the middle wearing a dark suit seated at a table?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the man in the middle wearing a dark suit have a serious expression?",
+      "modified": "Does the woman in the middle wearing a dark suit have a serious expression?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the man in the middle wearing a dark suit positioned between two other men?",
+      "modified": "Is the woman in the middle wearing a dark suit positioned between two other men?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the man in the middle wearing a dark suit appear to be part of a formal meeting?",
+      "modified": "Does the woman in the middle wearing a dark suit appear to be part of a formal meeting?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the man in the middle wearing a dark suit leaning slightly forward?",
+      "modified": "Is the woman in the middle wearing a dark suit leaning slightly forward?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the man in the middle wearing a dark suit have short dark hair?",
+      "modified": "Does the woman in the middle wearing a dark suit have short dark hair?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the man in the middle wearing a dark suit facing toward the table area?",
+      "modified": "Is the woman in the middle wearing a dark suit facing toward the table area?",
+      "false_premise": true
+    }
+  ]
+}

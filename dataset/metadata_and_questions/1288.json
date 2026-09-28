@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1288",
+    "source": "Open Images",
+    "complexity": 1,
+    "category": 2,
+    "target": "bicycle"
+  },
+  "base": {
+    "target_description": "the white bicycle with red rims",
+    "modified_target_description": "the white bicycle with red rims on the right",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the white bicycle with red rims displayed indoors?",
+      "modified": "Is the white bicycle with red rims displayed indoors?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the white bicycle with red rims appear to be hanging above the floor?",
+      "modified": "Does the white bicycle with red rims appear to be hanging above the floor?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the white bicycle with red rims shown from the side?",
+      "modified": "Is the white bicycle with red rims shown from the side?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the white bicycle with red rims have drop-style handlebars?",
+      "modified": "Does the white bicycle with red rims on the right have drop-style handlebars?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is there a bottle attached to the frame of the white bicycle with red rims?",
+      "modified": "Is there a bottle attached to the frame of the white bicycle with red rims on the right?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the white bicycle with red rims look like part of a shop display?",
+      "modified": "Does the white bicycle with red rims on the right look like part of a shop display?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Are both wheels of the white bicycle with red rims visible in the image?",
+      "modified": "Are both wheels of the white bicycle with red rims on the right visible in the image?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the white bicycle with red rims positioned in front of a bright ceiling?",
+      "modified": "Is the white bicycle with red rims on the right positioned in front of a bright ceiling?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the white bicycle with red rims have a dark seat?",
+      "modified": "Does the white bicycle with red rims on the right have a dark seat?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the white bicycle with red rims the main object in the image?",
+      "modified": "Is the white bicycle with red rims on the right the main object in the image?",
+      "false_premise": true
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1216",
+    "source": "COCO",
+    "complexity": 1,
+    "category": 2,
+    "target": "train"
+  },
+  "base": {
+    "target_description": "the graffiti-covered train car",
+    "modified_target_description": "the graffiti-covered bus",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What color does the graffiti-covered train car appear to be under the paint and rust?",
+      "modified": "What color does the graffiti-covered train car appear to be under the paint and rust?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the graffiti-covered train car sitting on active tracks or abandoned ones?",
+      "modified": "Is the graffiti-covered train car sitting on active tracks or abandoned ones?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the graffiti-covered train car look old and weathered?",
+      "modified": "Does the graffiti-covered train car look old and weathered?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Are the windows on the graffiti-covered train car broken or open?",
+      "modified": "Are the windows on the graffiti-covered bus broken or open?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the graffiti-covered train car surrounded by grass and plants?",
+      "modified": "Is the graffiti-covered bus surrounded by grass and plants?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the graffiti-covered train car appear to be moving or standing still?",
+      "modified": "Does the graffiti-covered bus appear to be moving or standing still?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the graffiti-covered train car positioned in a rural or urban area?",
+      "modified": "Is the graffiti-covered bus positioned in a rural or urban area?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Can you see another railcar attached behind the graffiti-covered train car?",
+      "modified": "Can you see another railcar attached behind the graffiti-covered bus?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the graffiti-covered train car look abandoned?",
+      "modified": "Does the graffiti-covered bus look abandoned?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the graffiti-covered train car next to a mountain landscape?",
+      "modified": "Is the graffiti-covered bus next to a mountain landscape?",
+      "false_premise": true
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3379",
+    "source": "Open Images",
+    "complexity": 3,
+    "category": 3,
+    "target": "zebra"
+  },
+  "base": {
+    "target_description": "the striped zebra grazing in the grass",
+    "modified_target_description": "the striped zebra in the background",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the striped zebra grazing in the grass doing in this scene?",
+      "modified": "What is the striped zebra grazing in the grass doing in this scene?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the striped zebra grazing in the grass facing to the right?",
+      "modified": "Is the striped zebra grazing in the grass facing to the right?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the striped zebra grazing in the grass have its head lowered near the ground?",
+      "modified": "Does the striped zebra grazing in the grass have its head lowered near the ground?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the striped zebra grazing in the grass standing in tall grass?",
+      "modified": "Is the striped zebra in the background standing in tall grass?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Can you see the full body of the striped zebra grazing in the grass?",
+      "modified": "Can you see the full body of the striped zebra in the background?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the striped zebra grazing in the grass close to another zebra?",
+      "modified": "Is the striped zebra in the background close to another zebra?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the striped zebra grazing in the grass appear calm?",
+      "modified": "Does the striped zebra in the background appear calm?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the striped zebra grazing in the grass outdoors in a natural area?",
+      "modified": "Is the striped zebra in the background outdoors in a natural area?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Are the stripes on the striped zebra grazing in the grass clearly visible?",
+      "modified": "Are the stripes on the striped zebra in the background clearly visible?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the striped zebra grazing in the grass the main animal in the foreground?",
+      "modified": "Is the striped zebra in the background the main animal in the foreground?",
+      "false_premise": true
+    }
+  ]
+}

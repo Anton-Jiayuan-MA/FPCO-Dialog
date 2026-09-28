@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1201",
+    "source": "Open Images",
+    "complexity": 1,
+    "category": 2,
+    "target": "car"
+  },
+  "base": {
+    "target_description": "the cream-colored convertible car with its top down",
+    "modified_target_description": "the cream-colored convertible truck with its top down",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What direction is the cream-colored convertible car with its top down facing in the image?",
+      "modified": "What direction is the cream-colored convertible car with its top down facing in the image?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the cream-colored convertible car with its top down parked or moving?",
+      "modified": "Is the cream-colored convertible car with its top down parked or moving?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the cream-colored convertible car with its top down appear to be an older model?",
+      "modified": "Does the cream-colored convertible car with its top down appear to be an older model?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "What color is the interior of the cream-colored convertible car with its top down?",
+      "modified": "What color is the interior of the cream-colored convertible truck with its top down?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the cream-colored convertible car with its top down shown in bright sunlight?",
+      "modified": "Is the cream-colored convertible truck with its top down shown in bright sunlight?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Can you see the front grille of the cream-colored convertible car with its top down clearly?",
+      "modified": "Can you see the front grille of the cream-colored convertible truck with its top down clearly?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Are the headlights on the cream-colored convertible car with its top down round?",
+      "modified": "Are the headlights on the cream-colored convertible truck with its top down round?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the cream-colored convertible car with its top down positioned in the foreground of the scene?",
+      "modified": "Is the cream-colored convertible truck with its top down positioned in the foreground of the scene?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the cream-colored convertible car with its top down have chrome trim on the front?",
+      "modified": "Does the cream-colored convertible truck with its top down have chrome trim on the front?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the cream-colored convertible car with its top down surrounded by other cars?",
+      "modified": "Is the cream-colored convertible truck with its top down surrounded by other cars?",
+      "false_premise": true
+    }
+  ]
+}

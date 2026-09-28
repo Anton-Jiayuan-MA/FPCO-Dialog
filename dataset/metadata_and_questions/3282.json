@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3282",
+    "source": "Open Images",
+    "complexity": 3,
+    "category": 2,
+    "target": "car"
+  },
+  "base": {
+    "target_description": "the white work van on the street",
+    "modified_target_description": "the white work van by the building",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the white work van on the street parked or moving in the image?",
+      "modified": "Is the white work van on the street parked or moving in the image?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "What direction is the white work van on the street facing?",
+      "modified": "What direction is the white work van on the street facing?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the white work van on the street appear to be closer to the right side or the left side of the image?",
+      "modified": "Does the white work van on the street appear to be closer to the right side or the left side of the image?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Are there any visible company markings on the white work van on the street?",
+      "modified": "Are there any visible company markings on the white work van by the building?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the white work van on the street in front of the building?",
+      "modified": "Is the white work van by the building in front of the building?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the white work van on the street have roof equipment or racks on top?",
+      "modified": "Does the white work van by the building have roof equipment or racks on top?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the white work van on the street larger than the nearby cars?",
+      "modified": "Is the white work van by the building larger than the nearby cars?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Can you see the side of the white work van on the street more clearly than the front?",
+      "modified": "Can you see the side of the white work van by the building more clearly than the front?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the white work van on the street positioned behind the person with the backpack?",
+      "modified": "Is the white work van by the building positioned behind the person with the backpack?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the white work van on the street take up the center-right part of the scene?",
+      "modified": "Does the white work van by the building take up the center-right part of the scene?",
+      "false_premise": true
+    }
+  ]
+}

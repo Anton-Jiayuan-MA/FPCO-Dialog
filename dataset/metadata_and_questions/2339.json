@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2339",
+    "source": "Open Images",
+    "complexity": 2,
+    "category": 3,
+    "target": "goat"
+  },
+  "base": {
+    "target_description": "the black goat with a yellow ear tag",
+    "modified_target_description": "the white goat with a yellow ear tag",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the black goat with a yellow ear tag lying down on the straw?",
+      "modified": "Is the black goat with a yellow ear tag lying down on the straw?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the black goat with a yellow ear tag inside a pen?",
+      "modified": "Is the black goat with a yellow ear tag inside a pen?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the black goat with a yellow ear tag appear to be resting?",
+      "modified": "Does the black goat with a yellow ear tag appear to be resting?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the black goat with a yellow ear tag near a metal gate?",
+      "modified": "Is the white goat with a yellow ear tag near a metal gate?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Can you see the side of the black goat with a yellow ear tag facing the camera?",
+      "modified": "Can you see the side of the white goat with a yellow ear tag facing the camera?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the black goat with a yellow ear tag one of several goats in the image?",
+      "modified": "Is the white goat with a yellow ear tag one of several goats in the image?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the black goat with a yellow ear tag have its head turned to the side?",
+      "modified": "Does the white goat with a yellow ear tag have its head turned to the side?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the black goat with a yellow ear tag surrounded by straw bedding?",
+      "modified": "Is the white goat with a yellow ear tag surrounded by straw bedding?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the black goat with a yellow ear tag look small, like a young goat?",
+      "modified": "Does the white goat with a yellow ear tag look small, like a young goat?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the black goat with a yellow ear tag positioned beside another black goat?",
+      "modified": "Is the white goat with a yellow ear tag positioned beside another black goat?",
+      "false_premise": true
+    }
+  ]
+}

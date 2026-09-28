@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2170",
+    "source": "COCO",
+    "complexity": 2,
+    "category": 1,
+    "target": "child"
+  },
+  "base": {
+    "target_description": "the child in a black shirt flying a kite",
+    "modified_target_description": "the child in a black shirt on the left",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the child in a black shirt flying a kite doing with one hand raised?",
+      "modified": "What is the child in a black shirt flying a kite doing with one hand raised?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the child in a black shirt flying a kite standing near the water?",
+      "modified": "Is the child in a black shirt flying a kite standing near the water?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "What is the child in a black shirt flying a kite holding?",
+      "modified": "What is the child in a black shirt flying a kite holding?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the child in a black shirt flying a kite on a beach or inland?",
+      "modified": "Is the child in a black shirt on the left flying a kite on a beach or inland?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the child in a black shirt flying a kite appear to be looking upward?",
+      "modified": "Does the child in a black shirt on the left appear to be looking upward?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the child in a black shirt flying a kite next to another person?",
+      "modified": "Is the child in a black shirt on the left next to another person?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "What kind of activity is the child in a black shirt flying a kite engaged in?",
+      "modified": "What kind of activity is the child in a black shirt on the left engaged in?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the child in a black shirt flying a kite close to the shoreline?",
+      "modified": "Is the child in a black shirt on the left close to the shoreline?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the child in a black shirt flying a kite seem to be outdoors on a windy day?",
+      "modified": "Does the child in a black shirt on the left seem to be outdoors on a windy day?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Where is the child in a black shirt flying a kite standing?",
+      "modified": "Where is the child in a black shirt on the left standing?",
+      "false_premise": true
+    }
+  ]
+}

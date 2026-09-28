@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3243",
+    "source": "Open Images",
+    "complexity": 3,
+    "category": 2,
+    "target": "car"
+  },
+  "base": {
+    "target_description": "the white taxi in the middle of the road",
+    "modified_target_description": "the black taxi in the middle of the road",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the white taxi in the middle of the road driving toward the camera?",
+      "modified": "Is the white taxi in the middle of the road driving toward the camera?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the white taxi in the middle of the road appear to be centered between the lane lines?",
+      "modified": "Does the white taxi in the middle of the road appear to be centered between the lane lines?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the white taxi in the middle of the road the only moving vehicle visible on the street?",
+      "modified": "Is the white taxi in the middle of the road the only moving vehicle visible on the street?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the white taxi in the middle of the road have a taxi sign on its roof?",
+      "modified": "Does the black taxi in the middle of the road have a taxi sign on its roof?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the white taxi in the middle of the road closer to the foreground than the parked cars along the curb?",
+      "modified": "Is the black taxi in the middle of the road closer to the foreground than the parked cars along the curb?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the white taxi in the middle of the road on a tree-lined street?",
+      "modified": "Is the black taxi in the middle of the road on a tree-lined street?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the white taxi in the middle of the road look like it is approaching a crosswalk?",
+      "modified": "Does the black taxi in the middle of the road look like it is approaching a crosswalk?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the white taxi in the middle of the road facing straight down the street?",
+      "modified": "Is the black taxi in the middle of the road facing straight down the street?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Can you clearly see the front of the white taxi in the middle of the road?",
+      "modified": "Can you clearly see the front of the black taxi in the middle of the road?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the white taxi in the middle of the road traveling on the left side of the street?",
+      "modified": "Is the black taxi in the middle of the road traveling on the left side of the street?",
+      "false_premise": true
+    }
+  ]
+}

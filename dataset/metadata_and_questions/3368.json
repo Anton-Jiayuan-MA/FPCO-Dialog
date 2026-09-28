@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3368",
+    "source": "Open Images",
+    "complexity": 3,
+    "category": 3,
+    "target": "goose"
+  },
+  "base": {
+    "target_description": "the tall goose with a black neck",
+    "modified_target_description": "the goose with a black neck in the background",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the tall goose with a black neck standing on the grass?",
+      "modified": "Is the tall goose with a black neck standing on the grass?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the tall goose with a black neck appear to be watching over the goslings nearby?",
+      "modified": "Does the tall goose with a black neck appear to be watching over the goslings nearby?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the tall goose with a black neck facing toward the right side of the image?",
+      "modified": "Is the tall goose with a black neck facing toward the right side of the image?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the tall goose with a black neck have its neck stretched upward?",
+      "modified": "Does the goose with a black neck in the background have its neck stretched upward?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the tall goose with a black neck in the foreground of the scene?",
+      "modified": "Is the goose with a black neck in the background in the foreground of the scene?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Are there several baby birds gathered near the tall goose with a black neck?",
+      "modified": "Are there several baby birds gathered near the goose with a black neck in the background?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the tall goose with a black neck look larger than the other birds around it?",
+      "modified": "Does the goose with a black neck in the background look larger than the other birds around it?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the tall goose with a black neck outdoors in a sunny park-like area?",
+      "modified": "Is the goose with a black neck in the background outdoors in a sunny park-like area?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Can you see the full body of the tall goose with a black neck?",
+      "modified": "Can you see the full body of the goose with a black neck in the background?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the tall goose with a black neck the most prominent animal in the image?",
+      "modified": "Is the goose with a black neck in the background the most prominent animal in the image?",
+      "false_premise": true
+    }
+  ]
+}

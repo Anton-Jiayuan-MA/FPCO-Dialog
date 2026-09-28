@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2145",
+    "source": "Open Images",
+    "complexity": 2,
+    "category": 1,
+    "target": "woman"
+  },
+  "base": {
+    "target_description": "the smiling woman with long black hair",
+    "modified_target_description": "the smiling woman with short black hair",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the smiling woman with long black hair holding in her hand?",
+      "modified": "What is the smiling woman with long black hair holding in her hand?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the smiling woman with long black hair standing next to another person?",
+      "modified": "Is the smiling woman with long black hair standing next to another person?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the smiling woman with long black hair appear to be laughing?",
+      "modified": "Does the smiling woman with long black hair appear to be laughing?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "What color is the outfit worn by the smiling woman with long black hair?",
+      "modified": "What color is the outfit worn by the smiling woman with short black hair?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the smiling woman with long black hair indoors?",
+      "modified": "Is the smiling woman with short black hair indoors?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the smiling woman with long black hair have a name tag on her chest?",
+      "modified": "Does the smiling woman with short black hair have a name tag on her chest?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the smiling woman with long black hair looking toward the man beside her?",
+      "modified": "Is the smiling woman with short black hair looking toward the man beside her?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the smiling woman with long black hair seem to be speaking or singing into a microphone?",
+      "modified": "Does the smiling woman with short black hair seem to be speaking or singing into a microphone?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "What is the facial expression of the smiling woman with long black hair?",
+      "modified": "What is the facial expression of the smiling woman with short black hair?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the smiling woman with long black hair wearing any jewelry on her wrist?",
+      "modified": "Is the smiling woman with short black hair wearing any jewelry on her wrist?",
+      "false_premise": true
+    }
+  ]
+}

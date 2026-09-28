@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2140",
+    "source": "Open Images",
+    "complexity": 2,
+    "category": 1,
+    "target": "man"
+  },
+  "base": {
+    "target_description": "the man in a dark suit on the left",
+    "modified_target_description": "the man in a light suit on the left",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the man in a dark suit on the left shaking hands with someone?",
+      "modified": "Is the man in a dark suit on the left shaking hands with someone?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the man in a dark suit on the left appear to be standing on a stage?",
+      "modified": "Does the man in a dark suit on the left appear to be standing on a stage?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the man in a dark suit on the left wearing a headset microphone?",
+      "modified": "Is the man in a dark suit on the left wearing a headset microphone?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the man in a dark suit on the left facing toward the right side of the image?",
+      "modified": "Is the man in a light suit on the left facing toward the right side of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the man in a dark suit on the left look like he is participating in a formal event?",
+      "modified": "Does the man in a light suit on the left look like he is participating in a formal event?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the man in a dark suit on the left dressed in formal business clothing?",
+      "modified": "Is the man in a light suit on the left dressed in formal business clothing?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the man in a dark suit on the left have one arm extended for a handshake?",
+      "modified": "Does the man in a light suit on the left have one arm extended for a handshake?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the man in a dark suit on the left standing close to another man?",
+      "modified": "Is the man in a light suit on the left standing close to another man?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the man in a dark suit on the left appear to be engaged in conversation?",
+      "modified": "Does the man in a light suit on the left appear to be engaged in conversation?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the man in a dark suit on the left positioned near the center of the image?",
+      "modified": "Is the man in a light suit on the left positioned near the center of the image?",
+      "false_premise": true
+    }
+  ]
+}

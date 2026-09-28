@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1128",
+    "source": "COCO",
+    "complexity": 1,
+    "category": 1,
+    "target": "woman"
+  },
+  "base": {
+    "target_description": "the smiling woman in a black coat and pink scarf",
+    "modified_target_description": "the smiling man in a black coat and pink scarf",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the smiling woman in a black coat and pink scarf sitting at a table?",
+      "modified": "Is the smiling woman in a black coat and pink scarf sitting at a table?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the smiling woman in a black coat and pink scarf looking down at the cake?",
+      "modified": "Is the smiling woman in a black coat and pink scarf looking down at the cake?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the smiling woman in a black coat and pink scarf appear to be celebrating a birthday?",
+      "modified": "Does the smiling woman in a black coat and pink scarf appear to be celebrating a birthday?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the smiling woman in a black coat and pink scarf indoors?",
+      "modified": "Is the smiling man in a black coat and pink scarf indoors?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the smiling woman in a black coat and pink scarf close to the cake with the candle?",
+      "modified": "Is the smiling man in a black coat and pink scarf close to the cake with the candle?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the smiling woman in a black coat and pink scarf seem happy?",
+      "modified": "Does the smiling man in a black coat and pink scarf seem happy?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the smiling woman in a black coat and pink scarf seated in a restaurant booth?",
+      "modified": "Is the smiling man in a black coat and pink scarf seated in a restaurant booth?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the smiling woman in a black coat and pink scarf leaning slightly forward?",
+      "modified": "Is the smiling man in a black coat and pink scarf leaning slightly forward?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the smiling woman in a black coat and pink scarf have short hair?",
+      "modified": "Does the smiling man in a black coat and pink scarf have short hair?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the smiling woman in a black coat and pink scarf the main person in the image?",
+      "modified": "Is the smiling man in a black coat and pink scarf the main person in the image?",
+      "false_premise": true
+    }
+  ]
+}

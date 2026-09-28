@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3221",
+    "source": "COCO",
+    "complexity": 3,
+    "category": 2,
+    "target": "boat"
+  },
+  "base": {
+    "target_description": "the small white motorboat by the dock",
+    "modified_target_description": "the small white bicycle by the dock",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the small white motorboat by the dock floating on calm water?",
+      "modified": "Is the small white motorboat by the dock floating on calm water?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the small white motorboat by the dock appear to be tied up?",
+      "modified": "Does the small white motorboat by the dock appear to be tied up?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the small white motorboat by the dock facing toward the left side of the image?",
+      "modified": "Is the small white motorboat by the dock facing toward the left side of the image?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the small white motorboat by the dock have an outboard motor attached?",
+      "modified": "Does the small white bicycle by the dock have an outboard motor attached?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the small white motorboat by the dock close to several wooden poles?",
+      "modified": "Is the small white bicycle by the dock close to several wooden poles?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the small white motorboat by the dock look empty?",
+      "modified": "Does the small white bicycle by the dock look empty?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the small white motorboat by the dock parked alongside other boats?",
+      "modified": "Is the small white bicycle by the dock parked alongside other boats?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the small white motorboat by the dock appear to be used for leisure?",
+      "modified": "Does the small white bicycle by the dock appear to be used for leisure?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the small white motorboat by the dock right next to the stone walkway?",
+      "modified": "Is the small white bicycle by the dock right next to the stone walkway?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Would you say the small white motorboat by the dock is stationary in the scene?",
+      "modified": "Would you say the small white bicycle by the dock is stationary in the scene?",
+      "false_premise": true
+    }
+  ]
+}

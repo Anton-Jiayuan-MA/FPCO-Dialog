@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2130",
+    "source": "COCO",
+    "complexity": 2,
+    "category": 1,
+    "target": "woman"
+  },
+  "base": {
+    "target_description": "the woman in the middle holding a pink phone",
+    "modified_target_description": "the man in the middle holding a pink phone",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the woman in the middle holding a pink phone looking at?",
+      "modified": "What is the woman in the middle holding a pink phone looking at?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the woman in the middle holding a pink phone sitting down?",
+      "modified": "Is the woman in the middle holding a pink phone sitting down?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "What is the woman in the middle holding a pink phone doing with her hand?",
+      "modified": "What is the woman in the middle holding a pink phone doing with her hand?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the woman in the middle holding a pink phone wearing light-colored stockings?",
+      "modified": "Is the man in the middle holding a pink phone wearing light-colored stockings?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the woman in the middle holding a pink phone have a bag on her lap?",
+      "modified": "Does the man in the middle holding a pink phone have a bag on his lap?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the woman in the middle holding a pink phone using the phone or putting it away?",
+      "modified": "Is the man in the middle holding a pink phone using the phone or putting it away?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "What color is the outfit of the woman in the middle holding a pink phone?",
+      "modified": "What color is the outfit of the man in the middle holding a pink phone?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the woman in the middle holding a pink phone sitting between two other people?",
+      "modified": "Is the man in the middle holding a pink phone sitting between two other people?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the woman in the middle holding a pink phone appear to be on public transportation?",
+      "modified": "Does the man in the middle holding a pink phone appear to be on public transportation?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the woman in the middle holding a pink phone facing forward or turned to the side?",
+      "modified": "Is the man in the middle holding a pink phone facing forward or turned to the side?",
+      "false_premise": true
+    }
+  ]
+}

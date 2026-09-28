@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3350",
+    "source": "Open Images",
+    "complexity": 3,
+    "category": 3,
+    "target": "bird"
+  },
+  "base": {
+    "target_description": "the white goose with an orange beak",
+    "modified_target_description": "the black goose with an orange beak",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the white goose with an orange beak standing in the water or on the shore?",
+      "modified": "Is the white goose with an orange beak standing in the water or on the shore?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the white goose with an orange beak appear to be swimming calmly or flapping around?",
+      "modified": "Does the white goose with an orange beak appear to be swimming calmly or flapping around?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the white goose with an orange beak close to many other birds in the scene?",
+      "modified": "Is the white goose with an orange beak close to many other birds in the scene?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Can you see the white goose with an orange beak near the front edge of the water?",
+      "modified": "Can you see the black goose with an orange beak near the front edge of the water?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the white goose with an orange beak have its head raised above the water?",
+      "modified": "Does the black goose with an orange beak have its head raised above the water?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the white goose with an orange beak facing left or right?",
+      "modified": "Is the black goose with an orange beak facing left or right?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the white goose with an orange beak look like part of a large flock?",
+      "modified": "Does the black goose with an orange beak look like part of a large flock?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the white goose with an orange beak floating on the water surface?",
+      "modified": "Is the black goose with an orange beak floating on the water surface?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Can you spot the white goose with an orange beak among the tightly packed birds?",
+      "modified": "Can you spot the black goose with an orange beak among the tightly packed birds?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the white goose with an orange beak appear wet from being in the water?",
+      "modified": "Does the black goose with an orange beak appear wet from being in the water?",
+      "false_premise": true
+    }
+  ]
+}

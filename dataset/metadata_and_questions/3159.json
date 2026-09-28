@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3159",
+    "source": "Open Images",
+    "complexity": 3,
+    "category": 1,
+    "target": "person"
+  },
+  "base": {
+    "target_description": "the hand holding a sketchbook",
+    "modified_target_description": "the gloved hand holding a sketchbook",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the hand holding a sketchbook on the left side of the image?",
+      "modified": "Is the hand holding a sketchbook on the left side of the image?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the hand holding a sketchbook raised up in front of the scene?",
+      "modified": "Is the hand holding a sketchbook raised up in front of the scene?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the hand holding a sketchbook appear close to the camera?",
+      "modified": "Does the hand holding a sketchbook appear close to the camera?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the hand holding a sketchbook showing a drawing of the building in the background?",
+      "modified": "Is the gloved hand holding a sketchbook showing a drawing of the building in the background?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Can you see the fingers of the hand holding a sketchbook wrapped around its edge?",
+      "modified": "Can you see the fingers of the gloved hand holding a sketchbook wrapped around its edge?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the hand holding a sketchbook positioned above the people sitting by the river?",
+      "modified": "Is the gloved hand holding a sketchbook positioned above the people sitting by the river?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the hand holding a sketchbook belong to someone outside the main crowd?",
+      "modified": "Does the gloved hand holding a sketchbook belong to someone outside the main crowd?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the hand holding a sketchbook partially lit by the bright outdoor light?",
+      "modified": "Is the gloved hand holding a sketchbook partially lit by the bright outdoor light?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the hand holding a sketchbook angled so the page faces the viewer?",
+      "modified": "Is the gloved hand holding a sketchbook angled so the page faces the viewer?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the hand holding a sketchbook overlap the view of the bridge and cathedral?",
+      "modified": "Does the gloved hand holding a sketchbook overlap the view of the bridge and cathedral?",
+      "false_premise": true
+    }
+  ]
+}

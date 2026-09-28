@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1441",
+    "source": "Open Images",
+    "complexity": 1,
+    "category": 4,
+    "target": "pastry"
+  },
+  "base": {
+    "target_description": "the glazed pastry with white sugar sprinkles",
+    "modified_target_description": "the glazed pastry with chocolate sprinkles",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What color is the glazed pastry with white sugar sprinkles?",
+      "modified": "What color is the glazed pastry with white sugar sprinkles?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the glazed pastry with white sugar sprinkles sitting on a plate?",
+      "modified": "Is the glazed pastry with white sugar sprinkles sitting on a plate?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the glazed pastry with white sugar sprinkles appear to be on top of a napkin?",
+      "modified": "Does the glazed pastry with white sugar sprinkles appear to be on top of a napkin?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the glazed pastry with white sugar sprinkles look partly eaten?",
+      "modified": "Does the glazed pastry with chocolate sprinkles look partly eaten?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the glazed pastry with white sugar sprinkles the main food item in the image?",
+      "modified": "Is the glazed pastry with chocolate sprinkles the main food item in the image?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the glazed pastry with white sugar sprinkles have a shiny surface?",
+      "modified": "Does the glazed pastry with chocolate sprinkles have a shiny surface?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the glazed pastry with white sugar sprinkles topped with small white bits?",
+      "modified": "Is the glazed pastry with chocolate sprinkles topped with small white bits?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "What is underneath the glazed pastry with white sugar sprinkles?",
+      "modified": "What is underneath the glazed pastry with chocolate sprinkles?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the glazed pastry with white sugar sprinkles placed near the center of the plate?",
+      "modified": "Is the glazed pastry with chocolate sprinkles placed near the center of the plate?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the glazed pastry with white sugar sprinkles look like a sweet baked item?",
+      "modified": "Does the glazed pastry with chocolate sprinkles look like a sweet baked item?",
+      "false_premise": true
+    }
+  ]
+}

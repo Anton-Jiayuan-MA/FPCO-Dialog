@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1457",
+    "source": "Open Images",
+    "complexity": 1,
+    "category": 4,
+    "target": "pizza"
+  },
+  "base": {
+    "target_description": "the folded pizza with melted cheese",
+    "modified_target_description": "the folded pizza with burnt cheese",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the folded pizza with melted cheese cut open in the middle?",
+      "modified": "Is the folded pizza with melted cheese cut open in the middle?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the folded pizza with melted cheese have a golden-brown crust?",
+      "modified": "Does the folded pizza with melted cheese have a golden-brown crust?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Can you see sauce on the outside of the folded pizza with melted cheese?",
+      "modified": "Can you see sauce on the outside of the folded pizza with melted cheese?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the folded pizza with melted cheese sitting on a white plate?",
+      "modified": "Is the folded pizza with burnt cheese sitting on a white plate?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the folded pizza with melted cheese appear to have cheese spilling out?",
+      "modified": "Does the folded pizza with burnt cheese appear to have cheese spilling out?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the folded pizza with melted cheese topped with some black seasoning?",
+      "modified": "Is the folded pizza with burnt cheese topped with some black seasoning?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the folded pizza with melted cheese look freshly baked?",
+      "modified": "Does the folded pizza with burnt cheese look freshly baked?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the folded pizza with melted cheese the main food item in the image?",
+      "modified": "Is the folded pizza with burnt cheese the main food item in the image?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Can you see a runny filling inside the folded pizza with melted cheese?",
+      "modified": "Can you see a runny filling inside the folded pizza with burnt cheese?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the folded pizza with melted cheese take up most of the plate?",
+      "modified": "Does the folded pizza with burnt cheese take up most of the plate?",
+      "false_premise": true
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1170",
+    "source": "Open Images",
+    "complexity": 1,
+    "category": 1,
+    "target": "man"
+  },
+  "base": {
+    "target_description": "the white-haired man in a suit and red tie",
+    "modified_target_description": "the white-haired man on the left in a suit and red tie",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the white-haired man in a suit and red tie doing in this image?",
+      "modified": "What is the white-haired man in a suit and red tie doing in this image?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the white-haired man in a suit and red tie standing at a podium?",
+      "modified": "Is the white-haired man in a suit and red tie standing at a podium?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the white-haired man in a suit and red tie appear to be speaking?",
+      "modified": "Does the white-haired man in a suit and red tie appear to be speaking?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "What is in front of the white-haired man in a suit and red tie?",
+      "modified": "What is in front of the white-haired man on the left in a suit and red tie?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the white-haired man in a suit and red tie indoors?",
+      "modified": "Is the white-haired man on the left in a suit and red tie indoors?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "How is the white-haired man in a suit and red tie positioned in the frame?",
+      "modified": "How is the white-haired man on the left in a suit and red tie positioned in the frame?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the white-haired man in a suit and red tie facing toward the camera or away from it?",
+      "modified": "Is the white-haired man on the left in a suit and red tie facing toward the camera or away from it?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "What expression does the white-haired man in a suit and red tie have?",
+      "modified": "What expression does the white-haired man on the left in a suit and red tie have?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Are there microphones near the white-haired man in a suit and red tie?",
+      "modified": "Are there microphones near the white-haired man on the left in a suit and red tie?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the white-haired man in a suit and red tie look like he is giving a speech?",
+      "modified": "Does the white-haired man on the left in a suit and red tie look like he is giving a speech?",
+      "false_premise": true
+    }
+  ]
+}

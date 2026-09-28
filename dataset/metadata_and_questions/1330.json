@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1330",
+    "source": "COCO",
+    "complexity": 1,
+    "category": 3,
+    "target": "bear"
+  },
+  "base": {
+    "target_description": "the black bear with a pale snout",
+    "modified_target_description": "the black dog with a pale snout",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the black bear with a pale snout doing with its mouth?",
+      "modified": "What is the black bear with a pale snout doing with its mouth?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the black bear with a pale snout holding something between its mouth?",
+      "modified": "Is the black bear with a pale snout holding something between its mouth?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the black bear with a pale snout appear to be sitting in grass?",
+      "modified": "Does the black bear with a pale snout appear to be sitting in grass?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Which direction is the black bear with a pale snout facing?",
+      "modified": "Which direction is the black dog with a pale snout facing?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Can you see the eyes of the black bear with a pale snout clearly?",
+      "modified": "Can you see the eyes of the black dog with a pale snout clearly?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the black bear with a pale snout shown close up in the image?",
+      "modified": "Is the black dog with a pale snout shown close up in the image?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the black bear with a pale snout have dark fur around its body?",
+      "modified": "Does the black dog with a pale snout have dark fur around its body?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the black bear with a pale snout chewing on a stick or stalk?",
+      "modified": "Is the black dog with a pale snout chewing on a stick or stalk?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the black bear with a pale snout look calm or active?",
+      "modified": "Does the black dog with a pale snout look calm or active?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the black bear with a pale snout the main subject of the photo?",
+      "modified": "Is the black dog with a pale snout the main subject of the photo?",
+      "false_premise": true
+    }
+  ]
+}

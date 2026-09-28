@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1243",
+    "source": "COCO",
+    "complexity": 1,
+    "category": 2,
+    "target": "train"
+  },
+  "base": {
+    "target_description": "the maroon train on the tracks",
+    "modified_target_description": "the blue train on the tracks",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What direction is the maroon train on the tracks facing?",
+      "modified": "What direction is the maroon train on the tracks facing?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the maroon train on the tracks moving or stopped?",
+      "modified": "Is the maroon train on the tracks moving or stopped?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "What color is the front of the maroon train on the tracks?",
+      "modified": "What color is the front of the maroon train on the tracks?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the maroon train on the tracks appear to be pulling another train car?",
+      "modified": "Does the blue train on the tracks appear to be pulling another train car?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Are there overhead wires above the maroon train on the tracks?",
+      "modified": "Are there overhead wires above the blue train on the tracks?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the maroon train on the tracks close to a station platform?",
+      "modified": "Is the blue train on the tracks close to a station platform?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "How many connected sections can you see on the maroon train on the tracks?",
+      "modified": "How many connected sections can you see on the blue train on the tracks?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the maroon train on the tracks look clean or weathered?",
+      "modified": "Does the blue train on the tracks look clean or weathered?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "What kind of setting is the maroon train on the tracks in?",
+      "modified": "What kind of setting is the blue train on the tracks in?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Can you see any identifying numbers on the maroon train on the tracks?",
+      "modified": "Can you see any identifying numbers on the blue train on the tracks?",
+      "false_premise": true
+    }
+  ]
+}

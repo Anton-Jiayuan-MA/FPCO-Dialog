@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3301",
+    "source": "Open Images",
+    "complexity": 3,
+    "category": 3,
+    "target": "chicken"
+  },
+  "base": {
+    "target_description": "the brown chicken with a red comb",
+    "modified_target_description": "the brown cat with a red comb",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the brown chicken with a red comb standing outdoors?",
+      "modified": "Is the brown chicken with a red comb standing outdoors?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the brown chicken with a red comb facing toward the left side of the image?",
+      "modified": "Is the brown chicken with a red comb facing toward the left side of the image?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the brown chicken with a red comb appear close to the camera?",
+      "modified": "Does the brown chicken with a red comb appear close to the camera?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Can you see most of the body of the brown chicken with a red comb?",
+      "modified": "Can you see most of the body of the brown cat with a red comb?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the brown chicken with a red comb larger in view than the other chicken behind it?",
+      "modified": "Is the brown cat with a red comb larger in view than the other chicken behind it?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the brown chicken with a red comb have its head raised up?",
+      "modified": "Does the brown cat with a red comb have its head raised up?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the brown chicken with a red comb shown in profile?",
+      "modified": "Is the brown cat with a red comb shown in profile?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the brown chicken with a red comb fill much of the right side of the image?",
+      "modified": "Does the brown cat with a red comb fill much of the right side of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the brown chicken with a red comb under a clear blue sky?",
+      "modified": "Is the brown cat with a red comb under a clear blue sky?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Can you clearly see the eye of the brown chicken with a red comb?",
+      "modified": "Can you clearly see the eye of the brown cat with a red comb?",
+      "false_premise": true
+    }
+  ]
+}

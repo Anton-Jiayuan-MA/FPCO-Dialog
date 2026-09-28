@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1405",
+    "source": "Open Images",
+    "complexity": 1,
+    "category": 4,
+    "target": "noodles"
+  },
+  "base": {
+    "target_description": "the bowl of noodle soup",
+    "modified_target_description": "the bowl of cereal",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What kind of broth is in the bowl of noodle soup?",
+      "modified": "What kind of broth is in the bowl of noodle soup?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the bowl of noodle soup have meat on top?",
+      "modified": "Does the bowl of noodle soup have meat on top?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Are there chopped green onions in the bowl of noodle soup?",
+      "modified": "Are there chopped green onions in the bowl of noodle soup?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the bowl of noodle soup being served with a spoon?",
+      "modified": "Is the bowl of cereal being served with a spoon?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Do the noodles in the bowl of noodle soup look thick or thin?",
+      "modified": "Do the noodles in the bowl of cereal look thick or thin?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the bowl of noodle soup sitting on a wooden table?",
+      "modified": "Is the bowl of cereal sitting on a wooden table?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the bowl of noodle soup look freshly prepared?",
+      "modified": "Does the bowl of cereal look freshly prepared?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the bowl of noodle soup filled close to the rim?",
+      "modified": "Is the bowl of cereal filled close to the rim?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Are the toppings in the bowl of noodle soup spread across the center?",
+      "modified": "Are the toppings in the bowl of cereal spread across the center?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Would you describe the bowl of noodle soup as a savory dish?",
+      "modified": "Would you describe the bowl of cereal as a savory dish?",
+      "false_premise": true
+    }
+  ]
+}

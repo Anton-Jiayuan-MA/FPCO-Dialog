@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1411",
+    "source": "COCO",
+    "complexity": 1,
+    "category": 4,
+    "target": "donut"
+  },
+  "base": {
+    "target_description": "the bitten sugar-coated donut with chocolate filling",
+    "modified_target_description": "the bitten sugar-coated bagel with chocolate filling",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the bitten sugar-coated donut with chocolate filling shown close up in the image?",
+      "modified": "Is the bitten sugar-coated donut with chocolate filling shown close up in the image?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the bitten sugar-coated donut with chocolate filling have a visible bite taken out of it?",
+      "modified": "Does the bitten sugar-coated donut with chocolate filling have a visible bite taken out of it?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Can you see chocolate oozing from the center of the bitten sugar-coated donut with chocolate filling?",
+      "modified": "Can you see chocolate oozing from the center of the bitten sugar-coated donut with chocolate filling?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the bitten sugar-coated donut with chocolate filling resting on a white napkin?",
+      "modified": "Is the bitten sugar-coated bagel with chocolate filling resting on a white napkin?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the bitten sugar-coated donut with chocolate filling look soft inside?",
+      "modified": "Does the bitten sugar-coated bagel with chocolate filling look soft inside?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the outside of the bitten sugar-coated donut with chocolate filling covered in sugar?",
+      "modified": "Is the outside of the bitten sugar-coated bagel with chocolate filling covered in sugar?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the bitten sugar-coated donut with chocolate filling appear to be the main focus of the photo?",
+      "modified": "Does the bitten sugar-coated bagel with chocolate filling appear to be the main focus of the photo?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the bitten sugar-coated donut with chocolate filling photographed from very nearby?",
+      "modified": "Is the bitten sugar-coated bagel with chocolate filling photographed from very nearby?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Can you clearly see the inside of the bitten sugar-coated donut with chocolate filling?",
+      "modified": "Can you clearly see the inside of the bitten sugar-coated bagel with chocolate filling?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the bitten sugar-coated donut with chocolate filling look ready to eat?",
+      "modified": "Does the bitten sugar-coated bagel with chocolate filling look ready to eat?",
+      "false_premise": true
+    }
+  ]
+}

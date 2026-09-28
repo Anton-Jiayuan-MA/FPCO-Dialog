@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1175",
+    "source": "Open Images",
+    "complexity": 1,
+    "category": 1,
+    "target": "man"
+  },
+  "base": {
+    "target_description": "the bearded man with glasses and a microphone",
+    "modified_target_description": "the bearded man with glasses and a microphone on the right",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the bearded man with glasses and a microphone doing in the scene?",
+      "modified": "What is the bearded man with glasses and a microphone doing in the scene?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the bearded man with glasses and a microphone facing toward the camera or to the side?",
+      "modified": "Is the bearded man with glasses and a microphone facing toward the camera or to the side?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "What is the bearded man with glasses and a microphone holding?",
+      "modified": "What is the bearded man with glasses and a microphone holding?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the bearded man with glasses and a microphone appear to be speaking?",
+      "modified": "Does the bearded man with glasses and a microphone on the right appear to be speaking?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "What kind of shirt is the bearded man with glasses and a microphone wearing?",
+      "modified": "What kind of shirt is the bearded man with glasses and a microphone on the right wearing?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the bearded man with glasses and a microphone indoors?",
+      "modified": "Is the bearded man with glasses and a microphone on the right indoors?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the bearded man with glasses and a microphone look seated or standing?",
+      "modified": "Does the bearded man with glasses and a microphone on the right look seated or standing?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Where in the image is the bearded man with glasses and a microphone positioned?",
+      "modified": "Where in the image is the bearded man with glasses and a microphone on the right positioned?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the bearded man with glasses and a microphone shown close up or far away?",
+      "modified": "Is the bearded man with glasses and a microphone on the right shown close up or far away?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the bearded man with glasses and a microphone look like part of a public talk or event?",
+      "modified": "Does the bearded man with glasses and a microphone on the right look like part of a public talk or event?",
+      "false_premise": true
+    }
+  ]
+}

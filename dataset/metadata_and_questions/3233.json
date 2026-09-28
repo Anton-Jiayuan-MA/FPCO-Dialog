@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3233",
+    "source": "COCO",
+    "complexity": 3,
+    "category": 2,
+    "target": "motorcycle"
+  },
+  "base": {
+    "target_description": "the blue motorcycle in the center lane",
+    "modified_target_description": "the red motorcycle in the center lane",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the blue motorcycle in the center lane being ridden on the road?",
+      "modified": "Is the blue motorcycle in the center lane being ridden on the road?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the blue motorcycle in the center lane behind a red car?",
+      "modified": "Is the blue motorcycle in the center lane behind a red car?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the blue motorcycle in the center lane appear to be moving forward in traffic?",
+      "modified": "Does the blue motorcycle in the center lane appear to be moving forward in traffic?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is a person sitting on the blue motorcycle in the center lane?",
+      "modified": "Is a person sitting on the red motorcycle in the center lane?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the blue motorcycle in the center lane have a wide rear tire?",
+      "modified": "Does the red motorcycle in the center lane have a wide rear tire?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the blue motorcycle in the center lane centered in the image?",
+      "modified": "Is the red motorcycle in the center lane centered in the image?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the blue motorcycle in the center lane facing away from the camera?",
+      "modified": "Is the red motorcycle in the center lane facing away from the camera?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the blue motorcycle in the center lane traveling in the same direction as the surrounding vehicles?",
+      "modified": "Is the red motorcycle in the center lane traveling in the same direction as the surrounding vehicles?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the blue motorcycle in the center lane look like it is waiting at an intersection?",
+      "modified": "Does the red motorcycle in the center lane look like it is waiting at an intersection?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the blue motorcycle in the center lane on a paved street?",
+      "modified": "Is the red motorcycle in the center lane on a paved street?",
+      "false_premise": true
+    }
+  ]
+}

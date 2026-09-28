@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1471",
+    "source": "COCO",
+    "complexity": 1,
+    "category": 4,
+    "target": "hot dog"
+  },
+  "base": {
+    "target_description": "the hot dog with coleslaw",
+    "modified_target_description": "the hot dog with coleslaw on the left",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is piled on top of the hot dog with coleslaw?",
+      "modified": "What is piled on top of the hot dog with coleslaw?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the hot dog with coleslaw sitting in a bun?",
+      "modified": "Is the hot dog with coleslaw sitting in a bun?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the hot dog with coleslaw look like it is ready to eat?",
+      "modified": "Does the hot dog with coleslaw look like it is ready to eat?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Can you see the sausage inside the hot dog with coleslaw?",
+      "modified": "Can you see the sausage inside the hot dog with coleslaw on the left?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the hot dog with coleslaw served close up in the image?",
+      "modified": "Is the hot dog with coleslaw on the left served close up in the image?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the hot dog with coleslaw appear to have a soft bun?",
+      "modified": "Does the hot dog with coleslaw on the left appear to have a soft bun?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the hot dog with coleslaw topped generously?",
+      "modified": "Is the hot dog with coleslaw on the left topped generously?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the hot dog with coleslaw look messy or neatly arranged?",
+      "modified": "Does the hot dog with coleslaw on the left look messy or neatly arranged?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Can you tell whether the hot dog with coleslaw is on a plate or in a tray?",
+      "modified": "Can you tell whether the hot dog with coleslaw on the left is on a plate or in a tray?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the hot dog with coleslaw the main focus of the picture?",
+      "modified": "Is the hot dog with coleslaw on the left the main focus of the picture?",
+      "false_premise": true
+    }
+  ]
+}

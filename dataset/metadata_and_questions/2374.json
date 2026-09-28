@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2374",
+    "source": "Open Images",
+    "complexity": 2,
+    "category": 3,
+    "target": "dog"
+  },
+  "base": {
+    "target_description": "the fluffy white dog in the middle",
+    "modified_target_description": "the fluffy white dog on the far right",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the fluffy white dog in the middle sitting or lying down?",
+      "modified": "Is the fluffy white dog in the middle sitting or lying down?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the fluffy white dog in the middle appear to be facing the viewer?",
+      "modified": "Does the fluffy white dog in the middle appear to be facing the viewer?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the fluffy white dog in the middle surrounded by other dogs?",
+      "modified": "Is the fluffy white dog in the middle surrounded by other dogs?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the fluffy white dog in the middle have curly or shaggy fur?",
+      "modified": "Does the fluffy white dog on the far right have curly or shaggy fur?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the fluffy white dog in the middle on a soft-looking blanket or rug?",
+      "modified": "Is the fluffy white dog on the far right on a soft-looking blanket or rug?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the fluffy white dog in the middle look smaller than the dog on the far left?",
+      "modified": "Does the fluffy white dog on the far right look smaller than the dog on the far left?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the fluffy white dog in the middle the only dog with mostly white fur?",
+      "modified": "Is the fluffy white dog on the far right the only dog with mostly white fur?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the fluffy white dog in the middle have darker eyes and nose than its fur?",
+      "modified": "Does the fluffy white dog on the far right have darker eyes and nose than its fur?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the fluffy white dog in the middle positioned between two black-and-white dogs?",
+      "modified": "Is the fluffy white dog on the far right positioned between two black-and-white dogs?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the fluffy white dog in the middle look calm in the scene?",
+      "modified": "Does the fluffy white dog on the far right look calm in the scene?",
+      "false_premise": true
+    }
+  ]
+}

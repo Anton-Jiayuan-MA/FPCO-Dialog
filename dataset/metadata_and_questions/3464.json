@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3464",
+    "source": "Open Images",
+    "complexity": 3,
+    "category": 4,
+    "target": "cake"
+  },
+  "base": {
+    "target_description": "the chocolate cake slice with green frosting",
+    "modified_target_description": "the chocolate cake slice with green frosting on the left",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the chocolate cake slice with green frosting sitting on a plate?",
+      "modified": "Is the chocolate cake slice with green frosting sitting on a plate?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the chocolate cake slice with green frosting look dense and rich?",
+      "modified": "Does the chocolate cake slice with green frosting look dense and rich?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the chocolate cake slice with green frosting shown close up in the foreground?",
+      "modified": "Is the chocolate cake slice with green frosting shown close up in the foreground?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the chocolate cake slice with green frosting have a smooth dark filling layer?",
+      "modified": "Does the chocolate cake slice with green frosting on the left have a smooth dark filling layer?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the chocolate cake slice with green frosting topped with a small dollop of frosting?",
+      "modified": "Is the chocolate cake slice with green frosting on the left topped with a small dollop of frosting?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the chocolate cake slice with green frosting appear to be one of several slices?",
+      "modified": "Does the chocolate cake slice with green frosting on the left appear to be one of several slices?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the chocolate cake slice with green frosting cut into a triangular piece?",
+      "modified": "Is the chocolate cake slice with green frosting on the left cut into a triangular piece?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the chocolate cake slice with green frosting have a darker interior than its top crust?",
+      "modified": "Does the chocolate cake slice with green frosting on the left have a darker interior than its top crust?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the chocolate cake slice with green frosting the most prominent item in the image?",
+      "modified": "Is the chocolate cake slice with green frosting on the left the most prominent item in the image?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the chocolate cake slice with green frosting look ready to be served as dessert?",
+      "modified": "Does the chocolate cake slice with green frosting on the left look ready to be served as dessert?",
+      "false_premise": true
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1169",
+    "source": "Open Images",
+    "complexity": 1,
+    "category": 1,
+    "target": "man"
+  },
+  "base": {
+    "target_description": "the bearded man in a green coat",
+    "modified_target_description": "the bearded man on the right in a green coat",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the bearded man in a green coat looking at?",
+      "modified": "What is the bearded man in a green coat looking at?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the bearded man in a green coat holding an open book?",
+      "modified": "Is the bearded man in a green coat holding an open book?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the bearded man in a green coat appear to be reading carefully?",
+      "modified": "Does the bearded man in a green coat appear to be reading carefully?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the bearded man in a green coat standing near bookshelves?",
+      "modified": "Is the bearded man on the right in a green coat standing near bookshelves?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "What is the bearded man in a green coat doing with his hands?",
+      "modified": "What is the bearded man on the right in a green coat doing with his hands?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the bearded man in a green coat seem to be indoors?",
+      "modified": "Does the bearded man on the right in a green coat seem to be indoors?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the bearded man in a green coat wearing a heavy jacket?",
+      "modified": "Is the bearded man on the right in a green coat wearing a heavy jacket?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Where is the bearded man in a green coat positioned in the scene?",
+      "modified": "Where is the bearded man on the right in a green coat positioned in the scene?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the bearded man in a green coat look focused on the pages?",
+      "modified": "Does the bearded man on the right in a green coat look focused on the pages?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the bearded man in a green coat browsing a book in what looks like a bookstore or library?",
+      "modified": "Is the bearded man on the right in a green coat browsing a book in what looks like a bookstore or library?",
+      "false_premise": true
+    }
+  ]
+}

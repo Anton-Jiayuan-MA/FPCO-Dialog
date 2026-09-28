@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2370",
+    "source": "Open Images",
+    "complexity": 2,
+    "category": 3,
+    "target": "penguin"
+  },
+  "base": {
+    "target_description": "the black and white penguin on the lower right ledge",
+    "modified_target_description": "the black and white penguin on the lower left ledge",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the black and white penguin on the lower right ledge facing away from the camera?",
+      "modified": "Is the black and white penguin on the lower right ledge facing away from the camera?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the black and white penguin on the lower right ledge appear to be resting on the rock?",
+      "modified": "Does the black and white penguin on the lower right ledge appear to be resting on the rock?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the black and white penguin on the lower right ledge alone on that section of the ledge?",
+      "modified": "Is the black and white penguin on the lower right ledge alone on that section of the ledge?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the black and white penguin on the lower right ledge have its flippers stretched out to the sides?",
+      "modified": "Does the black and white penguin on the lower left ledge have its flippers stretched out to the sides?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the black and white penguin on the lower right ledge positioned lower than the group of penguins in the middle?",
+      "modified": "Is the black and white penguin on the lower left ledge positioned lower than the group of penguins in the middle?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the black and white penguin on the lower right ledge look like it is sitting rather than standing?",
+      "modified": "Does the black and white penguin on the lower left ledge look like it is sitting rather than standing?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the black and white penguin on the lower right ledge near the edge of the rocky platform?",
+      "modified": "Is the black and white penguin on the lower left ledge near the edge of the rocky platform?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Can you see the back of the black and white penguin on the lower right ledge more clearly than its front?",
+      "modified": "Can you see the back of the black and white penguin on the lower left ledge more clearly than its front?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the black and white penguin on the lower right ledge on a lighter-colored rock surface?",
+      "modified": "Is the black and white penguin on the lower left ledge on a lighter-colored rock surface?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the black and white penguin on the lower right ledge appear separate from the penguin at the bottom center?",
+      "modified": "Does the black and white penguin on the lower left ledge appear separate from the penguin at the bottom center?",
+      "false_premise": true
+    }
+  ]
+}

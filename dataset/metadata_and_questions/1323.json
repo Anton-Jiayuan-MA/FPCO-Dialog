@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1323",
+    "source": "COCO",
+    "complexity": 1,
+    "category": 3,
+    "target": "zebra"
+  },
+  "base": {
+    "target_description": "the striped zebra's head",
+    "modified_target_description": "the striped giraffe's head",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the striped zebra's head shown from the side?",
+      "modified": "Is the striped zebra's head shown from the side?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the striped zebra's head lowered toward the grass?",
+      "modified": "Is the striped zebra's head lowered toward the grass?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Can you see the eye on the striped zebra's head?",
+      "modified": "Can you see the eye on the striped zebra's head?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the striped zebra's head take up most of the image?",
+      "modified": "Does the striped giraffe's head take up most of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the striped zebra's head facing left in the picture?",
+      "modified": "Is the striped giraffe's head facing left in the picture?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the striped zebra's head close to the ground?",
+      "modified": "Is the striped giraffe's head close to the ground?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the striped zebra's head appear to be grazing?",
+      "modified": "Does the striped giraffe's head appear to be grazing?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Are the black and white stripes on the striped zebra's head clearly visible?",
+      "modified": "Are the black and white stripes on the striped giraffe's head clearly visible?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is only part of the striped zebra's head visible in the frame?",
+      "modified": "Is only part of the striped giraffe's head visible in the frame?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the striped zebra's head outdoors in a grassy area?",
+      "modified": "Is the striped giraffe's head outdoors in a grassy area?",
+      "false_premise": true
+    }
+  ]
+}

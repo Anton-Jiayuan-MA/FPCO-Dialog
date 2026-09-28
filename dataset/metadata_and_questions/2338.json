@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2338",
+    "source": "Open Images",
+    "complexity": 2,
+    "category": 3,
+    "target": "duck"
+  },
+  "base": {
+    "target_description": "the black and white duck in the water",
+    "modified_target_description": "the brown and white duck in the water",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the black and white duck in the water swimming calmly?",
+      "modified": "Is the black and white duck in the water swimming calmly?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the black and white duck in the water facing toward the right?",
+      "modified": "Is the black and white duck in the water facing toward the right?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the black and white duck in the water appear closer to the camera than the other duck?",
+      "modified": "Does the black and white duck in the water appear closer to the camera than the other duck?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the black and white duck in the water floating on greenish water?",
+      "modified": "Is the brown and white duck in the water floating on greenish water?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the black and white duck in the water have its head lowered slightly?",
+      "modified": "Does the brown and white duck in the water have its head lowered slightly?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the black and white duck in the water creating small ripples around its body?",
+      "modified": "Is the brown and white duck in the water creating small ripples around its body?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the black and white duck in the water look larger than the duck behind it?",
+      "modified": "Does the brown and white duck in the water look larger than the duck behind it?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the black and white duck in the water shown in profile?",
+      "modified": "Is the brown and white duck in the water shown in profile?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the black and white duck in the water have a pale beak?",
+      "modified": "Does the brown and white duck in the water have a pale beak?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the black and white duck in the water the most prominent animal in the image?",
+      "modified": "Is the brown and white duck in the water the most prominent animal in the image?",
+      "false_premise": true
+    }
+  ]
+}

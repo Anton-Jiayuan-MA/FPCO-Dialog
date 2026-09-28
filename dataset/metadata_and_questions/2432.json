@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2432",
+    "source": "Open Images",
+    "complexity": 2,
+    "category": 4,
+    "target": "apple"
+  },
+  "base": {
+    "target_description": "the red and yellow apple on the rollers",
+    "modified_target_description": "the green and yellow apple on the rollers",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the red and yellow apple on the rollers part of a sorting line?",
+      "modified": "Is the red and yellow apple on the rollers part of a sorting line?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the red and yellow apple on the rollers look wet or shiny?",
+      "modified": "Does the red and yellow apple on the rollers look wet or shiny?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the red and yellow apple on the rollers moving along with other apples?",
+      "modified": "Is the red and yellow apple on the rollers moving along with other apples?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the red and yellow apple on the rollers indoors in a processing area?",
+      "modified": "Is the green and yellow apple on the rollers indoors in a processing area?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the red and yellow apple on the rollers appear whole and uncut?",
+      "modified": "Does the green and yellow apple on the rollers appear whole and uncut?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the red and yellow apple on the rollers beside several other apples?",
+      "modified": "Is the green and yellow apple on the rollers beside several other apples?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the red and yellow apple on the rollers look clean?",
+      "modified": "Does the green and yellow apple on the rollers look clean?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the red and yellow apple on the rollers resting between white cylindrical rollers?",
+      "modified": "Is the green and yellow apple on the rollers resting between white cylindrical rollers?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the red and yellow apple on the rollers appear round?",
+      "modified": "Does the green and yellow apple on the rollers appear round?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the red and yellow apple on the rollers near a clear protective panel?",
+      "modified": "Is the green and yellow apple on the rollers near a clear protective panel?",
+      "false_premise": true
+    }
+  ]
+}

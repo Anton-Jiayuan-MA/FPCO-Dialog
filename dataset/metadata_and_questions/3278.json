@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3278",
+    "source": "Open Images",
+    "complexity": 3,
+    "category": 2,
+    "target": "car"
+  },
+  "base": {
+    "target_description": "the shiny black convertible car",
+    "modified_target_description": "the shiny black convertible car on the left",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the shiny black convertible car parked outdoors?",
+      "modified": "Is the shiny black convertible car parked outdoors?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the shiny black convertible car have its trunk open?",
+      "modified": "Does the shiny black convertible car have its trunk open?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the shiny black convertible car shown from the rear side?",
+      "modified": "Is the shiny black convertible car shown from the rear side?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the shiny black convertible car appear to be part of a car show?",
+      "modified": "Does the shiny black convertible car on the left appear to be part of a car show?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Can you see the inside of the trunk of the shiny black convertible car?",
+      "modified": "Can you see the inside of the trunk of the shiny black convertible car on the left?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the top down on the shiny black convertible car?",
+      "modified": "Is the top down on the shiny black convertible car on the left?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the shiny black convertible car have chrome trim along the side?",
+      "modified": "Does the shiny black convertible car on the left have chrome trim along the side?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the shiny black convertible car positioned next to other cars?",
+      "modified": "Is the shiny black convertible car on the left positioned next to other cars?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the shiny black convertible car have whitewall tires?",
+      "modified": "Does the shiny black convertible car on the left have whitewall tires?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the hood of the shiny black convertible car also open?",
+      "modified": "Is the hood of the shiny black convertible car on the left also open?",
+      "false_premise": true
+    }
+  ]
+}

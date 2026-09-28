@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1279",
+    "source": "COCO",
+    "complexity": 1,
+    "category": 2,
+    "target": "bus"
+  },
+  "base": {
+    "target_description": "the white double-decker bus",
+    "modified_target_description": "the white double-decker bus on the right",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What route number is displayed on the white double-decker bus?",
+      "modified": "What route number is displayed on the white double-decker bus?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the white double-decker bus facing toward the camera?",
+      "modified": "Is the white double-decker bus facing toward the camera?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the white double-decker bus stopped at a bus stop?",
+      "modified": "Is the white double-decker bus stopped at a bus stop?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Can you see through the front windows of the white double-decker bus?",
+      "modified": "Can you see through the front windows of the white double-decker bus on the right?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the white double-decker bus appear to be on a city street?",
+      "modified": "Does the white double-decker bus on the right appear to be on a city street?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the white double-decker bus close to the curb?",
+      "modified": "Is the white double-decker bus on the right close to the curb?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the white double-decker bus have more than one front window level visible?",
+      "modified": "Does the white double-decker bus on the right have more than one front window level visible?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is there a destination sign lit up on the white double-decker bus?",
+      "modified": "Is there a destination sign lit up on the white double-decker bus on the right?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the white double-decker bus look like it is picking up passengers?",
+      "modified": "Does the white double-decker bus on the right look like it is picking up passengers?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the white double-decker bus the main vehicle in the image?",
+      "modified": "Is the white double-decker bus on the right the main vehicle in the image?",
+      "false_premise": true
+    }
+  ]
+}

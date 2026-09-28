@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1362",
+    "source": "Open Images",
+    "complexity": 1,
+    "category": 3,
+    "target": "dog"
+  },
+  "base": {
+    "target_description": "the brown curly-haired dog lying on the bed",
+    "modified_target_description": "the brown curly-haired dog under the bed",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the brown curly-haired dog lying on the bed awake or asleep?",
+      "modified": "Is the brown curly-haired dog lying on the bed awake or asleep?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the brown curly-haired dog lying on the bed look relaxed?",
+      "modified": "Does the brown curly-haired dog lying on the bed look relaxed?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the brown curly-haired dog lying on the bed stretched out across the bed?",
+      "modified": "Is the brown curly-haired dog lying on the bed stretched out across the bed?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Can you see the face of the brown curly-haired dog lying on the bed clearly?",
+      "modified": "Can you see the face of the brown curly-haired dog under the bed clearly?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the brown curly-haired dog lying on the bed resting on white bedding?",
+      "modified": "Is the brown curly-haired dog under the bed resting on white bedding?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the brown curly-haired dog lying on the bed take up much of the bed?",
+      "modified": "Does the brown curly-haired dog under the bed take up much of the bed?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the brown curly-haired dog lying on the bed facing toward the camera or away from it?",
+      "modified": "Is the brown curly-haired dog under the bed facing toward the camera or away from it?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the brown curly-haired dog lying on the bed appear to be indoors?",
+      "modified": "Does the brown curly-haired dog under the bed appear to be indoors?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Are the legs of the brown curly-haired dog lying on the bed stretched out?",
+      "modified": "Are the legs of the brown curly-haired dog under the bed stretched out?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the brown curly-haired dog lying on the bed look comfortable?",
+      "modified": "Does the brown curly-haired dog under the bed look comfortable?",
+      "false_premise": true
+    }
+  ]
+}

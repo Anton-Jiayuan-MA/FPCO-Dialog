@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1443",
+    "source": "Open Images",
+    "complexity": 1,
+    "category": 4,
+    "target": "coffee"
+  },
+  "base": {
+    "target_description": "the foamy coffee in a white mug",
+    "modified_target_description": "the iced coffee in a white mug",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What kind of topping is visible on the foamy coffee in a white mug?",
+      "modified": "What kind of topping is visible on the foamy coffee in a white mug?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the foamy coffee in a white mug have a chocolate drizzle on top?",
+      "modified": "Does the foamy coffee in a white mug have a chocolate drizzle on top?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the foamy coffee in a white mug filled close to the rim?",
+      "modified": "Is the foamy coffee in a white mug filled close to the rim?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "What pattern is drawn across the foamy coffee in a white mug?",
+      "modified": "What pattern is drawn across the iced coffee in a white mug?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the foamy coffee in a white mug being shown from above?",
+      "modified": "Is the iced coffee in a white mug being shown from above?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the foamy coffee in a white mug look like a café-style drink?",
+      "modified": "Does the iced coffee in a white mug look like a café-style drink?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the surface of the foamy coffee in a white mug smooth underneath the drizzle?",
+      "modified": "Is the surface of the iced coffee in a white mug smooth underneath the drizzle?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Can you see the handle attached to the foamy coffee in a white mug?",
+      "modified": "Can you see the handle attached to the iced coffee in a white mug?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the foamy coffee in a white mug appear to be a hot beverage?",
+      "modified": "Does the iced coffee in a white mug appear to be a hot beverage?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the foamy coffee in a white mug the main focus of the image?",
+      "modified": "Is the iced coffee in a white mug the main focus of the image?",
+      "false_premise": true
+    }
+  ]
+}

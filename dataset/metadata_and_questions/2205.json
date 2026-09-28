@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2205",
+    "source": "COCO",
+    "complexity": 2,
+    "category": 2,
+    "target": "train"
+  },
+  "base": {
+    "target_description": "the green freight train",
+    "modified_target_description": "the green bus",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What direction is the green freight train facing in the image?",
+      "modified": "What direction is the green freight train facing in the image?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the green freight train on the middle set of tracks?",
+      "modified": "Is the green freight train on the middle set of tracks?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "What is parked next to the green freight train?",
+      "modified": "What is parked next to the green freight train?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the green freight train look like it is moving or stopped?",
+      "modified": "Does the green bus look like it is moving or stopped?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the green freight train closer to the camera than the train on the right?",
+      "modified": "Is the green bus closer to the camera than the train on the right?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "What color lettering is visible on the side of the green freight train?",
+      "modified": "What color lettering is visible on the side of the green bus?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the green freight train under overhead power lines?",
+      "modified": "Is the green bus under overhead power lines?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "How much of the green freight train is visible in the scene?",
+      "modified": "How much of the green bus is visible in the scene?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the green freight train appear to be in a rail yard or out on an open line?",
+      "modified": "Does the green bus appear to be in a rail yard or out on an open line?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the green freight train positioned between two other trains?",
+      "modified": "Is the green bus positioned between two other trains?",
+      "false_premise": true
+    }
+  ]
+}

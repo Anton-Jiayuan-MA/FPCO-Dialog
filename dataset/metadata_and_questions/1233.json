@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1233",
+    "source": "COCO",
+    "complexity": 1,
+    "category": 2,
+    "target": "bus"
+  },
+  "base": {
+    "target_description": "the white city bus with red stripes",
+    "modified_target_description": "the blue city bus with red stripes",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the white city bus with red stripes stopped next to the curb?",
+      "modified": "Is the white city bus with red stripes stopped next to the curb?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the white city bus with red stripes have its doors open in the image?",
+      "modified": "Does the white city bus with red stripes have its doors open in the image?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the white city bus with red stripes facing toward the right side of the picture?",
+      "modified": "Is the white city bus with red stripes facing toward the right side of the picture?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Can you see the full length of the white city bus with red stripes, or is part of it cut off?",
+      "modified": "Can you see the full length of the blue city bus with red stripes, or is part of it cut off?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the white city bus with red stripes parked at what looks like a bus stop?",
+      "modified": "Is the blue city bus with red stripes parked at what looks like a bus stop?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the white city bus with red stripes appear to be empty or carrying passengers?",
+      "modified": "Does the blue city bus with red stripes appear to be empty or carrying passengers?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the white city bus with red stripes the main object shown in the scene?",
+      "modified": "Is the blue city bus with red stripes the main object shown in the scene?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Are the windows of the white city bus with red stripes reflecting the bright sunlight?",
+      "modified": "Are the windows of the blue city bus with red stripes reflecting the bright sunlight?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the white city bus with red stripes look like it is picking up or dropping off riders?",
+      "modified": "Does the blue city bus with red stripes look like it is picking up or dropping off riders?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the white city bus with red stripes positioned along the sidewalk?",
+      "modified": "Is the blue city bus with red stripes positioned along the sidewalk?",
+      "false_premise": true
+    }
+  ]
+}

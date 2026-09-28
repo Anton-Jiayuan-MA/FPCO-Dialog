@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1485",
+    "source": "Open Images",
+    "complexity": 1,
+    "category": 4,
+    "target": "ginger"
+  },
+  "base": {
+    "target_description": "the sliced yellow ginger pieces",
+    "modified_target_description": "the sliced yellow ginger pieces on the right",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What container are the sliced yellow ginger pieces sitting in?",
+      "modified": "What container are the sliced yellow ginger pieces sitting in?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Do the sliced yellow ginger pieces look fresh in this image?",
+      "modified": "Do the sliced yellow ginger pieces look fresh in this image?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Are the sliced yellow ginger pieces peeled or still showing some skin?",
+      "modified": "Are the sliced yellow ginger pieces peeled or still showing some skin?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Do the sliced yellow ginger pieces appear to be cut into thin slices?",
+      "modified": "Do the sliced yellow ginger pieces on the right appear to be cut into thin slices?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Are the sliced yellow ginger pieces piled together in one spot?",
+      "modified": "Are the sliced yellow ginger pieces on the right piled together in one spot?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "What color are the sliced yellow ginger pieces?",
+      "modified": "What color are the sliced yellow ginger pieces on the right?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Do the sliced yellow ginger pieces fill most of the container?",
+      "modified": "Do the sliced yellow ginger pieces on the right fill most of the container?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Are the sliced yellow ginger pieces raw or cooked here?",
+      "modified": "Are the sliced yellow ginger pieces on the right raw or cooked here?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Do the sliced yellow ginger pieces have irregular shapes?",
+      "modified": "Do the sliced yellow ginger pieces on the right have irregular shapes?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Are the sliced yellow ginger pieces shown close up?",
+      "modified": "Are the sliced yellow ginger pieces on the right shown close up?",
+      "false_premise": true
+    }
+  ]
+}

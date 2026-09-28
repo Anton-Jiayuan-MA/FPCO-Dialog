@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1165",
+    "source": "Open Images",
+    "complexity": 1,
+    "category": 1,
+    "target": "child"
+  },
+  "base": {
+    "target_description": "the child in a colorful hat",
+    "modified_target_description": "the child on the right in a colorful hat",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the child in a colorful hat holding near their face?",
+      "modified": "What is the child in a colorful hat holding near their face?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the child in a colorful hat sitting down in the scene?",
+      "modified": "Is the child in a colorful hat sitting down in the scene?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "What kind of expression does the child in a colorful hat seem to have?",
+      "modified": "What kind of expression does the child in a colorful hat seem to have?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the child in a colorful hat wearing patterned clothing?",
+      "modified": "Is the child on the right in a colorful hat wearing patterned clothing?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the child in a colorful hat appear to be smelling or kissing something?",
+      "modified": "Does the child on the right in a colorful hat appear to be smelling or kissing something?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "What is directly in front of the child in a colorful hat?",
+      "modified": "What is directly in front of the child on the right in a colorful hat?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the child in a colorful hat indoors or outdoors?",
+      "modified": "Is the child on the right in a colorful hat indoors or outdoors?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "What colors stand out most on the child in a colorful hat?",
+      "modified": "What colors stand out most on the child on the right in a colorful hat?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the child in a colorful hat surrounded by woven textiles?",
+      "modified": "Is the child on the right in a colorful hat surrounded by woven textiles?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "What is the child in a colorful hat doing with their hands?",
+      "modified": "What is the child on the right in a colorful hat doing with their hands?",
+      "false_premise": true
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3218",
+    "source": "COCO",
+    "complexity": 3,
+    "category": 2,
+    "target": "boat"
+  },
+  "base": {
+    "target_description": "the white fishing boat with João Victor written on it",
+    "modified_target_description": "the white fishing truck with João Victor written on it",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What name is written on the white fishing boat with João Victor written on it?",
+      "modified": "What name is written on the white fishing boat with João Victor written on it?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the white fishing boat with João Victor written on it docked by the shore?",
+      "modified": "Is the white fishing boat with João Victor written on it docked by the shore?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the white fishing boat with João Victor written on it appear larger than the nearby boats?",
+      "modified": "Does the white fishing boat with João Victor written on it appear larger than the nearby boats?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the white fishing boat with João Victor written on it facing toward the right side of the image?",
+      "modified": "Is the white fishing truck with João Victor written on it facing toward the right side of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Can you see any people standing on the white fishing boat with João Victor written on it?",
+      "modified": "Can you see any people standing on the white fishing truck with João Victor written on it?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the white fishing boat with João Victor written on it painted mostly white with dark trim?",
+      "modified": "Is the white fishing truck with João Victor written on it painted mostly white with dark trim?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the white fishing boat with João Victor written on it have windows along its cabin?",
+      "modified": "Does the white fishing truck with João Victor written on it have windows along its cabin?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the white fishing boat with João Victor written on it floating in calm water?",
+      "modified": "Is the white fishing truck with João Victor written on it floating in calm water?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the white fishing boat with João Victor written on it have ropes attached near the front?",
+      "modified": "Does the white fishing truck with João Victor written on it have ropes attached near the front?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the white fishing boat with João Victor written on it the main subject in the foreground?",
+      "modified": "Is the white fishing truck with João Victor written on it the main subject in the foreground?",
+      "false_premise": true
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2408",
+    "source": "COCO",
+    "complexity": 2,
+    "category": 4,
+    "target": "donut"
+  },
+  "base": {
+    "target_description": "a decorated donut on the tray",
+    "modified_target_description": "a decorated bagel on the tray",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What kind of topping does a decorated donut on the tray have?",
+      "modified": "What kind of topping does a decorated donut on the tray have?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is a decorated donut on the tray covered with frosting?",
+      "modified": "Is a decorated donut on the tray covered with frosting?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does a decorated donut on the tray look round?",
+      "modified": "Does a decorated donut on the tray look round?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is a decorated donut on the tray placed among many other pastries?",
+      "modified": "Is a decorated bagel on the tray placed among many other pastries?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does a decorated donut on the tray appear to be bite-sized?",
+      "modified": "Does a decorated bagel on the tray appear to be bite-sized?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is a decorated donut on the tray topped with chocolate or something lighter?",
+      "modified": "Is a decorated bagel on the tray topped with chocolate or something lighter?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does a decorated donut on the tray look sweet and dessert-like?",
+      "modified": "Does a decorated bagel on the tray look sweet and dessert-like?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is a decorated donut on the tray sitting close to other decorated donuts?",
+      "modified": "Is a decorated bagel on the tray sitting close to other decorated donuts?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Can you see sprinkles or crumbs on a decorated donut on the tray?",
+      "modified": "Can you see sprinkles or crumbs on a decorated bagel on the tray?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Would you describe a decorated donut on the tray as colorful?",
+      "modified": "Would you describe a decorated bagel on the tray as colorful?",
+      "false_premise": true
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3227",
+    "source": "COCO",
+    "complexity": 3,
+    "category": 2,
+    "target": "truck"
+  },
+  "base": {
+    "target_description": "the white pickup truck",
+    "modified_target_description": "the white sedan",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the white pickup truck parked on the right side of the image?",
+      "modified": "Is the white pickup truck parked on the right side of the image?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the white pickup truck appear to be facing toward the left?",
+      "modified": "Does the white pickup truck appear to be facing toward the left?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the white pickup truck closer to the camera than the school buses?",
+      "modified": "Is the white pickup truck closer to the camera than the school buses?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Can you see the front of the white pickup truck clearly?",
+      "modified": "Can you see the front of the white sedan clearly?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the white pickup truck parked on a dirt surface?",
+      "modified": "Is the white sedan parked on a dirt surface?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the white pickup truck look stationary in the scene?",
+      "modified": "Does the white sedan look stationary in the scene?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is there a person standing next to the white pickup truck?",
+      "modified": "Is there a person standing next to the white sedan?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the white pickup truck have visible lettering on its tailgate?",
+      "modified": "Does the white sedan have visible lettering on its tailgate?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the white pickup truck partially cut off by the right edge of the image?",
+      "modified": "Is the white sedan partially cut off by the right edge of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the white pickup truck in front of the buses in the lot?",
+      "modified": "Is the white sedan in front of the buses in the lot?",
+      "false_premise": true
+    }
+  ]
+}

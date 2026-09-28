@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1185",
+    "source": "COCO",
+    "complexity": 1,
+    "category": 1,
+    "target": "man"
+  },
+  "base": {
+    "target_description": "the man wearing glasses and a black shirt",
+    "modified_target_description": "the man wearing glasses and a black shirt on the left",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What expression does the man wearing glasses and a black shirt have on his face?",
+      "modified": "What expression does the man wearing glasses and a black shirt have on his face?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the man wearing glasses and a black shirt looking downward?",
+      "modified": "Is the man wearing glasses and a black shirt looking downward?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "What kind of tie is the man wearing glasses and a black shirt wearing?",
+      "modified": "What kind of tie is the man wearing glasses and a black shirt wearing?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the man wearing glasses and a black shirt have one of his hands in a pocket?",
+      "modified": "Does the man wearing glasses and a black shirt on the left have one of his hands in a pocket?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the man wearing glasses and a black shirt standing indoors?",
+      "modified": "Is the man wearing glasses and a black shirt on the left standing indoors?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "What color are the glasses on the man wearing glasses and a black shirt?",
+      "modified": "What color are the glasses on the man wearing glasses and a black shirt on the left?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the man wearing glasses and a black shirt smiling slightly?",
+      "modified": "Is the man wearing glasses and a black shirt on the left smiling slightly?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the man wearing glasses and a black shirt appear to be dressed formally?",
+      "modified": "Does the man wearing glasses and a black shirt on the left appear to be dressed formally?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the man wearing glasses and a black shirt facing toward the camera or slightly to the side?",
+      "modified": "Is the man wearing glasses and a black shirt on the left facing toward the camera or slightly to the side?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "What is the man wearing glasses and a black shirt doing with his posture?",
+      "modified": "What is the man wearing glasses and a black shirt on the left doing with his posture?",
+      "false_premise": true
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2480",
+    "source": "COCO",
+    "complexity": 2,
+    "category": 4,
+    "target": "dessert"
+  },
+  "base": {
+    "target_description": "the chocolate dessert on a white plate",
+    "modified_target_description": "the chocolate dessert beside a fork on a white plate",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What shape is the chocolate dessert on a white plate?",
+      "modified": "What shape is the chocolate dessert on a white plate?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the chocolate dessert on a white plate have any toppings on it?",
+      "modified": "Does the chocolate dessert on a white plate have any toppings on it?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the chocolate dessert on a white plate partly eaten or untouched?",
+      "modified": "Is the chocolate dessert on a white plate partly eaten or untouched?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "What color is the main body of the chocolate dessert on a white plate?",
+      "modified": "What color is the main body of the chocolate dessert beside a fork on a white plate?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the chocolate dessert on a white plate sitting beside a fork?",
+      "modified": "Is the chocolate dessert beside a fork on a white plate sitting beside a fork?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the chocolate dessert on a white plate look like a rich or light dessert?",
+      "modified": "Does the chocolate dessert beside a fork on a white plate look like a rich or light dessert?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the chocolate dessert on a white plate decorated in an elaborate way?",
+      "modified": "Is the chocolate dessert beside a fork on a white plate decorated in an elaborate way?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the chocolate dessert on a white plate appear to be served at a formal table setting?",
+      "modified": "Does the chocolate dessert beside a fork on a white plate appear to be served at a formal table setting?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the chocolate dessert on a white plate the only sweet item visible on the plate?",
+      "modified": "Is the chocolate dessert beside a fork on a white plate the only sweet item visible on the plate?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Would you say the chocolate dessert on a white plate looks rectangular?",
+      "modified": "Would you say the chocolate dessert beside a fork on a white plate looks rectangular?",
+      "false_premise": true
+    }
+  ]
+}

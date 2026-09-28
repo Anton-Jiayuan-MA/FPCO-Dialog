@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2255",
+    "source": "COCO",
+    "complexity": 2,
+    "category": 2,
+    "target": "airplane"
+  },
+  "base": {
+    "target_description": "the yellow propeller airplane",
+    "modified_target_description": "the red propeller airplane",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the yellow propeller airplane flying in the sky?",
+      "modified": "Is the yellow propeller airplane flying in the sky?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the yellow propeller airplane have its landing gear visible?",
+      "modified": "Does the yellow propeller airplane have its landing gear visible?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the yellow propeller airplane shown from the side?",
+      "modified": "Is the yellow propeller airplane shown from the side?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the yellow propeller airplane appear to be part of a group flight?",
+      "modified": "Does the red propeller airplane appear to be part of a group flight?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the yellow propeller airplane higher than some of the other planes in the image?",
+      "modified": "Is the red propeller airplane higher than some of the other planes in the image?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the yellow propeller airplane have a dark nose?",
+      "modified": "Does the red propeller airplane have a dark nose?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the yellow propeller airplane angled toward the left side of the image?",
+      "modified": "Is the red propeller airplane angled toward the left side of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the yellow propeller airplane stand out against the cloudy sky?",
+      "modified": "Does the red propeller airplane stand out against the cloudy sky?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the yellow propeller airplane one of several similar aircraft visible here?",
+      "modified": "Is the red propeller airplane one of several similar aircraft visible here?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the yellow propeller airplane look like it is moving forward through the air?",
+      "modified": "Does the red propeller airplane look like it is moving forward through the air?",
+      "false_premise": true
+    }
+  ]
+}

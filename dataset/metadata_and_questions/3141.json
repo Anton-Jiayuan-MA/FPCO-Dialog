@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3141",
+    "source": "COCO",
+    "complexity": 3,
+    "category": 1,
+    "target": "man"
+  },
+  "base": {
+    "target_description": "the smiling man in a dark suit",
+    "modified_target_description": "the smiling man in a light suit",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the smiling man in a dark suit doing at the table?",
+      "modified": "What is the smiling man in a dark suit doing at the table?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the smiling man in a dark suit helping cut the large cake?",
+      "modified": "Is the smiling man in a dark suit helping cut the large cake?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Where is the smiling man in a dark suit standing in relation to the cake?",
+      "modified": "Where is the smiling man in a dark suit standing in relation to the cake?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the smiling man in a dark suit appear to be at a formal event?",
+      "modified": "Does the smiling man in a light suit appear to be at a formal event?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Who is standing beside the smiling man in a dark suit as the cake is being cut?",
+      "modified": "Who is standing beside the smiling man in a light suit as the cake is being cut?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the smiling man in a dark suit facing toward the camera or toward the cake?",
+      "modified": "Is the smiling man in a light suit facing toward the camera or toward the cake?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the smiling man in a dark suit look happy during the ceremony?",
+      "modified": "Does the smiling man in a light suit look happy during the ceremony?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the smiling man in a dark suit wearing a tie?",
+      "modified": "Is the smiling man in a light suit wearing a tie?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "What is the smiling man in a dark suit holding with the others?",
+      "modified": "What is the smiling man in a light suit holding with the others?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the smiling man in a dark suit near the center of the group?",
+      "modified": "Is the smiling man in a light suit near the center of the group?",
+      "false_premise": true
+    }
+  ]
+}

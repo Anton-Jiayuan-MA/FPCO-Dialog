@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3463",
+    "source": "Open Images",
+    "complexity": 3,
+    "category": 4,
+    "target": "apple"
+  },
+  "base": {
+    "target_description": "the red apple on the tree",
+    "modified_target_description": "the red apple on the left",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the red apple on the tree surrounded by green leaves?",
+      "modified": "Is the red apple on the tree surrounded by green leaves?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the red apple on the tree look ripe?",
+      "modified": "Does the red apple on the tree look ripe?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the red apple on the tree still attached to a branch?",
+      "modified": "Is the red apple on the tree still attached to a branch?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Can you see the red apple on the tree clearly, or is it partly hidden by leaves?",
+      "modified": "Can you see the red apple on the left clearly, or is it partly hidden by leaves?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the red apple on the tree appear smooth on the outside?",
+      "modified": "Does the red apple on the left appear smooth on the outside?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the red apple on the tree growing among several other apples?",
+      "modified": "Is the red apple on the left growing among several other apples?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the red apple on the tree look large compared with the nearby leaves?",
+      "modified": "Does the red apple on the left look large compared with the nearby leaves?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the red apple on the tree hanging naturally from the plant?",
+      "modified": "Is the red apple on the left hanging naturally from the plant?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the red apple on the tree have any visible blemishes or spots?",
+      "modified": "Does the red apple on the left have any visible blemishes or spots?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the red apple on the tree located near the center of the image?",
+      "modified": "Is the red apple on the left located near the center of the image?",
+      "false_premise": true
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1269",
+    "source": "Open Images",
+    "complexity": 1,
+    "category": 2,
+    "target": "car"
+  },
+  "base": {
+    "target_description": "the black and silver race car",
+    "modified_target_description": "the black and silver race car on the right",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the black and silver race car moving along the track?",
+      "modified": "Is the black and silver race car moving along the track?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the black and silver race car have an open cockpit?",
+      "modified": "Does the black and silver race car have an open cockpit?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the black and silver race car shown from the side?",
+      "modified": "Is the black and silver race car shown from the side?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the black and silver race car appear to be on a racetrack?",
+      "modified": "Does the black and silver race car on the right appear to be on a racetrack?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Can you see a driver inside the black and silver race car?",
+      "modified": "Can you see a driver inside the black and silver race car on the right?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the black and silver race car positioned in front of a red barrier?",
+      "modified": "Is the black and silver race car on the right positioned in front of a red barrier?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the black and silver race car have large exposed wheels?",
+      "modified": "Does the black and silver race car on the right have large exposed wheels?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the black and silver race car facing toward the left side of the image?",
+      "modified": "Is the black and silver race car on the right facing toward the left side of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the black and silver race car look low to the ground?",
+      "modified": "Does the black and silver race car on the right look low to the ground?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the black and silver race car the main subject of the image?",
+      "modified": "Is the black and silver race car on the right the main subject of the image?",
+      "false_premise": true
+    }
+  ]
+}

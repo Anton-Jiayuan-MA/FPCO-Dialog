@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2282",
+    "source": "Open Images",
+    "complexity": 2,
+    "category": 2,
+    "target": "boat"
+  },
+  "base": {
+    "target_description": "the white rowboat beside the dock",
+    "modified_target_description": "the white rowboat across from the dock",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the white rowboat beside the dock floating on calm water?",
+      "modified": "Is the white rowboat beside the dock floating on calm water?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the white rowboat beside the dock appear to be empty?",
+      "modified": "Does the white rowboat beside the dock appear to be empty?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the white rowboat beside the dock tied up next to the wooden dock?",
+      "modified": "Is the white rowboat beside the dock tied up next to the wooden dock?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the white rowboat beside the dock facing toward the right side of the image?",
+      "modified": "Is the white rowboat across from the dock facing toward the right side of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Can you see a reflection of the white rowboat beside the dock in the water?",
+      "modified": "Can you see a reflection of the white rowboat across from the dock in the water?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the white rowboat beside the dock closer to the left side of the image than the right?",
+      "modified": "Is the white rowboat across from the dock closer to the left side of the image than the right?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the white rowboat beside the dock look smaller than the dock itself?",
+      "modified": "Does the white rowboat across from the dock look smaller than the dock itself?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the white rowboat beside the dock positioned parallel to the dock?",
+      "modified": "Is the white rowboat across from the dock positioned parallel to the dock?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the white rowboat beside the dock have any people inside it?",
+      "modified": "Does the white rowboat across from the dock have any people inside it?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the white rowboat beside the dock resting lower in the water than the dock surface?",
+      "modified": "Is the white rowboat across from the dock resting lower in the water than the dock surface?",
+      "false_premise": true
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1164",
+    "source": "Open Images",
+    "complexity": 1,
+    "category": 1,
+    "target": "woman"
+  },
+  "base": {
+    "target_description": "the woman in a plaid shirt holding a water bottle",
+    "modified_target_description": "the woman in a plaid shirt near a whiteboard",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the woman in a plaid shirt holding a water bottle doing in the scene?",
+      "modified": "What is the woman in a plaid shirt holding a water bottle doing in the scene?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the woman in a plaid shirt holding a water bottle sitting down?",
+      "modified": "Is the woman in a plaid shirt holding a water bottle sitting down?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the woman in a plaid shirt holding a water bottle appear to be smiling?",
+      "modified": "Does the woman in a plaid shirt holding a water bottle appear to be smiling?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "What is the woman in a plaid shirt holding a water bottle holding in her hand?",
+      "modified": "What is the woman in a plaid shirt near a whiteboard holding in her hand?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the woman in a plaid shirt holding a water bottle indoors?",
+      "modified": "Is the woman in a plaid shirt near a whiteboard indoors?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the woman in a plaid shirt holding a water bottle facing toward the right side of the image?",
+      "modified": "Is the woman in a plaid shirt near a whiteboard facing toward the right side of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the woman in a plaid shirt holding a water bottle have her hair tied back?",
+      "modified": "Does the woman in a plaid shirt near a whiteboard have her hair tied back?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the woman in a plaid shirt holding a water bottle near a whiteboard?",
+      "modified": "Is the woman in a plaid shirt near a whiteboard near a whiteboard?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the woman in a plaid shirt holding a water bottle look relaxed?",
+      "modified": "Does the woman in a plaid shirt near a whiteboard look relaxed?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the woman in a plaid shirt holding a water bottle in what looks like a classroom or music room?",
+      "modified": "Is the woman in a plaid shirt near a whiteboard in what looks like a classroom or music room?",
+      "false_premise": true
+    }
+  ]
+}

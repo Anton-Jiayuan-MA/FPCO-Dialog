@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3359",
+    "source": "COCO",
+    "complexity": 3,
+    "category": 3,
+    "target": "sheep"
+  },
+  "base": {
+    "target_description": "the white sheep in the grass",
+    "modified_target_description": "the black sheep in the grass",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the white sheep in the grass standing still or moving?",
+      "modified": "Is the white sheep in the grass standing still or moving?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the white sheep in the grass facing toward the camera?",
+      "modified": "Is the white sheep in the grass facing toward the camera?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the white sheep in the grass have a lamb beside it?",
+      "modified": "Does the white sheep in the grass have a lamb beside it?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the white sheep in the grass grazing or not eating right now?",
+      "modified": "Is the black sheep in the grass grazing or not eating right now?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Can you see the face of the white sheep in the grass clearly?",
+      "modified": "Can you see the face of the black sheep in the grass clearly?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the white sheep in the grass closer to the front of the scene than the other sheep?",
+      "modified": "Is the black sheep in the grass closer to the front of the scene than the other sheep?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the white sheep in the grass appear to be an adult sheep?",
+      "modified": "Does the black sheep in the grass appear to be an adult sheep?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the white sheep in the grass surrounded by tall green grass?",
+      "modified": "Is the black sheep in the grass surrounded by tall green grass?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the white sheep in the grass turned slightly to one side?",
+      "modified": "Is the black sheep in the grass turned slightly to one side?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the white sheep in the grass look larger than the nearby lambs?",
+      "modified": "Does the black sheep in the grass look larger than the nearby lambs?",
+      "false_premise": true
+    }
+  ]
+}

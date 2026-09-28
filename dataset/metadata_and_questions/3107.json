@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3107",
+    "source": "Open Images",
+    "complexity": 3,
+    "category": 1,
+    "target": "man"
+  },
+  "base": {
+    "target_description": "the bald man in a dark suit on the right",
+    "modified_target_description": "the bald woman in a dark suit on the right",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the bald man in a dark suit on the right sitting at the table?",
+      "modified": "Is the bald man in a dark suit on the right sitting at the table?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the bald man in a dark suit on the right facing the group across from him?",
+      "modified": "Is the bald man in a dark suit on the right facing the group across from him?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the bald man in a dark suit on the right appear to be taking part in a meeting?",
+      "modified": "Does the bald man in a dark suit on the right appear to be taking part in a meeting?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the bald man in a dark suit on the right seated beside another man in a suit?",
+      "modified": "Is the bald woman in a dark suit on the right seated beside another man in a suit?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the bald man in a dark suit on the right have papers or a folder in front of him?",
+      "modified": "Does the bald woman in a dark suit on the right have papers or a folder in front of her?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the bald man in a dark suit on the right looking toward the left side of the room?",
+      "modified": "Is the bald woman in a dark suit on the right looking toward the left side of the room?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the bald man in a dark suit on the right positioned near a white cup and saucer?",
+      "modified": "Is the bald woman in a dark suit on the right positioned near a white cup and saucer?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the bald man in a dark suit on the right have his hands together on the table?",
+      "modified": "Does the bald woman in a dark suit on the right have her hands together on the table?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the bald man in a dark suit on the right closer to the camera than most of the other men?",
+      "modified": "Is the bald woman in a dark suit on the right closer to the camera than most of the other men?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the bald man in a dark suit on the right on one side of the long wooden table?",
+      "modified": "Is the bald woman in a dark suit on the right on one side of the long wooden table?",
+      "false_premise": true
+    }
+  ]
+}

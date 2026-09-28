@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3165",
+    "source": "Open Images",
+    "complexity": 3,
+    "category": 1,
+    "target": "person"
+  },
+  "base": {
+    "target_description": "the cyclist in a green helmet and black jersey",
+    "modified_target_description": "the cyclist on the right in a green helmet and black jersey",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the cyclist in a green helmet and black jersey riding at the front of the group?",
+      "modified": "Is the cyclist in a green helmet and black jersey riding at the front of the group?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the cyclist in a green helmet and black jersey leaning forward over the handlebars?",
+      "modified": "Is the cyclist in a green helmet and black jersey leaning forward over the handlebars?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the cyclist in a green helmet and black jersey appear to be racing on a road?",
+      "modified": "Does the cyclist in a green helmet and black jersey appear to be racing on a road?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the cyclist in a green helmet and black jersey wearing sunglasses?",
+      "modified": "Is the cyclist on the right in a green helmet and black jersey wearing sunglasses?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the cyclist in a green helmet and black jersey turning slightly along the curve of the road?",
+      "modified": "Is the cyclist on the right in a green helmet and black jersey turning slightly along the curve of the road?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the cyclist in a green helmet and black jersey have both hands on the handlebars?",
+      "modified": "Does the cyclist on the right in a green helmet and black jersey have both hands on the handlebars?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the cyclist in a green helmet and black jersey positioned ahead of the rider in a white helmet?",
+      "modified": "Is the cyclist on the right in a green helmet and black jersey positioned ahead of the rider in a white helmet?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the cyclist in a green helmet and black jersey look focused during the race?",
+      "modified": "Does the cyclist on the right in a green helmet and black jersey look focused during the race?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the cyclist in a green helmet and black jersey riding close to the curb?",
+      "modified": "Is the cyclist on the right in a green helmet and black jersey riding close to the curb?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the cyclist in a green helmet and black jersey part of a tightly packed line of riders?",
+      "modified": "Is the cyclist on the right in a green helmet and black jersey part of a tightly packed line of riders?",
+      "false_premise": true
+    }
+  ]
+}

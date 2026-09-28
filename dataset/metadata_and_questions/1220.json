@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1220",
+    "source": "Open Images",
+    "complexity": 1,
+    "category": 2,
+    "target": "bus"
+  },
+  "base": {
+    "target_description": "the blue city bus",
+    "modified_target_description": "the blue city truck",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the blue city bus driving on a curved road?",
+      "modified": "Is the blue city bus driving on a curved road?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the blue city bus have its route displayed on the front?",
+      "modified": "Does the blue city bus have its route displayed on the front?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the blue city bus shown outdoors in an urban area?",
+      "modified": "Is the blue city bus shown outdoors in an urban area?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the blue city bus appear to be turning at the intersection?",
+      "modified": "Does the blue city truck appear to be turning at the intersection?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Can you see the windshield of the blue city bus clearly?",
+      "modified": "Can you see the windshield of the blue city truck clearly?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the blue city bus closer to the camera than the nearby buildings?",
+      "modified": "Is the blue city truck closer to the camera than the nearby buildings?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the blue city bus have large side windows?",
+      "modified": "Does the blue city truck have large side windows?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the blue city bus facing slightly toward the left side of the image?",
+      "modified": "Is the blue city truck facing slightly toward the left side of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Can you see the front wheels of the blue city bus?",
+      "modified": "Can you see the front wheels of the blue city truck?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the blue city bus the main subject of the image?",
+      "modified": "Is the blue city truck the main subject of the image?",
+      "false_premise": true
+    }
+  ]
+}

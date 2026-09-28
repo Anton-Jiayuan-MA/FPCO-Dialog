@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3235",
+    "source": "COCO",
+    "complexity": 3,
+    "category": 2,
+    "target": "bicycle"
+  },
+  "base": {
+    "target_description": "the bicycle under the person in the foreground",
+    "modified_target_description": "the red bicycle under the person in the foreground",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the bicycle under the person in the foreground being ridden on the street?",
+      "modified": "Is the bicycle under the person in the foreground being ridden on the street?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the bicycle under the person in the foreground appear closer to the camera than the other bikes?",
+      "modified": "Does the bicycle under the person in the foreground appear closer to the camera than the other bikes?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the bicycle under the person in the foreground moving along the road tracks?",
+      "modified": "Is the bicycle under the person in the foreground moving along the road tracks?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Can you see the front wheel of the bicycle under the person in the foreground clearly?",
+      "modified": "Can you see the front wheel of the red bicycle under the person in the foreground clearly?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the bicycle under the person in the foreground positioned near the center-left of the image?",
+      "modified": "Is the red bicycle under the person in the foreground positioned near the center-left of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the bicycle under the person in the foreground look slightly blurred from motion?",
+      "modified": "Does the red bicycle under the person in the foreground look slightly blurred from motion?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the bicycle under the person in the foreground in front of the green streetcar?",
+      "modified": "Is the red bicycle under the person in the foreground in front of the green streetcar?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the bicycle under the person in the foreground have thin tires like a road bike?",
+      "modified": "Does the red bicycle under the person in the foreground have thin tires like a road bike?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the bicycle under the person in the foreground traveling in the same direction as the nearby cyclists?",
+      "modified": "Is the red bicycle under the person in the foreground traveling in the same direction as the nearby cyclists?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the bicycle under the person in the foreground occupying the lower part of the image?",
+      "modified": "Is the red bicycle under the person in the foreground occupying the lower part of the image?",
+      "false_premise": true
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2385",
+    "source": "COCO",
+    "complexity": 2,
+    "category": 3,
+    "target": "sheep"
+  },
+  "base": {
+    "target_description": "the white sheep grazing on the right",
+    "modified_target_description": "the white sheep grazing on the left",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the white sheep grazing on the right doing in the field?",
+      "modified": "What is the white sheep grazing on the right doing in the field?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the white sheep grazing on the right standing or lying down?",
+      "modified": "Is the white sheep grazing on the right standing or lying down?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the white sheep grazing on the right have its head lowered to the grass?",
+      "modified": "Does the white sheep grazing on the right have its head lowered to the grass?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the white sheep grazing on the right alone or near other sheep?",
+      "modified": "Is the white sheep grazing on the left alone or near other sheep?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Where in the field is the white sheep grazing on the right located?",
+      "modified": "Where in the field is the white sheep grazing on the left located?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the white sheep grazing on the right appear to be eating grass?",
+      "modified": "Does the white sheep grazing on the left appear to be eating grass?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the white sheep grazing on the right facing toward the ground?",
+      "modified": "Is the white sheep grazing on the left facing toward the ground?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Can you see the full body of the white sheep grazing on the right?",
+      "modified": "Can you see the full body of the white sheep grazing on the left?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the white sheep grazing on the right near the edge of the image?",
+      "modified": "Is the white sheep grazing on the left near the edge of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the white sheep grazing on the right look like an adult sheep?",
+      "modified": "Does the white sheep grazing on the left look like an adult sheep?",
+      "false_premise": true
+    }
+  ]
+}

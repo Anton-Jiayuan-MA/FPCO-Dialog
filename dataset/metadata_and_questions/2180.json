@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2180",
+    "source": "Open Images",
+    "complexity": 2,
+    "category": 1,
+    "target": "person"
+  },
+  "base": {
+    "target_description": "the smiling man in a blue polo shirt",
+    "modified_target_description": "the smiling man on the right in a blue polo shirt",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the smiling man in a blue polo shirt doing in the scene?",
+      "modified": "What is the smiling man in a blue polo shirt doing in the scene?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the smiling man in a blue polo shirt sitting at a table?",
+      "modified": "Is the smiling man in a blue polo shirt sitting at a table?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the smiling man in a blue polo shirt appear to be indoors?",
+      "modified": "Does the smiling man in a blue polo shirt appear to be indoors?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the smiling man in a blue polo shirt next to another person?",
+      "modified": "Is the smiling man on the right in a blue polo shirt next to another person?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "What is the facial expression of the smiling man in a blue polo shirt?",
+      "modified": "What is the facial expression of the smiling man on the right in a blue polo shirt?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the smiling man in a blue polo shirt wearing short sleeves?",
+      "modified": "Is the smiling man on the right in a blue polo shirt wearing short sleeves?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the smiling man in a blue polo shirt have one arm around the person beside him?",
+      "modified": "Does the smiling man on the right in a blue polo shirt have one arm around the person beside him?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the smiling man in a blue polo shirt looking toward the camera?",
+      "modified": "Is the smiling man on the right in a blue polo shirt looking toward the camera?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "What is in front of the smiling man in a blue polo shirt on the table?",
+      "modified": "What is in front of the smiling man on the right in a blue polo shirt on the table?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the smiling man in a blue polo shirt seem relaxed and posing for the photo?",
+      "modified": "Does the smiling man on the right in a blue polo shirt seem relaxed and posing for the photo?",
+      "false_premise": true
+    }
+  ]
+}

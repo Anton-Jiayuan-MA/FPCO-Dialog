@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1475",
+    "source": "COCO",
+    "complexity": 1,
+    "category": 4,
+    "target": "banana dessert"
+  },
+  "base": {
+    "target_description": "the banana dessert on a white plate",
+    "modified_target_description": "the banana dessert beside a white plate",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What toppings are visible on the banana dessert on a white plate?",
+      "modified": "What toppings are visible on the banana dessert on a white plate?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the banana dessert on a white plate served open-faced?",
+      "modified": "Is the banana dessert on a white plate served open-faced?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the banana dessert on a white plate look ready to eat?",
+      "modified": "Does the banana dessert on a white plate look ready to eat?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is there a spoon placed near the banana dessert on a white plate?",
+      "modified": "Is there a spoon placed near the banana dessert beside a white plate?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the banana dessert on a white plate include some sliced fruit?",
+      "modified": "Does the banana dessert beside a white plate include some sliced fruit?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the banana dessert on a white plate sitting on a table?",
+      "modified": "Is the banana dessert beside a white plate sitting on a table?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the banana dessert on a white plate appear to have granola on top?",
+      "modified": "Does the banana dessert beside a white plate appear to have granola on top?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the banana dessert on a white plate arranged in a long dish?",
+      "modified": "Is the banana dessert beside a white plate arranged in a long dish?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Are berries visible inside the banana dessert on a white plate?",
+      "modified": "Are berries visible inside the banana dessert beside a white plate?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the banana dessert on a white plate look like it is being served as a sweet dish?",
+      "modified": "Does the banana dessert beside a white plate look like it is being served as a sweet dish?",
+      "false_premise": true
+    }
+  ]
+}

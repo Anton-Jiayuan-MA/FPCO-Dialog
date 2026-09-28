@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1137",
+    "source": "Open Images",
+    "complexity": 1,
+    "category": 1,
+    "target": "man"
+  },
+  "base": {
+    "target_description": "the man in a cap behind the instrument",
+    "modified_target_description": "the man in a hat behind the instrument",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the man in a cap behind the instrument facing the camera?",
+      "modified": "Is the man in a cap behind the instrument facing the camera?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the man in a cap behind the instrument appear to be standing outdoors?",
+      "modified": "Does the man in a cap behind the instrument appear to be standing outdoors?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the man in a cap behind the instrument wearing light-colored clothing?",
+      "modified": "Is the man in a cap behind the instrument wearing light-colored clothing?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the man in a cap behind the instrument look like he is performing or presenting music?",
+      "modified": "Does the man in a hat behind the instrument look like he is performing or presenting music?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the man in a cap behind the instrument positioned upright?",
+      "modified": "Is the man in a hat behind the instrument positioned upright?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the man in a cap behind the instrument have a slight smile on his face?",
+      "modified": "Does the man in a hat behind the instrument have a slight smile on his face?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the man in a cap behind the instrument mostly hidden by the large instrument in front of him?",
+      "modified": "Is the man in a hat behind the instrument mostly hidden by the large instrument in front of him?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the man in a cap behind the instrument appear to be on a sidewalk or paved surface?",
+      "modified": "Does the man in a hat behind the instrument appear to be on a sidewalk or paved surface?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the man in a cap behind the instrument standing alone in the image?",
+      "modified": "Is the man in a hat behind the instrument standing alone in the image?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the man in a cap behind the instrument seem to be part of a street performance scene?",
+      "modified": "Does the man in a hat behind the instrument seem to be part of a street performance scene?",
+      "false_premise": true
+    }
+  ]
+}

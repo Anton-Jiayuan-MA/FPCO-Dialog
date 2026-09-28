@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3273",
+    "source": "Open Images",
+    "complexity": 3,
+    "category": 2,
+    "target": "bicycle"
+  },
+  "base": {
+    "target_description": "the light blue bicycle with a front basket",
+    "modified_target_description": "the light blue bicycle with a front basket on the right",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the light blue bicycle with a front basket parked or being ridden in the image?",
+      "modified": "Is the light blue bicycle with a front basket parked or being ridden in the image?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the light blue bicycle with a front basket appear to have a bag attached near the back?",
+      "modified": "Does the light blue bicycle with a front basket appear to have a bag attached near the back?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "What color are the handlebars on the light blue bicycle with a front basket?",
+      "modified": "What color are the handlebars on the light blue bicycle with a front basket?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the light blue bicycle with a front basket closer to the camera than the other bicycles?",
+      "modified": "Is the light blue bicycle with a front basket on the right closer to the camera than the other bicycles?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the light blue bicycle with a front basket have any water bottles mounted on its frame?",
+      "modified": "Does the light blue bicycle with a front basket on the right have any water bottles mounted on its frame?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the light blue bicycle with a front basket positioned among several other bicycles?",
+      "modified": "Is the light blue bicycle with a front basket on the right positioned among several other bicycles?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the light blue bicycle with a front basket have thin road-style tires or thick tires?",
+      "modified": "Does the light blue bicycle with a front basket on the right have thin road-style tires or thick tires?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the front wheel of the light blue bicycle with a front basket turned slightly to one side?",
+      "modified": "Is the front wheel of the light blue bicycle with a front basket on the right turned slightly to one side?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the light blue bicycle with a front basket look upright on a stand?",
+      "modified": "Does the light blue bicycle with a front basket on the right look upright on a stand?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the light blue bicycle with a front basket shown outdoors?",
+      "modified": "Is the light blue bicycle with a front basket on the right shown outdoors?",
+      "false_premise": true
+    }
+  ]
+}

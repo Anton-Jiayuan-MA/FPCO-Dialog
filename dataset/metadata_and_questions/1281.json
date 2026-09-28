@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1281",
+    "source": "Open Images",
+    "complexity": 1,
+    "category": 2,
+    "target": "car"
+  },
+  "base": {
+    "target_description": "the black vintage pickup truck",
+    "modified_target_description": "the black vintage pickup truck on the right",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the black vintage pickup truck parked or moving in the image?",
+      "modified": "Is the black vintage pickup truck parked or moving in the image?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "What color is the black vintage pickup truck?",
+      "modified": "What color is the black vintage pickup truck?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the black vintage pickup truck have whitewall tires?",
+      "modified": "Does the black vintage pickup truck have whitewall tires?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the black vintage pickup truck shown from the side at an angle?",
+      "modified": "Is the black vintage pickup truck on the right shown from the side at an angle?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the black vintage pickup truck appear shiny and polished?",
+      "modified": "Does the black vintage pickup truck on the right appear shiny and polished?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the black vintage pickup truck outdoors?",
+      "modified": "Is the black vintage pickup truck on the right outdoors?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Can you see the front of the black vintage pickup truck clearly?",
+      "modified": "Can you see the front of the black vintage pickup truck on the right clearly?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the black vintage pickup truck have a covered bed?",
+      "modified": "Does the black vintage pickup truck on the right have a covered bed?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the black vintage pickup truck the closest vehicle to the camera?",
+      "modified": "Is the black vintage pickup truck on the right the closest vehicle to the camera?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the black vintage pickup truck look like it is part of a car show?",
+      "modified": "Does the black vintage pickup truck on the right look like it is part of a car show?",
+      "false_premise": true
+    }
+  ]
+}

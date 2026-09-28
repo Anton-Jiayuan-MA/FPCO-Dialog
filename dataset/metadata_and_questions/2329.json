@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2329",
+    "source": "Open Images",
+    "complexity": 2,
+    "category": 3,
+    "target": "duck"
+  },
+  "base": {
+    "target_description": "the white duck with an orange bill",
+    "modified_target_description": "the white swan with an orange bill",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the white duck with an orange bill sitting down on the grass?",
+      "modified": "Is the white duck with an orange bill sitting down on the grass?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the white duck with an orange bill look relaxed in this scene?",
+      "modified": "Does the white duck with an orange bill look relaxed in this scene?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the white duck with an orange bill facing toward the camera?",
+      "modified": "Is the white duck with an orange bill facing toward the camera?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the white duck with an orange bill resting next to another duck?",
+      "modified": "Is the white swan with an orange bill resting next to another duck?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the white duck with an orange bill appear to be on land rather than in the water?",
+      "modified": "Does the white swan with an orange bill appear to be on land rather than in the water?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the white duck with an orange bill positioned on the right side of the image?",
+      "modified": "Is the white swan with an orange bill positioned on the right side of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the white duck with an orange bill have its head lowered?",
+      "modified": "Does the white swan with an orange bill have its head lowered?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the white duck with an orange bill in front of the lake?",
+      "modified": "Is the white swan with an orange bill in front of the lake?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the white duck with an orange bill appear larger than the duck beside it?",
+      "modified": "Does the white swan with an orange bill appear larger than the duck beside it?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the white duck with an orange bill illuminated by warm sunset light?",
+      "modified": "Is the white swan with an orange bill illuminated by warm sunset light?",
+      "false_premise": true
+    }
+  ]
+}

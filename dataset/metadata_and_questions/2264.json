@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2264",
+    "source": "Open Images",
+    "complexity": 2,
+    "category": 2,
+    "target": "bicycle"
+  },
+  "base": {
+    "target_description": "the red bicycle near the center",
+    "modified_target_description": "the red bicycle on the left",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the red bicycle near the center parked in front of the building wall?",
+      "modified": "Is the red bicycle near the center parked in front of the building wall?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the red bicycle near the center appear to be standing upright on its own?",
+      "modified": "Does the red bicycle near the center appear to be standing upright on its own?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the red bicycle near the center facing slightly toward the camera?",
+      "modified": "Is the red bicycle near the center facing slightly toward the camera?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the red bicycle near the center have a black seat?",
+      "modified": "Does the red bicycle on the left have a black seat?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the red bicycle near the center lined up with other bicycles?",
+      "modified": "Is the red bicycle on the left lined up with other bicycles?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the red bicycle near the center look stationary?",
+      "modified": "Does the red bicycle on the left look stationary?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the red bicycle near the center on a paved stone surface?",
+      "modified": "Is the red bicycle on the left on a paved stone surface?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the red bicycle near the center appear to have both wheels visible?",
+      "modified": "Does the red bicycle on the left appear to have both wheels visible?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the red bicycle near the center positioned below the windows?",
+      "modified": "Is the red bicycle on the left positioned below the windows?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the red bicycle near the center seem to be part of a row of parked bikes?",
+      "modified": "Does the red bicycle on the left seem to be part of a row of parked bikes?",
+      "false_premise": true
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3287",
+    "source": "Open Images",
+    "complexity": 3,
+    "category": 2,
+    "target": "car"
+  },
+  "base": {
+    "target_description": "the beige station wagon in the foreground",
+    "modified_target_description": "the beige station wagon in the background",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the beige station wagon in the foreground parked among other cars?",
+      "modified": "Is the beige station wagon in the foreground parked among other cars?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Can you see the side windows of the beige station wagon in the foreground?",
+      "modified": "Can you see the side windows of the beige station wagon in the foreground?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the beige station wagon in the foreground have roof rails on top?",
+      "modified": "Does the beige station wagon in the foreground have roof rails on top?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the beige station wagon in the foreground facing toward the right side of the image?",
+      "modified": "Is the beige station wagon in the background facing toward the right side of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the beige station wagon in the foreground take up a large part of the lower half of the image?",
+      "modified": "Does the beige station wagon in the background take up a large part of the lower half of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the beige station wagon in the foreground closer to the camera than the other cars?",
+      "modified": "Is the beige station wagon in the background closer to the camera than the other cars?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Can you tell whether the beige station wagon in the foreground is moving or stationary?",
+      "modified": "Can you tell whether the beige station wagon in the background is moving or stationary?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the beige station wagon in the foreground partially cut off by the bottom edge of the image?",
+      "modified": "Is the beige station wagon in the background partially cut off by the bottom edge of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Are there several vehicles parked behind the beige station wagon in the foreground?",
+      "modified": "Are there several vehicles parked behind the beige station wagon in the background?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the beige station wagon in the foreground outdoors under a cloudy sky?",
+      "modified": "Is the beige station wagon in the background outdoors under a cloudy sky?",
+      "false_premise": true
+    }
+  ]
+}

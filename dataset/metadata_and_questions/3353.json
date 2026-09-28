@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3353",
+    "source": "Open Images",
+    "complexity": 3,
+    "category": 3,
+    "target": "cat"
+  },
+  "base": {
+    "target_description": "the black cat on the white blanket",
+    "modified_target_description": "the white cat on the white blanket",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the black cat on the white blanket doing in the scene?",
+      "modified": "What is the black cat on the white blanket doing in the scene?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the black cat on the white blanket sitting or lying down?",
+      "modified": "Is the black cat on the white blanket sitting or lying down?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Where in the room is the black cat on the white blanket positioned?",
+      "modified": "Where in the room is the black cat on the white blanket positioned?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the black cat on the white blanket appear to be looking toward the camera?",
+      "modified": "Does the white cat on the white blanket appear to be looking toward the camera?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the black cat on the white blanket resting on the floor?",
+      "modified": "Is the white cat on the white blanket resting on the floor?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "What color are the eyes of the black cat on the white blanket?",
+      "modified": "What color are the eyes of the white cat on the white blanket?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the black cat on the white blanket alone or cuddled with other cats?",
+      "modified": "Is the white cat on the white blanket alone or cuddled with other cats?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the black cat on the white blanket look calm and still?",
+      "modified": "Does the white cat on the white blanket look calm and still?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the black cat on the white blanket near the stacked cat beds?",
+      "modified": "Is the white cat on the white blanket near the stacked cat beds?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Can you see the full body of the black cat on the white blanket?",
+      "modified": "Can you see the full body of the white cat on the white blanket?",
+      "false_premise": true
+    }
+  ]
+}

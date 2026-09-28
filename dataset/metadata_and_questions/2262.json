@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2262",
+    "source": "Open Images",
+    "complexity": 2,
+    "category": 2,
+    "target": "car"
+  },
+  "base": {
+    "target_description": "the black taxi with a ComCab logo",
+    "modified_target_description": "the black taxi with a ComCab logo on the right",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the black taxi with a ComCab logo parked along the street or moving through traffic?",
+      "modified": "Is the black taxi with a ComCab logo parked along the street or moving through traffic?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the black taxi with a ComCab logo take up most of the left side of the image?",
+      "modified": "Does the black taxi with a ComCab logo take up most of the left side of the image?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Can you see the side of the black taxi with a ComCab logo more clearly than the front?",
+      "modified": "Can you see the side of the black taxi with a ComCab logo more clearly than the front?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the black taxi with a ComCab logo positioned in front of another car?",
+      "modified": "Is the black taxi with a ComCab logo on the right positioned in front of another car?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the black taxi with a ComCab logo appear to be on a city road?",
+      "modified": "Does the black taxi with a ComCab logo on the right appear to be on a city road?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the black taxi with a ComCab logo facing toward the left side of the picture?",
+      "modified": "Is the black taxi with a ComCab logo on the right facing toward the left side of the picture?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Can you read the logo on the door of the black taxi with a ComCab logo?",
+      "modified": "Can you read the logo on the door of the black taxi with a ComCab logo on the right?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the black taxi with a ComCab logo closer to the camera than the silver car?",
+      "modified": "Is the black taxi with a ComCab logo on the right closer to the camera than the silver car?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the black taxi with a ComCab logo have its windows visible from the side?",
+      "modified": "Does the black taxi with a ComCab logo on the right have its windows visible from the side?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the black taxi with a ComCab logo occupying a marked lane next to the curb?",
+      "modified": "Is the black taxi with a ComCab logo on the right occupying a marked lane next to the curb?",
+      "false_premise": true
+    }
+  ]
+}

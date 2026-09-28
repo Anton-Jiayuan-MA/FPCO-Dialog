@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3209",
+    "source": "COCO",
+    "complexity": 3,
+    "category": 2,
+    "target": "bicycle"
+  },
+  "base": {
+    "target_description": "the black cargo bicycle with yellow forks",
+    "modified_target_description": "the black cargo motorcycle with yellow forks",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the black cargo bicycle with yellow forks parked in the foreground?",
+      "modified": "Is the black cargo bicycle with yellow forks parked in the foreground?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the black cargo bicycle with yellow forks have a long flat cargo area?",
+      "modified": "Does the black cargo bicycle with yellow forks have a long flat cargo area?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the black cargo bicycle with yellow forks leaning on a stand?",
+      "modified": "Is the black cargo bicycle with yellow forks leaning on a stand?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the black cargo bicycle with yellow forks appear to be carrying any items?",
+      "modified": "Does the black cargo motorcycle with yellow forks appear to be carrying any items?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the black cargo bicycle with yellow forks surrounded by other bicycles?",
+      "modified": "Is the black cargo motorcycle with yellow forks surrounded by other bicycles?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the black cargo bicycle with yellow forks have its front wheel turned slightly to the left?",
+      "modified": "Does the black cargo motorcycle with yellow forks have its front wheel turned slightly to the left?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the black cargo bicycle with yellow forks designed to carry passengers or cargo in front?",
+      "modified": "Is the black cargo motorcycle with yellow forks designed to carry passengers or cargo in front?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the black cargo bicycle with yellow forks look larger than the nearby standard bicycles?",
+      "modified": "Does the black cargo motorcycle with yellow forks look larger than the nearby standard bicycles?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the black cargo bicycle with yellow forks positioned outdoors at what looks like a bike event?",
+      "modified": "Is the black cargo motorcycle with yellow forks positioned outdoors at what looks like a bike event?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Can you clearly see the rear wheel of the black cargo bicycle with yellow forks?",
+      "modified": "Can you clearly see the rear wheel of the black cargo motorcycle with yellow forks?",
+      "false_premise": true
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3468",
+    "source": "COCO",
+    "complexity": 3,
+    "category": 4,
+    "target": "dessert"
+  },
+  "base": {
+    "target_description": "the slice of chocolate cake on the middle plate",
+    "modified_target_description": "the slice of chocolate cake on the left plate",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What color is the slice of chocolate cake on the middle plate?",
+      "modified": "What color is the slice of chocolate cake on the middle plate?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the slice of chocolate cake on the middle plate cut into a triangular piece?",
+      "modified": "Is the slice of chocolate cake on the middle plate cut into a triangular piece?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the slice of chocolate cake on the middle plate have visible layers inside?",
+      "modified": "Does the slice of chocolate cake on the middle plate have visible layers inside?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the slice of chocolate cake on the middle plate sitting beside another dessert?",
+      "modified": "Is the slice of chocolate cake on the left plate sitting beside another dessert?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the slice of chocolate cake on the middle plate appear to have frosting on top?",
+      "modified": "Does the slice of chocolate cake on the left plate appear to have frosting on top?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the slice of chocolate cake on the middle plate on a tiered serving stand?",
+      "modified": "Is the slice of chocolate cake on the left plate on a tiered serving stand?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the slice of chocolate cake on the middle plate look partly eaten or untouched?",
+      "modified": "Does the slice of chocolate cake on the left plate look partly eaten or untouched?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the slice of chocolate cake on the middle plate darker than the nearby pastries?",
+      "modified": "Is the slice of chocolate cake on the left plate darker than the nearby pastries?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the slice of chocolate cake on the middle plate placed near the sandwiches below?",
+      "modified": "Is the slice of chocolate cake on the left plate placed near the sandwiches below?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Would you say the slice of chocolate cake on the middle plate is one of the more prominent desserts in the scene?",
+      "modified": "Would you say the slice of chocolate cake on the left plate is one of the more prominent desserts in the scene?",
+      "false_premise": true
+    }
+  ]
+}

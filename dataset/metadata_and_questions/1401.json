@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1401",
+    "source": "Open Images",
+    "complexity": 1,
+    "category": 4,
+    "target": "salad"
+  },
+  "base": {
+    "target_description": "the mixed vegetable salad on a white plate",
+    "modified_target_description": "the mixed vegetable soup on a white plate",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What ingredients can you make out in the mixed vegetable salad on a white plate?",
+      "modified": "What ingredients can you make out in the mixed vegetable salad on a white plate?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the mixed vegetable salad on a white plate served with any dressing or sauce?",
+      "modified": "Is the mixed vegetable salad on a white plate served with any dressing or sauce?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the mixed vegetable salad on a white plate look freshly prepared?",
+      "modified": "Does the mixed vegetable salad on a white plate look freshly prepared?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the mixed vegetable salad on a white plate topped with leafy herbs?",
+      "modified": "Is the mixed vegetable soup on a white plate topped with leafy herbs?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the mixed vegetable salad on a white plate appear warm or cold?",
+      "modified": "Does the mixed vegetable soup on a white plate appear warm or cold?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is there a spoon resting near the mixed vegetable salad on a white plate?",
+      "modified": "Is there a spoon resting near the mixed vegetable soup on a white plate?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the mixed vegetable salad on a white plate look like a main dish or a side dish?",
+      "modified": "Does the mixed vegetable soup on a white plate look like a main dish or a side dish?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Are there visible grilled or roasted pieces in the mixed vegetable salad on a white plate?",
+      "modified": "Are there visible grilled or roasted pieces in the mixed vegetable soup on a white plate?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the mixed vegetable salad on a white plate arranged neatly or casually?",
+      "modified": "Is the mixed vegetable soup on a white plate arranged neatly or casually?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the mixed vegetable salad on a white plate seem to be served at a restaurant table?",
+      "modified": "Does the mixed vegetable soup on a white plate seem to be served at a restaurant table?",
+      "false_premise": true
+    }
+  ]
+}

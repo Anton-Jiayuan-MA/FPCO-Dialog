@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3201",
+    "source": "Open Images",
+    "complexity": 3,
+    "category": 2,
+    "target": "bicycle"
+  },
+  "base": {
+    "target_description": "the bicycle with a child seat",
+    "modified_target_description": "the motorcycle with a child seat",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the bicycle with a child seat parked on the grass?",
+      "modified": "Is the bicycle with a child seat parked on the grass?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the bicycle with a child seat appear to be wet from rain?",
+      "modified": "Does the bicycle with a child seat appear to be wet from rain?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the bicycle with a child seat standing upright rather than lying down?",
+      "modified": "Is the bicycle with a child seat standing upright rather than lying down?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the bicycle with a child seat have a rear light visible?",
+      "modified": "Does the motorcycle with a child seat have a rear light visible?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the bicycle with a child seat positioned close to another bicycle?",
+      "modified": "Is the motorcycle with a child seat positioned close to another bicycle?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the bicycle with a child seat have a basket attached?",
+      "modified": "Does the motorcycle with a child seat have a basket attached?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the bicycle with a child seat facing away from the camera?",
+      "modified": "Is the motorcycle with a child seat facing away from the camera?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the bicycle with a child seat look ready for carrying a child?",
+      "modified": "Does the motorcycle with a child seat look ready for carrying a child?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the bicycle with a child seat outdoors in a grassy area?",
+      "modified": "Is the motorcycle with a child seat outdoors in a grassy area?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the bicycle with a child seat have both wheels visible?",
+      "modified": "Does the motorcycle with a child seat have both wheels visible?",
+      "false_premise": true
+    }
+  ]
+}

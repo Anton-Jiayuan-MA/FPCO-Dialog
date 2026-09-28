@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3254",
+    "source": "COCO",
+    "complexity": 3,
+    "category": 2,
+    "target": "airplane"
+  },
+  "base": {
+    "target_description": "the white and blue airplane on the runway",
+    "modified_target_description": "the red and blue airplane on the runway",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the white and blue airplane on the runway facing toward the right side of the image?",
+      "modified": "Is the white and blue airplane on the runway facing toward the right side of the image?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the white and blue airplane on the runway appear to be moving along the airport pavement?",
+      "modified": "Does the white and blue airplane on the runway appear to be moving along the airport pavement?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the white and blue airplane on the runway closer to the camera than the other planes behind it?",
+      "modified": "Is the white and blue airplane on the runway closer to the camera than the other planes behind it?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the white and blue airplane on the runway have its landing gear visible?",
+      "modified": "Does the red and blue airplane on the runway have its landing gear visible?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the white and blue airplane on the runway shown from the side rather than from the front?",
+      "modified": "Is the red and blue airplane on the runway shown from the side rather than from the front?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the white and blue airplane on the runway look like a passenger jet?",
+      "modified": "Does the red and blue airplane on the runway look like a passenger jet?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the white and blue airplane on the runway positioned near a grassy area?",
+      "modified": "Is the red and blue airplane on the runway positioned near a grassy area?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the white and blue airplane on the runway have a long narrow body?",
+      "modified": "Does the red and blue airplane on the runway have a long narrow body?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the white and blue airplane on the runway the most prominent aircraft in the image?",
+      "modified": "Is the red and blue airplane on the runway the most prominent aircraft in the image?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Can you see the tail fin clearly on the white and blue airplane on the runway?",
+      "modified": "Can you see the tail fin clearly on the red and blue airplane on the runway?",
+      "false_premise": true
+    }
+  ]
+}

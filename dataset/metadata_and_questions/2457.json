@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2457",
+    "source": "COCO",
+    "complexity": 2,
+    "category": 4,
+    "target": "banana"
+  },
+  "base": {
+    "target_description": "the ripe yellow banana",
+    "modified_target_description": "the unripe yellow banana",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the ripe yellow banana peeled or still in its skin?",
+      "modified": "Is the ripe yellow banana peeled or still in its skin?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the ripe yellow banana look fresh enough to eat?",
+      "modified": "Does the ripe yellow banana look fresh enough to eat?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the ripe yellow banana lying flat in the scene?",
+      "modified": "Is the ripe yellow banana lying flat in the scene?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the ripe yellow banana have any brown spots on it?",
+      "modified": "Does the unripe yellow banana have any brown spots on it?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the ripe yellow banana curved noticeably?",
+      "modified": "Is the unripe yellow banana curved noticeably?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the ripe yellow banana appear whole and uncut?",
+      "modified": "Does the unripe yellow banana appear whole and uncut?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the ripe yellow banana placed near another banana?",
+      "modified": "Is the unripe yellow banana placed near another banana?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the ripe yellow banana look larger than the heart-shaped piece between them?",
+      "modified": "Does the unripe yellow banana look larger than the heart-shaped piece between them?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the ripe yellow banana positioned horizontally across the image?",
+      "modified": "Is the unripe yellow banana positioned horizontally across the image?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the ripe yellow banana appear to be resting on a dark surface?",
+      "modified": "Does the unripe yellow banana appear to be resting on a dark surface?",
+      "false_premise": true
+    }
+  ]
+}

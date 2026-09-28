@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2347",
+    "source": "COCO",
+    "complexity": 2,
+    "category": 3,
+    "target": "zebra"
+  },
+  "base": {
+    "target_description": "the zebra on the far right",
+    "modified_target_description": "the striped zebra on the far right",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the zebra on the far right standing still in the grass?",
+      "modified": "Is the zebra on the far right standing still in the grass?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the zebra on the far right facing toward the right side of the image?",
+      "modified": "Is the zebra on the far right facing toward the right side of the image?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the zebra on the far right appear to be in the foreground?",
+      "modified": "Does the zebra on the far right appear to be in the foreground?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the zebra on the far right larger than the other zebras nearby?",
+      "modified": "Is the striped zebra on the far right larger than the other zebras nearby?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Can you see the full body of the zebra on the far right?",
+      "modified": "Can you see the full body of the striped zebra on the far right?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the zebra on the far right walking behind the other zebras or beside them?",
+      "modified": "Is the striped zebra on the far right walking behind the other zebras or beside them?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the zebra on the far right have its head turned slightly to the right?",
+      "modified": "Does the striped zebra on the far right have its head turned slightly to the right?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the zebra on the far right part of a small group of zebras?",
+      "modified": "Is the striped zebra on the far right part of a small group of zebras?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the zebra on the far right standing on open grassland?",
+      "modified": "Is the striped zebra on the far right standing on open grassland?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the zebra on the far right closer to the camera than the wildebeest in the background?",
+      "modified": "Is the striped zebra on the far right closer to the camera than the wildebeest in the background?",
+      "false_premise": true
+    }
+  ]
+}

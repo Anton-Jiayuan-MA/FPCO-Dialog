@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2151",
+    "source": "Open Images",
+    "complexity": 2,
+    "category": 1,
+    "target": "woman"
+  },
+  "base": {
+    "target_description": "the blonde woman in a gray jacket",
+    "modified_target_description": "the brunette woman in a gray jacket",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the blonde woman in a gray jacket sitting down in the scene?",
+      "modified": "Is the blonde woman in a gray jacket sitting down in the scene?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the blonde woman in a gray jacket facing another woman?",
+      "modified": "Is the blonde woman in a gray jacket facing another woman?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the blonde woman in a gray jacket appear to be having a conversation?",
+      "modified": "Does the blonde woman in a gray jacket appear to be having a conversation?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the blonde woman in a gray jacket seated on the right side of the image?",
+      "modified": "Is the brunette woman in a gray jacket seated on the right side of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the blonde woman in a gray jacket have her hands in front of her?",
+      "modified": "Does the brunette woman in a gray jacket have her hands in front of her?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the blonde woman in a gray jacket leaning slightly forward?",
+      "modified": "Is the brunette woman in a gray jacket leaning slightly forward?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the blonde woman in a gray jacket wearing dark clothing below the jacket?",
+      "modified": "Is the brunette woman in a gray jacket wearing dark clothing below the jacket?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the blonde woman in a gray jacket indoors?",
+      "modified": "Is the brunette woman in a gray jacket indoors?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the blonde woman in a gray jacket near a blue banner?",
+      "modified": "Is the brunette woman in a gray jacket near a blue banner?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the blonde woman in a gray jacket appear attentive to the other person?",
+      "modified": "Does the brunette woman in a gray jacket appear attentive to the other person?",
+      "false_premise": true
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1376",
+    "source": "COCO",
+    "complexity": 1,
+    "category": 3,
+    "target": "cat"
+  },
+  "base": {
+    "target_description": "the striped cat lying on the grass",
+    "modified_target_description": "the striped cat beside the shoe",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the striped cat lying on the grass doing with the shoe?",
+      "modified": "What is the striped cat lying on the grass doing with the shoe?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the striped cat lying on the grass playing with something nearby?",
+      "modified": "Is the striped cat lying on the grass playing with something nearby?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "What is next to the striped cat lying on the grass?",
+      "modified": "What is next to the striped cat lying on the grass?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the striped cat lying on the grass look relaxed or active?",
+      "modified": "Does the striped cat beside the shoe look relaxed or active?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the striped cat lying on the grass in a sunny area?",
+      "modified": "Is the striped cat beside the shoe in a sunny area?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "What part of the shoe is the striped cat lying on the grass touching?",
+      "modified": "What part of the shoe is the striped cat beside the shoe touching?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the striped cat lying on the grass appear to be biting the shoe laces?",
+      "modified": "Does the striped cat beside the shoe appear to be biting the shoe laces?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the striped cat lying on the grass stretched out or curled up?",
+      "modified": "Is the striped cat beside the shoe stretched out or curled up?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Where is the striped cat lying on the grass positioned in relation to the shoe?",
+      "modified": "Where is the striped cat beside the shoe positioned in relation to the shoe?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Can you see the tail of the striped cat lying on the grass?",
+      "modified": "Can you see the tail of the striped cat beside the shoe?",
+      "false_premise": true
+    }
+  ]
+}

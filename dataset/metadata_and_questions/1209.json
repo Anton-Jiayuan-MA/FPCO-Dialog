@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1209",
+    "source": "COCO",
+    "complexity": 1,
+    "category": 2,
+    "target": "train"
+  },
+  "base": {
+    "target_description": "the black steam train",
+    "modified_target_description": "the black steam truck",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What direction is the black steam train facing in the image?",
+      "modified": "What direction is the black steam train facing in the image?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the black steam train moving along the tracks?",
+      "modified": "Is the black steam train moving along the tracks?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Can you see smoke coming from the black steam train?",
+      "modified": "Can you see smoke coming from the black steam train?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "What number is shown on the front of the black steam train?",
+      "modified": "What number is shown on the front of the black steam truck?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the black steam train pulling any cars behind it?",
+      "modified": "Is the black steam truck pulling any cars behind it?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the black steam train appear to be outdoors in a wooded area?",
+      "modified": "Does the black steam truck appear to be outdoors in a wooded area?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Are the wheels of the black steam train visible from this angle?",
+      "modified": "Are the wheels of the black steam truck visible from this angle?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the black steam train look old-fashioned or modern?",
+      "modified": "Does the black steam truck look old-fashioned or modern?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the black steam train shown from the side, the front, or both?",
+      "modified": "Is the black steam truck shown from the side, the front, or both?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "What color is the black steam train?",
+      "modified": "What color is the black steam truck?",
+      "false_premise": true
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3362",
+    "source": "COCO",
+    "complexity": 3,
+    "category": 3,
+    "target": "zebra"
+  },
+  "base": {
+    "target_description": "the striped zebra grazing in the grass",
+    "modified_target_description": "the striped zebra in the background",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the striped zebra grazing in the grass doing?",
+      "modified": "What is the striped zebra grazing in the grass doing?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the striped zebra grazing in the grass standing with its head down?",
+      "modified": "Is the striped zebra grazing in the grass standing with its head down?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the striped zebra grazing in the grass appear to be eating?",
+      "modified": "Does the striped zebra grazing in the grass appear to be eating?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the striped zebra grazing in the grass out in an open field?",
+      "modified": "Is the striped zebra in the background out in an open field?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Can you see the legs of the striped zebra grazing in the grass clearly?",
+      "modified": "Can you see the legs of the striped zebra in the background clearly?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the striped zebra grazing in the grass facing to the right?",
+      "modified": "Is the striped zebra in the background facing to the right?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the striped zebra grazing in the grass look calm?",
+      "modified": "Does the striped zebra in the background look calm?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the striped zebra grazing in the grass close to another zebra?",
+      "modified": "Is the striped zebra in the background close to another zebra?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Would you say the striped zebra grazing in the grass is the main animal in the foreground?",
+      "modified": "Would you say the striped zebra in the background is the main animal in the foreground?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Are the black-and-white stripes on the striped zebra grazing in the grass easy to see?",
+      "modified": "Are the black-and-white stripes on the striped zebra in the background easy to see?",
+      "false_premise": true
+    }
+  ]
+}

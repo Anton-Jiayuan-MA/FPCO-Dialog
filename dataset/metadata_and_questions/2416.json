@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2416",
+    "source": "COCO",
+    "complexity": 2,
+    "category": 4,
+    "target": "banana"
+  },
+  "base": {
+    "target_description": "the yellow banana on the right",
+    "modified_target_description": "the yellow apple on the right",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What color is the yellow banana on the right?",
+      "modified": "What color is the yellow banana on the right?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the yellow banana on the right whole or peeled?",
+      "modified": "Is the yellow banana on the right whole or peeled?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Where is the yellow banana on the right positioned in the image?",
+      "modified": "Where is the yellow banana on the right positioned in the image?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the yellow banana on the right lying next to another piece of fruit?",
+      "modified": "Is the yellow apple on the right lying next to another piece of fruit?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the yellow banana on the right look ripe?",
+      "modified": "Does the yellow apple on the right look ripe?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "What is the yellow banana on the right resting on?",
+      "modified": "What is the yellow apple on the right resting on?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the yellow banana on the right curved?",
+      "modified": "Is the yellow apple on the right curved?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the yellow banana on the right appear larger than the other fruit beside it?",
+      "modified": "Does the yellow apple on the right appear larger than the other fruit beside it?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the yellow banana on the right shown close up?",
+      "modified": "Is the yellow apple on the right shown close up?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "What fruit is the yellow banana on the right beside?",
+      "modified": "What fruit is the yellow apple on the right beside?",
+      "false_premise": true
+    }
+  ]
+}

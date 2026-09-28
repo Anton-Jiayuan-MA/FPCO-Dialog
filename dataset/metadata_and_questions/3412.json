@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3412",
+    "source": "COCO",
+    "complexity": 3,
+    "category": 4,
+    "target": "apple"
+  },
+  "base": {
+    "target_description": "the red apple in the center",
+    "modified_target_description": "the red orange in the center",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What color is the red apple in the center?",
+      "modified": "What color is the red apple in the center?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the red apple in the center resting on top of other fruit?",
+      "modified": "Is the red apple in the center resting on top of other fruit?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the red apple in the center look whole or sliced?",
+      "modified": "Does the red apple in the center look whole or sliced?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the red apple in the center closer to the top or bottom of the image?",
+      "modified": "Is the red orange in the center closer to the top or bottom of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the red apple in the center appear to be touching an orange?",
+      "modified": "Does the red orange in the center appear to be touching an orange?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the red apple in the center more pinkish-red or dark red?",
+      "modified": "Is the red orange in the center more pinkish-red or dark red?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Can you see the stem on the red apple in the center?",
+      "modified": "Can you see the stem on the red orange in the center?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the red apple in the center have a smooth skin?",
+      "modified": "Does the red orange in the center have a smooth skin?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the red apple in the center surrounded by other pieces of fruit?",
+      "modified": "Is the red orange in the center surrounded by other pieces of fruit?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the red apple in the center look larger than the apple at the lower front?",
+      "modified": "Does the red orange in the center look larger than the apple at the lower front?",
+      "false_premise": true
+    }
+  ]
+}

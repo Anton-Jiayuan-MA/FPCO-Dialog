@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3424",
+    "source": "Open Images",
+    "complexity": 3,
+    "category": 4,
+    "target": "apple"
+  },
+  "base": {
+    "target_description": "a red and green apple",
+    "modified_target_description": "a red and green pear",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is a red and green apple part of a large pile of apples?",
+      "modified": "Is a red and green apple part of a large pile of apples?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does a red and green apple look fresh and shiny in the image?",
+      "modified": "Does a red and green apple look fresh and shiny in the image?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is a red and green apple surrounded by many other apples?",
+      "modified": "Is a red and green apple surrounded by many other apples?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Can you see the stem on a red and green apple?",
+      "modified": "Can you see the stem on a red and green pear?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does a red and green apple have visible stripes on its skin?",
+      "modified": "Does a red and green pear have visible stripes on its skin?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is a red and green apple lying loose rather than being held?",
+      "modified": "Is a red and green pear lying loose rather than being held?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does a red and green apple appear round and medium-sized?",
+      "modified": "Does a red and green pear appear round and medium-sized?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is a red and green apple shown close up in the scene?",
+      "modified": "Is a red and green pear shown close up in the scene?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does a red and green apple have more red than green on it?",
+      "modified": "Does a red and green pear have more red than green on it?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is a red and green apple stacked directly against other apples?",
+      "modified": "Is a red and green pear stacked directly against other apples?",
+      "false_premise": true
+    }
+  ]
+}

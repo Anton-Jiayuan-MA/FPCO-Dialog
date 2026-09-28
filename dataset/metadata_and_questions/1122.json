@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1122",
+    "source": "COCO",
+    "complexity": 1,
+    "category": 1,
+    "target": "man"
+  },
+  "base": {
+    "target_description": "the smiling man in a dark suit",
+    "modified_target_description": "the smiling woman in a dark suit",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the smiling man in a dark suit looking toward?",
+      "modified": "What is the smiling man in a dark suit looking toward?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the smiling man in a dark suit standing indoors?",
+      "modified": "Is the smiling man in a dark suit standing indoors?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "What kind of expression does the smiling man in a dark suit have?",
+      "modified": "What kind of expression does the smiling man in a dark suit have?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the smiling man in a dark suit dressed formally?",
+      "modified": "Is the smiling woman in a dark suit dressed formally?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Can you see the smiling man in a dark suit from the chest up?",
+      "modified": "Can you see the smiling woman in a dark suit from the chest up?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the smiling man in a dark suit appear to be posing for a photo?",
+      "modified": "Does the smiling woman in a dark suit appear to be posing for a photo?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "What is the smiling man in a dark suit wearing around his neck?",
+      "modified": "What is the smiling woman in a dark suit wearing around her neck?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the smiling man in a dark suit facing the camera directly?",
+      "modified": "Is the smiling woman in a dark suit facing the camera directly?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the smiling man in a dark suit seem relaxed?",
+      "modified": "Does the smiling woman in a dark suit seem relaxed?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the smiling man in a dark suit the main subject of the image?",
+      "modified": "Is the smiling woman in a dark suit the main subject of the image?",
+      "false_premise": true
+    }
+  ]
+}

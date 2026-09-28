@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2210",
+    "source": "COCO",
+    "complexity": 2,
+    "category": 2,
+    "target": "yacht"
+  },
+  "base": {
+    "target_description": "the large white yacht",
+    "modified_target_description": "the large white truck",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the large white yacht docked near the waterfront?",
+      "modified": "Is the large white yacht docked near the waterfront?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the large white yacht appear bigger than the small boat in the water?",
+      "modified": "Does the large white yacht appear bigger than the small boat in the water?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the large white yacht facing toward the camera?",
+      "modified": "Is the large white yacht facing toward the camera?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Can you see multiple decks on the large white yacht?",
+      "modified": "Can you see multiple decks on the large white truck?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the large white yacht sitting close to some buildings?",
+      "modified": "Is the large white truck sitting close to some buildings?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the large white yacht look stationary in the scene?",
+      "modified": "Does the large white truck look stationary in the scene?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the large white yacht moored beside a pier?",
+      "modified": "Is the large white truck moored beside a pier?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Can you tell whether the large white yacht is on calm water?",
+      "modified": "Can you tell whether the large white truck is on calm water?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the large white yacht the most prominent vessel in the image?",
+      "modified": "Is the large white truck the most prominent vessel in the image?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the large white yacht have radar domes visible on top?",
+      "modified": "Does the large white truck have radar domes visible on top?",
+      "false_premise": true
+    }
+  ]
+}

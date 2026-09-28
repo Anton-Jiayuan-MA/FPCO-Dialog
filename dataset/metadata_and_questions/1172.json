@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1172",
+    "source": "Open Images",
+    "complexity": 1,
+    "category": 1,
+    "target": "child"
+  },
+  "base": {
+    "target_description": "the child wrapped in a red blanket",
+    "modified_target_description": "the child by the window",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the child wrapped in a red blanket sitting down in the seat?",
+      "modified": "Is the child wrapped in a red blanket sitting down in the seat?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the child wrapped in a red blanket have their eyes closed?",
+      "modified": "Does the child wrapped in a red blanket have their eyes closed?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the child wrapped in a red blanket leaning against the side of the seat?",
+      "modified": "Is the child wrapped in a red blanket leaning against the side of the seat?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the child wrapped in a red blanket look like they might be resting?",
+      "modified": "Does the child by the window look like they might be resting?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the child wrapped in a red blanket indoors?",
+      "modified": "Is the child by the window indoors?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the child wrapped in a red blanket positioned near a window?",
+      "modified": "Is the child by the window positioned near a window?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Can you see the child wrapped in a red blanket from the waist up?",
+      "modified": "Can you see the child by the window from the waist up?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the child wrapped in a red blanket appear calm and still?",
+      "modified": "Does the child by the window appear calm and still?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the child wrapped in a red blanket facing slightly to the left?",
+      "modified": "Is the child by the window facing slightly to the left?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the child wrapped in a red blanket on what looks like a train or bus?",
+      "modified": "Is the child by the window on what looks like a train or bus?",
+      "false_premise": true
+    }
+  ]
+}

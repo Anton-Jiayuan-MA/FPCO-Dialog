@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3404",
+    "source": "COCO",
+    "complexity": 3,
+    "category": 4,
+    "target": "egg"
+  },
+  "base": {
+    "target_description": "the fried egg with a bright yolk",
+    "modified_target_description": "the pancake with a bright yolk",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the fried egg with a bright yolk sunny-side up on the plate?",
+      "modified": "Is the fried egg with a bright yolk sunny-side up on the plate?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the fried egg with a bright yolk look fully cooked around the edges?",
+      "modified": "Does the fried egg with a bright yolk look fully cooked around the edges?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the fried egg with a bright yolk placed near another egg?",
+      "modified": "Is the fried egg with a bright yolk placed near another egg?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the fried egg with a bright yolk have a runny-looking center?",
+      "modified": "Does the pancake with a bright yolk have a runny-looking center?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the fried egg with a bright yolk taking up a large part of the plate?",
+      "modified": "Is the pancake with a bright yolk taking up a large part of the plate?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the fried egg with a bright yolk overlap slightly with the other food?",
+      "modified": "Does the pancake with a bright yolk overlap slightly with the other food?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the fried egg with a bright yolk closer to the front edge of the plate?",
+      "modified": "Is the pancake with a bright yolk closer to the front edge of the plate?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the fried egg with a bright yolk have any visible seasoning on top?",
+      "modified": "Does the pancake with a bright yolk have any visible seasoning on top?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the fried egg with a bright yolk touching the other egg beside it?",
+      "modified": "Is the pancake with a bright yolk touching the other egg beside it?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the fried egg with a bright yolk appear freshly cooked?",
+      "modified": "Does the pancake with a bright yolk appear freshly cooked?",
+      "false_premise": true
+    }
+  ]
+}

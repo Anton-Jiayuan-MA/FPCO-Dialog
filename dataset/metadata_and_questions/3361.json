@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3361",
+    "source": "COCO",
+    "complexity": 3,
+    "category": 3,
+    "target": "elephant"
+  },
+  "base": {
+    "target_description": "the elephant with a colorful saddle cloth",
+    "modified_target_description": "the elephant with a colorful saddle cloth on the right",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the elephant with a colorful saddle cloth walking along the stone path?",
+      "modified": "Is the elephant with a colorful saddle cloth walking along the stone path?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the elephant with a colorful saddle cloth appear to be moving away from the camera?",
+      "modified": "Does the elephant with a colorful saddle cloth appear to be moving away from the camera?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the elephant with a colorful saddle cloth part of a group of elephants in the scene?",
+      "modified": "Is the elephant with a colorful saddle cloth part of a group of elephants in the scene?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Can you see a rider sitting on the elephant with a colorful saddle cloth?",
+      "modified": "Can you see a rider sitting on the elephant with a colorful saddle cloth on the right?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the elephant with a colorful saddle cloth outdoors near old walls and buildings?",
+      "modified": "Is the elephant with a colorful saddle cloth on the right outdoors near old walls and buildings?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the elephant with a colorful saddle cloth have its tail hanging down?",
+      "modified": "Does the elephant with a colorful saddle cloth on the right have its tail hanging down?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the elephant with a colorful saddle cloth on a narrow walkway?",
+      "modified": "Is the elephant with a colorful saddle cloth on the right on a narrow walkway?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the elephant with a colorful saddle cloth look large compared with the path?",
+      "modified": "Does the elephant with a colorful saddle cloth on the right look large compared with the path?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the elephant with a colorful saddle cloth facing toward the distant buildings and hills?",
+      "modified": "Is the elephant with a colorful saddle cloth on the right facing toward the distant buildings and hills?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the elephant with a colorful saddle cloth seem to be carrying people?",
+      "modified": "Does the elephant with a colorful saddle cloth on the right seem to be carrying people?",
+      "false_premise": true
+    }
+  ]
+}

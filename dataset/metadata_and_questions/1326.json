@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1326",
+    "source": "COCO",
+    "complexity": 1,
+    "category": 3,
+    "target": "cat"
+  },
+  "base": {
+    "target_description": "the blue-eyed Siamese cat",
+    "modified_target_description": "the blue-eyed Siamese dog",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What direction is the blue-eyed Siamese cat looking in?",
+      "modified": "What direction is the blue-eyed Siamese cat looking in?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the blue-eyed Siamese cat shown close up in the image?",
+      "modified": "Is the blue-eyed Siamese cat shown close up in the image?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the blue-eyed Siamese cat appear to be indoors or outdoors?",
+      "modified": "Does the blue-eyed Siamese cat appear to be indoors or outdoors?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Can you clearly see the face of the blue-eyed Siamese cat?",
+      "modified": "Can you clearly see the face of the blue-eyed Siamese dog?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the blue-eyed Siamese cat in sharp focus compared with the foreground?",
+      "modified": "Is the blue-eyed Siamese dog in sharp focus compared with the foreground?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "What expression does the blue-eyed Siamese cat seem to have?",
+      "modified": "What expression does the blue-eyed Siamese dog seem to have?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Are the ears of the blue-eyed Siamese cat standing upright?",
+      "modified": "Are the ears of the blue-eyed Siamese dog standing upright?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the blue-eyed Siamese cat appear to be resting or alert?",
+      "modified": "Does the blue-eyed Siamese dog appear to be resting or alert?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the blue-eyed Siamese cat the main subject of the image?",
+      "modified": "Is the blue-eyed Siamese dog the main subject of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Can you see the whiskers of the blue-eyed Siamese cat clearly?",
+      "modified": "Can you see the whiskers of the blue-eyed Siamese dog clearly?",
+      "false_premise": true
+    }
+  ]
+}

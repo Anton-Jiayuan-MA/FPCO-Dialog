@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3480",
+    "source": "Open Images",
+    "complexity": 3,
+    "category": 4,
+    "target": "sausages"
+  },
+  "base": {
+    "target_description": "the three sausages on lettuce",
+    "modified_target_description": "the three sausages beside lettuce",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "How are the three sausages on lettuce arranged in the bowl?",
+      "modified": "How are the three sausages on lettuce arranged in the bowl?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Do the three sausages on lettuce look cooked and ready to eat?",
+      "modified": "Do the three sausages on lettuce look cooked and ready to eat?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "What color are the three sausages on lettuce?",
+      "modified": "What color are the three sausages on lettuce?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Are the three sausages on lettuce placed next to sliced cucumbers?",
+      "modified": "Are the three sausages beside lettuce placed next to sliced cucumbers?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Do the three sausages on lettuce appear shiny in the image?",
+      "modified": "Do the three sausages beside lettuce appear shiny in the image?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Are the three sausages on lettuce lying flat or standing upright?",
+      "modified": "Are the three sausages beside lettuce lying flat or standing upright?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Do the three sausages on lettuce take up most of the center of the bowl?",
+      "modified": "Do the three sausages beside lettuce take up most of the center of the bowl?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Are the three sausages on lettuce served with vegetables?",
+      "modified": "Are the three sausages beside lettuce served with vegetables?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Do the three sausages on lettuce look similar in size?",
+      "modified": "Do the three sausages beside lettuce look similar in size?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Are the three sausages on lettuce the main food item in this bowl?",
+      "modified": "Are the three sausages beside lettuce the main food item in this bowl?",
+      "false_premise": true
+    }
+  ]
+}

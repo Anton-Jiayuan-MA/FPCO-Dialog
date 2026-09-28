@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3106",
+    "source": "COCO",
+    "complexity": 3,
+    "category": 1,
+    "target": "woman"
+  },
+  "base": {
+    "target_description": "the blonde girl in a light dress",
+    "modified_target_description": "the blonde boy in a light dress",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the blonde girl in a light dress holding in her hands?",
+      "modified": "What is the blonde girl in a light dress holding in her hands?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the blonde girl in a light dress standing near the birthday cake?",
+      "modified": "Is the blonde girl in a light dress standing near the birthday cake?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the blonde girl in a light dress look like she is about to blow out candles?",
+      "modified": "Does the blonde girl in a light dress look like she is about to blow out candles?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the blonde girl in a light dress looking down at the cake?",
+      "modified": "Is the blonde boy in a light dress looking down at the cake?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Who is standing next to the blonde girl in a light dress?",
+      "modified": "Who is standing next to the blonde boy in a light dress?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the blonde girl in a light dress surrounded by other children?",
+      "modified": "Is the blonde boy in a light dress surrounded by other children?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the blonde girl in a light dress appear to be smiling?",
+      "modified": "Does the blonde boy in a light dress appear to be smiling?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the blonde girl in a light dress the child closest to the center of the table?",
+      "modified": "Is the blonde boy in a light dress the child closest to the center of the table?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the blonde girl in a light dress positioned in front of an older woman in red?",
+      "modified": "Is the blonde boy in a light dress positioned in front of an older woman in red?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the blonde girl in a light dress seem to be the focus of the party scene?",
+      "modified": "Does the blonde boy in a light dress seem to be the focus of the party scene?",
+      "false_premise": true
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3280",
+    "source": "Open Images",
+    "complexity": 3,
+    "category": 2,
+    "target": "car"
+  },
+  "base": {
+    "target_description": "the red car with its hood open",
+    "modified_target_description": "the red car on the right with its hood open",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What part of the red car with its hood open is being displayed?",
+      "modified": "What part of the red car with its hood open is being displayed?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the red car with its hood open parked in a lineup with other cars?",
+      "modified": "Is the red car with its hood open parked in a lineup with other cars?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "What color are the wheels on the red car with its hood open?",
+      "modified": "What color are the wheels on the red car with its hood open?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the red car with its hood open closer to the camera than the other cars?",
+      "modified": "Is the red car on the right with its hood open closer to the camera than the other cars?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the red car with its hood open appear to be part of a car show?",
+      "modified": "Does the red car on the right with its hood open appear to be part of a car show?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "What can be seen underneath the hood of the red car with its hood open?",
+      "modified": "What can be seen underneath the hood of the red car on the right with its hood open?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the red car with its hood open positioned behind a chain barrier?",
+      "modified": "Is the red car on the right with its hood open positioned behind a chain barrier?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Which direction is the red car with its hood open facing?",
+      "modified": "Which direction is the red car on the right with its hood open facing?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the red car with its hood open look clean and polished?",
+      "modified": "Does the red car on the right with its hood open look clean and polished?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the front end of the red car with its hood open fully visible in the image?",
+      "modified": "Is the front end of the red car on the right with its hood open fully visible in the image?",
+      "false_premise": true
+    }
+  ]
+}

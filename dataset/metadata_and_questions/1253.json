@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1253",
+    "source": "Open Images",
+    "complexity": 1,
+    "category": 2,
+    "target": "airplane"
+  },
+  "base": {
+    "target_description": "the small propeller airplane with red stripes",
+    "modified_target_description": "the small propeller airplane with blue stripes",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the small propeller airplane with red stripes flying through the sky?",
+      "modified": "Is the small propeller airplane with red stripes flying through the sky?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Are the landing wheels of the small propeller airplane with red stripes visible?",
+      "modified": "Are the landing wheels of the small propeller airplane with red stripes visible?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the small propeller airplane with red stripes appear to be viewed from below?",
+      "modified": "Does the small propeller airplane with red stripes appear to be viewed from below?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the propeller on the small propeller airplane with red stripes spinning?",
+      "modified": "Is the propeller on the small propeller airplane with blue stripes spinning?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the small propeller airplane with red stripes have its wings stretched out horizontally?",
+      "modified": "Does the small propeller airplane with blue stripes have its wings stretched out horizontally?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the small propeller airplane with red stripes the main subject of the image?",
+      "modified": "Is the small propeller airplane with blue stripes the main subject of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the small propeller airplane with red stripes appear to be relatively close to the camera?",
+      "modified": "Does the small propeller airplane with blue stripes appear to be relatively close to the camera?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the small propeller airplane with red stripes shown against a clear blue background?",
+      "modified": "Is the small propeller airplane with blue stripes shown against a clear blue background?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Can you see the underside of the small propeller airplane with red stripes?",
+      "modified": "Can you see the underside of the small propeller airplane with blue stripes?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the small propeller airplane with red stripes look like it is moving toward the viewer?",
+      "modified": "Does the small propeller airplane with blue stripes look like it is moving toward the viewer?",
+      "false_premise": true
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3240",
+    "source": "Open Images",
+    "complexity": 3,
+    "category": 2,
+    "target": "car"
+  },
+  "base": {
+    "target_description": "the white police car with its hood open",
+    "modified_target_description": "the black police car with its hood open",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the white police car with its hood open parked indoors?",
+      "modified": "Is the white police car with its hood open parked indoors?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the white police car with its hood open have its engine visible?",
+      "modified": "Does the white police car with its hood open have its engine visible?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the white police car with its hood open closest to the camera?",
+      "modified": "Is the white police car with its hood open closest to the camera?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the white police car with its hood open have a light bar on the roof?",
+      "modified": "Does the black police car with its hood open have a light bar on the roof?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the white police car with its hood open facing toward the left side of the image?",
+      "modified": "Is the black police car with its hood open facing toward the left side of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the white police car with its hood open have blue checker markings along the side?",
+      "modified": "Does the black police car with its hood open have blue checker markings along the side?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the white police car with its hood open connected to a cable near the front?",
+      "modified": "Is the black police car with its hood open connected to a cable near the front?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the white police car with its hood open appear to be in a garage or workshop?",
+      "modified": "Does the black police car with its hood open appear to be in a garage or workshop?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the white police car with its hood open positioned beside an orange-and-white traffic bollard?",
+      "modified": "Is the black police car with its hood open positioned beside an orange-and-white traffic bollard?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Are there other vehicles lined up behind the white police car with its hood open?",
+      "modified": "Are there other vehicles lined up behind the black police car with its hood open?",
+      "false_premise": true
+    }
+  ]
+}

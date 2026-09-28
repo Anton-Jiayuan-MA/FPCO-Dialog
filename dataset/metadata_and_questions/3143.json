@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3143",
+    "source": "COCO",
+    "complexity": 3,
+    "category": 1,
+    "target": "woman"
+  },
+  "base": {
+    "target_description": "the woman in the white floral dress",
+    "modified_target_description": "the woman in the black floral dress",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the woman in the white floral dress doing in the scene?",
+      "modified": "What is the woman in the white floral dress doing in the scene?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the woman in the white floral dress smiling?",
+      "modified": "Is the woman in the white floral dress smiling?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Who is standing next to the woman in the white floral dress?",
+      "modified": "Who is standing next to the woman in the white floral dress?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "What kind of shoes is the woman in the white floral dress wearing?",
+      "modified": "What kind of shoes is the woman in the black floral dress wearing?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the woman in the white floral dress appear to be posing for a photo?",
+      "modified": "Does the woman in the black floral dress appear to be posing for a photo?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Where is the woman in the white floral dress positioned on the dance floor?",
+      "modified": "Where is the woman in the black floral dress positioned on the dance floor?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the woman in the white floral dress closer to the camera than the other dancers in the background?",
+      "modified": "Is the woman in the black floral dress closer to the camera than the other dancers in the background?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "What is the woman in the white floral dress holding, if anything?",
+      "modified": "What is the woman in the black floral dress holding, if anything?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "How is the woman in the white floral dress standing?",
+      "modified": "How is the woman in the black floral dress standing?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the woman in the white floral dress indoors at an event?",
+      "modified": "Is the woman in the black floral dress indoors at an event?",
+      "false_premise": true
+    }
+  ]
+}

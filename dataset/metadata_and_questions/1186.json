@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1186",
+    "source": "COCO",
+    "complexity": 1,
+    "category": 1,
+    "target": "woman"
+  },
+  "base": {
+    "target_description": "the woman in an orange shirt and glasses",
+    "modified_target_description": "the woman on the right in an orange shirt and glasses",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the woman in an orange shirt and glasses holding in her hands?",
+      "modified": "What is the woman in an orange shirt and glasses holding in her hands?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the woman in an orange shirt and glasses sitting down?",
+      "modified": "Is the woman in an orange shirt and glasses sitting down?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "What is the woman in an orange shirt and glasses doing with the racket?",
+      "modified": "What is the woman in an orange shirt and glasses doing with the racket?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the woman in an orange shirt and glasses look focused on something?",
+      "modified": "Does the woman on the right in an orange shirt and glasses look focused on something?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the woman in an orange shirt and glasses wearing casual clothes?",
+      "modified": "Is the woman on the right in an orange shirt and glasses wearing casual clothes?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Where is the woman in an orange shirt and glasses positioned in the scene?",
+      "modified": "Where is the woman on the right in an orange shirt and glasses positioned in the scene?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the woman in an orange shirt and glasses indoors or on a porch-like area?",
+      "modified": "Is the woman on the right in an orange shirt and glasses indoors or on a porch-like area?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the woman in an orange shirt and glasses have one leg crossed over the other?",
+      "modified": "Does the woman on the right in an orange shirt and glasses have one leg crossed over the other?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the woman in an orange shirt and glasses looking at the racket?",
+      "modified": "Is the woman on the right in an orange shirt and glasses looking at the racket?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the woman in an orange shirt and glasses seated near a small table?",
+      "modified": "Is the woman on the right in an orange shirt and glasses seated near a small table?",
+      "false_premise": true
+    }
+  ]
+}

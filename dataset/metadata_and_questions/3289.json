@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3289",
+    "source": "Open Images",
+    "complexity": 3,
+    "category": 2,
+    "target": "truck"
+  },
+  "base": {
+    "target_description": "the red flatbed truck",
+    "modified_target_description": "the red flatbed truck on the right",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Where is the red flatbed truck positioned in the traffic scene?",
+      "modified": "Where is the red flatbed truck positioned in the traffic scene?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the red flatbed truck moving or stopped in the image?",
+      "modified": "Is the red flatbed truck moving or stopped in the image?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "What is loaded in the back of the red flatbed truck?",
+      "modified": "What is loaded in the back of the red flatbed truck?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Which direction is the red flatbed truck facing?",
+      "modified": "Which direction is the red flatbed truck on the right facing?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the red flatbed truck closer to the left side or the center of the image?",
+      "modified": "Is the red flatbed truck on the right closer to the left side or the center of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the red flatbed truck appear larger than the nearby cars?",
+      "modified": "Does the red flatbed truck on the right appear larger than the nearby cars?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "What vehicle is directly behind the red flatbed truck?",
+      "modified": "What vehicle is directly behind the red flatbed truck on the right?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the red flatbed truck in front of or behind the white van?",
+      "modified": "Is the red flatbed truck on the right in front of or behind the white van?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the red flatbed truck have an open cargo bed?",
+      "modified": "Does the red flatbed truck on the right have an open cargo bed?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Can you see the rear lights on the red flatbed truck?",
+      "modified": "Can you see the rear lights on the red flatbed truck on the right?",
+      "false_premise": true
+    }
+  ]
+}

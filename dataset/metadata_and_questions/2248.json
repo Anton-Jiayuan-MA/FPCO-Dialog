@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2248",
+    "source": "COCO",
+    "complexity": 2,
+    "category": 2,
+    "target": "train"
+  },
+  "base": {
+    "target_description": "the red and yellow train on the right",
+    "modified_target_description": "the blue and yellow train on the right",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the red and yellow train on the right stopped at the platform?",
+      "modified": "Is the red and yellow train on the right stopped at the platform?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "What direction is the red and yellow train on the right facing?",
+      "modified": "What direction is the red and yellow train on the right facing?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the red and yellow train on the right closer to the camera than the other train?",
+      "modified": "Is the red and yellow train on the right closer to the camera than the other train?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the red and yellow train on the right appear to be outside the tunnel?",
+      "modified": "Does the blue and yellow train on the right appear to be outside the tunnel?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "What color is the front of the red and yellow train on the right?",
+      "modified": "What color is the front of the blue and yellow train on the right?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the red and yellow train on the right on the track next to the platform?",
+      "modified": "Is the blue and yellow train on the right on the track next to the platform?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the red and yellow train on the right have a streamlined nose?",
+      "modified": "Does the blue and yellow train on the right have a streamlined nose?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the red and yellow train on the right fully visible in the image?",
+      "modified": "Is the blue and yellow train on the right fully visible in the image?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the red and yellow train on the right look like a passenger train?",
+      "modified": "Does the blue and yellow train on the right look like a passenger train?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the red and yellow train on the right emerging from the station area?",
+      "modified": "Is the blue and yellow train on the right emerging from the station area?",
+      "false_premise": true
+    }
+  ]
+}

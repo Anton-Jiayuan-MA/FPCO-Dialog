@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2237",
+    "source": "Open Images",
+    "complexity": 2,
+    "category": 2,
+    "target": "airplane"
+  },
+  "base": {
+    "target_description": "the gray fighter jet on the right",
+    "modified_target_description": "the red fighter jet on the right",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the gray fighter jet on the right flying through the air?",
+      "modified": "Is the gray fighter jet on the right flying through the air?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the gray fighter jet on the right appear lower than some of the red planes?",
+      "modified": "Does the gray fighter jet on the right appear lower than some of the red planes?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the gray fighter jet on the right facing toward the left side of the image?",
+      "modified": "Is the gray fighter jet on the right facing toward the left side of the image?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the gray fighter jet on the right look like part of the aerial formation?",
+      "modified": "Does the red fighter jet on the right look like part of the aerial formation?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the gray fighter jet on the right surrounded by a cloudy sky?",
+      "modified": "Is the red fighter jet on the right surrounded by a cloudy sky?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the gray fighter jet on the right have swept-back wings?",
+      "modified": "Does the red fighter jet on the right have swept-back wings?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the gray fighter jet on the right separate from the cluster of red planes?",
+      "modified": "Is the red fighter jet on the right separate from the cluster of red planes?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the gray fighter jet on the right appear to be a military aircraft?",
+      "modified": "Does the red fighter jet on the right appear to be a military aircraft?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the gray fighter jet on the right shown from the side?",
+      "modified": "Is the red fighter jet on the right shown from the side?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the gray fighter jet on the right the only gray airplane visible?",
+      "modified": "Is the red fighter jet on the right the only gray airplane visible?",
+      "false_premise": true
+    }
+  ]
+}

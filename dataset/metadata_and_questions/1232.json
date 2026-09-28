@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1232",
+    "source": "COCO",
+    "complexity": 1,
+    "category": 2,
+    "target": "airplane"
+  },
+  "base": {
+    "target_description": "the white airplane seen from below",
+    "modified_target_description": "the black airplane seen from below",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What direction is the white airplane seen from below facing in the image?",
+      "modified": "What direction is the white airplane seen from below facing in the image?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the white airplane seen from below flying overhead?",
+      "modified": "Is the white airplane seen from below flying overhead?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "How many propellers can you see on the white airplane seen from below?",
+      "modified": "How many propellers can you see on the white airplane seen from below?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the white airplane seen from below appear to be in the sky?",
+      "modified": "Does the black airplane seen from below appear to be in the sky?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Are the wings of the white airplane seen from below stretched out on both sides?",
+      "modified": "Are the wings of the black airplane seen from below stretched out on both sides?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Can you see the underside of the white airplane seen from below clearly?",
+      "modified": "Can you see the underside of the black airplane seen from below clearly?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the white airplane seen from below have multiple engines?",
+      "modified": "Does the black airplane seen from below have multiple engines?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the white airplane seen from below captured against a blue background?",
+      "modified": "Is the black airplane seen from below captured against a blue background?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the white airplane seen from below look like it is passing above the camera?",
+      "modified": "Does the black airplane seen from below look like it is passing above the camera?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Can you tell whether the white airplane seen from below is a propeller plane?",
+      "modified": "Can you tell whether the black airplane seen from below is a propeller plane?",
+      "false_premise": true
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1234",
+    "source": "COCO",
+    "complexity": 1,
+    "category": 2,
+    "target": "bus"
+  },
+  "base": {
+    "target_description": "the red open-top bus",
+    "modified_target_description": "the blue open-top bus",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What direction is the red open-top bus facing in the image?",
+      "modified": "What direction is the red open-top bus facing in the image?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the red open-top bus driving on the road or parked at the side?",
+      "modified": "Is the red open-top bus driving on the road or parked at the side?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "What kind of service does the red open-top bus appear to be used for?",
+      "modified": "What kind of service does the red open-top bus appear to be used for?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Can you read any company name written on the red open-top bus?",
+      "modified": "Can you read any company name written on the blue open-top bus?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the red open-top bus carrying passengers at the moment?",
+      "modified": "Is the blue open-top bus carrying passengers at the moment?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "How close is the red open-top bus to the white building on the right?",
+      "modified": "How close is the blue open-top bus to the white building on the right?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the red open-top bus look like a modern city vehicle or a sightseeing tram-style vehicle?",
+      "modified": "Does the blue open-top bus look like a modern city vehicle or a sightseeing tram-style vehicle?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "What part of the red open-top bus is most visible from this angle?",
+      "modified": "What part of the blue open-top bus is most visible from this angle?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the red open-top bus the main subject of the scene?",
+      "modified": "Is the blue open-top bus the main subject of the scene?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "What color stands out most on the red open-top bus?",
+      "modified": "What color stands out most on the blue open-top bus?",
+      "false_premise": true
+    }
+  ]
+}

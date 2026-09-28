@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3190",
+    "source": "COCO",
+    "complexity": 3,
+    "category": 1,
+    "target": "person"
+  },
+  "base": {
+    "target_description": "the blonde woman riding a red motorcycle",
+    "modified_target_description": "the blonde woman riding a red motorcycle on the left",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the blonde woman riding a red motorcycle doing in the street?",
+      "modified": "What is the blonde woman riding a red motorcycle doing in the street?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the blonde woman riding a red motorcycle part of the parade?",
+      "modified": "Is the blonde woman riding a red motorcycle part of the parade?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "What is the blonde woman riding a red motorcycle wearing?",
+      "modified": "What is the blonde woman riding a red motorcycle wearing?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the blonde woman riding a red motorcycle facing toward the right side of the image?",
+      "modified": "Is the blonde woman riding a red motorcycle on the left facing toward the right side of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the blonde woman riding a red motorcycle appear to be moving or stopped?",
+      "modified": "Does the blonde woman riding a red motorcycle on the left appear to be moving or stopped?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the blonde woman riding a red motorcycle closer to the center of the image than the edge?",
+      "modified": "Is the blonde woman riding a red motorcycle on the left closer to the center of the image than the edge?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the blonde woman riding a red motorcycle have one hand on the handlebar?",
+      "modified": "Does the blonde woman riding a red motorcycle on the left have one hand on the handlebar?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the blonde woman riding a red motorcycle in front of a crowd of spectators?",
+      "modified": "Is the blonde woman riding a red motorcycle on the left in front of a crowd of spectators?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the blonde woman riding a red motorcycle appear to be smiling?",
+      "modified": "Does the blonde woman riding a red motorcycle on the left appear to be smiling?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the blonde woman riding a red motorcycle next to other motorcycles?",
+      "modified": "Is the blonde woman riding a red motorcycle on the left next to other motorcycles?",
+      "false_premise": true
+    }
+  ]
+}

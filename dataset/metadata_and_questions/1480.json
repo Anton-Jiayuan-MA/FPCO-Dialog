@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1480",
+    "source": "COCO",
+    "complexity": 1,
+    "category": 4,
+    "target": "wine"
+  },
+  "base": {
+    "target_description": "the dark Modelo beer bottle",
+    "modified_target_description": "the dark Modelo beer bottle on the right",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What brand is shown on the dark Modelo beer bottle?",
+      "modified": "What brand is shown on the dark Modelo beer bottle?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the dark Modelo beer bottle open or still capped?",
+      "modified": "Is the dark Modelo beer bottle open or still capped?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Where is the dark Modelo beer bottle placed in the scene?",
+      "modified": "Where is the dark Modelo beer bottle placed in the scene?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the dark Modelo beer bottle standing upright on a table?",
+      "modified": "Is the dark Modelo beer bottle on the right standing upright on a table?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the dark Modelo beer bottle appear to be full or partially empty?",
+      "modified": "Does the dark Modelo beer bottle on the right appear to be full or partially empty?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the dark Modelo beer bottle in the shade or in direct sunlight?",
+      "modified": "Is the dark Modelo beer bottle on the right in the shade or in direct sunlight?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "What can you see behind the dark Modelo beer bottle?",
+      "modified": "What can you see behind the dark Modelo beer bottle on the right?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the dark Modelo beer bottle look chilled for the beach setting?",
+      "modified": "Does the dark Modelo beer bottle on the right look chilled for the beach setting?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the label on the dark Modelo beer bottle clearly visible?",
+      "modified": "Is the label on the dark Modelo beer bottle on the right clearly visible?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the dark Modelo beer bottle the main focus of the image?",
+      "modified": "Is the dark Modelo beer bottle on the right the main focus of the image?",
+      "false_premise": true
+    }
+  ]
+}

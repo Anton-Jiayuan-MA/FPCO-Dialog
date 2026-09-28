@@ -1,0 +1,11 @@
+k,overall_correctiontpatk_gpt54,overall_correctiontpatk_gemini31pro,overall_correctiontpatk_average,identity_correctiontpatk_gpt54,identity_correctiontpatk_gemini31pro,identity_correctiontpatk_average,attribute_correctiontpatk_gpt54,attribute_correctiontpatk_gemini31pro,attribute_correctiontpatk_average,location_correctiontpatk_gpt54,location_correctiontpatk_gemini31pro,location_correctiontpatk_average,overall_correctionfpatk_gpt54,overall_correctionfpatk_gemini31pro,overall_correctionfpatk_average,identity_correctionfpatk_gpt54,identity_correctionfpatk_gemini31pro,identity_correctionfpatk_average,attribute_correctionfpatk_gpt54,attribute_correctionfpatk_gemini31pro,attribute_correctionfpatk_average,location_correctionfpatk_gpt54,location_correctionfpatk_gemini31pro,location_correctionfpatk_average
+1,,,,,,,,,,,,,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000
+2,,,,,,,,,,,,,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000
+3,,,,,,,,,,,,,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000
+4,0.072,0.075,0.073,0.125,0.133,0.129,0.069,0.083,0.076,0.022,0.008,0.015,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000
+5,0.071,0.076,0.073,0.121,0.131,0.126,0.076,0.090,0.083,0.015,0.007,0.011,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000
+6,0.072,0.076,0.074,0.126,0.131,0.129,0.076,0.090,0.083,0.015,0.007,0.011,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000
+7,0.074,0.079,0.076,0.131,0.136,0.134,0.079,0.093,0.086,0.013,0.007,0.010,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000
+8,0.075,0.079,0.077,0.132,0.137,0.135,0.081,0.094,0.087,0.013,0.006,0.009,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000
+9,0.076,0.080,0.078,0.134,0.139,0.137,0.083,0.097,0.090,0.012,0.005,0.009,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000
+10,0.077,0.081,0.079,0.137,0.141,0.139,0.083,0.097,0.090,0.011,0.005,0.008,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0.000

@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1433",
+    "source": "COCO",
+    "complexity": 1,
+    "category": 4,
+    "target": "broccoli"
+  },
+  "base": {
+    "target_description": "the broccoli with melted cheese",
+    "modified_target_description": "the broccoli with grated cheese",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What color is the broccoli with melted cheese?",
+      "modified": "What color is the broccoli with melted cheese?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the broccoli with melted cheese served on a plate?",
+      "modified": "Is the broccoli with melted cheese served on a plate?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the broccoli with melted cheese look freshly cooked?",
+      "modified": "Does the broccoli with melted cheese look freshly cooked?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the broccoli with melted cheese covered heavily or lightly?",
+      "modified": "Is the broccoli with grated cheese covered heavily or lightly?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the broccoli with melted cheese have any browned spots on top?",
+      "modified": "Does the broccoli with grated cheese have any browned spots on top?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the broccoli with melted cheese in the foreground of the image?",
+      "modified": "Is the broccoli with grated cheese in the foreground of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the broccoli with melted cheese look creamy?",
+      "modified": "Does the broccoli with grated cheese look creamy?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the broccoli with melted cheese arranged in more than one piece?",
+      "modified": "Is the broccoli with grated cheese arranged in more than one piece?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the broccoli with melted cheese appear to be a side dish?",
+      "modified": "Does the broccoli with grated cheese appear to be a side dish?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the broccoli with melted cheese next to another cooked item on the plate?",
+      "modified": "Is the broccoli with grated cheese next to another cooked item on the plate?",
+      "false_premise": true
+    }
+  ]
+}

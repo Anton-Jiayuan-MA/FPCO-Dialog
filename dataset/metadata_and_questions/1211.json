@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1211",
+    "source": "COCO",
+    "complexity": 1,
+    "category": 2,
+    "target": "truck"
+  },
+  "base": {
+    "target_description": "the rusty snow-covered truck",
+    "modified_target_description": "the rusty snow-covered car",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What color is the rusty snow-covered truck?",
+      "modified": "What color is the rusty snow-covered truck?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the rusty snow-covered truck parked or moving?",
+      "modified": "Is the rusty snow-covered truck parked or moving?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the rusty snow-covered truck look old and worn?",
+      "modified": "Does the rusty snow-covered truck look old and worn?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is there snow sitting on top of the rusty snow-covered truck?",
+      "modified": "Is there snow sitting on top of the rusty snow-covered car?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Where is the rusty snow-covered truck positioned in the scene?",
+      "modified": "Where is the rusty snow-covered car positioned in the scene?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the rusty snow-covered truck appear to be outdoors?",
+      "modified": "Does the rusty snow-covered car appear to be outdoors?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "What is next to the rusty snow-covered truck?",
+      "modified": "What is next to the rusty snow-covered car?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the rusty snow-covered truck facing toward the left or the right?",
+      "modified": "Is the rusty snow-covered car facing toward the left or the right?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Do the tires of the rusty snow-covered truck look partially surrounded by snow?",
+      "modified": "Do the tires of the rusty snow-covered car look partially surrounded by snow?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the rusty snow-covered truck seem usable or abandoned?",
+      "modified": "Does the rusty snow-covered car seem usable or abandoned?",
+      "false_premise": true
+    }
+  ]
+}

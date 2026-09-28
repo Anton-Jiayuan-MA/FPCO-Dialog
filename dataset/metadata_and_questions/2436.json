@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2436",
+    "source": "Open Images",
+    "complexity": 2,
+    "category": 4,
+    "target": "tomato"
+  },
+  "base": {
+    "target_description": "the sliced tomato halves",
+    "modified_target_description": "the whole tomato halves",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What color are the sliced tomato halves?",
+      "modified": "What color are the sliced tomato halves?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Are the sliced tomato halves cut open to show the inside?",
+      "modified": "Are the sliced tomato halves cut open to show the inside?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Do the sliced tomato halves have visible seeds?",
+      "modified": "Do the sliced tomato halves have visible seeds?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Are the sliced tomato halves resting on a countertop?",
+      "modified": "Are the whole tomato halves resting on a countertop?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Do the sliced tomato halves look fresh and juicy?",
+      "modified": "Do the whole tomato halves look fresh and juicy?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Are the sliced tomato halves placed close together?",
+      "modified": "Are the whole tomato halves placed close together?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Do the sliced tomato halves appear to be raw?",
+      "modified": "Do the whole tomato halves appear to be raw?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Are the sliced tomato halves shown from above at a slight angle?",
+      "modified": "Are the whole tomato halves shown from above at a slight angle?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Do the sliced tomato halves have a soft, moist interior?",
+      "modified": "Do the whole tomato halves have a soft, moist interior?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Are the sliced tomato halves the main focus of the image?",
+      "modified": "Are the whole tomato halves the main focus of the image?",
+      "false_premise": true
+    }
+  ]
+}

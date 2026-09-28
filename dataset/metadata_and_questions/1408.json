@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1408",
+    "source": "Open Images",
+    "complexity": 1,
+    "category": 4,
+    "target": "salad"
+  },
+  "base": {
+    "target_description": "the shrimp salad on a white plate",
+    "modified_target_description": "the pasta on a white plate",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What ingredients can you see in the shrimp salad on a white plate?",
+      "modified": "What ingredients can you see in the shrimp salad on a white plate?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the shrimp salad on a white plate look freshly prepared?",
+      "modified": "Does the shrimp salad on a white plate look freshly prepared?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the shrimp salad on a white plate topped with shrimp?",
+      "modified": "Is the shrimp salad on a white plate topped with shrimp?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Are there any crispy garnishes on the shrimp salad on a white plate?",
+      "modified": "Are there any crispy garnishes on the pasta on a white plate?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the shrimp salad on a white plate include leafy greens?",
+      "modified": "Does the pasta on a white plate include leafy greens?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the shrimp salad on a white plate being served as a main dish?",
+      "modified": "Is the pasta on a white plate being served as a main dish?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Can you see any sliced vegetables in the shrimp salad on a white plate?",
+      "modified": "Can you see any sliced vegetables in the pasta on a white plate?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the shrimp salad on a white plate arranged neatly for serving?",
+      "modified": "Is the pasta on a white plate arranged neatly for serving?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the shrimp salad on a white plate come with anything on the side?",
+      "modified": "Does the pasta on a white plate come with anything on the side?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Would you describe the shrimp salad on a white plate as colorful?",
+      "modified": "Would you describe the pasta on a white plate as colorful?",
+      "false_premise": true
+    }
+  ]
+}

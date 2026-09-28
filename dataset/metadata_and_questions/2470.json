@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2470",
+    "source": "COCO",
+    "complexity": 2,
+    "category": 4,
+    "target": "breakfast"
+  },
+  "base": {
+    "target_description": "the plate of breakfast food",
+    "modified_target_description": "the plate of breakfast food on the left side",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What kinds of items are on the plate of breakfast food?",
+      "modified": "What kinds of items are on the plate of breakfast food?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the plate of breakfast food sitting on a table?",
+      "modified": "Is the plate of breakfast food sitting on a table?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the plate of breakfast food look partly eaten or untouched?",
+      "modified": "Does the plate of breakfast food look partly eaten or untouched?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "What is next to the plate of breakfast food on the right side?",
+      "modified": "What is next to the plate of breakfast food on the left side on the right side?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the plate of breakfast food near a white mug?",
+      "modified": "Is the plate of breakfast food on the left side near a white mug?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the plate of breakfast food include something that looks like bread or cake?",
+      "modified": "Does the plate of breakfast food on the left side include something that looks like bread or cake?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the plate of breakfast food arranged neatly or messily?",
+      "modified": "Is the plate of breakfast food on the left side arranged neatly or messily?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "What color is the plate holding the plate of breakfast food?",
+      "modified": "What color is the plate holding the plate of breakfast food on the left side?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the plate of breakfast food the main focus of the table setting?",
+      "modified": "Is the plate of breakfast food on the left side the main focus of the table setting?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the plate of breakfast food appear to be part of a served meal?",
+      "modified": "Does the plate of breakfast food on the left side appear to be part of a served meal?",
+      "false_premise": true
+    }
+  ]
+}

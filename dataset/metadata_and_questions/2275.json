@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2275",
+    "source": "COCO",
+    "complexity": 2,
+    "category": 2,
+    "target": "car"
+  },
+  "base": {
+    "target_description": "the beige car with an open door",
+    "modified_target_description": "the beige car on the right side of the image",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Where is the beige car with an open door parked in the scene?",
+      "modified": "Where is the beige car with an open door parked in the scene?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the beige car with an open door facing toward the left or the right?",
+      "modified": "Is the beige car with an open door facing toward the left or the right?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the beige car with an open door appear to be stopped on a road or in a parking lot?",
+      "modified": "Does the beige car with an open door appear to be stopped on a road or in a parking lot?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Can you see anyone getting into or out of the beige car with an open door?",
+      "modified": "Can you see anyone getting into or out of the beige car on the right side of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "What is next to the beige car with an open door on the left side of the image?",
+      "modified": "What is next to the beige car on the right side of the image on the left side of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the beige car with an open door look like a sedan or an SUV?",
+      "modified": "Does the beige car on the right side of the image look like a sedan or an SUV?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the beige car with an open door closer to the camera than the bus?",
+      "modified": "Is the beige car on the right side of the image closer to the camera than the bus?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the beige car with an open door have a dark-colored roof?",
+      "modified": "Does the beige car on the right side of the image have a dark-colored roof?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the beige car with an open door positioned near the chalk-covered pavement?",
+      "modified": "Is the beige car on the right side of the image positioned near the chalk-covered pavement?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "What direction is the beige car with an open door angled relative to the image?",
+      "modified": "What direction is the beige car on the right side of the image angled relative to the image?",
+      "false_premise": true
+    }
+  ]
+}

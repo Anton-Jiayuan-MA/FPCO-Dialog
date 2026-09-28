@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1238",
+    "source": "COCO",
+    "complexity": 1,
+    "category": 2,
+    "target": "airplane"
+  },
+  "base": {
+    "target_description": "the white airplane with a blue tail",
+    "modified_target_description": "the white airplane with a red tail",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the white airplane with a blue tail flying low over the trees?",
+      "modified": "Is the white airplane with a blue tail flying low over the trees?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the white airplane with a blue tail have its landing gear down?",
+      "modified": "Does the white airplane with a blue tail have its landing gear down?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the white airplane with a blue tail seen from behind?",
+      "modified": "Is the white airplane with a blue tail seen from behind?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the white airplane with a blue tail appear to be preparing to land?",
+      "modified": "Does the white airplane with a red tail appear to be preparing to land?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Are both wings of the white airplane with a blue tail visible in the image?",
+      "modified": "Are both wings of the white airplane with a red tail visible in the image?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the white airplane with a blue tail centered in the scene?",
+      "modified": "Is the white airplane with a red tail centered in the scene?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Can you see engines attached to the white airplane with a blue tail?",
+      "modified": "Can you see engines attached to the white airplane with a red tail?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the white airplane with a blue tail above a forested area?",
+      "modified": "Is the white airplane with a red tail above a forested area?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the white airplane with a blue tail stand out against the mountain background?",
+      "modified": "Does the white airplane with a red tail stand out against the mountain background?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the white airplane with a blue tail the main subject of the image?",
+      "modified": "Is the white airplane with a red tail the main subject of the image?",
+      "false_premise": true
+    }
+  ]
+}

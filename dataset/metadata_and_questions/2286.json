@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2286",
+    "source": "Open Images",
+    "complexity": 2,
+    "category": 2,
+    "target": "car"
+  },
+  "base": {
+    "target_description": "the red sports car with a black roof",
+    "modified_target_description": "the red sports car with a black roof on the left",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What color is the red sports car with a black roof?",
+      "modified": "What color is the red sports car with a black roof?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the red sports car with a black roof parked or moving?",
+      "modified": "Is the red sports car with a black roof parked or moving?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the red sports car with a black roof appear to be outdoors?",
+      "modified": "Does the red sports car with a black roof appear to be outdoors?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the red sports car with a black roof next to another vehicle?",
+      "modified": "Is the red sports car with a black roof on the left next to another vehicle?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "What kind of surface is the red sports car with a black roof parked on?",
+      "modified": "What kind of surface is the red sports car with a black roof on the left parked on?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the red sports car with a black roof have its headlights exposed or closed?",
+      "modified": "Does the red sports car with a black roof on the left have its headlights exposed or closed?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the red sports car with a black roof facing toward the camera or away from it?",
+      "modified": "Is the red sports car with a black roof on the left facing toward the camera or away from it?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the red sports car with a black roof have two doors or four doors?",
+      "modified": "Does the red sports car with a black roof on the left have two doors or four doors?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is there anything visible on the dashboard of the red sports car with a black roof?",
+      "modified": "Is there anything visible on the dashboard of the red sports car with a black roof on the left?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Are the windows of the red sports car with a black roof clear enough to see inside?",
+      "modified": "Are the windows of the red sports car with a black roof on the left clear enough to see inside?",
+      "false_premise": true
+    }
+  ]
+}

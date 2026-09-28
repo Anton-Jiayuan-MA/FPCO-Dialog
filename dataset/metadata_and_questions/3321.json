@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3321",
+    "source": "COCO",
+    "complexity": 3,
+    "category": 3,
+    "target": "sheep"
+  },
+  "base": {
+    "target_description": "the woolly sheep on the left",
+    "modified_target_description": "the woolly dog on the left",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What color is the wool on the woolly sheep on the left?",
+      "modified": "What color is the wool on the woolly sheep on the left?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the woolly sheep on the left standing on grass?",
+      "modified": "Is the woolly sheep on the left standing on grass?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the woolly sheep on the left facing toward the camera or away from it?",
+      "modified": "Is the woolly sheep on the left facing toward the camera or away from it?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the woolly sheep on the left appear to be next to another sheep?",
+      "modified": "Does the woolly dog on the left appear to be next to another sheep?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the woolly sheep on the left inside a fenced area?",
+      "modified": "Is the woolly dog on the left inside a fenced area?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the woolly sheep on the left have all four legs visible?",
+      "modified": "Does the woolly dog on the left have all four legs visible?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the woolly sheep on the left closer to the camera than the other sheep?",
+      "modified": "Is the woolly dog on the left closer to the camera than the other sheep?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the woolly sheep on the left appear calm in the scene?",
+      "modified": "Does the woolly dog on the left appear calm in the scene?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the woolly sheep on the left looking slightly to the right?",
+      "modified": "Is the woolly dog on the left looking slightly to the right?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the woolly sheep on the left have a thick fleece?",
+      "modified": "Does the woolly dog on the left have a thick fleece?",
+      "false_premise": true
+    }
+  ]
+}

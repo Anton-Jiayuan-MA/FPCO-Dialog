@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3137",
+    "source": "COCO",
+    "complexity": 3,
+    "category": 1,
+    "target": "child"
+  },
+  "base": {
+    "target_description": "the child in a Braves shirt and gray pants",
+    "modified_target_description": "the child in a Braves shirt and black pants",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the child in a Braves shirt and gray pants doing in the scene?",
+      "modified": "What is the child in a Braves shirt and gray pants doing in the scene?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the child in a Braves shirt and gray pants moving toward the camera or away from it?",
+      "modified": "Is the child in a Braves shirt and gray pants moving toward the camera or away from it?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the child in a Braves shirt and gray pants appear to be running on the baseball field?",
+      "modified": "Does the child in a Braves shirt and gray pants appear to be running on the baseball field?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "What is the child in a Braves shirt and gray pants wearing on the head?",
+      "modified": "What is the child in a Braves shirt and black pants wearing on the head?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the child in a Braves shirt and gray pants holding anything while moving?",
+      "modified": "Is the child in a Braves shirt and black pants holding anything while moving?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Where is the child in a Braves shirt and gray pants positioned relative to the other children?",
+      "modified": "Where is the child in a Braves shirt and black pants positioned relative to the other children?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the child in a Braves shirt and gray pants look like part of a youth baseball team?",
+      "modified": "Does the child in a Braves shirt and black pants look like part of a youth baseball team?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the child in a Braves shirt and gray pants on the dirt part of the field?",
+      "modified": "Is the child in a Braves shirt and black pants on the dirt part of the field?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "What color are the shoes of the child in a Braves shirt and gray pants?",
+      "modified": "What color are the shoes of the child in a Braves shirt and black pants?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the child in a Braves shirt and gray pants seem to be participating in a game or drill?",
+      "modified": "Does the child in a Braves shirt and black pants seem to be participating in a game or drill?",
+      "false_premise": true
+    }
+  ]
+}

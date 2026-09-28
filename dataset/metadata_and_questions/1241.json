@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1241",
+    "source": "COCO",
+    "complexity": 1,
+    "category": 2,
+    "target": "truck"
+  },
+  "base": {
+    "target_description": "the red and blue dump truck",
+    "modified_target_description": "the green and blue dump truck",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What color is the red and blue dump truck?",
+      "modified": "What color is the red and blue dump truck?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the red and blue dump truck parked or moving in the street?",
+      "modified": "Is the red and blue dump truck parked or moving in the street?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the red and blue dump truck appear to be large?",
+      "modified": "Does the red and blue dump truck appear to be large?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the bed of the red and blue dump truck empty or full?",
+      "modified": "Is the bed of the green and blue dump truck empty or full?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the red and blue dump truck have more than four wheels visible?",
+      "modified": "Does the green and blue dump truck have more than four wheels visible?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the red and blue dump truck facing toward the left side of the image?",
+      "modified": "Is the green and blue dump truck facing toward the left side of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the red and blue dump truck have writing on its side?",
+      "modified": "Does the green and blue dump truck have writing on its side?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the red and blue dump truck on a wet road?",
+      "modified": "Is the green and blue dump truck on a wet road?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Can you see the cab of the red and blue dump truck clearly?",
+      "modified": "Can you see the cab of the green and blue dump truck clearly?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the red and blue dump truck the main vehicle in the scene?",
+      "modified": "Is the green and blue dump truck the main vehicle in the scene?",
+      "false_premise": true
+    }
+  ]
+}

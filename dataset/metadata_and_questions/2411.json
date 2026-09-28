@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2411",
+    "source": "COCO",
+    "complexity": 2,
+    "category": 4,
+    "target": "pizza"
+  },
+  "base": {
+    "target_description": "the rectangular pizza on the left",
+    "modified_target_description": "the rectangular cake on the left",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What toppings can you see on the rectangular pizza on the left?",
+      "modified": "What toppings can you see on the rectangular pizza on the left?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the rectangular pizza on the left have tomato slices on it?",
+      "modified": "Does the rectangular pizza on the left have tomato slices on it?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the rectangular pizza on the left covered with melted cheese?",
+      "modified": "Is the rectangular pizza on the left covered with melted cheese?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the rectangular pizza on the left look freshly baked?",
+      "modified": "Does the rectangular cake on the left look freshly baked?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the rectangular pizza on the left sitting in a baking tray?",
+      "modified": "Is the rectangular cake on the left sitting in a baking tray?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "How browned does the cheese look on the rectangular pizza on the left?",
+      "modified": "How browned does the cheese look on the rectangular cake on the left?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the rectangular pizza on the left appear thicker or thinner than a typical slice pizza?",
+      "modified": "Does the rectangular cake on the left appear thicker or thinner than a typical slice pizza?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the crust of the rectangular pizza on the left golden around the edges?",
+      "modified": "Is the crust of the rectangular cake on the left golden around the edges?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the rectangular pizza on the left take up most of its pan?",
+      "modified": "Does the rectangular cake on the left take up most of its pan?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Would you say the rectangular pizza on the left looks homemade?",
+      "modified": "Would you say the rectangular cake on the left looks homemade?",
+      "false_premise": true
+    }
+  ]
+}

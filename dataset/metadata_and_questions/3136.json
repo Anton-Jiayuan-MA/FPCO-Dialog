@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3136",
+    "source": "COCO",
+    "complexity": 3,
+    "category": 1,
+    "target": "man"
+  },
+  "base": {
+    "target_description": "the gray-haired man using a laptop",
+    "modified_target_description": "the dark-haired man using a laptop",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the gray-haired man using a laptop doing in the room?",
+      "modified": "What is the gray-haired man using a laptop doing in the room?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the gray-haired man using a laptop sitting at a table?",
+      "modified": "Is the gray-haired man using a laptop sitting at a table?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "What is in front of the gray-haired man using a laptop?",
+      "modified": "What is in front of the gray-haired man using a laptop?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the gray-haired man using a laptop appear to be working?",
+      "modified": "Does the dark-haired man using a laptop appear to be working?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the gray-haired man using a laptop near any papers or books?",
+      "modified": "Is the dark-haired man using a laptop near any papers or books?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Where is the gray-haired man using a laptop positioned in the image?",
+      "modified": "Where is the dark-haired man using a laptop positioned in the image?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the gray-haired man using a laptop alone at his table?",
+      "modified": "Is the dark-haired man using a laptop alone at his table?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the gray-haired man using a laptop have a drink nearby?",
+      "modified": "Does the dark-haired man using a laptop have a drink nearby?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "What kind of device is the gray-haired man using a laptop focused on?",
+      "modified": "What kind of device is the dark-haired man using a laptop focused on?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the gray-haired man using a laptop closer to the camera than the other people?",
+      "modified": "Is the dark-haired man using a laptop closer to the camera than the other people?",
+      "false_premise": true
+    }
+  ]
+}

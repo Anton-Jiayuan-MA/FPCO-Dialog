@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1155",
+    "source": "Open Images",
+    "complexity": 1,
+    "category": 1,
+    "target": "man"
+  },
+  "base": {
+    "target_description": "the bearded man in a white shirt and glasses",
+    "modified_target_description": "the bearded man in a black shirt and glasses",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the bearded man in a white shirt and glasses doing with his hands?",
+      "modified": "What is the bearded man in a white shirt and glasses doing with his hands?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the bearded man in a white shirt and glasses standing or sitting?",
+      "modified": "Is the bearded man in a white shirt and glasses standing or sitting?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the bearded man in a white shirt and glasses appear to be speaking?",
+      "modified": "Does the bearded man in a white shirt and glasses appear to be speaking?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the bearded man in a white shirt and glasses wearing any kind of badge or lanyard?",
+      "modified": "Is the bearded man in a black shirt and glasses wearing any kind of badge or lanyard?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "What is positioned in front of the bearded man in a white shirt and glasses?",
+      "modified": "What is positioned in front of the bearded man in a black shirt and glasses?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the bearded man in a white shirt and glasses looking toward the camera or off to the side?",
+      "modified": "Is the bearded man in a black shirt and glasses looking toward the camera or off to the side?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the bearded man in a white shirt and glasses seem to be giving a presentation?",
+      "modified": "Does the bearded man in a black shirt and glasses seem to be giving a presentation?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "What expression does the bearded man in a white shirt and glasses have?",
+      "modified": "What expression does the bearded man in a black shirt and glasses have?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the bearded man in a white shirt and glasses indoors?",
+      "modified": "Is the bearded man in a black shirt and glasses indoors?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the bearded man in a white shirt and glasses near a computer monitor?",
+      "modified": "Is the bearded man in a black shirt and glasses near a computer monitor?",
+      "false_premise": true
+    }
+  ]
+}

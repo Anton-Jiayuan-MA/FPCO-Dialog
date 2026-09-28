@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2235",
+    "source": "Open Images",
+    "complexity": 2,
+    "category": 2,
+    "target": "go-kart"
+  },
+  "base": {
+    "target_description": "the blue go-kart in the foreground",
+    "modified_target_description": "the red go-kart in the foreground",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the blue go-kart in the foreground moving along the racetrack?",
+      "modified": "Is the blue go-kart in the foreground moving along the racetrack?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the blue go-kart in the foreground appear closer to the camera than the other kart?",
+      "modified": "Does the blue go-kart in the foreground appear closer to the camera than the other kart?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the blue go-kart in the foreground being driven by someone in a blue racing suit?",
+      "modified": "Is the blue go-kart in the foreground being driven by someone in a blue racing suit?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the blue go-kart in the foreground look like it is turning on the curve?",
+      "modified": "Does the red go-kart in the foreground look like it is turning on the curve?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the blue go-kart in the foreground positioned near the bottom of the image?",
+      "modified": "Is the red go-kart in the foreground positioned near the bottom of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the blue go-kart in the foreground have a low, open racing design?",
+      "modified": "Does the red go-kart in the foreground have a low, open racing design?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the blue go-kart in the foreground on a paved track?",
+      "modified": "Is the red go-kart in the foreground on a paved track?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the blue go-kart in the foreground appear to be ahead of the other kart?",
+      "modified": "Does the red go-kart in the foreground appear to be ahead of the other kart?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the blue go-kart in the foreground angled slightly toward the left side of the image?",
+      "modified": "Is the red go-kart in the foreground angled slightly toward the left side of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Can you see the front bumper of the blue go-kart in the foreground clearly?",
+      "modified": "Can you see the front bumper of the red go-kart in the foreground clearly?",
+      "false_premise": true
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1436",
+    "source": "COCO",
+    "complexity": 1,
+    "category": 4,
+    "target": "cake"
+  },
+  "base": {
+    "target_description": "the slice of crumb cake on a white plate",
+    "modified_target_description": "the chocolate slice of crumb cake on a white plate",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What color is the slice of crumb cake on a white plate?",
+      "modified": "What color is the slice of crumb cake on a white plate?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the slice of crumb cake on a white plate look soft and fluffy?",
+      "modified": "Does the slice of crumb cake on a white plate look soft and fluffy?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the slice of crumb cake on a white plate sitting on a table?",
+      "modified": "Is the slice of crumb cake on a white plate sitting on a table?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the slice of crumb cake on a white plate have a crumb topping?",
+      "modified": "Does the chocolate slice of crumb cake on a white plate have a crumb topping?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the slice of crumb cake on a white plate shown close up in the image?",
+      "modified": "Is the chocolate slice of crumb cake on a white plate shown close up in the image?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the slice of crumb cake on a white plate appear to have any dark fruit pieces inside?",
+      "modified": "Does the chocolate slice of crumb cake on a white plate appear to have any dark fruit pieces inside?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the slice of crumb cake on a white plate the main focus of the photo?",
+      "modified": "Is the chocolate slice of crumb cake on a white plate the main focus of the photo?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the slice of crumb cake on a white plate look thick?",
+      "modified": "Does the chocolate slice of crumb cake on a white plate look thick?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the slice of crumb cake on a white plate indoors?",
+      "modified": "Is the chocolate slice of crumb cake on a white plate indoors?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the slice of crumb cake on a white plate partially backlit by the window?",
+      "modified": "Is the chocolate slice of crumb cake on a white plate partially backlit by the window?",
+      "false_premise": true
+    }
+  ]
+}

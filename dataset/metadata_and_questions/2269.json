@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2269",
+    "source": "Open Images",
+    "complexity": 2,
+    "category": 2,
+    "target": "bicycle"
+  },
+  "base": {
+    "target_description": "the white bicycle by the bike rack",
+    "modified_target_description": "the white bicycle in front of the bike rack",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the white bicycle by the bike rack parked or moving?",
+      "modified": "Is the white bicycle by the bike rack parked or moving?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the white bicycle by the bike rack have a saddle visible?",
+      "modified": "Does the white bicycle by the bike rack have a saddle visible?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the white bicycle by the bike rack leaning against the rack?",
+      "modified": "Is the white bicycle by the bike rack leaning against the rack?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Can you see both wheels on the white bicycle by the bike rack?",
+      "modified": "Can you see both wheels on the white bicycle in front of the bike rack?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the white bicycle by the bike rack appear to be outdoors?",
+      "modified": "Does the white bicycle in front of the bike rack appear to be outdoors?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the front wheel of the white bicycle by the bike rack turned slightly to one side?",
+      "modified": "Is the front wheel of the white bicycle in front of the bike rack turned slightly to one side?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the white bicycle by the bike rack look like a standard road or commuter bike?",
+      "modified": "Does the white bicycle in front of the bike rack look like a standard road or commuter bike?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the white bicycle by the bike rack positioned in front of a stone wall?",
+      "modified": "Is the white bicycle in front of the bike rack positioned in front of a stone wall?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the white bicycle by the bike rack have dark handlebars?",
+      "modified": "Does the white bicycle in front of the bike rack have dark handlebars?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the white bicycle by the bike rack among several other bicycles?",
+      "modified": "Is the white bicycle in front of the bike rack among several other bicycles?",
+      "false_premise": true
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2479",
+    "source": "Open Images",
+    "complexity": 2,
+    "category": 4,
+    "target": "beer"
+  },
+  "base": {
+    "target_description": "the dark beer bottle on the carpet",
+    "modified_target_description": "the dark beer bottle by the carpet",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the dark beer bottle on the carpet standing upright?",
+      "modified": "Is the dark beer bottle on the carpet standing upright?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the dark beer bottle on the carpet have a label on the front?",
+      "modified": "Does the dark beer bottle on the carpet have a label on the front?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the dark beer bottle on the carpet one of several drinks lined up together?",
+      "modified": "Is the dark beer bottle on the carpet one of several drinks lined up together?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the dark beer bottle on the carpet placed indoors?",
+      "modified": "Is the dark beer bottle by the carpet placed indoors?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the dark beer bottle on the carpet appear to be unopened?",
+      "modified": "Does the dark beer bottle by the carpet appear to be unopened?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the dark beer bottle on the carpet closer to the center than the far edge of the image?",
+      "modified": "Is the dark beer bottle by the carpet closer to the center than the far edge of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the dark beer bottle on the carpet look taller than the can beside it?",
+      "modified": "Does the dark beer bottle by the carpet look taller than the can beside it?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the dark beer bottle on the carpet positioned in front of wooden furniture?",
+      "modified": "Is the dark beer bottle by the carpet positioned in front of wooden furniture?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the dark beer bottle on the carpet have a narrow neck?",
+      "modified": "Does the dark beer bottle by the carpet have a narrow neck?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the dark beer bottle on the carpet part of a row of beer containers?",
+      "modified": "Is the dark beer bottle by the carpet part of a row of beer containers?",
+      "false_premise": true
+    }
+  ]
+}

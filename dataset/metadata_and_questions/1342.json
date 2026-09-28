@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1342",
+    "source": "Open Images",
+    "complexity": 1,
+    "category": 3,
+    "target": "fish"
+  },
+  "base": {
+    "target_description": "the large spotted fish",
+    "modified_target_description": "the small spotted fish",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What color is the large spotted fish?",
+      "modified": "What color is the large spotted fish?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the large spotted fish swimming underwater?",
+      "modified": "Is the large spotted fish swimming underwater?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Which direction is the large spotted fish facing?",
+      "modified": "Which direction is the large spotted fish facing?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the large spotted fish look close to the glass?",
+      "modified": "Does the small spotted fish look close to the glass?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the large spotted fish bigger than the other fish nearby?",
+      "modified": "Is the small spotted fish bigger than the other fish nearby?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the large spotted fish have its mouth open or closed?",
+      "modified": "Does the small spotted fish have its mouth open or closed?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Can you see the fins on the large spotted fish clearly?",
+      "modified": "Can you see the fins on the small spotted fish clearly?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the large spotted fish near the bottom of the tank?",
+      "modified": "Is the small spotted fish near the bottom of the tank?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the large spotted fish appear to be alone in the foreground?",
+      "modified": "Does the small spotted fish appear to be alone in the foreground?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the large spotted fish the main subject of the image?",
+      "modified": "Is the small spotted fish the main subject of the image?",
+      "false_premise": true
+    }
+  ]
+}

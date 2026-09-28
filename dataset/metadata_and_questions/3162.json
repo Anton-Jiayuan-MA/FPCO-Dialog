@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3162",
+    "source": "Open Images",
+    "complexity": 3,
+    "category": 1,
+    "target": "person"
+  },
+  "base": {
+    "target_description": "the gymnast in a black sparkling leotard",
+    "modified_target_description": "the gymnast on the left in a black sparkling leotard",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the gymnast in a black sparkling leotard looking at?",
+      "modified": "What is the gymnast in a black sparkling leotard looking at?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the gymnast in a black sparkling leotard standing still or moving?",
+      "modified": "Is the gymnast in a black sparkling leotard standing still or moving?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the gymnast in a black sparkling leotard appear to be part of a team lineup?",
+      "modified": "Does the gymnast in a black sparkling leotard appear to be part of a team lineup?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "What kind of expression does the gymnast in a black sparkling leotard have?",
+      "modified": "What kind of expression does the gymnast on the left in a black sparkling leotard have?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the gymnast in a black sparkling leotard facing toward the left or the right?",
+      "modified": "Is the gymnast on the left in a black sparkling leotard facing toward the left or the right?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the gymnast in a black sparkling leotard have her hair tied up?",
+      "modified": "Does the gymnast on the left in a black sparkling leotard have her hair tied up?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the gymnast in a black sparkling leotard indoors?",
+      "modified": "Is the gymnast on the left in a black sparkling leotard indoors?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the gymnast in a black sparkling leotard standing close to other gymnasts?",
+      "modified": "Is the gymnast on the left in a black sparkling leotard standing close to other gymnasts?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the gymnast in a black sparkling leotard seem to be waiting for an event?",
+      "modified": "Does the gymnast on the left in a black sparkling leotard seem to be waiting for an event?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the gymnast in a black sparkling leotard wearing a long-sleeved outfit?",
+      "modified": "Is the gymnast on the left in a black sparkling leotard wearing a long-sleeved outfit?",
+      "false_premise": true
+    }
+  ]
+}

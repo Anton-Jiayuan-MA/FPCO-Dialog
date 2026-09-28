@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3178",
+    "source": "COCO",
+    "complexity": 3,
+    "category": 1,
+    "target": "person"
+  },
+  "base": {
+    "target_description": "the batter in a black jersey swinging at home plate",
+    "modified_target_description": "the batter in a black jersey swinging on the left side of the image",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the batter in a black jersey swinging at home plate holding the bat with both hands?",
+      "modified": "Is the batter in a black jersey swinging at home plate holding the bat with both hands?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the batter in a black jersey swinging at home plate appear to be making contact with the ball?",
+      "modified": "Does the batter in a black jersey swinging at home plate appear to be making contact with the ball?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the batter in a black jersey swinging at home plate wearing a batting helmet?",
+      "modified": "Is the batter in a black jersey swinging at home plate wearing a batting helmet?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the batter in a black jersey swinging at home plate facing toward the left side of the image?",
+      "modified": "Is the batter in a black jersey swinging on the left side of the image facing toward the left side of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the batter in a black jersey swinging at home plate standing in the batter's box?",
+      "modified": "Is the batter in a black jersey swinging on the left side of the image standing in the batter's box?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the batter in a black jersey swinging at home plate in front of the catcher?",
+      "modified": "Is the batter in a black jersey swinging on the left side of the image in front of the catcher?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the batter in a black jersey swinging at home plate have one foot lifted slightly off the ground?",
+      "modified": "Does the batter in a black jersey swinging on the left side of the image have one foot lifted slightly off the ground?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the batter in a black jersey swinging at home plate the main player in the foreground?",
+      "modified": "Is the batter in a black jersey swinging on the left side of the image the main player in the foreground?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the batter in a black jersey swinging at home plate near the umpire?",
+      "modified": "Is the batter in a black jersey swinging on the left side of the image near the umpire?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the batter in a black jersey swinging at home plate look like he is in the middle of a swing?",
+      "modified": "Does the batter in a black jersey swinging on the left side of the image look like he is in the middle of a swing?",
+      "false_premise": true
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2209",
+    "source": "COCO",
+    "complexity": 2,
+    "category": 2,
+    "target": "surfboard"
+  },
+  "base": {
+    "target_description": "the white surfboard on the sand",
+    "modified_target_description": "the white skateboard on the sand",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the white surfboard on the sand lying flat on the beach?",
+      "modified": "Is the white surfboard on the sand lying flat on the beach?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the white surfboard on the sand appear to be near other boards?",
+      "modified": "Does the white surfboard on the sand appear to be near other boards?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the white surfboard on the sand closer to the foreground than the water?",
+      "modified": "Is the white surfboard on the sand closer to the foreground than the water?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the white surfboard on the sand have a leash attached to it?",
+      "modified": "Does the white skateboard on the sand have a leash attached to it?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the white surfboard on the sand positioned upright or laid down?",
+      "modified": "Is the white skateboard on the sand positioned upright or laid down?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the white surfboard on the sand look ready to be used?",
+      "modified": "Does the white skateboard on the sand look ready to be used?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the white surfboard on the sand one of several surfboards visible in the scene?",
+      "modified": "Is the white skateboard on the sand one of several surfboards visible in the scene?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the white surfboard on the sand appear dry rather than in the water?",
+      "modified": "Does the white skateboard on the sand appear dry rather than in the water?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the white surfboard on the sand resting by itself without anyone holding it?",
+      "modified": "Is the white skateboard on the sand resting by itself without anyone holding it?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Would you say the white surfboard on the sand is facing toward the camera?",
+      "modified": "Would you say the white skateboard on the sand is facing toward the camera?",
+      "false_premise": true
+    }
+  ]
+}

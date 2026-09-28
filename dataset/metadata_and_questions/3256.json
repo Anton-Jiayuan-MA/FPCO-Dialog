@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3256",
+    "source": "COCO",
+    "complexity": 3,
+    "category": 2,
+    "target": "airplane"
+  },
+  "base": {
+    "target_description": "the camouflaged airplane with a red nose",
+    "modified_target_description": "the camouflaged airplane with a blue nose",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the camouflaged airplane with a red nose parked on the ground?",
+      "modified": "Is the camouflaged airplane with a red nose parked on the ground?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the camouflaged airplane with a red nose appear to be on display outdoors?",
+      "modified": "Does the camouflaged airplane with a red nose appear to be on display outdoors?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the camouflaged airplane with a red nose facing toward the camera?",
+      "modified": "Is the camouflaged airplane with a red nose facing toward the camera?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the camouflaged airplane with a red nose have its wings extended out to the sides?",
+      "modified": "Does the camouflaged airplane with a blue nose have its wings extended out to the sides?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the camouflaged airplane with a red nose positioned in front of the other planes?",
+      "modified": "Is the camouflaged airplane with a blue nose positioned in front of the other planes?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the camouflaged airplane with a red nose look like a military aircraft?",
+      "modified": "Does the camouflaged airplane with a blue nose look like a military aircraft?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the camouflaged airplane with a red nose surrounded by open pavement?",
+      "modified": "Is the camouflaged airplane with a blue nose surrounded by open pavement?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the camouflaged airplane with a red nose have a cockpit visible behind the nose?",
+      "modified": "Does the camouflaged airplane with a blue nose have a cockpit visible behind the nose?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the camouflaged airplane with a red nose displayed near some leafless trees?",
+      "modified": "Is the camouflaged airplane with a blue nose displayed near some leafless trees?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the camouflaged airplane with a red nose appear stationary in the scene?",
+      "modified": "Does the camouflaged airplane with a blue nose appear stationary in the scene?",
+      "false_premise": true
+    }
+  ]
+}

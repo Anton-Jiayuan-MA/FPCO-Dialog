@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1187",
+    "source": "COCO",
+    "complexity": 1,
+    "category": 1,
+    "target": "man"
+  },
+  "base": {
+    "target_description": "the man in a white shirt sitting on the grass",
+    "modified_target_description": "the man in a white shirt on the right",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the man in a white shirt sitting on the grass doing with his food?",
+      "modified": "What is the man in a white shirt sitting on the grass doing with his food?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the man in a white shirt sitting on the grass eating a meal?",
+      "modified": "Is the man in a white shirt sitting on the grass eating a meal?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "What is the man in a white shirt sitting on the grass holding in his hand?",
+      "modified": "What is the man in a white shirt sitting on the grass holding in his hand?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the man in a white shirt sitting on the grass look relaxed?",
+      "modified": "Does the man in a white shirt on the right look relaxed?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the man in a white shirt sitting on the grass outdoors?",
+      "modified": "Is the man in a white shirt on the right outdoors?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "What is next to the man in a white shirt sitting on the grass?",
+      "modified": "What is next to the man in a white shirt on the right?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the man in a white shirt sitting on the grass have a plate or container of food on his lap?",
+      "modified": "Does the man in a white shirt on the right have a plate or container of food on his lap?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the man in a white shirt sitting on the grass leaning against something?",
+      "modified": "Is the man in a white shirt on the right leaning against something?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "What kind of clothing is the man in a white shirt sitting on the grass wearing besides the shirt?",
+      "modified": "What kind of clothing is the man in a white shirt on the right wearing besides the shirt?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the man in a white shirt sitting on the grass appear to be having lunch?",
+      "modified": "Does the man in a white shirt on the right appear to be having lunch?",
+      "false_premise": true
+    }
+  ]
+}

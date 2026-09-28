@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2381",
+    "source": "Open Images",
+    "complexity": 2,
+    "category": 3,
+    "target": "bird"
+  },
+  "base": {
+    "target_description": "the bright red bird on the rock",
+    "modified_target_description": "the bright red bird beside the rock",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the bright red bird on the rock doing in the scene?",
+      "modified": "What is the bright red bird on the rock doing in the scene?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the bright red bird on the rock standing still or moving?",
+      "modified": "Is the bright red bird on the rock standing still or moving?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Which direction is the bright red bird on the rock facing?",
+      "modified": "Which direction is the bright red bird on the rock facing?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the bright red bird on the rock have a long beak?",
+      "modified": "Does the bright red bird beside the rock have a long beak?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Are the legs of the bright red bird on the rock clearly visible?",
+      "modified": "Are the legs of the bright red bird beside the rock clearly visible?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the bright red bird on the rock perched higher than the other bird?",
+      "modified": "Is the bright red bird beside the rock perched higher than the other bird?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the bright red bird on the rock appear to be inside an enclosure?",
+      "modified": "Does the bright red bird beside the rock appear to be inside an enclosure?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Can you see black feathers near the tail of the bright red bird on the rock?",
+      "modified": "Can you see black feathers near the tail of the bright red bird beside the rock?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the bright red bird on the rock the most vivid subject in the image?",
+      "modified": "Is the bright red bird beside the rock the most vivid subject in the image?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the bright red bird on the rock look like it is balancing comfortably?",
+      "modified": "Does the bright red bird beside the rock look like it is balancing comfortably?",
+      "false_premise": true
+    }
+  ]
+}

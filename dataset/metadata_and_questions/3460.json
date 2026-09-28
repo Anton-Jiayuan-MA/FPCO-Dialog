@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3460",
+    "source": "Open Images",
+    "complexity": 3,
+    "category": 4,
+    "target": "hot dog"
+  },
+  "base": {
+    "target_description": "the grilled hot dog in a bun",
+    "modified_target_description": "the boiled hot dog in a bun",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the grilled hot dog in a bun sitting in a foil tray?",
+      "modified": "Is the grilled hot dog in a bun sitting in a foil tray?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the grilled hot dog in a bun look ready to eat?",
+      "modified": "Does the grilled hot dog in a bun look ready to eat?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the grilled hot dog in a bun surrounded by other hot dogs?",
+      "modified": "Is the grilled hot dog in a bun surrounded by other hot dogs?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the grilled hot dog in a bun have dark grill marks on the sausage?",
+      "modified": "Does the boiled hot dog in a bun have dark grill marks on the sausage?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the grilled hot dog in a bun placed on a table outdoors?",
+      "modified": "Is the boiled hot dog in a bun placed on a table outdoors?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the grilled hot dog in a bun appear plain without toppings?",
+      "modified": "Does the boiled hot dog in a bun appear plain without toppings?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the grilled hot dog in a bun part of a large serving of food?",
+      "modified": "Is the boiled hot dog in a bun part of a large serving of food?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the grilled hot dog in a bun look freshly cooked?",
+      "modified": "Does the boiled hot dog in a bun look freshly cooked?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the grilled hot dog in a bun lying horizontally in the tray?",
+      "modified": "Is the boiled hot dog in a bun lying horizontally in the tray?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the grilled hot dog in a bun appear among several buns in the image?",
+      "modified": "Does the boiled hot dog in a bun appear among several buns in the image?",
+      "false_premise": true
+    }
+  ]
+}

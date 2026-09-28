@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3271",
+    "source": "Open Images",
+    "complexity": 3,
+    "category": 2,
+    "target": "bicycle"
+  },
+  "base": {
+    "target_description": "the black road bicycle",
+    "modified_target_description": "the black road bicycle on the right",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the black road bicycle being ridden in a race?",
+      "modified": "Is the black road bicycle being ridden in a race?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the black road bicycle have thin tires?",
+      "modified": "Does the black road bicycle have thin tires?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the black road bicycle moving along a cobblestone road?",
+      "modified": "Is the black road bicycle moving along a cobblestone road?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Can you see both wheels of the black road bicycle clearly?",
+      "modified": "Can you see both wheels of the black road bicycle on the right clearly?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the black road bicycle positioned near other bicycles?",
+      "modified": "Is the black road bicycle on the right positioned near other bicycles?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the black road bicycle have drop handlebars?",
+      "modified": "Does the black road bicycle on the right have drop handlebars?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the black road bicycle angled toward the left side of the image?",
+      "modified": "Is the black road bicycle on the right angled toward the left side of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the black road bicycle appear to be in motion?",
+      "modified": "Does the black road bicycle on the right appear to be in motion?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the black road bicycle close to the spectators at the bottom of the image?",
+      "modified": "Is the black road bicycle on the right close to the spectators at the bottom of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Can you see a water bottle attached to the black road bicycle?",
+      "modified": "Can you see a water bottle attached to the black road bicycle on the right?",
+      "false_premise": true
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2303",
+    "source": "COCO",
+    "complexity": 2,
+    "category": 3,
+    "target": "giraffe"
+  },
+  "base": {
+    "target_description": "the giraffe on the left",
+    "modified_target_description": "the zebra on the left",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What pattern is visible on the hindquarters of the giraffe on the left?",
+      "modified": "What pattern is visible on the hindquarters of the giraffe on the left?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the giraffe on the left facing toward the camera or away from it?",
+      "modified": "Is the giraffe on the left facing toward the camera or away from it?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Can you see the tail of the giraffe on the left hanging down?",
+      "modified": "Can you see the tail of the giraffe on the left hanging down?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the giraffe on the left appear to be standing close to another giraffe?",
+      "modified": "Does the zebra on the left appear to be standing close to another giraffe?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the giraffe on the left fully visible in the frame or partly cropped?",
+      "modified": "Is the zebra on the left fully visible in the frame or partly cropped?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "What color tones stand out on the coat of the giraffe on the left?",
+      "modified": "What color tones stand out on the coat of the zebra on the left?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the giraffe on the left look like it is indoors or outdoors?",
+      "modified": "Does the zebra on the left look like it is indoors or outdoors?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the giraffe on the left standing still in the scene?",
+      "modified": "Is the zebra on the left standing still in the scene?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "How much of the body of the giraffe on the left is shown in the image?",
+      "modified": "How much of the body of the zebra on the left is shown in the image?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the giraffe on the left positioned beside another animal of the same kind?",
+      "modified": "Is the zebra on the left positioned beside another animal of the same kind?",
+      "false_premise": true
+    }
+  ]
+}

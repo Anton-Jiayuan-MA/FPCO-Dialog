@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3102",
+    "source": "Open Images",
+    "complexity": 3,
+    "category": 1,
+    "target": "child"
+  },
+  "base": {
+    "target_description": "the child in a yellow shirt",
+    "modified_target_description": "the dog in a yellow shirt",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Where is the child in a yellow shirt standing in the room?",
+      "modified": "Where is the child in a yellow shirt standing in the room?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the child in a yellow shirt near the workers at the tables?",
+      "modified": "Is the child in a yellow shirt near the workers at the tables?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "What is the child in a yellow shirt looking toward?",
+      "modified": "What is the child in a yellow shirt looking toward?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the child in a yellow shirt appear to be standing or sitting?",
+      "modified": "Does the dog in a yellow shirt appear to be standing or sitting?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the child in a yellow shirt wearing anything on the head?",
+      "modified": "Is the dog in a yellow shirt wearing anything on the head?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "How noticeable is the child in a yellow shirt compared with the people around them?",
+      "modified": "How noticeable is the dog in a yellow shirt compared with the people around them?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the child in a yellow shirt close to the left side of the image?",
+      "modified": "Is the dog in a yellow shirt close to the left side of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the child in a yellow shirt seem to be taking part in the work at the tables?",
+      "modified": "Does the dog in a yellow shirt seem to be taking part in the work at the tables?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "What can you see directly around the child in a yellow shirt?",
+      "modified": "What can you see directly around the dog in a yellow shirt?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the child in a yellow shirt positioned behind or beside the seated workers?",
+      "modified": "Is the dog in a yellow shirt positioned behind or beside the seated workers?",
+      "false_premise": true
+    }
+  ]
+}

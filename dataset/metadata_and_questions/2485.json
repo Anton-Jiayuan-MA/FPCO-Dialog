@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2485",
+    "source": "Open Images",
+    "complexity": 2,
+    "category": 4,
+    "target": "wine"
+  },
+  "base": {
+    "target_description": "the bottle of red wine",
+    "modified_target_description": "the bottle of red wine on the left",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the bottle of red wine standing upright on the table?",
+      "modified": "Is the bottle of red wine standing upright on the table?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "How many examples of the bottle of red wine can be seen in the image?",
+      "modified": "How many examples of the bottle of red wine can be seen in the image?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the bottle of red wine opened or still sealed?",
+      "modified": "Is the bottle of red wine opened or still sealed?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the bottle of red wine appear next to a filled wine glass?",
+      "modified": "Does the bottle of red wine on the left appear next to a filled wine glass?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the bottle of red wine placed near a plate with cheese?",
+      "modified": "Is the bottle of red wine on the left placed near a plate with cheese?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Do the labels on the bottle of red wine face toward the camera?",
+      "modified": "Do the labels on the bottle of red wine on the left face toward the camera?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the bottle of red wine dark in color?",
+      "modified": "Is the bottle of red wine on the left dark in color?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the bottle of red wine look full or partially empty?",
+      "modified": "Does the bottle of red wine on the left look full or partially empty?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the bottle of red wine arranged as part of a small group on the table?",
+      "modified": "Is the bottle of red wine on the left arranged as part of a small group on the table?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Would you say the bottle of red wine is indoors?",
+      "modified": "Would you say the bottle of red wine on the left is indoors?",
+      "false_premise": true
+    }
+  ]
+}

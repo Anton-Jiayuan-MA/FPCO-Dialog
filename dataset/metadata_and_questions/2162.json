@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2162",
+    "source": "COCO",
+    "complexity": 2,
+    "category": 1,
+    "target": "man"
+  },
+  "base": {
+    "target_description": "the man in glasses holding a handle",
+    "modified_target_description": "the man in glasses holding a handle on the left",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the man in glasses holding a handle standing on the grass?",
+      "modified": "Is the man in glasses holding a handle standing on the grass?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the man in glasses holding a handle appear to be watching the other man work?",
+      "modified": "Does the man in glasses holding a handle appear to be watching the other man work?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the man in glasses holding a handle wearing short sleeves?",
+      "modified": "Is the man in glasses holding a handle wearing short sleeves?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the man in glasses holding a handle look relaxed with one hand on his hip?",
+      "modified": "Does the man in glasses holding a handle on the left look relaxed with one hand on his hip?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the man in glasses holding a handle standing next to a wheeled machine?",
+      "modified": "Is the man in glasses holding a handle on the left standing next to a wheeled machine?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the man in glasses holding a handle seem to be outdoors near parked cars?",
+      "modified": "Does the man in glasses holding a handle on the left seem to be outdoors near parked cars?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the man in glasses holding a handle facing toward the left side of the image?",
+      "modified": "Is the man in glasses holding a handle on the left facing toward the left side of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the man in glasses holding a handle appear to be an adult?",
+      "modified": "Does the man in glasses holding a handle on the left appear to be an adult?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the man in glasses holding a handle positioned to the right of the other man?",
+      "modified": "Is the man in glasses holding a handle on the left positioned to the right of the other man?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the man in glasses holding a handle have his body turned slightly toward the machine?",
+      "modified": "Does the man in glasses holding a handle on the left have his body turned slightly toward the machine?",
+      "false_premise": true
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1346",
+    "source": "Open Images",
+    "complexity": 1,
+    "category": 3,
+    "target": "squirrel"
+  },
+  "base": {
+    "target_description": "the gray squirrel with a bushy tail",
+    "modified_target_description": "the brown squirrel with a bushy tail",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the gray squirrel with a bushy tail standing on?",
+      "modified": "What is the gray squirrel with a bushy tail standing on?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the gray squirrel with a bushy tail facing the camera?",
+      "modified": "Is the gray squirrel with a bushy tail facing the camera?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the gray squirrel with a bushy tail appear to be perched still?",
+      "modified": "Does the gray squirrel with a bushy tail appear to be perched still?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Can you see the gray squirrel with a bushy tail from the front?",
+      "modified": "Can you see the brown squirrel with a bushy tail from the front?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the gray squirrel with a bushy tail outdoors?",
+      "modified": "Is the brown squirrel with a bushy tail outdoors?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the gray squirrel with a bushy tail have its tail raised behind its body?",
+      "modified": "Does the brown squirrel with a bushy tail have its tail raised behind its body?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Are the paws of the gray squirrel with a bushy tail visible?",
+      "modified": "Are the paws of the brown squirrel with a bushy tail visible?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the gray squirrel with a bushy tail centered in the image?",
+      "modified": "Is the brown squirrel with a bushy tail centered in the image?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the gray squirrel with a bushy tail look alert?",
+      "modified": "Does the brown squirrel with a bushy tail look alert?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the gray squirrel with a bushy tail sitting on top of a wooden post?",
+      "modified": "Is the brown squirrel with a bushy tail sitting on top of a wooden post?",
+      "false_premise": true
+    }
+  ]
+}

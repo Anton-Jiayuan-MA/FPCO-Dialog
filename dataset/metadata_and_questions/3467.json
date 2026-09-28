@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3467",
+    "source": "COCO",
+    "complexity": 3,
+    "category": 4,
+    "target": "apple"
+  },
+  "base": {
+    "target_description": "the red apple in the wooden crate",
+    "modified_target_description": "the red apple on the right",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What color is the red apple in the wooden crate?",
+      "modified": "What color is the red apple in the wooden crate?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the red apple in the wooden crate whole or cut?",
+      "modified": "Is the red apple in the wooden crate whole or cut?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the red apple in the wooden crate look fresh?",
+      "modified": "Does the red apple in the wooden crate look fresh?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the red apple in the wooden crate packed closely with other apples?",
+      "modified": "Is the red apple on the right packed closely with other apples?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Can you see a stem on the red apple in the wooden crate?",
+      "modified": "Can you see a stem on the red apple on the right?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the red apple in the wooden crate appear round?",
+      "modified": "Does the red apple on the right appear round?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the red apple in the wooden crate near the front of the image or farther back?",
+      "modified": "Is the red apple on the right near the front of the image or farther back?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the red apple in the wooden crate have any visible blemishes?",
+      "modified": "Does the red apple on the right have any visible blemishes?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the red apple in the wooden crate resting beside lighter-colored apples?",
+      "modified": "Is the red apple on the right resting beside lighter-colored apples?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the red apple in the wooden crate seem to be part of a large harvest display?",
+      "modified": "Does the red apple on the right seem to be part of a large harvest display?",
+      "false_premise": true
+    }
+  ]
+}

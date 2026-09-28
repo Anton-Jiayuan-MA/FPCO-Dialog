@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1328",
+    "source": "COCO",
+    "complexity": 1,
+    "category": 3,
+    "target": "bear"
+  },
+  "base": {
+    "target_description": "the black bear with a tan snout",
+    "modified_target_description": "the black dog with a tan snout",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What direction is the black bear with a tan snout facing?",
+      "modified": "What direction is the black bear with a tan snout facing?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the black bear with a tan snout looking toward the camera?",
+      "modified": "Is the black bear with a tan snout looking toward the camera?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Can you see the eyes of the black bear with a tan snout clearly?",
+      "modified": "Can you see the eyes of the black bear with a tan snout clearly?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the black bear with a tan snout have its mouth slightly open?",
+      "modified": "Does the black dog with a tan snout have its mouth slightly open?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the black bear with a tan snout shown up close in the image?",
+      "modified": "Is the black dog with a tan snout shown up close in the image?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "What color is the fur around the black bear with a tan snout?",
+      "modified": "What color is the fur around the black dog with a tan snout?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the black bear with a tan snout fill most of the frame?",
+      "modified": "Does the black dog with a tan snout fill most of the frame?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Can you see the nose of the black bear with a tan snout prominently?",
+      "modified": "Can you see the nose of the black dog with a tan snout prominently?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the black bear with a tan snout centered in the picture?",
+      "modified": "Is the black dog with a tan snout centered in the picture?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the black bear with a tan snout appear calm or aggressive?",
+      "modified": "Does the black dog with a tan snout appear calm or aggressive?",
+      "false_premise": true
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3445",
+    "source": "Open Images",
+    "complexity": 3,
+    "category": 4,
+    "target": "apple"
+  },
+  "base": {
+    "target_description": "the apple in a pink foam net",
+    "modified_target_description": "the green apple in a pink foam net",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the apple in a pink foam net being held by someone?",
+      "modified": "Is the apple in a pink foam net being held by someone?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the apple in a pink foam net look ripe?",
+      "modified": "Does the apple in a pink foam net look ripe?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the apple in a pink foam net part of a large group of similar fruit?",
+      "modified": "Is the apple in a pink foam net part of a large group of similar fruit?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Can you see the apple in a pink foam net clearly in the foreground?",
+      "modified": "Can you see the green apple in a pink foam net clearly in the foreground?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the apple in a pink foam net resting in a cart or being picked up?",
+      "modified": "Is the green apple in a pink foam net resting in a cart or being picked up?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the apple in a pink foam net appear wrapped for protection?",
+      "modified": "Does the green apple in a pink foam net appear wrapped for protection?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the apple in a pink foam net near other apples in matching pink covers?",
+      "modified": "Is the green apple in a pink foam net near other apples in matching pink covers?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Would you say the apple in a pink foam net is being sold at an outdoor market?",
+      "modified": "Would you say the green apple in a pink foam net is being sold at an outdoor market?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the apple in a pink foam net light in color?",
+      "modified": "Is the green apple in a pink foam net light in color?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the apple in a pink foam net look larger than a typical apple?",
+      "modified": "Does the green apple in a pink foam net look larger than a typical apple?",
+      "false_premise": true
+    }
+  ]
+}

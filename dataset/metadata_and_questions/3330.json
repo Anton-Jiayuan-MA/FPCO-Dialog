@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3330",
+    "source": "COCO",
+    "complexity": 3,
+    "category": 3,
+    "target": "zebra"
+  },
+  "base": {
+    "target_description": "the smaller zebra in front",
+    "modified_target_description": "the smaller horse in front",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the smaller zebra in front standing beside another zebra?",
+      "modified": "Is the smaller zebra in front standing beside another zebra?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the smaller zebra in front facing toward the right side of the image?",
+      "modified": "Is the smaller zebra in front facing toward the right side of the image?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the smaller zebra in front appear to be walking or standing still?",
+      "modified": "Does the smaller zebra in front appear to be walking or standing still?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the smaller zebra in front out in a grassy field?",
+      "modified": "Is the smaller horse in front out in a grassy field?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the smaller zebra in front look younger than the other zebra?",
+      "modified": "Does the smaller horse in front look younger than the other zebra?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the smaller zebra in front partially overlapping with the other zebra?",
+      "modified": "Is the smaller horse in front partially overlapping with the other zebra?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Can you see the full body of the smaller zebra in front?",
+      "modified": "Can you see the full body of the smaller horse in front?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the smaller zebra in front close to the center of the picture?",
+      "modified": "Is the smaller horse in front close to the center of the picture?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the smaller zebra in front have its head lowered slightly?",
+      "modified": "Does the smaller horse in front have its head lowered slightly?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the smaller zebra in front standing near the larger zebra's side?",
+      "modified": "Is the smaller horse in front standing near the larger zebra's side?",
+      "false_premise": true
+    }
+  ]
+}

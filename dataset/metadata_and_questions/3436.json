@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3436",
+    "source": "COCO",
+    "complexity": 3,
+    "category": 4,
+    "target": "wine bottle"
+  },
+  "base": {
+    "target_description": "the green S.Pellegrino bottle with a white label",
+    "modified_target_description": "the brown S.Pellegrino bottle with a white label",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the green S.Pellegrino bottle with a white label standing upright or lying on its side?",
+      "modified": "Is the green S.Pellegrino bottle with a white label standing upright or lying on its side?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the green S.Pellegrino bottle with a white label on a wooden shelf?",
+      "modified": "Is the green S.Pellegrino bottle with a white label on a wooden shelf?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the green S.Pellegrino bottle with a white label appear to be chilled inside a cooler?",
+      "modified": "Does the green S.Pellegrino bottle with a white label appear to be chilled inside a cooler?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Can you clearly see the cap on the green S.Pellegrino bottle with a white label?",
+      "modified": "Can you clearly see the cap on the brown S.Pellegrino bottle with a white label?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the green S.Pellegrino bottle with a white label positioned near other bottles of the same brand?",
+      "modified": "Is the brown S.Pellegrino bottle with a white label positioned near other bottles of the same brand?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the green S.Pellegrino bottle with a white label have its label facing toward the camera?",
+      "modified": "Does the brown S.Pellegrino bottle with a white label have its label facing toward the camera?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the green S.Pellegrino bottle with a white label in the top row or the bottom row?",
+      "modified": "Is the brown S.Pellegrino bottle with a white label in the top row or the bottom row?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the green S.Pellegrino bottle with a white label look full?",
+      "modified": "Does the brown S.Pellegrino bottle with a white label look full?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the green S.Pellegrino bottle with a white label stored horizontally in the rack?",
+      "modified": "Is the brown S.Pellegrino bottle with a white label stored horizontally in the rack?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Would you say the green S.Pellegrino bottle with a white label is part of a beverage display?",
+      "modified": "Would you say the brown S.Pellegrino bottle with a white label is part of a beverage display?",
+      "false_premise": true
+    }
+  ]
+}

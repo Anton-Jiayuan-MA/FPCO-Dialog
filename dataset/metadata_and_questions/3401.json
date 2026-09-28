@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3401",
+    "source": "Open Images",
+    "complexity": 3,
+    "category": 4,
+    "target": "bread"
+  },
+  "base": {
+    "target_description": "the toasted slices of bread on the plate",
+    "modified_target_description": "the toasted slices of pizza on the plate",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "How many pieces make up the toasted slices of bread on the plate?",
+      "modified": "How many pieces make up the toasted slices of bread on the plate?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "What is spread on the toasted slices of bread on the plate?",
+      "modified": "What is spread on the toasted slices of bread on the plate?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the toasted slices of bread on the plate topped with anything?",
+      "modified": "Is the toasted slices of bread on the plate topped with anything?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Are the toasted slices of bread on the plate light or dark in color?",
+      "modified": "Are the toasted slices of pizza on the plate light or dark in color?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Do the toasted slices of bread on the plate look freshly toasted?",
+      "modified": "Do the toasted slices of pizza on the plate look freshly toasted?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the toasted slices of bread on the plate sitting on a white plate?",
+      "modified": "Is the toasted slices of pizza on the plate sitting on a white plate?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the toasted slices of bread on the plate have butter on it?",
+      "modified": "Does the toasted slices of pizza on the plate have butter on it?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the toasted slices of bread on the plate being served as part of a sweet dish?",
+      "modified": "Is the toasted slices of pizza on the plate being served as part of a sweet dish?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Are the toasted slices of bread on the plate overlapping each other?",
+      "modified": "Are the toasted slices of pizza on the plate overlapping each other?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the toasted slices of bread on the plate appear thick-cut?",
+      "modified": "Does the toasted slices of pizza on the plate appear thick-cut?",
+      "false_premise": true
+    }
+  ]
+}

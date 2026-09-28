@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2201",
+    "source": "COCO",
+    "complexity": 2,
+    "category": 2,
+    "target": "taxi"
+  },
+  "base": {
+    "target_description": "the yellow taxi on the left",
+    "modified_target_description": "the yellow truck on the left",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What direction is the yellow taxi on the left headed in?",
+      "modified": "What direction is the yellow taxi on the left headed in?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the yellow taxi on the left closer to the camera than the other taxi?",
+      "modified": "Is the yellow taxi on the left closer to the camera than the other taxi?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the yellow taxi on the left driving on the road or parked?",
+      "modified": "Is the yellow taxi on the left driving on the road or parked?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "What part of the yellow taxi on the left is most visible from this angle?",
+      "modified": "What part of the yellow truck on the left is most visible from this angle?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the yellow taxi on the left approaching the underpass?",
+      "modified": "Is the yellow truck on the left approaching the underpass?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the yellow taxi on the left appear to be in its own lane?",
+      "modified": "Does the yellow truck on the left appear to be in its own lane?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "How far is the yellow taxi on the left from the tunnel entrance?",
+      "modified": "How far is the yellow truck on the left from the tunnel entrance?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the yellow taxi on the left the only yellow vehicle in the scene?",
+      "modified": "Is the yellow truck on the left the only yellow vehicle in the scene?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Can you see the license plate on the yellow taxi on the left?",
+      "modified": "Can you see the license plate on the yellow truck on the left?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the yellow taxi on the left turning or going straight?",
+      "modified": "Is the yellow truck on the left turning or going straight?",
+      "false_premise": true
+    }
+  ]
+}

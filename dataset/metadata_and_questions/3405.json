@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3405",
+    "source": "COCO",
+    "complexity": 3,
+    "category": 4,
+    "target": "egg"
+  },
+  "base": {
+    "target_description": "the fried egg with a bright yolk",
+    "modified_target_description": "the fried chicken with a bright yolk",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the fried egg with a bright yolk sitting on top of a piece of toast?",
+      "modified": "Is the fried egg with a bright yolk sitting on top of a piece of toast?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the fried egg with a bright yolk look freshly cooked?",
+      "modified": "Does the fried egg with a bright yolk look freshly cooked?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the fried egg with a bright yolk seasoned with black pepper?",
+      "modified": "Is the fried egg with a bright yolk seasoned with black pepper?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the fried egg with a bright yolk have a runny-looking center?",
+      "modified": "Does the fried chicken with a bright yolk have a runny-looking center?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the fried egg with a bright yolk resting beside some leafy greens?",
+      "modified": "Is the fried chicken with a bright yolk resting beside some leafy greens?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the fried egg with a bright yolk cover part of the bread underneath?",
+      "modified": "Does the fried chicken with a bright yolk cover part of the bread underneath?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the fried egg with a bright yolk placed near the middle of the plate?",
+      "modified": "Is the fried chicken with a bright yolk placed near the middle of the plate?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the fried egg with a bright yolk have crispy browned edges?",
+      "modified": "Does the fried chicken with a bright yolk have crispy browned edges?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the fried egg with a bright yolk part of an open-faced sandwich?",
+      "modified": "Is the fried chicken with a bright yolk part of an open-faced sandwich?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Can you see the fried egg with a bright yolk as the main topping on the dish?",
+      "modified": "Can you see the fried chicken with a bright yolk as the main topping on the dish?",
+      "false_premise": true
+    }
+  ]
+}

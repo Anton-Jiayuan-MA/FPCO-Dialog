@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1419",
+    "source": "Open Images",
+    "complexity": 1,
+    "category": 4,
+    "target": "pasta"
+  },
+  "base": {
+    "target_description": "the spaghetti with tomato sauce and basil leaves",
+    "modified_target_description": "the salad with tomato sauce and basil leaves",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What color is the spaghetti with tomato sauce and basil leaves?",
+      "modified": "What color is the spaghetti with tomato sauce and basil leaves?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the spaghetti with tomato sauce and basil leaves served on a plate?",
+      "modified": "Is the spaghetti with tomato sauce and basil leaves served on a plate?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the spaghetti with tomato sauce and basil leaves have any green garnish on top?",
+      "modified": "Does the spaghetti with tomato sauce and basil leaves have any green garnish on top?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the spaghetti with tomato sauce and basil leaves topped with chunky pieces of tomato?",
+      "modified": "Is the salad with tomato sauce and basil leaves topped with chunky pieces of tomato?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the spaghetti with tomato sauce and basil leaves look like a main dish?",
+      "modified": "Does the salad with tomato sauce and basil leaves look like a main dish?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the spaghetti with tomato sauce and basil leaves arranged in a loose pile?",
+      "modified": "Is the salad with tomato sauce and basil leaves arranged in a loose pile?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the spaghetti with tomato sauce and basil leaves appear to be freshly prepared?",
+      "modified": "Does the salad with tomato sauce and basil leaves appear to be freshly prepared?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the spaghetti with tomato sauce and basil leaves accompanied by any vegetables?",
+      "modified": "Is the salad with tomato sauce and basil leaves accompanied by any vegetables?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the spaghetti with tomato sauce and basil leaves take up most of the plate?",
+      "modified": "Does the salad with tomato sauce and basil leaves take up most of the plate?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Would you describe the spaghetti with tomato sauce and basil leaves as a pasta dish?",
+      "modified": "Would you describe the salad with tomato sauce and basil leaves as a pasta dish?",
+      "false_premise": true
+    }
+  ]
+}

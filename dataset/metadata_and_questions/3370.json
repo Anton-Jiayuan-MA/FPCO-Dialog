@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3370",
+    "source": "Open Images",
+    "complexity": 3,
+    "category": 3,
+    "target": "butterfly"
+  },
+  "base": {
+    "target_description": "the orange-and-black butterfly on the branch",
+    "modified_target_description": "the orange-and-black butterfly on the left",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the orange-and-black butterfly on the branch resting with its wings open or closed?",
+      "modified": "Is the orange-and-black butterfly on the branch resting with its wings open or closed?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the orange-and-black butterfly on the branch appear to be clinging to a leaf or the bare branch?",
+      "modified": "Does the orange-and-black butterfly on the branch appear to be clinging to a leaf or the bare branch?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the orange-and-black butterfly on the branch surrounded by many other butterflies?",
+      "modified": "Is the orange-and-black butterfly on the branch surrounded by many other butterflies?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Can you see the orange-and-black butterfly on the branch against a blue sky background?",
+      "modified": "Can you see the orange-and-black butterfly on the left against a blue sky background?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the orange-and-black butterfly on the branch have patterned wings with black veins?",
+      "modified": "Does the orange-and-black butterfly on the left have patterned wings with black veins?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the orange-and-black butterfly on the branch hanging still rather than flying?",
+      "modified": "Is the orange-and-black butterfly on the left hanging still rather than flying?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the orange-and-black butterfly on the branch look like part of a clustered group?",
+      "modified": "Does the orange-and-black butterfly on the left look like part of a clustered group?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the orange-and-black butterfly on the branch positioned among green leaves?",
+      "modified": "Is the orange-and-black butterfly on the left positioned among green leaves?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Can both wings of the orange-and-black butterfly on the branch be clearly seen?",
+      "modified": "Can both wings of the orange-and-black butterfly on the left be clearly seen?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the orange-and-black butterfly on the branch appear near the center of the image?",
+      "modified": "Does the orange-and-black butterfly on the left appear near the center of the image?",
+      "false_premise": true
+    }
+  ]
+}

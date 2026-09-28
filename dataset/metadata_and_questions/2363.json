@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2363",
+    "source": "Open Images",
+    "complexity": 2,
+    "category": 3,
+    "target": "sheep"
+  },
+  "base": {
+    "target_description": "the woolly sheep by the barn door",
+    "modified_target_description": "the woolly sheep in the barn doorway",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the woolly sheep by the barn door standing partly inside the doorway?",
+      "modified": "Is the woolly sheep by the barn door standing partly inside the doorway?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "What color is the wool on the woolly sheep by the barn door?",
+      "modified": "What color is the wool on the woolly sheep by the barn door?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the woolly sheep by the barn door facing toward the left side of the image?",
+      "modified": "Is the woolly sheep by the barn door facing toward the left side of the image?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the woolly sheep by the barn door have a darker face than its body?",
+      "modified": "Does the woolly sheep in the barn doorway have a darker face than its body?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the woolly sheep by the barn door larger than the nearby goats?",
+      "modified": "Is the woolly sheep in the barn doorway larger than the nearby goats?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the woolly sheep by the barn door wearing an ear tag?",
+      "modified": "Is the woolly sheep in the barn doorway wearing an ear tag?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the woolly sheep by the barn door appear to be coming out of the barn?",
+      "modified": "Does the woolly sheep in the barn doorway appear to be coming out of the barn?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the woolly sheep by the barn door standing on a concrete floor?",
+      "modified": "Is the woolly sheep in the barn doorway standing on a concrete floor?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the woolly sheep by the barn door next to an open white door?",
+      "modified": "Is the woolly sheep in the barn doorway next to an open white door?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Can you see the full body of the woolly sheep by the barn door?",
+      "modified": "Can you see the full body of the woolly sheep in the barn doorway?",
+      "false_premise": true
+    }
+  ]
+}

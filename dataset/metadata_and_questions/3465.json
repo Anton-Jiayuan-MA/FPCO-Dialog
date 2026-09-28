@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3465",
+    "source": "COCO",
+    "complexity": 3,
+    "category": 4,
+    "target": "meal"
+  },
+  "base": {
+    "target_description": "the roasted chicken on the white plate",
+    "modified_target_description": "the roasted chicken on the plate to the left",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What side dishes are served with the roasted chicken on the white plate?",
+      "modified": "What side dishes are served with the roasted chicken on the white plate?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the roasted chicken on the white plate look freshly cooked?",
+      "modified": "Does the roasted chicken on the white plate look freshly cooked?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the roasted chicken on the white plate seasoned or charred on the outside?",
+      "modified": "Is the roasted chicken on the white plate seasoned or charred on the outside?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "What is placed next to the roasted chicken on the white plate?",
+      "modified": "What is placed next to the roasted chicken on the plate to the left?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the roasted chicken on the white plate appear to be the main part of the meal?",
+      "modified": "Does the roasted chicken on the plate to the left appear to be the main part of the meal?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the roasted chicken on the white plate topped with any garnish?",
+      "modified": "Is the roasted chicken on the plate to the left topped with any garnish?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Would you say the roasted chicken on the white plate looks crispy?",
+      "modified": "Would you say the roasted chicken on the plate to the left looks crispy?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the roasted chicken on the white plate served in a restaurant setting?",
+      "modified": "Is the roasted chicken on the plate to the left served in a restaurant setting?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "How much of the roasted chicken on the white plate is visible in the image?",
+      "modified": "How much of the roasted chicken on the plate to the left is visible in the image?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the roasted chicken on the white plate look larger than the vegetables beside it?",
+      "modified": "Does the roasted chicken on the plate to the left look larger than the vegetables beside it?",
+      "false_premise": true
+    }
+  ]
+}

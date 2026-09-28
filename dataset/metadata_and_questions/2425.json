@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2425",
+    "source": "Open Images",
+    "complexity": 2,
+    "category": 4,
+    "target": "apple"
+  },
+  "base": {
+    "target_description": "the red apple on the left",
+    "modified_target_description": "the red orange on the left",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the red apple on the left sitting on a plate?",
+      "modified": "Is the red apple on the left sitting on a plate?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the red apple on the left look shiny or matte?",
+      "modified": "Does the red apple on the left look shiny or matte?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the red apple on the left touching another apple?",
+      "modified": "Is the red apple on the left touching another apple?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the red apple on the left have any visible blemishes or spots?",
+      "modified": "Does the red orange on the left have any visible blemishes or spots?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the red apple on the left round in shape?",
+      "modified": "Is the red orange on the left round in shape?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the red apple on the left larger or smaller than the other apple beside it?",
+      "modified": "Is the red orange on the left larger or smaller than the other apple beside it?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the red apple on the left appear to have a stem visible?",
+      "modified": "Does the red orange on the left appear to have a stem visible?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the red apple on the left closer to the front edge of the plate?",
+      "modified": "Is the red orange on the left closer to the front edge of the plate?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the red apple on the left look fresh?",
+      "modified": "Does the red orange on the left look fresh?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the red apple on the left shown in a close-up view?",
+      "modified": "Is the red orange on the left shown in a close-up view?",
+      "false_premise": true
+    }
+  ]
+}

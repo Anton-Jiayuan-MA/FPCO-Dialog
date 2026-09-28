@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3288",
+    "source": "Open Images",
+    "complexity": 3,
+    "category": 2,
+    "target": "car"
+  },
+  "base": {
+    "target_description": "the green vintage car with whitewall tires",
+    "modified_target_description": "the green vintage car on the right",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the green vintage car with whitewall tires parked in a lot?",
+      "modified": "Is the green vintage car with whitewall tires parked in a lot?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the green vintage car with whitewall tires look like a classic custom vehicle?",
+      "modified": "Does the green vintage car with whitewall tires look like a classic custom vehicle?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the green vintage car with whitewall tires shown from the rear side?",
+      "modified": "Is the green vintage car with whitewall tires shown from the rear side?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Are the windows of the green vintage car with whitewall tires closed?",
+      "modified": "Are the windows of the green vintage car on the right closed?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the green vintage car with whitewall tires have a shiny chrome bumper?",
+      "modified": "Does the green vintage car on the right have a shiny chrome bumper?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the green vintage car with whitewall tires surrounded by other cars?",
+      "modified": "Is the green vintage car on the right surrounded by other cars?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the green vintage car with whitewall tires appear to be very low to the ground?",
+      "modified": "Does the green vintage car on the right appear to be very low to the ground?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Can you see the license plate on the green vintage car with whitewall tires?",
+      "modified": "Can you see the license plate on the green vintage car on the right?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the green vintage car with whitewall tires facing away from the camera?",
+      "modified": "Is the green vintage car on the right facing away from the camera?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the green vintage car with whitewall tires seem to be the main focus of the scene?",
+      "modified": "Does the green vintage car on the right seem to be the main focus of the scene?",
+      "false_premise": true
+    }
+  ]
+}

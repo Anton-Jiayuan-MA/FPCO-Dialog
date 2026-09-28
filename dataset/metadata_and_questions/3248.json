@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3248",
+    "source": "Open Images",
+    "complexity": 3,
+    "category": 2,
+    "target": "bus"
+  },
+  "base": {
+    "target_description": "the yellow school bus in the center",
+    "modified_target_description": "the red school bus in the center",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the yellow school bus in the center facing toward the camera?",
+      "modified": "Is the yellow school bus in the center facing toward the camera?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the yellow school bus in the center have a SCHOOL BUS sign above the windshield?",
+      "modified": "Does the yellow school bus in the center have a SCHOOL BUS sign above the windshield?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the yellow school bus in the center parked between other buses?",
+      "modified": "Is the yellow school bus in the center parked between other buses?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Can you see the front grille of the yellow school bus in the center?",
+      "modified": "Can you see the front grille of the red school bus in the center?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the yellow school bus in the center have large side mirrors sticking out?",
+      "modified": "Does the red school bus in the center have large side mirrors sticking out?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the yellow school bus in the center shown from the front?",
+      "modified": "Is the red school bus in the center shown from the front?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Can you see the windshield on the yellow school bus in the center?",
+      "modified": "Can you see the windshield on the red school bus in the center?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the yellow school bus in the center occupying most of the middle of the image?",
+      "modified": "Is the red school bus in the center occupying most of the middle of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the yellow school bus in the center appear to be stationary?",
+      "modified": "Does the red school bus in the center appear to be stationary?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Are there visible lights above the sign on the yellow school bus in the center?",
+      "modified": "Are there visible lights above the sign on the red school bus in the center?",
+      "false_premise": true
+    }
+  ]
+}

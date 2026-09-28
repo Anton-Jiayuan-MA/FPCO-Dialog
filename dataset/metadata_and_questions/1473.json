@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1473",
+    "source": "COCO",
+    "complexity": 1,
+    "category": 4,
+    "target": "sandwich"
+  },
+  "base": {
+    "target_description": "the giant sub sandwich on the table",
+    "modified_target_description": "the giant sub sandwich on the floor",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "How long does the giant sub sandwich on the table look?",
+      "modified": "How long does the giant sub sandwich on the table look?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "What ingredients can you see in the giant sub sandwich on the table?",
+      "modified": "What ingredients can you see in the giant sub sandwich on the table?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the giant sub sandwich on the table still wrapped partly in foil?",
+      "modified": "Is the giant sub sandwich on the table still wrapped partly in foil?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the giant sub sandwich on the table appear ready to be served?",
+      "modified": "Does the giant sub sandwich on the floor appear ready to be served?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the giant sub sandwich on the table cut into sections already?",
+      "modified": "Is the giant sub sandwich on the floor cut into sections already?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "What kind of bread is used for the giant sub sandwich on the table?",
+      "modified": "What kind of bread is used for the giant sub sandwich on the floor?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the giant sub sandwich on the table look larger than usual?",
+      "modified": "Does the giant sub sandwich on the floor look larger than usual?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Can you see meat and vegetables inside the giant sub sandwich on the table?",
+      "modified": "Can you see meat and vegetables inside the giant sub sandwich on the floor?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the giant sub sandwich on the table the main focus of the scene?",
+      "modified": "Is the giant sub sandwich on the floor the main focus of the scene?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "About how many people could the giant sub sandwich on the table feed?",
+      "modified": "About how many people could the giant sub sandwich on the floor feed?",
+      "false_premise": true
+    }
+  ]
+}

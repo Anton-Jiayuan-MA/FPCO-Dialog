@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1423",
+    "source": "COCO",
+    "complexity": 1,
+    "category": 4,
+    "target": "banana"
+  },
+  "base": {
+    "target_description": "the ripe yellow banana with brown spots",
+    "modified_target_description": "the ripe yellow cucumber with brown spots",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the ripe yellow banana with brown spots shown close up in the image?",
+      "modified": "Is the ripe yellow banana with brown spots shown close up in the image?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the ripe yellow banana with brown spots look ready to eat?",
+      "modified": "Does the ripe yellow banana with brown spots look ready to eat?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Can you see the end of the ripe yellow banana with brown spots clearly?",
+      "modified": "Can you see the end of the ripe yellow banana with brown spots clearly?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the ripe yellow banana with brown spots lying on a surface?",
+      "modified": "Is the ripe yellow cucumber with brown spots lying on a surface?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the ripe yellow banana with brown spots appear fresh despite the marks?",
+      "modified": "Does the ripe yellow cucumber with brown spots appear fresh despite the marks?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is most of the ripe yellow banana with brown spots in sharp focus?",
+      "modified": "Is most of the ripe yellow cucumber with brown spots in sharp focus?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the ripe yellow banana with brown spots fill a large part of the frame?",
+      "modified": "Does the ripe yellow cucumber with brown spots fill a large part of the frame?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the ripe yellow banana with brown spots positioned in the foreground?",
+      "modified": "Is the ripe yellow cucumber with brown spots positioned in the foreground?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Can you notice small blemishes on the ripe yellow banana with brown spots?",
+      "modified": "Can you notice small blemishes on the ripe yellow cucumber with brown spots?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the ripe yellow banana with brown spots appear to be part of a bunch?",
+      "modified": "Does the ripe yellow cucumber with brown spots appear to be part of a bunch?",
+      "false_premise": true
+    }
+  ]
+}

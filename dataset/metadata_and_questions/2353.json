@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2353",
+    "source": "COCO",
+    "complexity": 2,
+    "category": 3,
+    "target": "dog"
+  },
+  "base": {
+    "target_description": "the brown dog on the couch",
+    "modified_target_description": "the black dog on the couch",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the brown dog on the couch doing in the scene?",
+      "modified": "What is the brown dog on the couch doing in the scene?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the brown dog on the couch looking toward the camera?",
+      "modified": "Is the brown dog on the couch looking toward the camera?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Where on the couch is the brown dog on the couch resting?",
+      "modified": "Where on the couch is the brown dog on the couch resting?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the brown dog on the couch appear to be lying down or sitting up?",
+      "modified": "Does the black dog on the couch appear to be lying down or sitting up?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the brown dog on the couch near any pillows or blankets?",
+      "modified": "Is the black dog on the couch near any pillows or blankets?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "How much of the brown dog on the couch is visible in the image?",
+      "modified": "How much of the black dog on the couch is visible in the image?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the brown dog on the couch seem relaxed or alert?",
+      "modified": "Does the black dog on the couch seem relaxed or alert?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the brown dog on the couch positioned behind the other dog?",
+      "modified": "Is the black dog on the couch positioned behind the other dog?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "What color is the fur of the brown dog on the couch?",
+      "modified": "What color is the fur of the black dog on the couch?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Can you see the face of the brown dog on the couch clearly?",
+      "modified": "Can you see the face of the black dog on the couch clearly?",
+      "false_premise": true
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3131",
+    "source": "COCO",
+    "complexity": 3,
+    "category": 1,
+    "target": "man"
+  },
+  "base": {
+    "target_description": "the soldier in camouflage pointing ahead",
+    "modified_target_description": "the soldier in uniform pointing ahead",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the soldier in camouflage pointing ahead doing in the scene?",
+      "modified": "What is the soldier in camouflage pointing ahead doing in the scene?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Which direction is the soldier in camouflage pointing ahead gesturing toward?",
+      "modified": "Which direction is the soldier in camouflage pointing ahead gesturing toward?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the soldier in camouflage pointing ahead talking to the group while gesturing?",
+      "modified": "Is the soldier in camouflage pointing ahead talking to the group while gesturing?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "What is the soldier in camouflage pointing ahead standing beside?",
+      "modified": "What is the soldier in uniform pointing ahead standing beside?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the soldier in camouflage pointing ahead appear to be explaining the display?",
+      "modified": "Does the soldier in uniform pointing ahead appear to be explaining the display?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the soldier in camouflage pointing ahead facing the other people nearby?",
+      "modified": "Is the soldier in uniform pointing ahead facing the other people nearby?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "What kind of event might the soldier in camouflage pointing ahead be participating in?",
+      "modified": "What kind of event might the soldier in uniform pointing ahead be participating in?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the soldier in camouflage pointing ahead holding anything in one hand?",
+      "modified": "Is the soldier in uniform pointing ahead holding anything in one hand?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "How is the soldier in camouflage pointing ahead positioned relative to the table of equipment?",
+      "modified": "How is the soldier in uniform pointing ahead positioned relative to the table of equipment?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the soldier in camouflage pointing ahead seem to be leading the discussion?",
+      "modified": "Does the soldier in uniform pointing ahead seem to be leading the discussion?",
+      "false_premise": true
+    }
+  ]
+}

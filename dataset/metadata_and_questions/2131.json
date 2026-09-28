@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2131",
+    "source": "COCO",
+    "complexity": 2,
+    "category": 1,
+    "target": "baseball player"
+  },
+  "base": {
+    "target_description": "the baseball player in a white Nationals uniform",
+    "modified_target_description": "the baseball player in a black Nationals uniform",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the baseball player in a white Nationals uniform holding?",
+      "modified": "What is the baseball player in a white Nationals uniform holding?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the baseball player in a white Nationals uniform standing in a batting stance?",
+      "modified": "Is the baseball player in a white Nationals uniform standing in a batting stance?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Which direction is the baseball player in a white Nationals uniform facing?",
+      "modified": "Which direction is the baseball player in a white Nationals uniform facing?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the baseball player in a white Nationals uniform wearing a helmet?",
+      "modified": "Is the baseball player in a black Nationals uniform wearing a helmet?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "What part of the field is the baseball player in a white Nationals uniform standing on?",
+      "modified": "What part of the field is the baseball player in a black Nationals uniform standing on?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the baseball player in a white Nationals uniform appear ready to hit the ball?",
+      "modified": "Does the baseball player in a black Nationals uniform appear ready to hit the ball?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the baseball player in a white Nationals uniform near the catcher?",
+      "modified": "Is the baseball player in a black Nationals uniform near the catcher?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "What number is visible on the baseball player in a white Nationals uniform?",
+      "modified": "What number is visible on the baseball player in a black Nationals uniform?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the baseball player in a white Nationals uniform the batter in this scene?",
+      "modified": "Is the baseball player in a black Nationals uniform the batter in this scene?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Are both hands of the baseball player in a white Nationals uniform on the bat?",
+      "modified": "Are both hands of the baseball player in a black Nationals uniform on the bat?",
+      "false_premise": true
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3290",
+    "source": "Open Images",
+    "complexity": 3,
+    "category": 2,
+    "target": "car"
+  },
+  "base": {
+    "target_description": "the black parked car on the right",
+    "modified_target_description": "the black parked car on the left",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What direction is the black parked car on the right facing?",
+      "modified": "What direction is the black parked car on the right facing?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the black parked car on the right closer to the sidewalk or the middle of the street?",
+      "modified": "Is the black parked car on the right closer to the sidewalk or the middle of the street?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the black parked car on the right appear to be moving or stationary?",
+      "modified": "Does the black parked car on the right appear to be moving or stationary?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the black parked car on the right in front of or behind another parked vehicle?",
+      "modified": "Is the black parked car on the left in front of or behind another parked vehicle?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "What color are the rear lights on the black parked car on the right?",
+      "modified": "What color are the rear lights on the black parked car on the left?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the black parked car on the right have its full side visible or mostly its rear visible?",
+      "modified": "Does the black parked car on the left have its full side visible or mostly its rear visible?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the black parked car on the right parked along the curb?",
+      "modified": "Is the black parked car on the left parked along the curb?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the black parked car on the right look like a sedan or an SUV?",
+      "modified": "Does the black parked car on the left look like a sedan or an SUV?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Can you see the license plate on the black parked car on the right?",
+      "modified": "Can you see the license plate on the black parked car on the left?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the black parked car on the right closer to the viewer than the tram?",
+      "modified": "Is the black parked car on the left closer to the viewer than the tram?",
+      "false_premise": true
+    }
+  ]
+}

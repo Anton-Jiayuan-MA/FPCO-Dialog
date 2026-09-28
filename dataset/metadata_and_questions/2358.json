@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2358",
+    "source": "Open Images",
+    "complexity": 2,
+    "category": 3,
+    "target": "horse"
+  },
+  "base": {
+    "target_description": "the brown horse with a black mane",
+    "modified_target_description": "the white horse with a black mane",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the brown horse with a black mane standing on a roadside?",
+      "modified": "Is the brown horse with a black mane standing on a roadside?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the brown horse with a black mane facing toward the camera?",
+      "modified": "Is the brown horse with a black mane facing toward the camera?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the brown horse with a black mane appear to be walking forward?",
+      "modified": "Does the brown horse with a black mane appear to be walking forward?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the brown horse with a black mane on the left side of the image?",
+      "modified": "Is the white horse with a black mane on the left side of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the brown horse with a black mane have one front leg lifted?",
+      "modified": "Does the white horse with a black mane have one front leg lifted?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the brown horse with a black mane close to another horse?",
+      "modified": "Is the white horse with a black mane close to another horse?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the brown horse with a black mane look alert with its ears up?",
+      "modified": "Does the white horse with a black mane look alert with its ears up?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the brown horse with a black mane outdoors in a dry, open area?",
+      "modified": "Is the white horse with a black mane outdoors in a dry, open area?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Can you clearly see the face of the brown horse with a black mane?",
+      "modified": "Can you clearly see the face of the white horse with a black mane?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the brown horse with a black mane appear thin?",
+      "modified": "Does the white horse with a black mane appear thin?",
+      "false_premise": true
+    }
+  ]
+}

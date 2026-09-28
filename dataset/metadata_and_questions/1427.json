@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1427",
+    "source": "COCO",
+    "complexity": 1,
+    "category": 4,
+    "target": "noodles"
+  },
+  "base": {
+    "target_description": "the bowl of white noodles",
+    "modified_target_description": "the bowl of white rice",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What toppings are placed on the bowl of white noodles?",
+      "modified": "What toppings are placed on the bowl of white noodles?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the bowl of white noodles served in a large dish?",
+      "modified": "Is the bowl of white noodles served in a large dish?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the bowl of white noodles look ready to eat?",
+      "modified": "Does the bowl of white noodles look ready to eat?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Are there vegetables mixed into the bowl of white noodles?",
+      "modified": "Are there vegetables mixed into the bowl of white rice?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "What color are the noodles in the bowl of white noodles?",
+      "modified": "What color are the noodles in the bowl of white rice?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the bowl of white noodles have fried pieces on top?",
+      "modified": "Does the bowl of white rice have fried pieces on top?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the bowl of white noodles sitting on a table?",
+      "modified": "Is the bowl of white rice sitting on a table?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the bowl of white noodles appear to be part of a meal at a restaurant?",
+      "modified": "Does the bowl of white rice appear to be part of a meal at a restaurant?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Are shredded carrots visible on the bowl of white noodles?",
+      "modified": "Are shredded carrots visible on the bowl of white rice?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the bowl of white noodles look more savory than sweet?",
+      "modified": "Does the bowl of white rice look more savory than sweet?",
+      "false_premise": true
+    }
+  ]
+}

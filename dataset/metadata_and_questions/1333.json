@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1333",
+    "source": "Open Images",
+    "complexity": 1,
+    "category": 3,
+    "target": "fish"
+  },
+  "base": {
+    "target_description": "the pale fish with a dark band near its tail",
+    "modified_target_description": "the dark fish with a dark band near its tail",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the pale fish with a dark band near its tail swimming beside?",
+      "modified": "What is the pale fish with a dark band near its tail swimming beside?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the pale fish with a dark band near its tail underwater in this scene?",
+      "modified": "Is the pale fish with a dark band near its tail underwater in this scene?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the pale fish with a dark band near its tail appear to be facing left or right?",
+      "modified": "Does the pale fish with a dark band near its tail appear to be facing left or right?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the pale fish with a dark band near its tail close to the rocky coral surface?",
+      "modified": "Is the dark fish with a dark band near its tail close to the rocky coral surface?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the pale fish with a dark band near its tail have a large visible eye?",
+      "modified": "Does the dark fish with a dark band near its tail have a large visible eye?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the pale fish with a dark band near its tail shown in side view?",
+      "modified": "Is the dark fish with a dark band near its tail shown in side view?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the pale fish with a dark band near its tail look like it is swimming through a crevice?",
+      "modified": "Does the dark fish with a dark band near its tail look like it is swimming through a crevice?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Are the fins on the pale fish with a dark band near its tail spread out?",
+      "modified": "Are the fins on the dark fish with a dark band near its tail spread out?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the pale fish with a dark band near its tail the main subject of the image?",
+      "modified": "Is the dark fish with a dark band near its tail the main subject of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the pale fish with a dark band near its tail appear small compared with the surrounding reef?",
+      "modified": "Does the dark fish with a dark band near its tail appear small compared with the surrounding reef?",
+      "false_premise": true
+    }
+  ]
+}

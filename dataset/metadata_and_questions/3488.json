@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3488",
+    "source": "Open Images",
+    "complexity": 3,
+    "category": 4,
+    "target": "vegetables"
+  },
+  "base": {
+    "target_description": "the pile of yellow and green peppers",
+    "modified_target_description": "the pile of yellow and green peppers on the right",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What kinds of shapes can you see in the pile of yellow and green peppers?",
+      "modified": "What kinds of shapes can you see in the pile of yellow and green peppers?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the pile of yellow and green peppers look fresh?",
+      "modified": "Does the pile of yellow and green peppers look fresh?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Are most of the vegetables in the pile of yellow and green peppers long or round?",
+      "modified": "Are most of the vegetables in the pile of yellow and green peppers long or round?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the pile of yellow and green peppers stacked high on the display?",
+      "modified": "Is the pile of yellow and green peppers on the right stacked high on the display?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Do you see any red peppers mixed near the pile of yellow and green peppers?",
+      "modified": "Do you see any red peppers mixed near the pile of yellow and green peppers on the right?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the pile of yellow and green peppers arranged at a market stand?",
+      "modified": "Is the pile of yellow and green peppers on the right arranged at a market stand?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the pile of yellow and green peppers fill most of the image?",
+      "modified": "Does the pile of yellow and green peppers on the right fill most of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Are the peppers in the pile of yellow and green peppers different sizes?",
+      "modified": "Are the peppers in the pile of yellow and green peppers on the right different sizes?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the pile of yellow and green peppers appear loose or neatly packed?",
+      "modified": "Does the pile of yellow and green peppers on the right appear loose or neatly packed?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Can you see stems on many of the peppers in the pile of yellow and green peppers?",
+      "modified": "Can you see stems on many of the peppers in the pile of yellow and green peppers on the right?",
+      "false_premise": true
+    }
+  ]
+}

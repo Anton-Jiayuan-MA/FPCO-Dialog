@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1481",
+    "source": "COCO",
+    "complexity": 1,
+    "category": 4,
+    "target": "cake"
+  },
+  "base": {
+    "target_description": "the rectangular birthday cake with white frosting",
+    "modified_target_description": "the rectangular birthday cake with white frosting on the right",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What words are written on the rectangular birthday cake with white frosting?",
+      "modified": "What words are written on the rectangular birthday cake with white frosting?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "What color frosting borders the rectangular birthday cake with white frosting?",
+      "modified": "What color frosting borders the rectangular birthday cake with white frosting?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the rectangular birthday cake with white frosting already cut or still whole?",
+      "modified": "Is the rectangular birthday cake with white frosting already cut or still whole?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the rectangular birthday cake with white frosting have candles on top?",
+      "modified": "Does the rectangular birthday cake with white frosting on the right have candles on top?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "What kind of occasion does the rectangular birthday cake with white frosting seem to be for?",
+      "modified": "What kind of occasion does the rectangular birthday cake with white frosting on the right seem to be for?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the rectangular birthday cake with white frosting sitting on a tray?",
+      "modified": "Is the rectangular birthday cake with white frosting on the right sitting on a tray?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Are there colorful decorations piped onto the rectangular birthday cake with white frosting?",
+      "modified": "Are there colorful decorations piped onto the rectangular birthday cake with white frosting on the right?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the rectangular birthday cake with white frosting look ready to be served?",
+      "modified": "Does the rectangular birthday cake with white frosting on the right look ready to be served?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the rectangular birthday cake with white frosting placed on a table?",
+      "modified": "Is the rectangular birthday cake with white frosting on the right placed on a table?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the rectangular birthday cake with white frosting appear to be the centerpiece of the scene?",
+      "modified": "Does the rectangular birthday cake with white frosting on the right appear to be the centerpiece of the scene?",
+      "false_premise": true
+    }
+  ]
+}

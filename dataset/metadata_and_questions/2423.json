@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2423",
+    "source": "Open Images",
+    "complexity": 2,
+    "category": 4,
+    "target": "apple"
+  },
+  "base": {
+    "target_description": "the red apple with a stem",
+    "modified_target_description": "the red tomato with a stem",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the red apple with a stem sitting on a white surface?",
+      "modified": "Is the red apple with a stem sitting on a white surface?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the red apple with a stem look whole and uncut?",
+      "modified": "Does the red apple with a stem look whole and uncut?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the red apple with a stem closer to the front of the image?",
+      "modified": "Is the red apple with a stem closer to the front of the image?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the red apple with a stem have any visible shine on its skin?",
+      "modified": "Does the red tomato with a stem have any visible shine on its skin?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the red apple with a stem one of several apples in the scene?",
+      "modified": "Is the red tomato with a stem one of several apples in the scene?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the red apple with a stem appear round and fresh?",
+      "modified": "Does the red tomato with a stem appear round and fresh?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the red apple with a stem positioned near another apple?",
+      "modified": "Is the red tomato with a stem positioned near another apple?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Can you see the top of the red apple with a stem clearly?",
+      "modified": "Can you see the top of the red tomato with a stem clearly?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the red apple with a stem have light yellow streaks mixed with the red color?",
+      "modified": "Does the red tomato with a stem have light yellow streaks mixed with the red color?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the red apple with a stem resting still rather than being held?",
+      "modified": "Is the red tomato with a stem resting still rather than being held?",
+      "false_premise": true
+    }
+  ]
+}

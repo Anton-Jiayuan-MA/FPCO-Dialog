@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2251",
+    "source": "COCO",
+    "complexity": 2,
+    "category": 2,
+    "target": "car"
+  },
+  "base": {
+    "target_description": "the black car in the right lane",
+    "modified_target_description": "the white car in the right lane",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the black car in the right lane driving under an overpass?",
+      "modified": "Is the black car in the right lane driving under an overpass?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the black car in the right lane have another vehicle directly in front of it?",
+      "modified": "Does the black car in the right lane have another vehicle directly in front of it?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the black car in the right lane closer to the camera than the police cars ahead?",
+      "modified": "Is the black car in the right lane closer to the camera than the police cars ahead?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the black car in the right lane appear to be moving along the highway?",
+      "modified": "Does the white car in the right lane appear to be moving along the highway?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the black car in the right lane next to a person standing outside a vehicle?",
+      "modified": "Is the white car in the right lane next to a person standing outside a vehicle?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Are the brake lights visible on the black car in the right lane?",
+      "modified": "Are the brake lights visible on the white car in the right lane?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the black car in the right lane positioned near the shoulder of the road?",
+      "modified": "Is the white car in the right lane positioned near the shoulder of the road?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the black car in the right lane look like a sedan?",
+      "modified": "Does the white car in the right lane look like a sedan?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the black car in the right lane behind a police car with flashing lights?",
+      "modified": "Is the white car in the right lane behind a police car with flashing lights?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Can you see the rear of the black car in the right lane?",
+      "modified": "Can you see the rear of the white car in the right lane?",
+      "false_premise": true
+    }
+  ]
+}

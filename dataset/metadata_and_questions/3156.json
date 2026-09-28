@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3156",
+    "source": "Open Images",
+    "complexity": 3,
+    "category": 1,
+    "target": "person"
+  },
+  "base": {
+    "target_description": "the man in a red shirt and blue jeans",
+    "modified_target_description": "the man in a blue shirt and blue jeans",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the man in a red shirt and blue jeans holding in his hand?",
+      "modified": "What is the man in a red shirt and blue jeans holding in his hand?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the man in a red shirt and blue jeans standing still or walking?",
+      "modified": "Is the man in a red shirt and blue jeans standing still or walking?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the man in a red shirt and blue jeans facing toward the camera or away from it?",
+      "modified": "Is the man in a red shirt and blue jeans facing toward the camera or away from it?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the man in a red shirt and blue jeans appear to be wearing glasses?",
+      "modified": "Does the man in a blue shirt and blue jeans appear to be wearing glasses?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the man in a red shirt and blue jeans near the center of the scene?",
+      "modified": "Is the man in a blue shirt and blue jeans near the center of the scene?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the man in a red shirt and blue jeans look like he is part of the group in matching shirts?",
+      "modified": "Does the man in a blue shirt and blue jeans look like he is part of the group in matching shirts?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the man in a red shirt and blue jeans outdoors in front of a building?",
+      "modified": "Is the man in a blue shirt and blue jeans outdoors in front of a building?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the man in a red shirt and blue jeans have short hair?",
+      "modified": "Does the man in a blue shirt and blue jeans have short hair?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the man in a red shirt and blue jeans turned slightly to one side?",
+      "modified": "Is the man in a blue shirt and blue jeans turned slightly to one side?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the man in a red shirt and blue jeans surrounded by other people?",
+      "modified": "Is the man in a blue shirt and blue jeans surrounded by other people?",
+      "false_premise": true
+    }
+  ]
+}

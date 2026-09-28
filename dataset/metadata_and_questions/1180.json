@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1180",
+    "source": "COCO",
+    "complexity": 1,
+    "category": 1,
+    "target": "man"
+  },
+  "base": {
+    "target_description": "the man with glasses holding a sandwich",
+    "modified_target_description": "the man with glasses holding a sandwich on the left",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the man with glasses holding a sandwich doing with his other hand?",
+      "modified": "What is the man with glasses holding a sandwich doing with his other hand?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the man with glasses holding a sandwich sitting down in the image?",
+      "modified": "Is the man with glasses holding a sandwich sitting down in the image?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "What kind of food is the man with glasses holding a sandwich eating?",
+      "modified": "What kind of food is the man with glasses holding a sandwich eating?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the man with glasses holding a sandwich appear to be indoors?",
+      "modified": "Does the man with glasses holding a sandwich on the left appear to be indoors?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "What is the man with glasses holding a sandwich wearing on his wrist?",
+      "modified": "What is the man with glasses holding a sandwich on the left wearing on his wrist?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the man with glasses holding a sandwich looking toward the camera or away from it?",
+      "modified": "Is the man with glasses holding a sandwich on the left looking toward the camera or away from it?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "What color shirt is the man with glasses holding a sandwich wearing?",
+      "modified": "What color shirt is the man with glasses holding a sandwich on the left wearing?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the man with glasses holding a sandwich seem to be in the middle of a bite?",
+      "modified": "Does the man with glasses holding a sandwich on the left seem to be in the middle of a bite?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Which hand is the man with glasses holding a sandwich using to hold the food?",
+      "modified": "Which hand is the man with glasses holding a sandwich on the left using to hold the food?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the man with glasses holding a sandwich wearing eyeglasses with dark frames?",
+      "modified": "Is the man with glasses holding a sandwich on the left wearing eyeglasses with dark frames?",
+      "false_premise": true
+    }
+  ]
+}

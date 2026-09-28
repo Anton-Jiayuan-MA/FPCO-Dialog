@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3309",
+    "source": "COCO",
+    "complexity": 3,
+    "category": 3,
+    "target": "cow"
+  },
+  "base": {
+    "target_description": "the brown cow with a blue rope halter",
+    "modified_target_description": "the brown horse with a blue rope halter",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the brown cow with a blue rope halter facing toward the left side of the image?",
+      "modified": "Is the brown cow with a blue rope halter facing toward the left side of the image?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the brown cow with a blue rope halter appear to be standing among other cows?",
+      "modified": "Does the brown cow with a blue rope halter appear to be standing among other cows?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Can you see hay in front of the brown cow with a blue rope halter?",
+      "modified": "Can you see hay in front of the brown cow with a blue rope halter?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the brown cow with a blue rope halter indoors?",
+      "modified": "Is the brown horse with a blue rope halter indoors?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the brown cow with a blue rope halter have one eye clearly visible?",
+      "modified": "Does the brown horse with a blue rope halter have one eye clearly visible?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the brown cow with a blue rope halter wearing a chain around its body?",
+      "modified": "Is the brown horse with a blue rope halter wearing a chain around its body?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the brown cow with a blue rope halter look calm in the scene?",
+      "modified": "Does the brown horse with a blue rope halter look calm in the scene?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the head of the brown cow with a blue rope halter turned slightly toward the camera?",
+      "modified": "Is the head of the brown horse with a blue rope halter turned slightly toward the camera?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the brown cow with a blue rope halter close to another cow on the left?",
+      "modified": "Is the brown horse with a blue rope halter close to another cow on the left?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the brown cow with a blue rope halter take up a large part of the image?",
+      "modified": "Does the brown horse with a blue rope halter take up a large part of the image?",
+      "false_premise": true
+    }
+  ]
+}

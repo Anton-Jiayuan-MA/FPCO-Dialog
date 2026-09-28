@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3147",
+    "source": "Open Images",
+    "complexity": 3,
+    "category": 1,
+    "target": "person"
+  },
+  "base": {
+    "target_description": "the man in a white shirt and blue helmet",
+    "modified_target_description": "the man in a black shirt and blue helmet",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the man in a white shirt and blue helmet doing with his hand?",
+      "modified": "What is the man in a white shirt and blue helmet doing with his hand?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the man in a white shirt and blue helmet standing at the front of the group?",
+      "modified": "Is the man in a white shirt and blue helmet standing at the front of the group?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the man in a white shirt and blue helmet appear to be speaking to the others?",
+      "modified": "Does the man in a white shirt and blue helmet appear to be speaking to the others?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the man in a white shirt and blue helmet wearing something around his neck?",
+      "modified": "Is the man in a black shirt and blue helmet wearing something around his neck?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "What color are the pants of the man in a white shirt and blue helmet?",
+      "modified": "What color are the pants of the man in a black shirt and blue helmet?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the man in a white shirt and blue helmet facing toward the people on the right?",
+      "modified": "Is the man in a black shirt and blue helmet facing toward the people on the right?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the man in a white shirt and blue helmet seem to be leading the outdoor gathering?",
+      "modified": "Does the man in a black shirt and blue helmet seem to be leading the outdoor gathering?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the man in a white shirt and blue helmet standing on grass?",
+      "modified": "Is the man in a black shirt and blue helmet standing on grass?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the man in a white shirt and blue helmet closer to the camera than most of the group?",
+      "modified": "Is the man in a black shirt and blue helmet closer to the camera than most of the group?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the man in a white shirt and blue helmet have a strap across his chest?",
+      "modified": "Does the man in a black shirt and blue helmet have a strap across his chest?",
+      "false_premise": true
+    }
+  ]
+}

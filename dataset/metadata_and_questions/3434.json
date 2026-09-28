@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3434",
+    "source": "COCO",
+    "complexity": 3,
+    "category": 4,
+    "target": "fruit"
+  },
+  "base": {
+    "target_description": "the pile of green apples",
+    "modified_target_description": "the pile of red apples",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the pile of green apples stacked near the center of the display?",
+      "modified": "Is the pile of green apples stacked near the center of the display?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the pile of green apples look neatly arranged in a mound?",
+      "modified": "Does the pile of green apples look neatly arranged in a mound?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Are the pile of green apples placed between darker red fruit and red apples?",
+      "modified": "Are the pile of green apples placed between darker red fruit and red apples?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Do the pile of green apples appear fresh and shiny?",
+      "modified": "Do the pile of red apples appear fresh and shiny?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the pile of green apples one of the larger groups of fruit in the stand?",
+      "modified": "Is the pile of red apples one of the larger groups of fruit in the stand?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Are the pile of green apples displayed above the rows of smaller orange fruit?",
+      "modified": "Are the pile of red apples displayed above the rows of smaller orange fruit?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the pile of green apples sit next to bunches of grapes?",
+      "modified": "Does the pile of red apples sit next to bunches of grapes?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Are the pile of green apples shown at a fruit market stall?",
+      "modified": "Are the pile of red apples shown at a fruit market stall?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Do the pile of green apples fill most of their section?",
+      "modified": "Do the pile of red apples fill most of their section?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Are the pile of green apples surrounded by other kinds of fruit?",
+      "modified": "Are the pile of red apples surrounded by other kinds of fruit?",
+      "false_premise": true
+    }
+  ]
+}

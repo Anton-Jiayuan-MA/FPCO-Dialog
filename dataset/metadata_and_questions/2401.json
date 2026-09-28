@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2401",
+    "source": "COCO",
+    "complexity": 2,
+    "category": 4,
+    "target": "vegetables"
+  },
+  "base": {
+    "target_description": "the yellow squash on the table",
+    "modified_target_description": "the yellow banana on the table",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "How many pieces of the yellow squash on the table can you see?",
+      "modified": "How many pieces of the yellow squash on the table can you see?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the yellow squash on the table placed near any green vegetables?",
+      "modified": "Is the yellow squash on the table placed near any green vegetables?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the yellow squash on the table look whole or cut up?",
+      "modified": "Does the yellow squash on the table look whole or cut up?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the yellow squash on the table longer than the nearby round fruits?",
+      "modified": "Is the yellow banana on the table longer than the nearby round fruits?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "What is positioned directly beside the yellow squash on the table?",
+      "modified": "What is positioned directly beside the yellow banana on the table?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the yellow squash on the table appear fresh?",
+      "modified": "Does the yellow banana on the table appear fresh?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the yellow squash on the table grouped with other squash?",
+      "modified": "Is the yellow banana on the table grouped with other squash?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "What color is the stem end of the yellow squash on the table?",
+      "modified": "What color is the stem end of the yellow banana on the table?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the yellow squash on the table lying flat or standing upright?",
+      "modified": "Is the yellow banana on the table lying flat or standing upright?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the yellow squash on the table closer to the bottom of the image than the top?",
+      "modified": "Is the yellow banana on the table closer to the bottom of the image than the top?",
+      "false_premise": true
+    }
+  ]
+}

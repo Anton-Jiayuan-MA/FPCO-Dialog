@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1289",
+    "source": "Open Images",
+    "complexity": 1,
+    "category": 2,
+    "target": "bicycle"
+  },
+  "base": {
+    "target_description": "the red, white, and blue bicycle",
+    "modified_target_description": "the red, white, and blue bicycle on the right",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What kind of handlebars does the red, white, and blue bicycle have?",
+      "modified": "What kind of handlebars does the red, white, and blue bicycle have?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the red, white, and blue bicycle hanging on a wall?",
+      "modified": "Is the red, white, and blue bicycle hanging on a wall?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the red, white, and blue bicycle have a large solid rear wheel?",
+      "modified": "Does the red, white, and blue bicycle have a large solid rear wheel?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "What color is the front fork on the red, white, and blue bicycle?",
+      "modified": "What color is the front fork on the red, white, and blue bicycle on the right?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the red, white, and blue bicycle look like a racing bike?",
+      "modified": "Does the red, white, and blue bicycle on the right look like a racing bike?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the seat positioned high on the red, white, and blue bicycle?",
+      "modified": "Is the seat positioned high on the red, white, and blue bicycle on the right?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the red, white, and blue bicycle have branding visible on its frame?",
+      "modified": "Does the red, white, and blue bicycle on the right have branding visible on its frame?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Are both wheels on the red, white, and blue bicycle the same style?",
+      "modified": "Are both wheels on the red, white, and blue bicycle on the right the same style?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the red, white, and blue bicycle displayed indoors?",
+      "modified": "Is the red, white, and blue bicycle on the right displayed indoors?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the red, white, and blue bicycle have a three-spoke front wheel?",
+      "modified": "Does the red, white, and blue bicycle on the right have a three-spoke front wheel?",
+      "false_premise": true
+    }
+  ]
+}

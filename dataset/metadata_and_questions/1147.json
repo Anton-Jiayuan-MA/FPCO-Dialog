@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1147",
+    "source": "Open Images",
+    "complexity": 1,
+    "category": 1,
+    "target": "woman"
+  },
+  "base": {
+    "target_description": "the smiling woman in a purple top",
+    "modified_target_description": "the smiling woman in a green top",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the smiling woman in a purple top sitting on?",
+      "modified": "What is the smiling woman in a purple top sitting on?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the smiling woman in a purple top holding a piece of popcorn?",
+      "modified": "Is the smiling woman in a purple top holding a piece of popcorn?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the smiling woman in a purple top appear to be at a movie theater?",
+      "modified": "Does the smiling woman in a purple top appear to be at a movie theater?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "What is the smiling woman in a purple top carrying on her lap?",
+      "modified": "What is the smiling woman in a green top carrying on her lap?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the smiling woman in a purple top looking toward the camera?",
+      "modified": "Is the smiling woman in a green top looking toward the camera?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the smiling woman in a purple top have drinks with her?",
+      "modified": "Does the smiling woman in a green top have drinks with her?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the smiling woman in a purple top seated comfortably in a chair?",
+      "modified": "Is the smiling woman in a green top seated comfortably in a chair?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "What is the smiling woman in a purple top doing with her right hand?",
+      "modified": "What is the smiling woman in a green top doing with her right hand?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the smiling woman in a purple top seem relaxed and happy?",
+      "modified": "Does the smiling woman in a green top seem relaxed and happy?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the smiling woman in a purple top in front of a large movie poster?",
+      "modified": "Is the smiling woman in a green top in front of a large movie poster?",
+      "false_premise": true
+    }
+  ]
+}

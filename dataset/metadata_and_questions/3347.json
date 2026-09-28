@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3347",
+    "source": "Open Images",
+    "complexity": 3,
+    "category": 3,
+    "target": "sheep"
+  },
+  "base": {
+    "target_description": "the white sheep in the center",
+    "modified_target_description": "the black sheep in the center",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the white sheep in the center walking toward the camera?",
+      "modified": "Is the white sheep in the center walking toward the camera?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the white sheep in the center appear to be part of a larger flock?",
+      "modified": "Does the white sheep in the center appear to be part of a larger flock?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the white sheep in the center on the paved path?",
+      "modified": "Is the white sheep in the center on the paved path?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the white sheep in the center have thick wool?",
+      "modified": "Does the black sheep in the center have thick wool?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the white sheep in the center facing forward?",
+      "modified": "Is the black sheep in the center facing forward?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the white sheep in the center standing close to other sheep?",
+      "modified": "Is the black sheep in the center standing close to other sheep?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the white sheep in the center look like an adult rather than a lamb?",
+      "modified": "Does the black sheep in the center look like an adult rather than a lamb?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the white sheep in the center outdoors in this scene?",
+      "modified": "Is the black sheep in the center outdoors in this scene?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Can you clearly see the head of the white sheep in the center?",
+      "modified": "Can you clearly see the head of the black sheep in the center?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the white sheep in the center near the front of the group?",
+      "modified": "Is the black sheep in the center near the front of the group?",
+      "false_premise": true
+    }
+  ]
+}

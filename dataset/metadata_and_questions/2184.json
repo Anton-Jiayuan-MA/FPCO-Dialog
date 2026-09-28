@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2184",
+    "source": "Open Images",
+    "complexity": 2,
+    "category": 1,
+    "target": "person"
+  },
+  "base": {
+    "target_description": "the man in a purple shirt and backward cap",
+    "modified_target_description": "the man in a purple shirt and backward cap on the left",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the man in a purple shirt and backward cap standing with other people?",
+      "modified": "Is the man in a purple shirt and backward cap standing with other people?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the man in a purple shirt and backward cap smiling at the camera?",
+      "modified": "Is the man in a purple shirt and backward cap smiling at the camera?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the man in a purple shirt and backward cap have an arm around someone next to him?",
+      "modified": "Does the man in a purple shirt and backward cap have an arm around someone next to him?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the man in a purple shirt and backward cap standing outdoors?",
+      "modified": "Is the man in a purple shirt and backward cap on the left standing outdoors?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the man in a purple shirt and backward cap in front of a small building?",
+      "modified": "Is the man in a purple shirt and backward cap on the left in front of a small building?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the man in a purple shirt and backward cap appear to be posing for a group photo?",
+      "modified": "Does the man in a purple shirt and backward cap on the left appear to be posing for a group photo?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the man in a purple shirt and backward cap wearing long pants?",
+      "modified": "Is the man in a purple shirt and backward cap on the left wearing long pants?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the man in a purple shirt and backward cap taller than the woman beside him?",
+      "modified": "Is the man in a purple shirt and backward cap on the left taller than the woman beside him?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the man in a purple shirt and backward cap holding a rectangular object?",
+      "modified": "Is the man in a purple shirt and backward cap on the left holding a rectangular object?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the man in a purple shirt and backward cap near the right side of the group?",
+      "modified": "Is the man in a purple shirt and backward cap on the left near the right side of the group?",
+      "false_premise": true
+    }
+  ]
+}

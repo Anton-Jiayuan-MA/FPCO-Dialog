@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3134",
+    "source": "COCO",
+    "complexity": 3,
+    "category": 1,
+    "target": "woman"
+  },
+  "base": {
+    "target_description": "the woman in a gray hoodie and glasses",
+    "modified_target_description": "the woman in a red hoodie and glasses",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the woman in a gray hoodie and glasses doing with the red frisbee?",
+      "modified": "What is the woman in a gray hoodie and glasses doing with the red frisbee?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the woman in a gray hoodie and glasses smiling in the scene?",
+      "modified": "Is the woman in a gray hoodie and glasses smiling in the scene?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Who is the woman in a gray hoodie and glasses facing?",
+      "modified": "Who is the woman in a gray hoodie and glasses facing?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the woman in a gray hoodie and glasses appear to be indoors?",
+      "modified": "Does the woman in a red hoodie and glasses appear to be indoors?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the woman in a gray hoodie and glasses standing or sitting?",
+      "modified": "Is the woman in a red hoodie and glasses standing or sitting?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "What is the woman in a gray hoodie and glasses reaching toward?",
+      "modified": "What is the woman in a red hoodie and glasses reaching toward?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the woman in a gray hoodie and glasses look like she is playing a game?",
+      "modified": "Does the woman in a red hoodie and glasses look like she is playing a game?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the woman in a gray hoodie and glasses wearing jeans?",
+      "modified": "Is the woman in a red hoodie and glasses wearing jeans?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Where is the woman in a gray hoodie and glasses positioned relative to the boy in front?",
+      "modified": "Where is the woman in a red hoodie and glasses positioned relative to the boy in front?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the woman in a gray hoodie and glasses have one arm extended?",
+      "modified": "Does the woman in a red hoodie and glasses have one arm extended?",
+      "false_premise": true
+    }
+  ]
+}

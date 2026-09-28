@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3213",
+    "source": "COCO",
+    "complexity": 3,
+    "category": 2,
+    "target": "car"
+  },
+  "base": {
+    "target_description": "the dark pickup truck in the center lane",
+    "modified_target_description": "the dark sedan in the center lane",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What lane is the dark pickup truck in the center lane traveling in?",
+      "modified": "What lane is the dark pickup truck in the center lane traveling in?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the dark pickup truck in the center lane moving straight ahead or preparing to exit?",
+      "modified": "Is the dark pickup truck in the center lane moving straight ahead or preparing to exit?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "What vehicle is directly in front of the dark pickup truck in the center lane, if any?",
+      "modified": "What vehicle is directly in front of the dark pickup truck in the center lane, if any?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "How close is the dark pickup truck in the center lane to the cars around it?",
+      "modified": "How close is the dark sedan in the center lane to the cars around it?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the dark pickup truck in the center lane closer to the camera than the other vehicles?",
+      "modified": "Is the dark sedan in the center lane closer to the camera than the other vehicles?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "What direction does the dark pickup truck in the center lane appear to be heading under the highway signs?",
+      "modified": "What direction does the dark sedan in the center lane appear to be heading under the highway signs?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the dark pickup truck in the center lane centered in the roadway or drifting toward another lane?",
+      "modified": "Is the dark sedan in the center lane centered in the roadway or drifting toward another lane?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "What is visible behind the dark pickup truck in the center lane on the road?",
+      "modified": "What is visible behind the dark sedan in the center lane on the road?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the dark pickup truck in the center lane appear to be driving on a highway?",
+      "modified": "Does the dark sedan in the center lane appear to be driving on a highway?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Are the overhead road signs positioned above the dark pickup truck in the center lane?",
+      "modified": "Are the overhead road signs positioned above the dark sedan in the center lane?",
+      "false_premise": true
+    }
+  ]
+}

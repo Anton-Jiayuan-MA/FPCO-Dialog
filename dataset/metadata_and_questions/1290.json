@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1290",
+    "source": "Open Images",
+    "complexity": 1,
+    "category": 2,
+    "target": "car"
+  },
+  "base": {
+    "target_description": "the green vintage race car",
+    "modified_target_description": "the green vintage race car on the right",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What number is painted on the side of the green vintage race car?",
+      "modified": "What number is painted on the side of the green vintage race car?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the green vintage race car parked or moving in the image?",
+      "modified": "Is the green vintage race car parked or moving in the image?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the green vintage race car have an open top?",
+      "modified": "Does the green vintage race car have an open top?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Are the front wheels of the green vintage race car exposed?",
+      "modified": "Are the front wheels of the green vintage race car on the right exposed?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "What color is the hood of the green vintage race car?",
+      "modified": "What color is the hood of the green vintage race car on the right?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the green vintage race car facing toward the camera or away from it?",
+      "modified": "Is the green vintage race car on the right facing toward the camera or away from it?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the green vintage race car appear to be on a paved surface?",
+      "modified": "Does the green vintage race car on the right appear to be on a paved surface?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Can you see a windshield on the green vintage race car?",
+      "modified": "Can you see a windshield on the green vintage race car on the right?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the green vintage race car have large tires?",
+      "modified": "Does the green vintage race car on the right have large tires?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is there a number painted on the front of the green vintage race car?",
+      "modified": "Is there a number painted on the front of the green vintage race car on the right?",
+      "false_premise": true
+    }
+  ]
+}

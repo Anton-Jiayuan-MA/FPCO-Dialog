@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2310",
+    "source": "COCO",
+    "complexity": 2,
+    "category": 3,
+    "target": "cow"
+  },
+  "base": {
+    "target_description": "the brown and white cow with horns",
+    "modified_target_description": "the brown and white horse with horns",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the brown and white cow with horns walking toward the camera?",
+      "modified": "Is the brown and white cow with horns walking toward the camera?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the brown and white cow with horns have a tag on one ear?",
+      "modified": "Does the brown and white cow with horns have a tag on one ear?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the brown and white cow with horns standing on a dirt path?",
+      "modified": "Is the brown and white cow with horns standing on a dirt path?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the brown and white cow with horns appear to be in the foreground?",
+      "modified": "Does the brown and white horse with horns appear to be in the foreground?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the brown and white cow with horns facing mostly forward?",
+      "modified": "Is the brown and white horse with horns facing mostly forward?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the brown and white cow with horns have a white face?",
+      "modified": "Does the brown and white horse with horns have a white face?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the brown and white cow with horns closer to the viewer than another cow?",
+      "modified": "Is the brown and white horse with horns closer to the viewer than another cow?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the brown and white cow with horns look like it is moving along the path?",
+      "modified": "Does the brown and white horse with horns look like it is moving along the path?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the brown and white cow with horns beside a fence or wall?",
+      "modified": "Is the brown and white horse with horns beside a fence or wall?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Can you see all four legs of the brown and white cow with horns?",
+      "modified": "Can you see all four legs of the brown and white horse with horns?",
+      "false_premise": true
+    }
+  ]
+}

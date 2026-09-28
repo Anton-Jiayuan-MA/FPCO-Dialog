@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3177",
+    "source": "Open Images",
+    "complexity": 3,
+    "category": 1,
+    "target": "person"
+  },
+  "base": {
+    "target_description": "the bride in a white wedding dress holding flowers",
+    "modified_target_description": "the bride in a white wedding dress holding flowers on the right",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the bride in a white wedding dress holding flowers standing in front of the group?",
+      "modified": "Is the bride in a white wedding dress holding flowers standing in front of the group?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the bride in a white wedding dress holding flowers smiling in the photo?",
+      "modified": "Is the bride in a white wedding dress holding flowers smiling in the photo?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the bride in a white wedding dress holding flowers on the grass?",
+      "modified": "Is the bride in a white wedding dress holding flowers on the grass?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the bride in a white wedding dress holding flowers facing slightly to the side?",
+      "modified": "Is the bride in a white wedding dress holding flowers on the right facing slightly to the side?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the bride in a white wedding dress holding flowers appear to be posing for a wedding picture?",
+      "modified": "Does the bride in a white wedding dress holding flowers on the right appear to be posing for a wedding picture?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the bride in a white wedding dress holding flowers closer to the camera than the men behind her?",
+      "modified": "Is the bride in a white wedding dress holding flowers on the right closer to the camera than the men behind her?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the bride in a white wedding dress holding flowers wearing a necklace?",
+      "modified": "Is the bride in a white wedding dress holding flowers on the right wearing a necklace?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the bride in a white wedding dress holding flowers holding a bouquet with both hands?",
+      "modified": "Is the bride in a white wedding dress holding flowers on the right holding a bouquet with both hands?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the bride in a white wedding dress holding flowers the only woman clearly visible in the scene?",
+      "modified": "Is the bride in a white wedding dress holding flowers on the right the only woman clearly visible in the scene?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the bride in a white wedding dress holding flowers standing still while others around her are jumping?",
+      "modified": "Is the bride in a white wedding dress holding flowers on the right standing still while others around her are jumping?",
+      "false_premise": true
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1114",
+    "source": "COCO",
+    "complexity": 1,
+    "category": 1,
+    "target": "man"
+  },
+  "base": {
+    "target_description": "the balding man in a dark suit",
+    "modified_target_description": "the balding woman in a dark suit",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the balding man in a dark suit doing with his hands?",
+      "modified": "What is the balding man in a dark suit doing with his hands?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the balding man in a dark suit looking toward the camera?",
+      "modified": "Is the balding man in a dark suit looking toward the camera?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the balding man in a dark suit appear to be sitting at a table?",
+      "modified": "Does the balding man in a dark suit appear to be sitting at a table?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "What kind of expression does the balding man in a dark suit have?",
+      "modified": "What kind of expression does the balding woman in a dark suit have?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the balding man in a dark suit wearing a tie?",
+      "modified": "Is the balding woman in a dark suit wearing a tie?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the balding man in a dark suit seem to be pointing at something on the table?",
+      "modified": "Does the balding woman in a dark suit seem to be pointing at something on the table?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the balding man in a dark suit posed for a formal portrait?",
+      "modified": "Is the balding woman in a dark suit posed for a formal portrait?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "What is in front of the balding man in a dark suit?",
+      "modified": "What is in front of the balding woman in a dark suit?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the balding man in a dark suit have a pocket square in his jacket?",
+      "modified": "Does the balding woman in a dark suit have a pocket square in her jacket?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the balding man in a dark suit indoors?",
+      "modified": "Is the balding woman in a dark suit indoors?",
+      "false_premise": true
+    }
+  ]
+}

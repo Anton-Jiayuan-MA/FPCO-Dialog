@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2362",
+    "source": "Open Images",
+    "complexity": 2,
+    "category": 3,
+    "target": "sheep"
+  },
+  "base": {
+    "target_description": "the white sheep with a black face",
+    "modified_target_description": "the white sheep with a black face on the right",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the white sheep with a black face doing in the grass?",
+      "modified": "What is the white sheep with a black face doing in the grass?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the white sheep with a black face standing with its head down?",
+      "modified": "Is the white sheep with a black face standing with its head down?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the white sheep with a black face appear to be grazing?",
+      "modified": "Does the white sheep with a black face appear to be grazing?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the white sheep with a black face out in a grassy field?",
+      "modified": "Is the white sheep with a black face on the right out in a grassy field?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Can you see the legs of the white sheep with a black face clearly?",
+      "modified": "Can you see the legs of the white sheep with a black face on the right clearly?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the white sheep with a black face facing toward the ground?",
+      "modified": "Is the white sheep with a black face on the right facing toward the ground?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the white sheep with a black face look calm in the scene?",
+      "modified": "Does the white sheep with a black face on the right look calm in the scene?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the white sheep with a black face close to another sheep?",
+      "modified": "Is the white sheep with a black face on the right close to another sheep?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the white sheep with a black face have dark ears?",
+      "modified": "Does the white sheep with a black face on the right have dark ears?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the white sheep with a black face shown from the side?",
+      "modified": "Is the white sheep with a black face on the right shown from the side?",
+      "false_premise": true
+    }
+  ]
+}

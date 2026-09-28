@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2232",
+    "source": "Open Images",
+    "complexity": 2,
+    "category": 2,
+    "target": "boat"
+  },
+  "base": {
+    "target_description": "the white rowboat by the dock",
+    "modified_target_description": "the red rowboat by the dock",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the white rowboat by the dock floating on calm water?",
+      "modified": "Is the white rowboat by the dock floating on calm water?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the white rowboat by the dock appear to be empty?",
+      "modified": "Does the white rowboat by the dock appear to be empty?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the white rowboat by the dock tied up next to the wooden pier?",
+      "modified": "Is the white rowboat by the dock tied up next to the wooden pier?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the white rowboat by the dock have its reflection visible in the water?",
+      "modified": "Does the red rowboat by the dock have its reflection visible in the water?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the white rowboat by the dock facing toward the right side of the image?",
+      "modified": "Is the red rowboat by the dock facing toward the right side of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the white rowboat by the dock look like a small boat meant for rowing?",
+      "modified": "Does the red rowboat by the dock look like a small boat meant for rowing?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the white rowboat by the dock sitting close to the shore rather than out in the middle of the lake?",
+      "modified": "Is the red rowboat by the dock sitting close to the shore rather than out in the middle of the lake?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the white rowboat by the dock appear still instead of moving?",
+      "modified": "Does the red rowboat by the dock appear still instead of moving?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the white rowboat by the dock positioned on the left side of the dock?",
+      "modified": "Is the red rowboat by the dock positioned on the left side of the dock?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the white rowboat by the dock look moored beside other boats?",
+      "modified": "Does the red rowboat by the dock look moored beside other boats?",
+      "false_premise": true
+    }
+  ]
+}

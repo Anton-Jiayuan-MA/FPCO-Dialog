@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2420",
+    "source": "COCO",
+    "complexity": 2,
+    "category": 4,
+    "target": "hot dog"
+  },
+  "base": {
+    "target_description": "the hot dog in a shiny bun",
+    "modified_target_description": "the taco in a shiny bun",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the hot dog in a shiny bun baked into the bread?",
+      "modified": "Is the hot dog in a shiny bun baked into the bread?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the hot dog in a shiny bun look freshly made?",
+      "modified": "Does the hot dog in a shiny bun look freshly made?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the hot dog in a shiny bun sitting on a tray or flat surface?",
+      "modified": "Is the hot dog in a shiny bun sitting on a tray or flat surface?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the hot dog in a shiny bun appear to be plain, without toppings?",
+      "modified": "Does the taco in a shiny bun appear to be plain, without toppings?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the hot dog in a shiny bun partially wrapped by the bread?",
+      "modified": "Is the taco in a shiny bun partially wrapped by the bread?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the hot dog in a shiny bun have a browned outer bun?",
+      "modified": "Does the taco in a shiny bun have a browned outer bun?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the hot dog in a shiny bun shown close up in the image?",
+      "modified": "Is the taco in a shiny bun shown close up in the image?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the hot dog in a shiny bun look like one of several similar items?",
+      "modified": "Does the taco in a shiny bun look like one of several similar items?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the hot dog in a shiny bun positioned at an angle rather than straight on?",
+      "modified": "Is the taco in a shiny bun positioned at an angle rather than straight on?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Can you clearly see the sausage in the hot dog in a shiny bun?",
+      "modified": "Can you clearly see the sausage in the taco in a shiny bun?",
+      "false_premise": true
+    }
+  ]
+}

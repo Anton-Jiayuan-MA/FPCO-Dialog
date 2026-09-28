@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2455",
+    "source": "Open Images",
+    "complexity": 2,
+    "category": 4,
+    "target": "bread"
+  },
+  "base": {
+    "target_description": "the sliced loaf of bread",
+    "modified_target_description": "the whole loaf of bread",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the sliced loaf of bread cut open to show the inside?",
+      "modified": "Is the sliced loaf of bread cut open to show the inside?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the sliced loaf of bread have a golden-brown crust?",
+      "modified": "Does the sliced loaf of bread have a golden-brown crust?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Can you see airy holes inside the sliced loaf of bread?",
+      "modified": "Can you see airy holes inside the sliced loaf of bread?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the sliced loaf of bread resting on a wooden surface?",
+      "modified": "Is the whole loaf of bread resting on a wooden surface?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the sliced loaf of bread look freshly baked?",
+      "modified": "Does the whole loaf of bread look freshly baked?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the sliced loaf of bread shown in two stacked pieces?",
+      "modified": "Is the whole loaf of bread shown in two stacked pieces?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the sliced loaf of bread appear soft on the inside?",
+      "modified": "Does the whole loaf of bread appear soft on the inside?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the sliced loaf of bread the main focus of the image?",
+      "modified": "Is the whole loaf of bread the main focus of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the sliced loaf of bread have a crisp-looking outer crust?",
+      "modified": "Does the whole loaf of bread have a crisp-looking outer crust?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the sliced loaf of bread positioned in the foreground?",
+      "modified": "Is the whole loaf of bread positioned in the foreground?",
+      "false_premise": true
+    }
+  ]
+}

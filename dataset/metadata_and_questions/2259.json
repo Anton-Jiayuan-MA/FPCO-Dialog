@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2259",
+    "source": "COCO",
+    "complexity": 2,
+    "category": 2,
+    "target": "motorcycle"
+  },
+  "base": {
+    "target_description": "the white dirt motorcycle",
+    "modified_target_description": "the black dirt motorcycle",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the white dirt motorcycle being ridden or standing still in the scene?",
+      "modified": "Is the white dirt motorcycle being ridden or standing still in the scene?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the white dirt motorcycle appear muddy from off-road use?",
+      "modified": "Does the white dirt motorcycle appear muddy from off-road use?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is anyone sitting on the white dirt motorcycle?",
+      "modified": "Is anyone sitting on the white dirt motorcycle?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the white dirt motorcycle have a number plate visible on it?",
+      "modified": "Does the black dirt motorcycle have a number plate visible on it?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the white dirt motorcycle closer to the left side or the center of the image?",
+      "modified": "Is the black dirt motorcycle closer to the left side or the center of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the white dirt motorcycle look like it is set up for trail riding?",
+      "modified": "Does the black dirt motorcycle look like it is set up for trail riding?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the white dirt motorcycle parked on grass or pavement?",
+      "modified": "Is the black dirt motorcycle parked on grass or pavement?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Can you see both wheels of the white dirt motorcycle?",
+      "modified": "Can you see both wheels of the black dirt motorcycle?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the white dirt motorcycle positioned near any other motorcycles?",
+      "modified": "Is the black dirt motorcycle positioned near any other motorcycles?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the white dirt motorcycle have knobby tires visible?",
+      "modified": "Does the black dirt motorcycle have knobby tires visible?",
+      "false_premise": true
+    }
+  ]
+}

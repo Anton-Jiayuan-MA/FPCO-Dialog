@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1251",
+    "source": "Open Images",
+    "complexity": 1,
+    "category": 2,
+    "target": "bicycle"
+  },
+  "base": {
+    "target_description": "the blue bicycle in the grass",
+    "modified_target_description": "the red bicycle in the grass",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the blue bicycle in the grass leaning against a fence post?",
+      "modified": "Is the blue bicycle in the grass leaning against a fence post?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the blue bicycle in the grass have two visible wheels?",
+      "modified": "Does the blue bicycle in the grass have two visible wheels?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the blue bicycle in the grass outdoors in a field?",
+      "modified": "Is the blue bicycle in the grass outdoors in a field?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the blue bicycle in the grass appear to be parked rather than moving?",
+      "modified": "Does the red bicycle in the grass appear to be parked rather than moving?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the blue bicycle in the grass positioned side-on to the camera?",
+      "modified": "Is the red bicycle in the grass positioned side-on to the camera?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the blue bicycle in the grass have a water bottle attached to its frame?",
+      "modified": "Does the red bicycle in the grass have a water bottle attached to its frame?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the blue bicycle in the grass near a wire fence?",
+      "modified": "Is the red bicycle in the grass near a wire fence?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the blue bicycle in the grass have handlebars turned slightly to the right?",
+      "modified": "Does the red bicycle in the grass have handlebars turned slightly to the right?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the blue bicycle in the grass standing in tall grass?",
+      "modified": "Is the red bicycle in the grass standing in tall grass?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the blue bicycle in the grass look like a mountain bike?",
+      "modified": "Does the red bicycle in the grass look like a mountain bike?",
+      "false_premise": true
+    }
+  ]
+}

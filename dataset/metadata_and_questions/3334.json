@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3334",
+    "source": "COCO",
+    "complexity": 3,
+    "category": 3,
+    "target": "horse"
+  },
+  "base": {
+    "target_description": "the brown and white horse grazing in the grass",
+    "modified_target_description": "the black and white horse grazing in the grass",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the brown and white horse grazing in the grass doing?",
+      "modified": "What is the brown and white horse grazing in the grass doing?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the brown and white horse grazing in the grass standing with its head down?",
+      "modified": "Is the brown and white horse grazing in the grass standing with its head down?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the brown and white horse grazing in the grass appear to be eating?",
+      "modified": "Does the brown and white horse grazing in the grass appear to be eating?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the brown and white horse grazing in the grass closer to the camera than the other horse?",
+      "modified": "Is the black and white horse grazing in the grass closer to the camera than the other horse?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Can you see the brown and white horse grazing in the grass in the foreground?",
+      "modified": "Can you see the black and white horse grazing in the grass in the foreground?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the brown and white horse grazing in the grass facing slightly to the right?",
+      "modified": "Is the black and white horse grazing in the grass facing slightly to the right?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the brown and white horse grazing in the grass have a dark mane?",
+      "modified": "Does the black and white horse grazing in the grass have a dark mane?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the brown and white horse grazing in the grass inside a fenced field?",
+      "modified": "Is the black and white horse grazing in the grass inside a fenced field?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the brown and white horse grazing in the grass look calm?",
+      "modified": "Does the black and white horse grazing in the grass look calm?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the brown and white horse grazing in the grass next to another horse?",
+      "modified": "Is the black and white horse grazing in the grass next to another horse?",
+      "false_premise": true
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2154",
+    "source": "Open Images",
+    "complexity": 2,
+    "category": 1,
+    "target": "man"
+  },
+  "base": {
+    "target_description": "the man holding a skateboard",
+    "modified_target_description": "the man wearing a skateboard",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the man holding a skateboard doing in the scene?",
+      "modified": "What is the man holding a skateboard doing in the scene?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the man holding a skateboard standing near a fountain?",
+      "modified": "Is the man holding a skateboard standing near a fountain?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "What is the man holding a skateboard wearing on his feet?",
+      "modified": "What is the man holding a skateboard wearing on his feet?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the man holding a skateboard appear to be walking or standing still?",
+      "modified": "Does the man wearing a skateboard appear to be walking or standing still?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the man holding a skateboard carrying anything besides the skateboard?",
+      "modified": "Is the man wearing a skateboard carrying anything besides the skateboard?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "What kind of shirt is the man holding a skateboard wearing?",
+      "modified": "What kind of shirt is the man wearing a skateboard wearing?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the man holding a skateboard closer to the camera than the other people?",
+      "modified": "Is the man wearing a skateboard closer to the camera than the other people?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the man holding a skateboard look relaxed in this moment?",
+      "modified": "Does the man wearing a skateboard look relaxed in this moment?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Which direction is the man holding a skateboard facing?",
+      "modified": "Which direction is the man wearing a skateboard facing?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the man holding a skateboard next to another person?",
+      "modified": "Is the man wearing a skateboard next to another person?",
+      "false_premise": true
+    }
+  ]
+}

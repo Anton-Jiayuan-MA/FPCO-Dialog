@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2276",
+    "source": "COCO",
+    "complexity": 2,
+    "category": 2,
+    "target": "airplane"
+  },
+  "base": {
+    "target_description": "the white Virgin airplane",
+    "modified_target_description": "the white Virgin airplane on the left",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the white Virgin airplane parked at an airport gate?",
+      "modified": "Is the white Virgin airplane parked at an airport gate?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the white Virgin airplane appear to be on the ground rather than in the air?",
+      "modified": "Does the white Virgin airplane appear to be on the ground rather than in the air?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the white Virgin airplane positioned near the terminal building?",
+      "modified": "Is the white Virgin airplane positioned near the terminal building?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Can you see the tail of the white Virgin airplane clearly?",
+      "modified": "Can you see the tail of the white Virgin airplane on the left clearly?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the white Virgin airplane have a red tail fin?",
+      "modified": "Does the white Virgin airplane on the left have a red tail fin?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the white Virgin airplane facing toward the right side of the image?",
+      "modified": "Is the white Virgin airplane on the left facing toward the right side of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Are there service vehicles near the white Virgin airplane?",
+      "modified": "Are there service vehicles near the white Virgin airplane on the left?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the white Virgin airplane look like it is waiting for passengers or service?",
+      "modified": "Does the white Virgin airplane on the left look like it is waiting for passengers or service?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the white Virgin airplane larger than the nearby ground vehicles?",
+      "modified": "Is the white Virgin airplane on the left larger than the nearby ground vehicles?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Can you read airline branding on the white Virgin airplane?",
+      "modified": "Can you read airline branding on the white Virgin airplane on the left?",
+      "false_premise": true
+    }
+  ]
+}

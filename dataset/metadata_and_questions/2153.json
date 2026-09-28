@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2153",
+    "source": "Open Images",
+    "complexity": 2,
+    "category": 1,
+    "target": "man"
+  },
+  "base": {
+    "target_description": "the man in the beige hoodie",
+    "modified_target_description": "the man in the black hoodie",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the man in the beige hoodie doing with his hands?",
+      "modified": "What is the man in the beige hoodie doing with his hands?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the man in the beige hoodie facing toward the other person?",
+      "modified": "Is the man in the beige hoodie facing toward the other person?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the man in the beige hoodie appear to be standing?",
+      "modified": "Does the man in the beige hoodie appear to be standing?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "What kind of top is the man in the beige hoodie wearing?",
+      "modified": "What kind of top is the man in the black hoodie wearing?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the man in the beige hoodie interacting with someone in the scene?",
+      "modified": "Is the man in the black hoodie interacting with someone in the scene?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the man in the beige hoodie look like he is talking?",
+      "modified": "Does the man in the black hoodie look like he is talking?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Which direction is the man in the beige hoodie looking?",
+      "modified": "Which direction is the man in the black hoodie looking?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the man in the beige hoodie closer to the right side of the image?",
+      "modified": "Is the man in the black hoodie closer to the right side of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "What is the man in the beige hoodie wearing on his lower body?",
+      "modified": "What is the man in the black hoodie wearing on his lower body?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the man in the beige hoodie have one hand pointing outward?",
+      "modified": "Does the man in the black hoodie have one hand pointing outward?",
+      "false_premise": true
+    }
+  ]
+}

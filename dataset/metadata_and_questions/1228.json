@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1228",
+    "source": "COCO",
+    "complexity": 1,
+    "category": 2,
+    "target": "airplane"
+  },
+  "base": {
+    "target_description": "the white airplane with a red tail",
+    "modified_target_description": "the white truck with a red tail",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the white airplane with a red tail on the runway?",
+      "modified": "Is the white airplane with a red tail on the runway?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the white airplane with a red tail look like it is moving along the ground?",
+      "modified": "Does the white airplane with a red tail look like it is moving along the ground?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the white airplane with a red tail facing toward the right side of the image?",
+      "modified": "Is the white airplane with a red tail facing toward the right side of the image?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Can you see the white airplane with a red tail near a roadway?",
+      "modified": "Can you see the white truck with a red tail near a roadway?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the white airplane with a red tail large compared with the nearby vehicles?",
+      "modified": "Is the white truck with a red tail large compared with the nearby vehicles?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the white airplane with a red tail have visible engines under its wings?",
+      "modified": "Does the white truck with a red tail have visible engines under its wings?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the white airplane with a red tail positioned in front of industrial buildings?",
+      "modified": "Is the white truck with a red tail positioned in front of industrial buildings?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Can you tell whether the white airplane with a red tail is a passenger jet?",
+      "modified": "Can you tell whether the white truck with a red tail is a passenger jet?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the white airplane with a red tail the main vehicle in the scene?",
+      "modified": "Is the white truck with a red tail the main vehicle in the scene?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the white airplane with a red tail appear to be at an airport?",
+      "modified": "Does the white truck with a red tail appear to be at an airport?",
+      "false_premise": true
+    }
+  ]
+}

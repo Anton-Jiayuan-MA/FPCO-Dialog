@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3124",
+    "source": "Open Images",
+    "complexity": 3,
+    "category": 1,
+    "target": "man"
+  },
+  "base": {
+    "target_description": "the smiling man in a black suit with a lanyard",
+    "modified_target_description": "the smiling woman in a black suit with a lanyard",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the smiling man in a black suit with a lanyard looking toward?",
+      "modified": "What is the smiling man in a black suit with a lanyard looking toward?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the smiling man in a black suit with a lanyard standing behind some equipment?",
+      "modified": "Is the smiling man in a black suit with a lanyard standing behind some equipment?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the smiling man in a black suit with a lanyard appear to be indoors?",
+      "modified": "Does the smiling man in a black suit with a lanyard appear to be indoors?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the smiling man in a black suit with a lanyard facing the camera?",
+      "modified": "Is the smiling woman in a black suit with a lanyard facing the camera?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "What kind of expression does the smiling man in a black suit with a lanyard have?",
+      "modified": "What kind of expression does the smiling woman in a black suit with a lanyard have?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the smiling man in a black suit with a lanyard positioned near computer monitors?",
+      "modified": "Is the smiling woman in a black suit with a lanyard positioned near computer monitors?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the smiling man in a black suit with a lanyard seem to be at an event or conference?",
+      "modified": "Does the smiling woman in a black suit with a lanyard seem to be at an event or conference?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the smiling man in a black suit with a lanyard wearing a white shirt under the suit?",
+      "modified": "Is the smiling woman in a black suit with a lanyard wearing a white shirt under the suit?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Where in the image is the smiling man in a black suit with a lanyard located?",
+      "modified": "Where in the image is the smiling woman in a black suit with a lanyard located?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the smiling man in a black suit with a lanyard closer to the camera than the other man?",
+      "modified": "Is the smiling woman in a black suit with a lanyard closer to the camera than the other man?",
+      "false_premise": true
+    }
+  ]
+}

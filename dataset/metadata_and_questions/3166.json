@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3166",
+    "source": "Open Images",
+    "complexity": 3,
+    "category": 1,
+    "target": "person"
+  },
+  "base": {
+    "target_description": "the person in a red apron and glasses",
+    "modified_target_description": "the person in a red apron and glasses on the right",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the person in a red apron and glasses doing at the stove?",
+      "modified": "What is the person in a red apron and glasses doing at the stove?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the person in a red apron and glasses holding a wooden spoon?",
+      "modified": "Is the person in a red apron and glasses holding a wooden spoon?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "What is the person in a red apron and glasses standing next to?",
+      "modified": "What is the person in a red apron and glasses standing next to?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the person in a red apron and glasses appear to be cooking?",
+      "modified": "Does the person in a red apron and glasses on the right appear to be cooking?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the person in a red apron and glasses looking down at the pot?",
+      "modified": "Is the person in a red apron and glasses on the right looking down at the pot?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "What color apron is the person in a red apron and glasses wearing?",
+      "modified": "What color apron is the person in a red apron and glasses on the right wearing?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the person in a red apron and glasses near the front of the image?",
+      "modified": "Is the person in a red apron and glasses on the right near the front of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the person in a red apron and glasses seem to be stirring something hot?",
+      "modified": "Does the person in a red apron and glasses on the right seem to be stirring something hot?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the person in a red apron and glasses indoors?",
+      "modified": "Is the person in a red apron and glasses on the right indoors?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Who is closest to the camera, the person in a red apron and glasses or the others?",
+      "modified": "Who is closest to the camera, the person in a red apron and glasses on the right or the others?",
+      "false_premise": true
+    }
+  ]
+}

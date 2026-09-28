@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1338",
+    "source": "Open Images",
+    "complexity": 1,
+    "category": 3,
+    "target": "pig"
+  },
+  "base": {
+    "target_description": "the dark pig in side view",
+    "modified_target_description": "the light pig in side view",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the dark pig in side view doing in this illustration?",
+      "modified": "What is the dark pig in side view doing in this illustration?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the dark pig in side view standing still or moving?",
+      "modified": "Is the dark pig in side view standing still or moving?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Which direction is the dark pig in side view facing?",
+      "modified": "Which direction is the dark pig in side view facing?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the dark pig in side view appear to be on grass or bare ground?",
+      "modified": "Does the light pig in side view appear to be on grass or bare ground?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the dark pig in side view shown close to a small pond?",
+      "modified": "Is the light pig in side view shown close to a small pond?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the dark pig in side view have a long snout?",
+      "modified": "Does the light pig in side view have a long snout?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the dark pig in side view the main subject of the image?",
+      "modified": "Is the light pig in side view the main subject of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the dark pig in side view appear outdoors?",
+      "modified": "Does the light pig in side view appear outdoors?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the dark pig in side view drawn as part of a natural landscape?",
+      "modified": "Is the light pig in side view drawn as part of a natural landscape?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the dark pig in side view look like an adult animal?",
+      "modified": "Does the light pig in side view look like an adult animal?",
+      "false_premise": true
+    }
+  ]
+}

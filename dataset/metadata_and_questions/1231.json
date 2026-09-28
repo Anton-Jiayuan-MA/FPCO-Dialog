@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1231",
+    "source": "COCO",
+    "complexity": 1,
+    "category": 2,
+    "target": "motorcycle"
+  },
+  "base": {
+    "target_description": "the gold and black motorcycle",
+    "modified_target_description": "the silver and black motorcycle",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the gold and black motorcycle parked in a parking lot?",
+      "modified": "Is the gold and black motorcycle parked in a parking lot?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the gold and black motorcycle appear to be leaning on its kickstand?",
+      "modified": "Does the gold and black motorcycle appear to be leaning on its kickstand?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the gold and black motorcycle facing slightly toward the camera?",
+      "modified": "Is the gold and black motorcycle facing slightly toward the camera?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Can you see the front wheel of the gold and black motorcycle clearly?",
+      "modified": "Can you see the front wheel of the silver and black motorcycle clearly?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the gold and black motorcycle positioned near some parked cars?",
+      "modified": "Is the silver and black motorcycle positioned near some parked cars?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the gold and black motorcycle have a dark windshield?",
+      "modified": "Does the silver and black motorcycle have a dark windshield?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the gold and black motorcycle the main subject of the image?",
+      "modified": "Is the silver and black motorcycle the main subject of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the gold and black motorcycle look like a sport-style bike?",
+      "modified": "Does the silver and black motorcycle look like a sport-style bike?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the gold and black motorcycle parked on pavement beside a small patch of grass?",
+      "modified": "Is the silver and black motorcycle parked on pavement beside a small patch of grass?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Can you see the headlight on the gold and black motorcycle?",
+      "modified": "Can you see the headlight on the silver and black motorcycle?",
+      "false_premise": true
+    }
+  ]
+}

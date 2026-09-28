@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3339",
+    "source": "Open Images",
+    "complexity": 3,
+    "category": 3,
+    "target": "sheep"
+  },
+  "base": {
+    "target_description": "the woolly sheep on the hillside",
+    "modified_target_description": "the black sheep on the hillside",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the woolly sheep on the hillside standing close to many other sheep?",
+      "modified": "Is the woolly sheep on the hillside standing close to many other sheep?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the woolly sheep on the hillside appear to be moving uphill?",
+      "modified": "Does the woolly sheep on the hillside appear to be moving uphill?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the woolly sheep on the hillside covered in thick light-colored wool?",
+      "modified": "Is the woolly sheep on the hillside covered in thick light-colored wool?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Can you see the woolly sheep on the hillside from the side rather than straight on?",
+      "modified": "Can you see the black sheep on the hillside from the side rather than straight on?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the woolly sheep on the hillside blend into a crowded flock?",
+      "modified": "Does the black sheep on the hillside blend into a crowded flock?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the woolly sheep on the hillside outdoors under a clear sky?",
+      "modified": "Is the black sheep on the hillside outdoors under a clear sky?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the woolly sheep on the hillside have its head turned to one side?",
+      "modified": "Does the black sheep on the hillside have its head turned to one side?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the woolly sheep on the hillside standing on a sloped patch of ground?",
+      "modified": "Is the black sheep on the hillside standing on a sloped patch of ground?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the woolly sheep on the hillside look like part of a large group?",
+      "modified": "Does the black sheep on the hillside look like part of a large group?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the woolly sheep on the hillside surrounded by other animals of the same kind?",
+      "modified": "Is the black sheep on the hillside surrounded by other animals of the same kind?",
+      "false_premise": true
+    }
+  ]
+}

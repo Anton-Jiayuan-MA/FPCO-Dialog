@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1461",
+    "source": "COCO",
+    "complexity": 1,
+    "category": 4,
+    "target": "cake"
+  },
+  "base": {
+    "target_description": "the white graduation cake",
+    "modified_target_description": "the white graduation cake on the left",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What words are written on the white graduation cake?",
+      "modified": "What words are written on the white graduation cake?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "What color icing borders the white graduation cake?",
+      "modified": "What color icing borders the white graduation cake?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the white graduation cake decorated with flowers?",
+      "modified": "Is the white graduation cake decorated with flowers?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the white graduation cake have a graduation cap on top?",
+      "modified": "Does the white graduation cake on the left have a graduation cap on top?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "What shape is the white graduation cake?",
+      "modified": "What shape is the white graduation cake on the left?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the white graduation cake sitting on a tray or board?",
+      "modified": "Is the white graduation cake on the left sitting on a tray or board?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Are there purple decorations on the white graduation cake?",
+      "modified": "Are there purple decorations on the white graduation cake on the left?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the white graduation cake look like it is for a celebration?",
+      "modified": "Does the white graduation cake on the left look like it is for a celebration?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the white graduation cake large enough to serve several people?",
+      "modified": "Is the white graduation cake on the left large enough to serve several people?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "What name is written on the white graduation cake?",
+      "modified": "What name is written on the white graduation cake on the left?",
+      "false_premise": true
+    }
+  ]
+}

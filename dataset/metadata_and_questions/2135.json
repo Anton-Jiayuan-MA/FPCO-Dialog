@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2135",
+    "source": "Open Images",
+    "complexity": 2,
+    "category": 1,
+    "target": "woman"
+  },
+  "base": {
+    "target_description": "the woman in a black swimsuit and sunglasses",
+    "modified_target_description": "the woman in a white swimsuit and sunglasses",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the woman in a black swimsuit and sunglasses standing on the sand?",
+      "modified": "Is the woman in a black swimsuit and sunglasses standing on the sand?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the woman in a black swimsuit and sunglasses raising one hand?",
+      "modified": "Is the woman in a black swimsuit and sunglasses raising one hand?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the woman in a black swimsuit and sunglasses appear to be smiling?",
+      "modified": "Does the woman in a black swimsuit and sunglasses appear to be smiling?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the woman in a black swimsuit and sunglasses near the water?",
+      "modified": "Is the woman in a white swimsuit and sunglasses near the water?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the woman in a black swimsuit and sunglasses facing toward the camera?",
+      "modified": "Is the woman in a white swimsuit and sunglasses facing toward the camera?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the woman in a black swimsuit and sunglasses wearing a one-piece swimsuit?",
+      "modified": "Is the woman in a white swimsuit and sunglasses wearing a one-piece swimsuit?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the woman in a black swimsuit and sunglasses look like she is waving?",
+      "modified": "Does the woman in a white swimsuit and sunglasses look like she is waving?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the woman in a black swimsuit and sunglasses standing beside another person?",
+      "modified": "Is the woman in a white swimsuit and sunglasses standing beside another person?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the woman in a black swimsuit and sunglasses out of the water rather than swimming?",
+      "modified": "Is the woman in a white swimsuit and sunglasses out of the water rather than swimming?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the woman in a black swimsuit and sunglasses seem relaxed at the beach?",
+      "modified": "Does the woman in a white swimsuit and sunglasses seem relaxed at the beach?",
+      "false_premise": true
+    }
+  ]
+}

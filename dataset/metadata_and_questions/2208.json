@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2208",
+    "source": "COCO",
+    "complexity": 2,
+    "category": 2,
+    "target": "train"
+  },
+  "base": {
+    "target_description": "the silver train on the right track",
+    "modified_target_description": "the silver bus on the right track",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the silver train on the right track facing away from the camera?",
+      "modified": "Is the silver train on the right track facing away from the camera?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the silver train on the right track appear to be moving down the rails?",
+      "modified": "Does the silver train on the right track appear to be moving down the rails?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the silver train on the right track farther from the camera than the boxcars on the left?",
+      "modified": "Is the silver train on the right track farther from the camera than the boxcars on the left?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the silver train on the right track have its rear end visible?",
+      "modified": "Does the silver bus on the right track have its rear end visible?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the silver train on the right track centered more toward the right side of the image?",
+      "modified": "Is the silver bus on the right track centered more toward the right side of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the silver train on the right track look like a passenger train car rather than a freight car?",
+      "modified": "Does the silver bus on the right track look like a passenger train car rather than a freight car?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the silver train on the right track on a separate rail line from the freight cars?",
+      "modified": "Is the silver bus on the right track on a separate rail line from the freight cars?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the silver train on the right track appear smaller because it is in the distance?",
+      "modified": "Does the silver bus on the right track appear smaller because it is in the distance?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is there open track stretching out in front of the silver train on the right track?",
+      "modified": "Is there open track stretching out in front of the silver bus on the right track?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the silver train on the right track stand alone without other attached cars clearly visible?",
+      "modified": "Does the silver bus on the right track stand alone without other attached cars clearly visible?",
+      "false_premise": true
+    }
+  ]
+}

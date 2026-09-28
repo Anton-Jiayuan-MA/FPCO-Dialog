@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2471",
+    "source": "Open Images",
+    "complexity": 2,
+    "category": 4,
+    "target": "meat"
+  },
+  "base": {
+    "target_description": "the raw ground meat",
+    "modified_target_description": "the raw ground meat on the right",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What color is the raw ground meat?",
+      "modified": "What color is the raw ground meat?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the raw ground meat loose or shaped into pieces?",
+      "modified": "Is the raw ground meat loose or shaped into pieces?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the raw ground meat look fresh in this image?",
+      "modified": "Does the raw ground meat look fresh in this image?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the raw ground meat resting on white paper?",
+      "modified": "Is the raw ground meat on the right resting on white paper?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the raw ground meat appear to be cooked or uncooked?",
+      "modified": "Does the raw ground meat on the right appear to be cooked or uncooked?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the raw ground meat shown in a close-up view?",
+      "modified": "Is the raw ground meat on the right shown in a close-up view?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the raw ground meat take up a large part of the image?",
+      "modified": "Does the raw ground meat on the right take up a large part of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the raw ground meat piled together or spread out flat?",
+      "modified": "Is the raw ground meat on the right piled together or spread out flat?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the raw ground meat have a chunky texture?",
+      "modified": "Does the raw ground meat on the right have a chunky texture?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the raw ground meat inside some kind of wrapping or packaging?",
+      "modified": "Is the raw ground meat on the right inside some kind of wrapping or packaging?",
+      "false_premise": true
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1219",
+    "source": "COCO",
+    "complexity": 1,
+    "category": 2,
+    "target": "motorcycle"
+  },
+  "base": {
+    "target_description": "the red Honda motorcycle",
+    "modified_target_description": "the red Honda bicycle",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the red Honda motorcycle parked in front of a wooden wall?",
+      "modified": "Is the red Honda motorcycle parked in front of a wooden wall?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the red Honda motorcycle appear to be standing still?",
+      "modified": "Does the red Honda motorcycle appear to be standing still?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the red Honda motorcycle shown from the side?",
+      "modified": "Is the red Honda motorcycle shown from the side?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the red Honda motorcycle have its kickstand down?",
+      "modified": "Does the red Honda bicycle have its kickstand down?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the red Honda motorcycle positioned on a wooden floor?",
+      "modified": "Is the red Honda bicycle positioned on a wooden floor?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Can you see both wheels of the red Honda motorcycle clearly?",
+      "modified": "Can you see both wheels of the red Honda bicycle clearly?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the red Honda motorcycle facing toward the right side of the image?",
+      "modified": "Is the red Honda bicycle facing toward the right side of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the red Honda motorcycle look like an off-road style bike?",
+      "modified": "Does the red Honda bicycle look like an off-road style bike?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the red Honda motorcycle leaning slightly while parked?",
+      "modified": "Is the red Honda bicycle leaning slightly while parked?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is there a window above the red Honda motorcycle?",
+      "modified": "Is there a window above the red Honda bicycle?",
+      "false_premise": true
+    }
+  ]
+}

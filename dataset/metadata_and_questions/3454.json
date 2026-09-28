@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3454",
+    "source": "Open Images",
+    "complexity": 3,
+    "category": 4,
+    "target": "apple"
+  },
+  "base": {
+    "target_description": "the apples in the glass bowl",
+    "modified_target_description": "the green apples in the glass bowl",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "How many of the apples in the glass bowl are visible?",
+      "modified": "How many of the apples in the glass bowl are visible?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Are the apples in the glass bowl mostly red, green, or yellow?",
+      "modified": "Are the apples in the glass bowl mostly red, green, or yellow?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Do the apples in the glass bowl look whole or sliced?",
+      "modified": "Do the apples in the glass bowl look whole or sliced?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Are the apples in the glass bowl wet with water droplets?",
+      "modified": "Are the green apples in the glass bowl wet with water droplets?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Do the apples in the glass bowl appear fresh?",
+      "modified": "Do the green apples in the glass bowl appear fresh?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Are the apples in the glass bowl piled on top of one another?",
+      "modified": "Are the green apples in the glass bowl piled on top of one another?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is there a mix of colors among the apples in the glass bowl?",
+      "modified": "Is there a mix of colors among the green apples in the glass bowl?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Are the apples in the glass bowl next to a container of cut fruit?",
+      "modified": "Are the green apples in the glass bowl next to a container of cut fruit?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Do the apples in the glass bowl fill most of the bowl?",
+      "modified": "Do the green apples in the glass bowl fill most of the bowl?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Are the apples in the glass bowl sitting on a wooden surface?",
+      "modified": "Are the green apples in the glass bowl sitting on a wooden surface?",
+      "false_premise": true
+    }
+  ]
+}

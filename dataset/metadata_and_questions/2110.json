@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2110",
+    "source": "Open Images",
+    "complexity": 2,
+    "category": 1,
+    "target": "child"
+  },
+  "base": {
+    "target_description": "the child holding a certificate",
+    "modified_target_description": "the dog holding a certificate",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the child holding a certificate wearing?",
+      "modified": "What is the child holding a certificate wearing?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the child holding a certificate standing between two men in uniform?",
+      "modified": "Is the child holding a certificate standing between two men in uniform?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the child holding a certificate appear to be facing the camera?",
+      "modified": "Does the child holding a certificate appear to be facing the camera?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "What is the child holding a certificate doing with his hands?",
+      "modified": "What is the dog holding a certificate doing with its hands?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the child holding a certificate smiling or keeping a neutral expression?",
+      "modified": "Is the dog holding a certificate smiling or keeping a neutral expression?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "What color shirt is the child holding a certificate wearing?",
+      "modified": "What color shirt is the dog holding a certificate wearing?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the child holding a certificate standing indoors?",
+      "modified": "Is the dog holding a certificate standing indoors?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the child holding a certificate look like the center of the scene?",
+      "modified": "Does the dog holding a certificate look like the center of the scene?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the child holding a certificate positioned in front of several flags?",
+      "modified": "Is the dog holding a certificate positioned in front of several flags?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the child holding a certificate seem to be receiving recognition at an event?",
+      "modified": "Does the dog holding a certificate seem to be receiving recognition at an event?",
+      "false_premise": true
+    }
+  ]
+}

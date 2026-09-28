@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2112",
+    "source": "Open Images",
+    "complexity": 2,
+    "category": 1,
+    "target": "man"
+  },
+  "base": {
+    "target_description": "the bearded man in a gray hat",
+    "modified_target_description": "the bearded woman in a gray hat",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the bearded man in a gray hat sitting on?",
+      "modified": "What is the bearded man in a gray hat sitting on?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the bearded man in a gray hat looking toward the woman beside him?",
+      "modified": "Is the bearded man in a gray hat looking toward the woman beside him?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "What is the bearded man in a gray hat wearing on his head?",
+      "modified": "What is the bearded man in a gray hat wearing on his head?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the bearded man in a gray hat have any face paint on?",
+      "modified": "Does the bearded woman in a gray hat have any face paint on?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "What color are the shoes of the bearded man in a gray hat?",
+      "modified": "What color are the shoes of the bearded woman in a gray hat?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the bearded man in a gray hat sitting or standing?",
+      "modified": "Is the bearded woman in a gray hat sitting or standing?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the bearded man in a gray hat appear to be talking to someone?",
+      "modified": "Does the bearded woman in a gray hat appear to be talking to someone?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "What is resting on the ground near the bearded man in a gray hat?",
+      "modified": "What is resting on the ground near the bearded woman in a gray hat?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the bearded man in a gray hat wearing jeans?",
+      "modified": "Is the bearded woman in a gray hat wearing jeans?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Are there bracelets on the wrist of the bearded man in a gray hat?",
+      "modified": "Are there bracelets on the wrist of the bearded woman in a gray hat?",
+      "false_premise": true
+    }
+  ]
+}

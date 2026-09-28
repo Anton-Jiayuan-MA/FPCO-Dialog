@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1210",
+    "source": "COCO",
+    "complexity": 1,
+    "category": 2,
+    "target": "truck"
+  },
+  "base": {
+    "target_description": "the blue truck with a rusty container",
+    "modified_target_description": "the blue car with a rusty container",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the blue truck with a rusty container carrying on its back?",
+      "modified": "What is the blue truck with a rusty container carrying on its back?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the blue truck with a rusty container parked or moving in the street?",
+      "modified": "Is the blue truck with a rusty container parked or moving in the street?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the blue truck with a rusty container have graffiti on the container?",
+      "modified": "Does the blue truck with a rusty container have graffiti on the container?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "What color is the cab of the blue truck with a rusty container?",
+      "modified": "What color is the cab of the blue car with a rusty container?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the blue truck with a rusty container facing left or right?",
+      "modified": "Is the blue car with a rusty container facing left or right?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the blue truck with a rusty container look clean or worn?",
+      "modified": "Does the blue car with a rusty container look clean or worn?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "How many rear wheels are visible on the blue truck with a rusty container?",
+      "modified": "How many rear wheels are visible on the blue car with a rusty container?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the blue truck with a rusty container driving in an urban area?",
+      "modified": "Is the blue car with a rusty container driving in an urban area?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the blue truck with a rusty container appear to be a dump truck?",
+      "modified": "Does the blue car with a rusty container appear to be a dump truck?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the blue truck with a rusty container close to the curb?",
+      "modified": "Is the blue car with a rusty container close to the curb?",
+      "false_premise": true
+    }
+  ]
+}

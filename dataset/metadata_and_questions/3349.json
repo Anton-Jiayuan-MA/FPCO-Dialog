@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3349",
+    "source": "Open Images",
+    "complexity": 3,
+    "category": 3,
+    "target": "fish"
+  },
+  "base": {
+    "target_description": "the small silvery fish underwater",
+    "modified_target_description": "the small golden fish underwater",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Are the small silvery fish underwater swimming closely together?",
+      "modified": "Are the small silvery fish underwater swimming closely together?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Do the small silvery fish underwater appear to be moving in the same direction?",
+      "modified": "Do the small silvery fish underwater appear to be moving in the same direction?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Are the small silvery fish underwater shown as part of a large school?",
+      "modified": "Are the small silvery fish underwater shown as part of a large school?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Do the small silvery fish underwater fill most of the scene?",
+      "modified": "Do the small golden fish underwater fill most of the scene?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Are the small silvery fish underwater surrounded by blue water?",
+      "modified": "Are the small golden fish underwater surrounded by blue water?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Do the small silvery fish underwater look slender and narrow?",
+      "modified": "Do the small golden fish underwater look slender and narrow?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Are the small silvery fish underwater swimming around seaweed?",
+      "modified": "Are the small golden fish underwater swimming around seaweed?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Do the small silvery fish underwater appear densely packed?",
+      "modified": "Do the small golden fish underwater appear densely packed?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Are the small silvery fish underwater seen from below the water surface?",
+      "modified": "Are the small golden fish underwater seen from below the water surface?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Do the small silvery fish underwater create a swirling pattern in the water?",
+      "modified": "Do the small golden fish underwater create a swirling pattern in the water?",
+      "false_premise": true
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3122",
+    "source": "Open Images",
+    "complexity": 3,
+    "category": 1,
+    "target": "man"
+  },
+  "base": {
+    "target_description": "the bald man in a dark blazer and light pants",
+    "modified_target_description": "the bald woman in a dark blazer and light pants",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the bald man in a dark blazer and light pants doing in the scene?",
+      "modified": "What is the bald man in a dark blazer and light pants doing in the scene?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the bald man in a dark blazer and light pants standing near the tram?",
+      "modified": "Is the bald man in a dark blazer and light pants standing near the tram?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the bald man in a dark blazer and light pants appear to be talking with someone?",
+      "modified": "Does the bald man in a dark blazer and light pants appear to be talking with someone?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the bald man in a dark blazer and light pants wearing glasses?",
+      "modified": "Is the bald woman in a dark blazer and light pants wearing glasses?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Where is the bald man in a dark blazer and light pants positioned relative to the group?",
+      "modified": "Where is the bald woman in a dark blazer and light pants positioned relative to the group?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the bald man in a dark blazer and light pants facing toward the man gesturing in front of him?",
+      "modified": "Is the bald woman in a dark blazer and light pants facing toward the man gesturing in front of her?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "What color are the shoes of the bald man in a dark blazer and light pants?",
+      "modified": "What color are the shoes of the bald woman in a dark blazer and light pants?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the bald man in a dark blazer and light pants look like part of the formal group visit?",
+      "modified": "Does the bald woman in a dark blazer and light pants look like part of the formal group visit?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the bald man in a dark blazer and light pants standing on the platform edge area?",
+      "modified": "Is the bald woman in a dark blazer and light pants standing on the platform edge area?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "How is the bald man in a dark blazer and light pants dressed compared with the others nearby?",
+      "modified": "How is the bald woman in a dark blazer and light pants dressed compared with the others nearby?",
+      "false_premise": true
+    }
+  ]
+}

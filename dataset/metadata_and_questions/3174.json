@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3174",
+    "source": "Open Images",
+    "complexity": 3,
+    "category": 1,
+    "target": "person"
+  },
+  "base": {
+    "target_description": "the person in a blue jacket on the right",
+    "modified_target_description": "the person in a blue jacket on the left",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the person in a blue jacket on the right walking along the path?",
+      "modified": "Is the person in a blue jacket on the right walking along the path?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the person in a blue jacket on the right appear to be facing away from the camera?",
+      "modified": "Does the person in a blue jacket on the right appear to be facing away from the camera?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the person in a blue jacket on the right near the edge of the grassy area?",
+      "modified": "Is the person in a blue jacket on the right near the edge of the grassy area?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the person in a blue jacket on the right seem to be part of the walking group?",
+      "modified": "Does the person in a blue jacket on the left seem to be part of the walking group?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the person in a blue jacket on the right wearing dark pants?",
+      "modified": "Is the person in a blue jacket on the left wearing dark pants?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the person in a blue jacket on the right closer to the camera than the person farther ahead on the path?",
+      "modified": "Is the person in a blue jacket on the left closer to the camera than the person farther ahead on the path?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the person in a blue jacket on the right have another person walking just to the left?",
+      "modified": "Does the person in a blue jacket on the left have another person walking just to the left?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the person in a blue jacket on the right moving toward the background of the park?",
+      "modified": "Is the person in a blue jacket on the left moving toward the background of the park?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the person in a blue jacket on the right on the paved walkway rather than on the grass?",
+      "modified": "Is the person in a blue jacket on the left on the paved walkway rather than on the grass?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the person in a blue jacket on the right appear to be outdoors in a park?",
+      "modified": "Does the person in a blue jacket on the left appear to be outdoors in a park?",
+      "false_premise": true
+    }
+  ]
+}

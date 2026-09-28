@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2176",
+    "source": "COCO",
+    "complexity": 2,
+    "category": 1,
+    "target": "man"
+  },
+  "base": {
+    "target_description": "the man in a dark suit beside the bride",
+    "modified_target_description": "the man in a dark suit behind the bride",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the man in a dark suit beside the bride looking at the camera?",
+      "modified": "Is the man in a dark suit beside the bride looking at the camera?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the man in a dark suit beside the bride have a slight smile on his face?",
+      "modified": "Does the man in a dark suit beside the bride have a slight smile on his face?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the man in a dark suit beside the bride sitting close to the bride?",
+      "modified": "Is the man in a dark suit beside the bride sitting close to the bride?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the man in a dark suit beside the bride appear to be dressed formally for a wedding?",
+      "modified": "Does the man in a dark suit behind the bride appear to be dressed formally for a wedding?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the man in a dark suit beside the bride wearing a tie?",
+      "modified": "Is the man in a dark suit behind the bride wearing a tie?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the man in a dark suit beside the bride have one arm around the bride?",
+      "modified": "Does the man in a dark suit behind the bride have one arm around the bride?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the man in a dark suit beside the bride inside a car?",
+      "modified": "Is the man in a dark suit behind the bride inside a car?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the man in a dark suit beside the bride have a flower pinned to his jacket?",
+      "modified": "Does the man in a dark suit behind the bride have a flower pinned to his jacket?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the man in a dark suit beside the bride positioned on the left side of the image?",
+      "modified": "Is the man in a dark suit behind the bride positioned on the left side of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the man in a dark suit beside the bride appear calm and posed for the photo?",
+      "modified": "Does the man in a dark suit behind the bride appear calm and posed for the photo?",
+      "false_premise": true
+    }
+  ]
+}

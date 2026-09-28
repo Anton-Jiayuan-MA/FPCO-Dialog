@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1151",
+    "source": "Open Images",
+    "complexity": 1,
+    "category": 1,
+    "target": "woman"
+  },
+  "base": {
+    "target_description": "the smiling woman in a white wedding dress",
+    "modified_target_description": "the smiling woman in a black wedding dress",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the smiling woman in a white wedding dress holding in her hands?",
+      "modified": "What is the smiling woman in a white wedding dress holding in her hands?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the smiling woman in a white wedding dress standing indoors?",
+      "modified": "Is the smiling woman in a white wedding dress standing indoors?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "What kind of expression does the smiling woman in a white wedding dress have?",
+      "modified": "What kind of expression does the smiling woman in a white wedding dress have?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the smiling woman in a white wedding dress looking toward the camera or off to the side?",
+      "modified": "Is the smiling woman in a black wedding dress looking toward the camera or off to the side?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the smiling woman in a white wedding dress appear to be wearing jewelry?",
+      "modified": "Does the smiling woman in a black wedding dress appear to be wearing jewelry?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the smiling woman in a white wedding dress wearing a strapless gown?",
+      "modified": "Is the smiling woman in a black wedding dress wearing a strapless gown?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the smiling woman in a white wedding dress seem to be posing for a photo?",
+      "modified": "Does the smiling woman in a black wedding dress seem to be posing for a photo?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the smiling woman in a white wedding dress standing near a door?",
+      "modified": "Is the smiling woman in a black wedding dress standing near a door?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "What is the smiling woman in a white wedding dress doing with the fabric of her dress?",
+      "modified": "What is the smiling woman in a black wedding dress doing with the fabric of her dress?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the smiling woman in a white wedding dress appear relaxed and happy?",
+      "modified": "Does the smiling woman in a black wedding dress appear relaxed and happy?",
+      "false_premise": true
+    }
+  ]
+}

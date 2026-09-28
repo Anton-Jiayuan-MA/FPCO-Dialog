@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2456",
+    "source": "COCO",
+    "complexity": 2,
+    "category": 4,
+    "target": "donut"
+  },
+  "base": {
+    "target_description": "the ring-shaped glazed donut",
+    "modified_target_description": "the ring-shaped chocolate donut",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What color is the ring-shaped glazed donut?",
+      "modified": "What color is the ring-shaped glazed donut?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the ring-shaped glazed donut sitting on a sheet of paper?",
+      "modified": "Is the ring-shaped glazed donut sitting on a sheet of paper?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the ring-shaped glazed donut have a hole in the middle?",
+      "modified": "Does the ring-shaped glazed donut have a hole in the middle?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the ring-shaped glazed donut near the top center of the table?",
+      "modified": "Is the ring-shaped chocolate donut near the top center of the table?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the ring-shaped glazed donut look shiny from glaze?",
+      "modified": "Does the ring-shaped chocolate donut look shiny from glaze?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the ring-shaped glazed donut placed beside another pastry?",
+      "modified": "Is the ring-shaped chocolate donut placed beside another pastry?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the ring-shaped glazed donut appear to be made of connected dough balls?",
+      "modified": "Does the ring-shaped chocolate donut appear to be made of connected dough balls?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the ring-shaped glazed donut on the table in front of a seated person?",
+      "modified": "Is the ring-shaped chocolate donut on the table in front of a seated person?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the ring-shaped glazed donut look plain rather than covered in sprinkles?",
+      "modified": "Does the ring-shaped chocolate donut look plain rather than covered in sprinkles?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the ring-shaped glazed donut one of the pastries arranged neatly on the table?",
+      "modified": "Is the ring-shaped chocolate donut one of the pastries arranged neatly on the table?",
+      "false_premise": true
+    }
+  ]
+}

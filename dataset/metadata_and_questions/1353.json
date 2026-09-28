@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1353",
+    "source": "Open Images",
+    "complexity": 1,
+    "category": 3,
+    "target": "dog"
+  },
+  "base": {
+    "target_description": "the black dog on the couch",
+    "modified_target_description": "the white dog on the couch",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the black dog on the couch facing away from the camera?",
+      "modified": "Is the black dog on the couch facing away from the camera?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the black dog on the couch appear to be lying down?",
+      "modified": "Does the black dog on the couch appear to be lying down?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the black dog on the couch resting on a blanket or cushion?",
+      "modified": "Is the black dog on the couch resting on a blanket or cushion?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Can you mostly see the back of the black dog on the couch?",
+      "modified": "Can you mostly see the back of the white dog on the couch?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the black dog on the couch take up much of the foreground?",
+      "modified": "Does the white dog on the couch take up much of the foreground?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the black dog on the couch indoors?",
+      "modified": "Is the white dog on the couch indoors?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the black dog on the couch have short fur?",
+      "modified": "Does the white dog on the couch have short fur?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the black dog on the couch near another dog?",
+      "modified": "Is the white dog on the couch near another dog?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the black dog on the couch look calm and relaxed?",
+      "modified": "Does the white dog on the couch look calm and relaxed?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the black dog on the couch positioned beside a patterned blanket?",
+      "modified": "Is the white dog on the couch positioned beside a patterned blanket?",
+      "false_premise": true
+    }
+  ]
+}

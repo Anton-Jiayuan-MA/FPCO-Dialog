@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2285",
+    "source": "Open Images",
+    "complexity": 2,
+    "category": 2,
+    "target": "car"
+  },
+  "base": {
+    "target_description": "the white SUV parked on the street",
+    "modified_target_description": "the white SUV parked on the sidewalk",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the white SUV parked on the street facing toward the left or the right?",
+      "modified": "Is the white SUV parked on the street facing toward the left or the right?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the white SUV parked on the street appear to be parked along the curb?",
+      "modified": "Does the white SUV parked on the street appear to be parked along the curb?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the white SUV parked on the street in front of the building?",
+      "modified": "Is the white SUV parked on the street in front of the building?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the white SUV parked on the street look larger than the green car beside it?",
+      "modified": "Does the white SUV parked on the sidewalk look larger than the green car beside it?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the white SUV parked on the street partly shaded by nearby trees?",
+      "modified": "Is the white SUV parked on the sidewalk partly shaded by nearby trees?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Can you see the side windows of the white SUV parked on the street clearly?",
+      "modified": "Can you see the side windows of the white SUV parked on the sidewalk clearly?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the white SUV parked on the street positioned between another vehicle and the green car?",
+      "modified": "Is the white SUV parked on the sidewalk positioned between another vehicle and the green car?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the white SUV parked on the street have a boxy shape?",
+      "modified": "Does the white SUV parked on the sidewalk have a boxy shape?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the white SUV parked on the street occupying the lower middle part of the image?",
+      "modified": "Is the white SUV parked on the sidewalk occupying the lower middle part of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the white SUV parked on the street appear stationary?",
+      "modified": "Does the white SUV parked on the sidewalk appear stationary?",
+      "false_premise": true
+    }
+  ]
+}

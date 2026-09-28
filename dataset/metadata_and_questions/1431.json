@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1431",
+    "source": "COCO",
+    "complexity": 1,
+    "category": 4,
+    "target": "beef"
+  },
+  "base": {
+    "target_description": "the grilled piece of beef on the plate",
+    "modified_target_description": "the raw piece of beef on the plate",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What color is the grilled piece of beef on the plate?",
+      "modified": "What color is the grilled piece of beef on the plate?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the grilled piece of beef on the plate look well cooked?",
+      "modified": "Does the grilled piece of beef on the plate look well cooked?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the grilled piece of beef on the plate taking up a large part of the meal?",
+      "modified": "Is the grilled piece of beef on the plate taking up a large part of the meal?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the grilled piece of beef on the plate have a glossy surface?",
+      "modified": "Does the raw piece of beef on the plate have a glossy surface?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the grilled piece of beef on the plate next to any vegetables?",
+      "modified": "Is the raw piece of beef on the plate next to any vegetables?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the grilled piece of beef on the plate appear seasoned or charred?",
+      "modified": "Does the raw piece of beef on the plate appear seasoned or charred?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the grilled piece of beef on the plate resting directly on a dinner plate?",
+      "modified": "Is the raw piece of beef on the plate resting directly on a dinner plate?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the grilled piece of beef on the plate look rectangular in shape?",
+      "modified": "Does the raw piece of beef on the plate look rectangular in shape?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the grilled piece of beef on the plate beside a knife?",
+      "modified": "Is the raw piece of beef on the plate beside a knife?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Would you say the grilled piece of beef on the plate looks freshly served?",
+      "modified": "Would you say the raw piece of beef on the plate looks freshly served?",
+      "false_premise": true
+    }
+  ]
+}

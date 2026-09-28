@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2149",
+    "source": "Open Images",
+    "complexity": 2,
+    "category": 1,
+    "target": "man"
+  },
+  "base": {
+    "target_description": "the man in a dark suit with glasses",
+    "modified_target_description": "the man in a light suit with glasses",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the man in a dark suit with glasses doing in this scene?",
+      "modified": "What is the man in a dark suit with glasses doing in this scene?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the man in a dark suit with glasses standing behind a wooden podium?",
+      "modified": "Is the man in a dark suit with glasses standing behind a wooden podium?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the man in a dark suit with glasses facing another person?",
+      "modified": "Is the man in a dark suit with glasses facing another person?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "What color tie is the man in a dark suit with glasses wearing?",
+      "modified": "What color tie is the man in a light suit with glasses wearing?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the man in a dark suit with glasses have a red flower pinned to his jacket?",
+      "modified": "Does the man in a light suit with glasses have a red flower pinned to his jacket?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the man in a dark suit with glasses speaking or listening?",
+      "modified": "Is the man in a light suit with glasses speaking or listening?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the man in a dark suit with glasses appear to be at a formal event?",
+      "modified": "Does the man in a light suit with glasses appear to be at a formal event?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the man in a dark suit with glasses wearing a lanyard?",
+      "modified": "Is the man in a light suit with glasses wearing a lanyard?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the man in a dark suit with glasses looking to his left?",
+      "modified": "Is the man in a light suit with glasses looking to his left?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the man in a dark suit with glasses near a microphone?",
+      "modified": "Is the man in a light suit with glasses near a microphone?",
+      "false_premise": true
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1171",
+    "source": "Open Images",
+    "complexity": 1,
+    "category": 1,
+    "target": "man"
+  },
+  "base": {
+    "target_description": "the man in a black Puma shirt",
+    "modified_target_description": "the man in a black Puma shirt by the wall",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the man in a black Puma shirt doing in the grass?",
+      "modified": "What is the man in a black Puma shirt doing in the grass?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the man in a black Puma shirt facing away from the camera?",
+      "modified": "Is the man in a black Puma shirt facing away from the camera?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "What kind of shirt is the man in a black Puma shirt wearing?",
+      "modified": "What kind of shirt is the man in a black Puma shirt wearing?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the man in a black Puma shirt standing or moving?",
+      "modified": "Is the man in a black Puma shirt by the wall standing or moving?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Where is the man in a black Puma shirt in relation to the wall?",
+      "modified": "Where is the man in a black Puma shirt by the wall in relation to the wall?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Can you see the face of the man in a black Puma shirt clearly?",
+      "modified": "Can you see the face of the man in a black Puma shirt by the wall clearly?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "What is the man in a black Puma shirt wearing on his feet?",
+      "modified": "What is the man in a black Puma shirt by the wall wearing on his feet?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the man in a black Puma shirt appear to be outdoors?",
+      "modified": "Does the man in a black Puma shirt by the wall appear to be outdoors?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the man in a black Puma shirt on a grassy field?",
+      "modified": "Is the man in a black Puma shirt by the wall on a grassy field?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "How are the legs of the man in a black Puma shirt positioned?",
+      "modified": "How are the legs of the man in a black Puma shirt by the wall positioned?",
+      "false_premise": true
+    }
+  ]
+}

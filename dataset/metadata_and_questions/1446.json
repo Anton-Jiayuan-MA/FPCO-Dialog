@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1446",
+    "source": "Open Images",
+    "complexity": 1,
+    "category": 4,
+    "target": "pizza"
+  },
+  "base": {
+    "target_description": "the cheese pizza on a blue plate",
+    "modified_target_description": "the pepperoni pizza on a blue plate",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the cheese pizza on a blue plate whole or already sliced?",
+      "modified": "Is the cheese pizza on a blue plate whole or already sliced?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the cheese pizza on a blue plate look freshly baked?",
+      "modified": "Does the cheese pizza on a blue plate look freshly baked?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "What kind of toppings are visible on the cheese pizza on a blue plate?",
+      "modified": "What kind of toppings are visible on the cheese pizza on a blue plate?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the cheese pizza on a blue plate sitting on a dining table?",
+      "modified": "Is the pepperoni pizza on a blue plate sitting on a dining table?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the cheese pizza on a blue plate have a thick or thin crust?",
+      "modified": "Does the pepperoni pizza on a blue plate have a thick or thin crust?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Are there any burnt spots around the edge of the cheese pizza on a blue plate?",
+      "modified": "Are there any burnt spots around the edge of the pepperoni pizza on a blue plate?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the cheese pizza on a blue plate larger than the plate beneath it?",
+      "modified": "Is the pepperoni pizza on a blue plate larger than the plate beneath it?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the cheese pizza on a blue plate appear to have tomato sauce under the cheese?",
+      "modified": "Does the pepperoni pizza on a blue plate appear to have tomato sauce under the cheese?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the cheese pizza on a blue plate being served at a restaurant?",
+      "modified": "Is the pepperoni pizza on a blue plate being served at a restaurant?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Are a fork and knife placed beside the cheese pizza on a blue plate?",
+      "modified": "Are a fork and knife placed beside the pepperoni pizza on a blue plate?",
+      "false_premise": true
+    }
+  ]
+}

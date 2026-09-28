@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1283",
+    "source": "Open Images",
+    "complexity": 1,
+    "category": 2,
+    "target": "car"
+  },
+  "base": {
+    "target_description": "the red pickup-style car with smoke by the rear wheel",
+    "modified_target_description": "the red pickup-style car near the guardrail",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the red pickup-style car with smoke by the rear wheel doing in this scene?",
+      "modified": "What is the red pickup-style car with smoke by the rear wheel doing in this scene?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the red pickup-style car with smoke by the rear wheel moving or staying still?",
+      "modified": "Is the red pickup-style car with smoke by the rear wheel moving or staying still?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "What color is the red pickup-style car with smoke by the rear wheel?",
+      "modified": "What color is the red pickup-style car with smoke by the rear wheel?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the red pickup-style car with smoke by the rear wheel appear to be on a road or a track?",
+      "modified": "Does the red pickup-style car near the guardrail appear to be on a road or a track?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the red pickup-style car with smoke by the rear wheel seen from the side?",
+      "modified": "Is the red pickup-style car near the guardrail seen from the side?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the red pickup-style car with smoke by the rear wheel have a covered back section?",
+      "modified": "Does the red pickup-style car near the guardrail have a covered back section?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Can you see a driver inside the red pickup-style car with smoke by the rear wheel?",
+      "modified": "Can you see a driver inside the red pickup-style car near the guardrail?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the red pickup-style car with smoke by the rear wheel producing a lot of smoke?",
+      "modified": "Is the red pickup-style car near the guardrail producing a lot of smoke?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Are the wheels of the red pickup-style car with smoke by the rear wheel visible?",
+      "modified": "Are the wheels of the red pickup-style car near the guardrail visible?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the red pickup-style car with smoke by the rear wheel positioned near a guardrail?",
+      "modified": "Is the red pickup-style car near the guardrail positioned near a guardrail?",
+      "false_premise": true
+    }
+  ]
+}

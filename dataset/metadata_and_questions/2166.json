@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2166",
+    "source": "COCO",
+    "complexity": 2,
+    "category": 1,
+    "target": "woman"
+  },
+  "base": {
+    "target_description": "the woman in the green shirt",
+    "modified_target_description": "the woman on the right",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the woman in the green shirt doing at the table?",
+      "modified": "What is the woman in the green shirt doing at the table?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the woman in the green shirt holding or touching anything?",
+      "modified": "Is the woman in the green shirt holding or touching anything?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Which direction is the woman in the green shirt looking?",
+      "modified": "Which direction is the woman in the green shirt looking?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the woman in the green shirt appear to be smiling?",
+      "modified": "Does the woman on the right appear to be smiling?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the woman in the green shirt sitting near a wine glass?",
+      "modified": "Is the woman on the right sitting near a wine glass?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "What is in front of the woman in the green shirt on the table?",
+      "modified": "What is in front of the woman on the right on the table?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the woman in the green shirt seem to be part of a tasting or meeting?",
+      "modified": "Does the woman on the right seem to be part of a tasting or meeting?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the woman in the green shirt indoors?",
+      "modified": "Is the woman on the right indoors?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "What is the facial expression of the woman in the green shirt?",
+      "modified": "What is the facial expression of the woman on the right?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the woman in the green shirt seated beside another woman?",
+      "modified": "Is the woman on the right seated beside another woman?",
+      "false_premise": true
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1161",
+    "source": "Open Images",
+    "complexity": 1,
+    "category": 1,
+    "target": "child"
+  },
+  "base": {
+    "target_description": "the smiling girl with long brown hair",
+    "modified_target_description": "the smiling girl with long brown hair on the left",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the smiling girl with long brown hair doing with her hands?",
+      "modified": "What is the smiling girl with long brown hair doing with her hands?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the smiling girl with long brown hair looking toward the camera?",
+      "modified": "Is the smiling girl with long brown hair looking toward the camera?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "What color shirt is the smiling girl with long brown hair wearing?",
+      "modified": "What color shirt is the smiling girl with long brown hair wearing?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the smiling girl with long brown hair standing outdoors?",
+      "modified": "Is the smiling girl with long brown hair on the left standing outdoors?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the smiling girl with long brown hair appear to be surrounded by green bushes?",
+      "modified": "Does the smiling girl with long brown hair on the left appear to be surrounded by green bushes?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the smiling girl with long brown hair posing for the picture?",
+      "modified": "Is the smiling girl with long brown hair on the left posing for the picture?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "What kind of expression does the smiling girl with long brown hair have?",
+      "modified": "What kind of expression does the smiling girl with long brown hair on the left have?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Are the hands of the smiling girl with long brown hair clasped together?",
+      "modified": "Are the hands of the smiling girl with long brown hair on the left clasped together?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the smiling girl with long brown hair wearing a shirt with large letters on it?",
+      "modified": "Is the smiling girl with long brown hair on the left wearing a shirt with large letters on it?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the smiling girl with long brown hair appear relaxed in the scene?",
+      "modified": "Does the smiling girl with long brown hair on the left appear relaxed in the scene?",
+      "false_premise": true
+    }
+  ]
+}

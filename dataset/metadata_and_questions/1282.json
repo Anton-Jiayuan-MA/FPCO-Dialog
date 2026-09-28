@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1282",
+    "source": "Open Images",
+    "complexity": 1,
+    "category": 2,
+    "target": "car"
+  },
+  "base": {
+    "target_description": "the blue and silver car with Red Bull graphics",
+    "modified_target_description": "the blue and silver car with Red Bull graphics on the right",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the blue and silver car with Red Bull graphics parked along the street?",
+      "modified": "Is the blue and silver car with Red Bull graphics parked along the street?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the blue and silver car with Red Bull graphics appear to be stationary?",
+      "modified": "Does the blue and silver car with Red Bull graphics appear to be stationary?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the blue and silver car with Red Bull graphics facing toward the right side of the image?",
+      "modified": "Is the blue and silver car with Red Bull graphics facing toward the right side of the image?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the blue and silver car with Red Bull graphics have a large can mounted on top?",
+      "modified": "Does the blue and silver car with Red Bull graphics on the right have a large can mounted on top?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the blue and silver car with Red Bull graphics parked in front of a building?",
+      "modified": "Is the blue and silver car with Red Bull graphics on the right parked in front of a building?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Can you see the wheels of the blue and silver car with Red Bull graphics clearly?",
+      "modified": "Can you see the wheels of the blue and silver car with Red Bull graphics on the right clearly?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the blue and silver car with Red Bull graphics sitting next to the curb?",
+      "modified": "Is the blue and silver car with Red Bull graphics on the right sitting next to the curb?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the blue and silver car with Red Bull graphics look like a small compact car?",
+      "modified": "Does the blue and silver car with Red Bull graphics on the right look like a small compact car?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the blue and silver car with Red Bull graphics in a disabled parking area?",
+      "modified": "Is the blue and silver car with Red Bull graphics on the right in a disabled parking area?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the blue and silver car with Red Bull graphics have two doors visible from this side?",
+      "modified": "Does the blue and silver car with Red Bull graphics on the right have two doors visible from this side?",
+      "false_premise": true
+    }
+  ]
+}

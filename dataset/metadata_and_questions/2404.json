@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2404",
+    "source": "COCO",
+    "complexity": 2,
+    "category": 4,
+    "target": "cake"
+  },
+  "base": {
+    "target_description": "the berry cake in a white bowl",
+    "modified_target_description": "the pie in a white bowl",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What kind of dessert is the berry cake in a white bowl?",
+      "modified": "What kind of dessert is the berry cake in a white bowl?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the berry cake in a white bowl topped with powdered sugar?",
+      "modified": "Is the berry cake in a white bowl topped with powdered sugar?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the berry cake in a white bowl look like it has berries baked into it?",
+      "modified": "Does the berry cake in a white bowl look like it has berries baked into it?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the berry cake in a white bowl served as a single portion?",
+      "modified": "Is the pie in a white bowl served as a single portion?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the berry cake in a white bowl appear partially eaten or scooped out?",
+      "modified": "Does the pie in a white bowl appear partially eaten or scooped out?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "What color is the fruit mixed into the berry cake in a white bowl?",
+      "modified": "What color is the fruit mixed into the pie in a white bowl?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the berry cake in a white bowl sitting on a checkered cloth?",
+      "modified": "Is the pie in a white bowl sitting on a checkered cloth?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the berry cake in a white bowl look warm and freshly served?",
+      "modified": "Does the pie in a white bowl look warm and freshly served?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is there a strawberry next to the berry cake in a white bowl?",
+      "modified": "Is there a strawberry next to the pie in a white bowl?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Would you describe the berry cake in a white bowl as more fruity or plain?",
+      "modified": "Would you describe the pie in a white bowl as more fruity or plain?",
+      "false_premise": true
+    }
+  ]
+}

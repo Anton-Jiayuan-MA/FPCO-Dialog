@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3217",
+    "source": "COCO",
+    "complexity": 3,
+    "category": 2,
+    "target": "airplane"
+  },
+  "base": {
+    "target_description": "the white CanJet airplane on the runway",
+    "modified_target_description": "the white CanJet truck on the runway",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the white CanJet airplane on the runway parked or moving?",
+      "modified": "Is the white CanJet airplane on the runway parked or moving?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the white CanJet airplane on the runway have its landing gear down?",
+      "modified": "Does the white CanJet airplane on the runway have its landing gear down?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the white CanJet airplane on the runway facing toward the right side of the image?",
+      "modified": "Is the white CanJet airplane on the runway facing toward the right side of the image?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the white CanJet airplane on the runway appear larger than the other planes in the background?",
+      "modified": "Does the white CanJet truck on the runway appear larger than the other planes in the background?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the white CanJet airplane on the runway sitting on a paved surface next to the grass?",
+      "modified": "Is the white CanJet truck on the runway sitting on a paved surface next to the grass?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Can you see the engines clearly on the white CanJet airplane on the runway?",
+      "modified": "Can you see the engines clearly on the white CanJet truck on the runway?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the white CanJet airplane on the runway the closest plane to the camera?",
+      "modified": "Is the white CanJet truck on the runway the closest plane to the camera?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the white CanJet airplane on the runway have blue coloring on its tail and engines?",
+      "modified": "Does the white CanJet truck on the runway have blue coloring on its tail and engines?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the white CanJet airplane on the runway positioned in the middle of the scene?",
+      "modified": "Is the white CanJet truck on the runway positioned in the middle of the scene?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the white CanJet airplane on the runway look ready for takeoff or taxiing?",
+      "modified": "Does the white CanJet truck on the runway look ready for takeoff or taxiing?",
+      "false_premise": true
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2462",
+    "source": "Open Images",
+    "complexity": 2,
+    "category": 4,
+    "target": "apple"
+  },
+  "base": {
+    "target_description": "the red and yellow apple on the conveyor rollers",
+    "modified_target_description": "the red and yellow apple beside the conveyor rollers",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the red and yellow apple on the conveyor rollers wet or dry?",
+      "modified": "Is the red and yellow apple on the conveyor rollers wet or dry?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the red and yellow apple on the conveyor rollers look like it is being sorted in a processing line?",
+      "modified": "Does the red and yellow apple on the conveyor rollers look like it is being sorted in a processing line?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the red and yellow apple on the conveyor rollers whole or cut?",
+      "modified": "Is the red and yellow apple on the conveyor rollers whole or cut?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the red and yellow apple on the conveyor rollers appear round and firm?",
+      "modified": "Does the red and yellow apple beside the conveyor rollers appear round and firm?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the red and yellow apple on the conveyor rollers moving between parallel metal rollers?",
+      "modified": "Is the red and yellow apple beside the conveyor rollers moving between parallel metal rollers?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the red and yellow apple on the conveyor rollers have any packaging around it?",
+      "modified": "Does the red and yellow apple beside the conveyor rollers have any packaging around it?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the red and yellow apple on the conveyor rollers near many other apples?",
+      "modified": "Is the red and yellow apple beside the conveyor rollers near many other apples?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the red and yellow apple on the conveyor rollers appear clean and shiny?",
+      "modified": "Does the red and yellow apple beside the conveyor rollers appear clean and shiny?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the red and yellow apple on the conveyor rollers inside an industrial setting?",
+      "modified": "Is the red and yellow apple beside the conveyor rollers inside an industrial setting?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the red and yellow apple on the conveyor rollers look ready to be transported further down the line?",
+      "modified": "Does the red and yellow apple beside the conveyor rollers look ready to be transported further down the line?",
+      "false_premise": true
+    }
+  ]
+}

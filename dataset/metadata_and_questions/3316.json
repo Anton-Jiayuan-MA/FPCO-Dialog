@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3316",
+    "source": "COCO",
+    "complexity": 3,
+    "category": 3,
+    "target": "elephant"
+  },
+  "base": {
+    "target_description": "the young elephant with its trunk raised",
+    "modified_target_description": "the young giraffe with its trunk raised",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the young elephant with its trunk raised doing in the water?",
+      "modified": "What is the young elephant with its trunk raised doing in the water?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the young elephant with its trunk raised standing near the muddy edge?",
+      "modified": "Is the young elephant with its trunk raised standing near the muddy edge?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the young elephant with its trunk raised look smaller than the other elephants?",
+      "modified": "Does the young elephant with its trunk raised look smaller than the other elephants?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the young elephant with its trunk raised facing toward the left side of the image?",
+      "modified": "Is the young giraffe with its trunk raised facing toward the left side of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the young elephant with its trunk raised have its mouth slightly open?",
+      "modified": "Does the young giraffe with its trunk raised have its mouth slightly open?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the young elephant with its trunk raised in front of another elephant?",
+      "modified": "Is the young giraffe with its trunk raised in front of another elephant?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the young elephant with its trunk raised appear to be walking?",
+      "modified": "Does the young giraffe with its trunk raised appear to be walking?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the young elephant with its trunk raised partly in the water and partly on the mud?",
+      "modified": "Is the young giraffe with its trunk raised partly in the water and partly on the mud?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Are the ears of the young elephant with its trunk raised spread out to the sides?",
+      "modified": "Are the ears of the young giraffe with its trunk raised spread out to the sides?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the young elephant with its trunk raised the closest elephant to the camera?",
+      "modified": "Is the young giraffe with its trunk raised the closest elephant to the camera?",
+      "false_premise": true
+    }
+  ]
+}

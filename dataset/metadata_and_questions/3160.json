@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3160",
+    "source": "Open Images",
+    "complexity": 3,
+    "category": 1,
+    "target": "person"
+  },
+  "base": {
+    "target_description": "the bald man in a black basketball jersey",
+    "modified_target_description": "the bald man in a white basketball jersey",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the bald man in a black basketball jersey clapping?",
+      "modified": "Is the bald man in a black basketball jersey clapping?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the bald man in a black basketball jersey standing on the basketball court?",
+      "modified": "Is the bald man in a black basketball jersey standing on the basketball court?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the bald man in a black basketball jersey facing toward the left side of the image?",
+      "modified": "Is the bald man in a black basketball jersey facing toward the left side of the image?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the bald man in a black basketball jersey appear to be watching someone nearby?",
+      "modified": "Does the bald man in a white basketball jersey appear to be watching someone nearby?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the bald man in a black basketball jersey closer to the camera than most of the other players?",
+      "modified": "Is the bald man in a white basketball jersey closer to the camera than most of the other players?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the bald man in a black basketball jersey have both hands raised in front of him?",
+      "modified": "Does the bald man in a white basketball jersey have both hands raised in front of him?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the bald man in a black basketball jersey part of a group of basketball players?",
+      "modified": "Is the bald man in a white basketball jersey part of a group of basketball players?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the bald man in a black basketball jersey wearing sleeveless athletic clothing?",
+      "modified": "Is the bald man in a white basketball jersey wearing sleeveless athletic clothing?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the bald man in a black basketball jersey near the right edge of the image?",
+      "modified": "Is the bald man in a white basketball jersey near the right edge of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the bald man in a black basketball jersey look like he is participating in practice?",
+      "modified": "Does the bald man in a white basketball jersey look like he is participating in practice?",
+      "false_premise": true
+    }
+  ]
+}

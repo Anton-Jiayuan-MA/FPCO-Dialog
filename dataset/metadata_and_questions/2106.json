@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2106",
+    "source": "Open Images",
+    "complexity": 2,
+    "category": 1,
+    "target": "man"
+  },
+  "base": {
+    "target_description": "the man in the gray suit and red tie",
+    "modified_target_description": "the woman in the gray suit and red tie",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the man in the gray suit and red tie shaking hands with someone?",
+      "modified": "Is the man in the gray suit and red tie shaking hands with someone?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the man in the gray suit and red tie facing the camera?",
+      "modified": "Is the man in the gray suit and red tie facing the camera?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the man in the gray suit and red tie appear to be receiving an award?",
+      "modified": "Does the man in the gray suit and red tie appear to be receiving an award?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the man in the gray suit and red tie standing indoors?",
+      "modified": "Is the woman in the gray suit and red tie standing indoors?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the man in the gray suit and red tie wearing a jacket?",
+      "modified": "Is the woman in the gray suit and red tie wearing a jacket?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the man in the gray suit and red tie look like he is posing for a photo?",
+      "modified": "Does the woman in the gray suit and red tie look like she is posing for a photo?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the man in the gray suit and red tie next to another man?",
+      "modified": "Is the woman in the gray suit and red tie next to another man?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the man in the gray suit and red tie holding the red presentation box?",
+      "modified": "Is the woman in the gray suit and red tie holding the red presentation box?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the man in the gray suit and red tie smiling slightly?",
+      "modified": "Is the woman in the gray suit and red tie smiling slightly?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the man in the gray suit and red tie dressed formally?",
+      "modified": "Is the woman in the gray suit and red tie dressed formally?",
+      "false_premise": true
+    }
+  ]
+}

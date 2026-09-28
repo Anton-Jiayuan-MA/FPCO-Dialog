@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1355",
+    "source": "Open Images",
+    "complexity": 1,
+    "category": 3,
+    "target": "dinosaur"
+  },
+  "base": {
+    "target_description": "the large dinosaur model",
+    "modified_target_description": "the small dinosaur model",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the large dinosaur model standing with its mouth open?",
+      "modified": "Is the large dinosaur model standing with its mouth open?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the large dinosaur model appear indoors in an exhibit space?",
+      "modified": "Does the large dinosaur model appear indoors in an exhibit space?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the large dinosaur model shown upright on two legs?",
+      "modified": "Is the large dinosaur model shown upright on two legs?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the large dinosaur model have one of its claws raised forward?",
+      "modified": "Does the small dinosaur model have one of its claws raised forward?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the large dinosaur model positioned next to informational display panels?",
+      "modified": "Is the small dinosaur model positioned next to informational display panels?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the large dinosaur model look like it is roaring or snarling?",
+      "modified": "Does the small dinosaur model look like it is roaring or snarling?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Can you see the tail of the large dinosaur model extending behind it?",
+      "modified": "Can you see the tail of the small dinosaur model extending behind it?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the large dinosaur model facing toward the right side of the image?",
+      "modified": "Is the small dinosaur model facing toward the right side of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the large dinosaur model have textured, scaly-looking skin?",
+      "modified": "Does the small dinosaur model have textured, scaly-looking skin?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the large dinosaur model the main focus of the scene?",
+      "modified": "Is the small dinosaur model the main focus of the scene?",
+      "false_premise": true
+    }
+  ]
+}

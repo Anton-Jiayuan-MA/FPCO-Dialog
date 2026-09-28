@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1119",
+    "source": "Open Images",
+    "complexity": 1,
+    "category": 1,
+    "target": "man"
+  },
+  "base": {
+    "target_description": "the man with long black hair and glasses",
+    "modified_target_description": "the woman with long black hair and glasses",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the man with long black hair and glasses wearing over his shoulders?",
+      "modified": "What is the man with long black hair and glasses wearing over his shoulders?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the man with long black hair and glasses opening his mouth wide?",
+      "modified": "Is the man with long black hair and glasses opening his mouth wide?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the man with long black hair and glasses appear to be standing indoors?",
+      "modified": "Does the man with long black hair and glasses appear to be standing indoors?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the man with long black hair and glasses dressed in a patterned red wrap?",
+      "modified": "Is the woman with long black hair and glasses dressed in a patterned red wrap?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "What expression does the man with long black hair and glasses seem to be making?",
+      "modified": "What expression does the woman with long black hair and glasses seem to be making?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the man with long black hair and glasses facing toward the camera?",
+      "modified": "Is the woman with long black hair and glasses facing toward the camera?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the man with long black hair and glasses have one hand in his pocket?",
+      "modified": "Does the woman with long black hair and glasses have one hand in her pocket?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the man with long black hair and glasses wearing black pants?",
+      "modified": "Is the woman with long black hair and glasses wearing black pants?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the man with long black hair and glasses look like he is performing or posing?",
+      "modified": "Does the woman with long black hair and glasses look like she is performing or posing?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the man with long black hair and glasses leaning slightly forward?",
+      "modified": "Is the woman with long black hair and glasses leaning slightly forward?",
+      "false_premise": true
+    }
+  ]
+}

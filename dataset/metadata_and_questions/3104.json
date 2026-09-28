@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3104",
+    "source": "Open Images",
+    "complexity": 3,
+    "category": 1,
+    "target": "child"
+  },
+  "base": {
+    "target_description": "the boy in a green hoodie",
+    "modified_target_description": "the girl in a green hoodie",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the boy in a green hoodie holding in his hand?",
+      "modified": "What is the boy in a green hoodie holding in his hand?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the boy in a green hoodie sitting down?",
+      "modified": "Is the boy in a green hoodie sitting down?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the boy in a green hoodie look toward the camera?",
+      "modified": "Does the boy in a green hoodie look toward the camera?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the boy in a green hoodie near the front of the scene?",
+      "modified": "Is the girl in a green hoodie near the front of the scene?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the boy in a green hoodie appear to be indoors?",
+      "modified": "Does the girl in a green hoodie appear to be indoors?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the boy in a green hoodie sitting beside other people?",
+      "modified": "Is the girl in a green hoodie sitting beside other people?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the boy in a green hoodie seem to be watching something?",
+      "modified": "Does the girl in a green hoodie seem to be watching something?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the boy in a green hoodie wearing long sleeves?",
+      "modified": "Is the girl in a green hoodie wearing long sleeves?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the boy in a green hoodie in a chair?",
+      "modified": "Is the girl in a green hoodie in a chair?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the boy in a green hoodie appear calm?",
+      "modified": "Does the girl in a green hoodie appear calm?",
+      "false_premise": true
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2369",
+    "source": "Open Images",
+    "complexity": 2,
+    "category": 3,
+    "target": "dolphin"
+  },
+  "base": {
+    "target_description": "the large blue dolphin jumping out of the water",
+    "modified_target_description": "the large blue dolphin jumping out of the water on the right",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the large blue dolphin jumping out of the water high above the ocean surface?",
+      "modified": "Is the large blue dolphin jumping out of the water high above the ocean surface?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the large blue dolphin jumping out of the water facing toward the right?",
+      "modified": "Is the large blue dolphin jumping out of the water facing toward the right?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the large blue dolphin jumping out of the water have water splashing beneath it?",
+      "modified": "Does the large blue dolphin jumping out of the water have water splashing beneath it?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the large blue dolphin jumping out of the water shown in midair?",
+      "modified": "Is the large blue dolphin jumping out of the water on the right shown in midair?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the large blue dolphin jumping out of the water appear to be leaping in an arc?",
+      "modified": "Does the large blue dolphin jumping out of the water on the right appear to be leaping in an arc?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the large blue dolphin jumping out of the water near the center-left of the image?",
+      "modified": "Is the large blue dolphin jumping out of the water on the right near the center-left of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Can you see the white underside of the large blue dolphin jumping out of the water?",
+      "modified": "Can you see the white underside of the large blue dolphin jumping out of the water on the right?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the large blue dolphin jumping out of the water above the sparkling sea?",
+      "modified": "Is the large blue dolphin jumping out of the water on the right above the sparkling sea?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the large blue dolphin jumping out of the water look larger than the other dolphins?",
+      "modified": "Does the large blue dolphin jumping out of the water on the right look larger than the other dolphins?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the large blue dolphin jumping out of the water surrounded by small white droplets?",
+      "modified": "Is the large blue dolphin jumping out of the water on the right surrounded by small white droplets?",
+      "false_premise": true
+    }
+  ]
+}

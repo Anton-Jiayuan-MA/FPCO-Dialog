@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2405",
+    "source": "COCO",
+    "complexity": 2,
+    "category": 4,
+    "target": "hot dog"
+  },
+  "base": {
+    "target_description": "the hot dog in a bun with lettuce and scallops",
+    "modified_target_description": "the hamburger in a bun with lettuce and scallops",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is piled on top of the hot dog in a bun with lettuce and scallops?",
+      "modified": "What is piled on top of the hot dog in a bun with lettuce and scallops?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the hot dog in a bun with lettuce and scallops sitting on a patterned plate?",
+      "modified": "Is the hot dog in a bun with lettuce and scallops sitting on a patterned plate?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the hot dog in a bun with lettuce and scallops appear ready to be served?",
+      "modified": "Does the hot dog in a bun with lettuce and scallops appear ready to be served?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is there a lemon wedge next to the hot dog in a bun with lettuce and scallops?",
+      "modified": "Is there a lemon wedge next to the hamburger in a bun with lettuce and scallops?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the hot dog in a bun with lettuce and scallops look like it has seafood added to it?",
+      "modified": "Does the hamburger in a bun with lettuce and scallops look like it has seafood added to it?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the hot dog in a bun with lettuce and scallops one of two similar dishes in the image?",
+      "modified": "Is the hamburger in a bun with lettuce and scallops one of two similar dishes in the image?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the hot dog in a bun with lettuce and scallops appear to be on a countertop?",
+      "modified": "Does the hamburger in a bun with lettuce and scallops appear to be on a countertop?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the hot dog in a bun with lettuce and scallops arranged neatly for presentation?",
+      "modified": "Is the hamburger in a bun with lettuce and scallops arranged neatly for presentation?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Can you see green lettuce under the toppings on the hot dog in a bun with lettuce and scallops?",
+      "modified": "Can you see green lettuce under the toppings on the hamburger in a bun with lettuce and scallops?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the hot dog in a bun with lettuce and scallops shown from above at a slight angle?",
+      "modified": "Is the hamburger in a bun with lettuce and scallops shown from above at a slight angle?",
+      "false_premise": true
+    }
+  ]
+}

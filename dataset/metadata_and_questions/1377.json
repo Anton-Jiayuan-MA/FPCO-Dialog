@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1377",
+    "source": "COCO",
+    "complexity": 1,
+    "category": 3,
+    "target": "cat"
+  },
+  "base": {
+    "target_description": "the small white dog with big ears",
+    "modified_target_description": "the small white dog with big ears on the right",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What direction is the small white dog with big ears looking?",
+      "modified": "What direction is the small white dog with big ears looking?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the small white dog with big ears sitting on the floor?",
+      "modified": "Is the small white dog with big ears sitting on the floor?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the small white dog with big ears appear to be looking up at the camera?",
+      "modified": "Does the small white dog with big ears appear to be looking up at the camera?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "What is lying next to the small white dog with big ears?",
+      "modified": "What is lying next to the small white dog with big ears on the right?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the small white dog with big ears indoors?",
+      "modified": "Is the small white dog with big ears on the right indoors?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the small white dog with big ears seem calm and attentive?",
+      "modified": "Does the small white dog with big ears on the right seem calm and attentive?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "What kind of floor is the small white dog with big ears sitting on?",
+      "modified": "What kind of floor is the small white dog with big ears on the right sitting on?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the small white dog with big ears near a stuffed toy?",
+      "modified": "Is the small white dog with big ears on the right near a stuffed toy?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the small white dog with big ears positioned beside a piece of furniture?",
+      "modified": "Is the small white dog with big ears on the right positioned beside a piece of furniture?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Are the ears of the small white dog with big ears standing upright?",
+      "modified": "Are the ears of the small white dog with big ears on the right standing upright?",
+      "false_premise": true
+    }
+  ]
+}

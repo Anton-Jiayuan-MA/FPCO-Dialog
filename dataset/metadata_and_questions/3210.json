@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3210",
+    "source": "COCO",
+    "complexity": 3,
+    "category": 2,
+    "target": "train"
+  },
+  "base": {
+    "target_description": "the red train at the platform",
+    "modified_target_description": "the red bus at the platform",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the red train at the platform facing toward the camera?",
+      "modified": "Is the red train at the platform facing toward the camera?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the red train at the platform have its lights on?",
+      "modified": "Does the red train at the platform have its lights on?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the red train at the platform stopped at a station?",
+      "modified": "Is the red train at the platform stopped at a station?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Can you see the front door on the red train at the platform?",
+      "modified": "Can you see the front door on the red bus at the platform?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the red train at the platform on the left track?",
+      "modified": "Is the red bus at the platform on the left track?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the red train at the platform appear to be arriving or waiting?",
+      "modified": "Does the red bus at the platform appear to be arriving or waiting?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is there another train next to the red train at the platform?",
+      "modified": "Is there another train next to the red bus at the platform?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the red train at the platform look like an underground or metro train?",
+      "modified": "Does the red bus at the platform look like an underground or metro train?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the red train at the platform under a covered roof?",
+      "modified": "Is the red bus at the platform under a covered roof?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Are there signs displayed in the front windows of the red train at the platform?",
+      "modified": "Are there signs displayed in the front windows of the red bus at the platform?",
+      "false_premise": true
+    }
+  ]
+}

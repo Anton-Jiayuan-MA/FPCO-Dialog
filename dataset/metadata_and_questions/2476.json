@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2476",
+    "source": "COCO",
+    "complexity": 2,
+    "category": 4,
+    "target": "cupcake"
+  },
+  "base": {
+    "target_description": "the cupcake with white frosting",
+    "modified_target_description": "the cupcake with white frosting on the right",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What color is the wrapper on the cupcake with white frosting?",
+      "modified": "What color is the wrapper on the cupcake with white frosting?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the cupcake with white frosting sitting on a plate?",
+      "modified": "Is the cupcake with white frosting sitting on a plate?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the cupcake with white frosting have a swirl of icing on top?",
+      "modified": "Does the cupcake with white frosting have a swirl of icing on top?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the cupcake with white frosting near any cinnamon sticks?",
+      "modified": "Is the cupcake with white frosting on the right near any cinnamon sticks?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "What is underneath the cupcake with white frosting?",
+      "modified": "What is underneath the cupcake with white frosting on the right?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the cupcake with white frosting the main food item in the image?",
+      "modified": "Is the cupcake with white frosting on the right the main food item in the image?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the cupcake with white frosting appear to be baked in a paper liner?",
+      "modified": "Does the cupcake with white frosting on the right appear to be baked in a paper liner?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the cupcake with white frosting placed indoors on a table setting?",
+      "modified": "Is the cupcake with white frosting on the right placed indoors on a table setting?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Are there apples behind the cupcake with white frosting?",
+      "modified": "Are there apples behind the cupcake with white frosting on the right?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the cupcake with white frosting look ready to be served?",
+      "modified": "Does the cupcake with white frosting on the right look ready to be served?",
+      "false_premise": true
+    }
+  ]
+}

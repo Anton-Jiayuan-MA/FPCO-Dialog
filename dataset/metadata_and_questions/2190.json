@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2190",
+    "source": "COCO",
+    "complexity": 2,
+    "category": 1,
+    "target": "person"
+  },
+  "base": {
+    "target_description": "the man in a blue suit on the left",
+    "modified_target_description": "the man in a blue suit on the right",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What direction is the man in a blue suit on the left walking?",
+      "modified": "What direction is the man in a blue suit on the left walking?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the man in a blue suit on the left walking alone or with others?",
+      "modified": "Is the man in a blue suit on the left walking alone or with others?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the man in a blue suit on the left appear to be on a sidewalk?",
+      "modified": "Does the man in a blue suit on the left appear to be on a sidewalk?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the man in a blue suit on the left looking ahead or toward the other men?",
+      "modified": "Is the man in a blue suit on the right looking ahead or toward the other men?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the man in a blue suit on the left seem to be in motion?",
+      "modified": "Does the man in a blue suit on the right seem to be in motion?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the man in a blue suit on the left wearing a tie?",
+      "modified": "Is the man in a blue suit on the right wearing a tie?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "How close is the man in a blue suit on the left to the building wall?",
+      "modified": "How close is the man in a blue suit on the right to the building wall?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the man in a blue suit on the left near the trees along the street?",
+      "modified": "Is the man in a blue suit on the right near the trees along the street?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the man in a blue suit on the left appear to be dressed formally?",
+      "modified": "Does the man in a blue suit on the right appear to be dressed formally?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the man in a blue suit on the left beside the other suited men?",
+      "modified": "Is the man in a blue suit on the right beside the other suited men?",
+      "false_premise": true
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3477",
+    "source": "COCO",
+    "complexity": 3,
+    "category": 4,
+    "target": "orange"
+  },
+  "base": {
+    "target_description": "the whole orange in front",
+    "modified_target_description": "the whole orange in back",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What color is the whole orange in front?",
+      "modified": "What color is the whole orange in front?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the whole orange in front peeled or unpeeled?",
+      "modified": "Is the whole orange in front peeled or unpeeled?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the whole orange in front sitting on the table?",
+      "modified": "Is the whole orange in front sitting on the table?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the whole orange in front look fresh?",
+      "modified": "Does the whole orange in back look fresh?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the whole orange in front next to a cut orange half?",
+      "modified": "Is the whole orange in back next to a cut orange half?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the whole orange in front placed near a glass of orange juice?",
+      "modified": "Is the whole orange in back placed near a glass of orange juice?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the whole orange in front have any visible blemishes on its skin?",
+      "modified": "Does the whole orange in back have any visible blemishes on its skin?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the whole orange in front closer to the camera than the pitcher?",
+      "modified": "Is the whole orange in back closer to the camera than the pitcher?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the whole orange in front appear round?",
+      "modified": "Does the whole orange in back appear round?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the whole orange in front part of a citrus drink setup?",
+      "modified": "Is the whole orange in back part of a citrus drink setup?",
+      "false_premise": true
+    }
+  ]
+}

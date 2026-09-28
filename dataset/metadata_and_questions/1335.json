@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1335",
+    "source": "Open Images",
+    "complexity": 1,
+    "category": 3,
+    "target": "bird"
+  },
+  "base": {
+    "target_description": "the brown bird with a hooked beak",
+    "modified_target_description": "the white bird with a hooked beak",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What direction is the brown bird with a hooked beak looking?",
+      "modified": "What direction is the brown bird with a hooked beak looking?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the brown bird with a hooked beak shown in a close-up view?",
+      "modified": "Is the brown bird with a hooked beak shown in a close-up view?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the brown bird with a hooked beak appear to be facing downward?",
+      "modified": "Does the brown bird with a hooked beak appear to be facing downward?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Can you clearly see one eye of the brown bird with a hooked beak?",
+      "modified": "Can you clearly see one eye of the white bird with a hooked beak?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the brown bird with a hooked beak have a yellow area above its beak?",
+      "modified": "Does the white bird with a hooked beak have a yellow area above its beak?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the brown bird with a hooked beak sharply in focus against a blurred background?",
+      "modified": "Is the white bird with a hooked beak sharply in focus against a blurred background?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the brown bird with a hooked beak look like a bird of prey?",
+      "modified": "Does the white bird with a hooked beak look like a bird of prey?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Are the feathers on the brown bird with a hooked beak mostly dark brown?",
+      "modified": "Are the feathers on the white bird with a hooked beak mostly dark brown?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the black tip of the beak visible on the brown bird with a hooked beak?",
+      "modified": "Is the black tip of the beak visible on the white bird with a hooked beak?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the brown bird with a hooked beak fill most of the frame?",
+      "modified": "Does the white bird with a hooked beak fill most of the frame?",
+      "false_premise": true
+    }
+  ]
+}

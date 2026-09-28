@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3427",
+    "source": "Open Images",
+    "complexity": 3,
+    "category": 4,
+    "target": "apple"
+  },
+  "base": {
+    "target_description": "the red apple among green leaves",
+    "modified_target_description": "the red tomato among green leaves",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the red apple among green leaves still attached to the tree?",
+      "modified": "Is the red apple among green leaves still attached to the tree?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the red apple among green leaves look ripe?",
+      "modified": "Does the red apple among green leaves look ripe?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the red apple among green leaves partly hidden by leaves?",
+      "modified": "Is the red apple among green leaves partly hidden by leaves?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the red apple among green leaves have a smooth skin?",
+      "modified": "Does the red tomato among green leaves have a smooth skin?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the red apple among green leaves growing close to other apples?",
+      "modified": "Is the red tomato among green leaves growing close to other apples?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the red apple among green leaves appear round?",
+      "modified": "Does the red tomato among green leaves appear round?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the red apple among green leaves in bright sunlight?",
+      "modified": "Is the red tomato among green leaves in bright sunlight?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the red apple among green leaves show any visible blemishes?",
+      "modified": "Does the red tomato among green leaves show any visible blemishes?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the red apple among green leaves hanging near the center of the image?",
+      "modified": "Is the red tomato among green leaves hanging near the center of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the red apple among green leaves look fresh on the branch?",
+      "modified": "Does the red tomato among green leaves look fresh on the branch?",
+      "false_premise": true
+    }
+  ]
+}

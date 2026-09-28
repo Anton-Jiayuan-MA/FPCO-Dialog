@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2412",
+    "source": "COCO",
+    "complexity": 2,
+    "category": 4,
+    "target": "hot dog"
+  },
+  "base": {
+    "target_description": "the hot dog with mayonnaise and a pickle spear",
+    "modified_target_description": "the sandwich with mayonnaise and a pickle spear",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the hot dog with mayonnaise and a pickle spear sitting on a plate?",
+      "modified": "Is the hot dog with mayonnaise and a pickle spear sitting on a plate?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the hot dog with mayonnaise and a pickle spear look ready to eat?",
+      "modified": "Does the hot dog with mayonnaise and a pickle spear look ready to eat?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the hot dog with mayonnaise and a pickle spear served in a bun?",
+      "modified": "Is the hot dog with mayonnaise and a pickle spear served in a bun?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the hot dog with mayonnaise and a pickle spear have a long sausage visible on top?",
+      "modified": "Does the sandwich with mayonnaise and a pickle spear have a long sausage visible on top?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the hot dog with mayonnaise and a pickle spear shown from above?",
+      "modified": "Is the sandwich with mayonnaise and a pickle spear shown from above?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the hot dog with mayonnaise and a pickle spear appear to be next to another hot dog?",
+      "modified": "Does the sandwich with mayonnaise and a pickle spear appear to be next to another hot dog?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the hot dog with mayonnaise and a pickle spear topped with a white sauce?",
+      "modified": "Is the sandwich with mayonnaise and a pickle spear topped with a white sauce?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the hot dog with mayonnaise and a pickle spear include a green pickle alongside the sausage?",
+      "modified": "Does the sandwich with mayonnaise and a pickle spear include a green pickle alongside the sausage?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the hot dog with mayonnaise and a pickle spear on a blue plate?",
+      "modified": "Is the sandwich with mayonnaise and a pickle spear on a blue plate?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the hot dog with mayonnaise and a pickle spear look like a simple snack or meal?",
+      "modified": "Does the sandwich with mayonnaise and a pickle spear look like a simple snack or meal?",
+      "false_premise": true
+    }
+  ]
+}

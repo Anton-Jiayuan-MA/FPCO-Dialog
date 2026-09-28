@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3270",
+    "source": "Open Images",
+    "complexity": 3,
+    "category": 2,
+    "target": "bicycle"
+  },
+  "base": {
+    "target_description": "the red bicycle near the center",
+    "modified_target_description": "the red bicycle on the left",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the red bicycle near the center parked indoors?",
+      "modified": "Is the red bicycle near the center parked indoors?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the red bicycle near the center have a black seat?",
+      "modified": "Does the red bicycle near the center have a black seat?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the red bicycle near the center positioned in front of a desk?",
+      "modified": "Is the red bicycle near the center positioned in front of a desk?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Can you see both wheels of the red bicycle near the center?",
+      "modified": "Can you see both wheels of the red bicycle on the left?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the red bicycle near the center leaning among other bicycles?",
+      "modified": "Is the red bicycle on the left leaning among other bicycles?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the red bicycle near the center appear to have thick tires?",
+      "modified": "Does the red bicycle on the left appear to have thick tires?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the handlebar of the red bicycle near the center turned slightly to one side?",
+      "modified": "Is the handlebar of the red bicycle on the left turned slightly to one side?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the red bicycle near the center look like a BMX-style bike?",
+      "modified": "Does the red bicycle on the left look like a BMX-style bike?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the red bicycle near the center standing on a wooden floor?",
+      "modified": "Is the red bicycle on the left standing on a wooden floor?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the red bicycle near the center surrounded by cluttered equipment and furniture?",
+      "modified": "Is the red bicycle on the left surrounded by cluttered equipment and furniture?",
+      "false_premise": true
+    }
+  ]
+}

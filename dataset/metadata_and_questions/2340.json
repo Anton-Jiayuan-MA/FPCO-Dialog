@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2340",
+    "source": "Open Images",
+    "complexity": 2,
+    "category": 3,
+    "target": "giraffe"
+  },
+  "base": {
+    "target_description": "the giraffe on the right",
+    "modified_target_description": "the striped giraffe on the right",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the giraffe on the right standing still in the enclosure?",
+      "modified": "Is the giraffe on the right standing still in the enclosure?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the giraffe on the right facing toward the right side of the image?",
+      "modified": "Is the giraffe on the right facing toward the right side of the image?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the giraffe on the right have its neck stretched forward?",
+      "modified": "Does the giraffe on the right have its neck stretched forward?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the giraffe on the right closer to the wall than to the camera?",
+      "modified": "Is the striped giraffe on the right closer to the wall than to the camera?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Can you see the full body of the giraffe on the right?",
+      "modified": "Can you see the full body of the striped giraffe on the right?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the giraffe on the right standing in a sunny area?",
+      "modified": "Is the striped giraffe on the right standing in a sunny area?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the giraffe on the right appear to be walking or just standing?",
+      "modified": "Does the striped giraffe on the right appear to be walking or just standing?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the giraffe on the right next to another giraffe?",
+      "modified": "Is the striped giraffe on the right next to another giraffe?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the giraffe on the right have a spotted coat pattern?",
+      "modified": "Does the striped giraffe on the right have a spotted coat pattern?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the giraffe on the right inside a zoo-like habitat?",
+      "modified": "Is the striped giraffe on the right inside a zoo-like habitat?",
+      "false_premise": true
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+k,overall_correctiontpatk_gpt54,overall_correctiontpatk_gemini31pro,overall_correctiontpatk_average,identity_correctiontpatk_gpt54,identity_correctiontpatk_gemini31pro,identity_correctiontpatk_average,attribute_correctiontpatk_gpt54,attribute_correctiontpatk_gemini31pro,attribute_correctiontpatk_average,location_correctiontpatk_gpt54,location_correctiontpatk_gemini31pro,location_correctiontpatk_average,overall_correctionfpatk_gpt54,overall_correctionfpatk_gemini31pro,overall_correctionfpatk_average,identity_correctionfpatk_gpt54,identity_correctionfpatk_gemini31pro,identity_correctionfpatk_average,attribute_correctionfpatk_gpt54,attribute_correctionfpatk_gemini31pro,attribute_correctionfpatk_average,location_correctionfpatk_gpt54,location_correctionfpatk_gemini31pro,location_correctionfpatk_average
+1,,,,,,,,,,,,,0.006,0.003,0.005,0.006,0.000,0.003,0.011,0.006,0.009,0.003,0.003,0.003
+2,,,,,,,,,,,,,0.005,0.002,0.004,0.003,0.000,0.002,0.008,0.006,0.007,0.003,0.001,0.002
+3,,,,,,,,,,,,,0.005,0.002,0.004,0.002,0.000,0.001,0.007,0.006,0.007,0.005,0.001,0.003
+4,0.152,0.147,0.149,0.283,0.281,0.282,0.103,0.100,0.102,0.069,0.061,0.065,0.005,0.002,0.004,0.002,0.000,0.001,0.007,0.006,0.007,0.005,0.001,0.003
+5,0.131,0.126,0.129,0.250,0.250,0.250,0.089,0.086,0.087,0.056,0.043,0.050,0.005,0.002,0.004,0.002,0.000,0.001,0.007,0.006,0.007,0.005,0.001,0.003
+6,0.123,0.118,0.120,0.241,0.240,0.240,0.082,0.080,0.081,0.044,0.034,0.039,0.005,0.002,0.004,0.002,0.000,0.001,0.007,0.006,0.007,0.005,0.001,0.003
+7,0.117,0.113,0.115,0.234,0.233,0.234,0.080,0.077,0.079,0.037,0.028,0.033,0.005,0.002,0.004,0.002,0.000,0.001,0.007,0.006,0.007,0.005,0.001,0.003
+8,0.114,0.111,0.113,0.231,0.231,0.231,0.078,0.076,0.077,0.034,0.026,0.030,0.005,0.002,0.004,0.002,0.000,0.001,0.007,0.006,0.007,0.005,0.001,0.003
+9,0.113,0.109,0.111,0.229,0.228,0.229,0.077,0.075,0.076,0.031,0.024,0.028,0.005,0.002,0.004,0.002,0.000,0.001,0.007,0.006,0.007,0.005,0.001,0.003
+10,0.112,0.108,0.110,0.227,0.227,0.227,0.079,0.077,0.078,0.030,0.022,0.026,0.005,0.002,0.004,0.002,0.000,0.001,0.007,0.006,0.007,0.005,0.001,0.003

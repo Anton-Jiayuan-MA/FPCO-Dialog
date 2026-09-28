@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2120",
+    "source": "Open Images",
+    "complexity": 2,
+    "category": 1,
+    "target": "man"
+  },
+  "base": {
+    "target_description": "the man in a gray suit holding a yellow folder",
+    "modified_target_description": "the woman in a gray suit holding a yellow folder",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the man in a gray suit holding a yellow folder standing indoors?",
+      "modified": "Is the man in a gray suit holding a yellow folder standing indoors?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the man in a gray suit holding a yellow folder smiling at the camera?",
+      "modified": "Is the man in a gray suit holding a yellow folder smiling at the camera?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the man in a gray suit holding a yellow folder appear to be posing for a photo?",
+      "modified": "Does the man in a gray suit holding a yellow folder appear to be posing for a photo?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the man in a gray suit holding a yellow folder standing next to a woman?",
+      "modified": "Is the woman in a gray suit holding a yellow folder standing next to a woman?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the man in a gray suit holding a yellow folder wearing a tie?",
+      "modified": "Is the woman in a gray suit holding a yellow folder wearing a tie?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the man in a gray suit holding a yellow folder holding the folder in one hand?",
+      "modified": "Is the woman in a gray suit holding a yellow folder holding the folder in one hand?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the man in a gray suit holding a yellow folder look formally dressed?",
+      "modified": "Does the woman in a gray suit holding a yellow folder look formally dressed?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the man in a gray suit holding a yellow folder near a dark chair?",
+      "modified": "Is the woman in a gray suit holding a yellow folder near a dark chair?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the man in a gray suit holding a yellow folder facing toward the camera?",
+      "modified": "Is the woman in a gray suit holding a yellow folder facing toward the camera?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the man in a gray suit holding a yellow folder in an office-like room?",
+      "modified": "Is the woman in a gray suit holding a yellow folder in an office-like room?",
+      "false_premise": true
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3237",
+    "source": "COCO",
+    "complexity": 3,
+    "category": 2,
+    "target": "boat"
+  },
+  "base": {
+    "target_description": "the large white yacht in the marina",
+    "modified_target_description": "the small white yacht in the marina",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the large white yacht in the marina docked or moving?",
+      "modified": "Is the large white yacht in the marina docked or moving?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "About where is the large white yacht in the marina located in the image?",
+      "modified": "About where is the large white yacht in the marina located in the image?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the large white yacht in the marina appear close to the shore?",
+      "modified": "Does the large white yacht in the marina appear close to the shore?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the large white yacht in the marina surrounded by other boats?",
+      "modified": "Is the small white yacht in the marina surrounded by other boats?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the large white yacht in the marina look bigger than many of the nearby boats?",
+      "modified": "Does the small white yacht in the marina look bigger than many of the nearby boats?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the large white yacht in the marina facing toward the left or the right?",
+      "modified": "Is the small white yacht in the marina facing toward the left or the right?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Can you see the large white yacht in the marina clearly from the side?",
+      "modified": "Can you see the small white yacht in the marina clearly from the side?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the large white yacht in the marina have multiple decks visible?",
+      "modified": "Does the small white yacht in the marina have multiple decks visible?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the large white yacht in the marina floating on calm water?",
+      "modified": "Is the small white yacht in the marina floating on calm water?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the large white yacht in the marina stand out against the darker water?",
+      "modified": "Does the small white yacht in the marina stand out against the darker water?",
+      "false_premise": true
+    }
+  ]
+}

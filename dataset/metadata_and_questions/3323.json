@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3323",
+    "source": "COCO",
+    "complexity": 3,
+    "category": 3,
+    "target": "elephant"
+  },
+  "base": {
+    "target_description": "the gray elephant with its trunk down",
+    "modified_target_description": "the gray horse with its trunk down",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the gray elephant with its trunk down standing still in the scene?",
+      "modified": "Is the gray elephant with its trunk down standing still in the scene?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the gray elephant with its trunk down appear to be facing toward the right?",
+      "modified": "Does the gray elephant with its trunk down appear to be facing toward the right?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the gray elephant with its trunk down surrounded by other elephants?",
+      "modified": "Is the gray elephant with its trunk down surrounded by other elephants?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Can you see the full body of the gray elephant with its trunk down?",
+      "modified": "Can you see the full body of the gray horse with its trunk down?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the gray elephant with its trunk down an adult rather than a baby?",
+      "modified": "Is the gray horse with its trunk down an adult rather than a baby?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the gray elephant with its trunk down have all four legs visible?",
+      "modified": "Does the gray horse with its trunk down have all four legs visible?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the gray elephant with its trunk down walking on dirt or sand?",
+      "modified": "Is the gray horse with its trunk down walking on dirt or sand?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the gray elephant with its trunk down look larger than the nearby young elephant?",
+      "modified": "Does the gray horse with its trunk down look larger than the nearby young elephant?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the gray elephant with its trunk down close to a fence?",
+      "modified": "Is the gray horse with its trunk down close to a fence?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the gray elephant with its trunk down appear to be outdoors?",
+      "modified": "Does the gray horse with its trunk down appear to be outdoors?",
+      "false_premise": true
+    }
+  ]
+}

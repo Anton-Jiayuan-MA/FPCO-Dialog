@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3422",
+    "source": "Open Images",
+    "complexity": 3,
+    "category": 4,
+    "target": "apple"
+  },
+  "base": {
+    "target_description": "the red apple on the branch",
+    "modified_target_description": "the red orange on the branch",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the red apple on the branch still attached to the tree?",
+      "modified": "Is the red apple on the branch still attached to the tree?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the red apple on the branch look ripe?",
+      "modified": "Does the red apple on the branch look ripe?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the red apple on the branch partly covered by leaves?",
+      "modified": "Is the red apple on the branch partly covered by leaves?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the red apple on the branch have a smooth surface?",
+      "modified": "Does the red orange on the branch have a smooth surface?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the red apple on the branch growing among several other apples?",
+      "modified": "Is the red orange on the branch growing among several other apples?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the red apple on the branch appear close to the camera?",
+      "modified": "Does the red orange on the branch appear close to the camera?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the red apple on the branch hanging downward?",
+      "modified": "Is the red orange on the branch hanging downward?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the red apple on the branch have any visible water droplets on it?",
+      "modified": "Does the red orange on the branch have any visible water droplets on it?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the red apple on the branch surrounded by green leaves?",
+      "modified": "Is the red orange on the branch surrounded by green leaves?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Can you see the stem area of the red apple on the branch?",
+      "modified": "Can you see the stem area of the red orange on the branch?",
+      "false_premise": true
+    }
+  ]
+}

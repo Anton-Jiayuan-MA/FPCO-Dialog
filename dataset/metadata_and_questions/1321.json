@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1321",
+    "source": "Open Images",
+    "complexity": 1,
+    "category": 3,
+    "target": "dog"
+  },
+  "base": {
+    "target_description": "the brown and white dog in the water",
+    "modified_target_description": "the brown and white cat in the water",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the brown and white dog in the water swimming?",
+      "modified": "Is the brown and white dog in the water swimming?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Which way is the brown and white dog in the water facing?",
+      "modified": "Which way is the brown and white dog in the water facing?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the brown and white dog in the water look mostly submerged or mostly above the surface?",
+      "modified": "Does the brown and white dog in the water look mostly submerged or mostly above the surface?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Can you see the tail of the brown and white dog in the water?",
+      "modified": "Can you see the tail of the brown and white cat in the water?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the brown and white dog in the water moving through a pool?",
+      "modified": "Is the brown and white cat in the water moving through a pool?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the brown and white dog in the water appear calm while swimming?",
+      "modified": "Does the brown and white cat in the water appear calm while swimming?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the head of the brown and white dog in the water above the waterline?",
+      "modified": "Is the head of the brown and white cat in the water above the waterline?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Can you tell whether the brown and white dog in the water is in the middle of the pool?",
+      "modified": "Can you tell whether the brown and white cat in the water is in the middle of the pool?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Are the legs of the brown and white dog in the water clearly visible?",
+      "modified": "Are the legs of the brown and white cat in the water clearly visible?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the brown and white dog in the water seem to be paddling forward?",
+      "modified": "Does the brown and white cat in the water seem to be paddling forward?",
+      "false_premise": true
+    }
+  ]
+}

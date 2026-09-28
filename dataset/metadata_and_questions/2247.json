@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2247",
+    "source": "COCO",
+    "complexity": 2,
+    "category": 2,
+    "target": "boat"
+  },
+  "base": {
+    "target_description": "the white motorboat in the water",
+    "modified_target_description": "the black motorboat in the water",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the white motorboat in the water floating calmly on the lake?",
+      "modified": "Is the white motorboat in the water floating calmly on the lake?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the white motorboat in the water appear to be unoccupied?",
+      "modified": "Does the white motorboat in the water appear to be unoccupied?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the white motorboat in the water closer to the right side of the image?",
+      "modified": "Is the white motorboat in the water closer to the right side of the image?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the white motorboat in the water have an outboard motor attached?",
+      "modified": "Does the black motorboat in the water have an outboard motor attached?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the white motorboat in the water facing toward the right?",
+      "modified": "Is the black motorboat in the water facing toward the right?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the white motorboat in the water look smaller than the other boat nearby?",
+      "modified": "Does the black motorboat in the water look smaller than the other boat nearby?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the white motorboat in the water separated from the other boat by some distance?",
+      "modified": "Is the black motorboat in the water separated from the other boat by some distance?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the white motorboat in the water appear to be stationary?",
+      "modified": "Does the black motorboat in the water appear to be stationary?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the white motorboat in the water sitting low and level on the surface?",
+      "modified": "Is the black motorboat in the water sitting low and level on the surface?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Can you see the white motorboat in the water clearly against the open lake?",
+      "modified": "Can you see the black motorboat in the water clearly against the open lake?",
+      "false_premise": true
+    }
+  ]
+}

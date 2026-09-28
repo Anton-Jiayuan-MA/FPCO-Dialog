@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2220",
+    "source": "COCO",
+    "complexity": 2,
+    "category": 2,
+    "target": "bus"
+  },
+  "base": {
+    "target_description": "the bright green double-decker bus",
+    "modified_target_description": "the bright green double-decker train",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the bright green double-decker bus parked or moving in the image?",
+      "modified": "Is the bright green double-decker bus parked or moving in the image?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the bright green double-decker bus facing away from the camera?",
+      "modified": "Is the bright green double-decker bus facing away from the camera?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the bright green double-decker bus appear to be taller than the other bus beside it?",
+      "modified": "Does the bright green double-decker bus appear to be taller than the other bus beside it?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the bright green double-decker bus parked next to a blue bus?",
+      "modified": "Is the bright green double-decker train parked next to a blue bus?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Can you see the rear of the bright green double-decker bus clearly?",
+      "modified": "Can you see the rear of the bright green double-decker train clearly?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the bright green double-decker bus have advertising or text printed on the back?",
+      "modified": "Does the bright green double-decker train have advertising or text printed on the back?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the bright green double-decker bus outdoors in a paved area?",
+      "modified": "Is the bright green double-decker train outdoors in a paved area?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the bright green double-decker bus take up the right side of the image?",
+      "modified": "Does the bright green double-decker train take up the right side of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Are the windows of the bright green double-decker bus visible on both levels?",
+      "modified": "Are the windows of the bright green double-decker train visible on both levels?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the bright green double-decker bus look like it is in a bus depot or parking area?",
+      "modified": "Does the bright green double-decker train look like it is in a bus depot or parking area?",
+      "false_premise": true
+    }
+  ]
+}

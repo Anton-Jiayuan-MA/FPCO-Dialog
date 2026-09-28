@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3408",
+    "source": "COCO",
+    "complexity": 3,
+    "category": 4,
+    "target": "hot dog"
+  },
+  "base": {
+    "target_description": "a hot dog in a bun",
+    "modified_target_description": "a hamburger in a bun",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is a hot dog in a bun sitting on the table?",
+      "modified": "Is a hot dog in a bun sitting on the table?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does a hot dog in a bun look ready to eat?",
+      "modified": "Does a hot dog in a bun look ready to eat?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is a hot dog in a bun placed on a serving tray or plate?",
+      "modified": "Is a hot dog in a bun placed on a serving tray or plate?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Are there several examples of a hot dog in a bun visible in the image?",
+      "modified": "Are there several examples of a hamburger in a bun visible in the image?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does a hot dog in a bun appear plain without obvious toppings?",
+      "modified": "Does a hamburger in a bun appear plain without obvious toppings?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is a hot dog in a bun arranged among other food items on the table?",
+      "modified": "Is a hamburger in a bun arranged among other food items on the table?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does a hot dog in a bun look like part of a buffet or food spread?",
+      "modified": "Does a hamburger in a bun look like part of a buffet or food spread?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is a hot dog in a bun positioned near some cups?",
+      "modified": "Is a hamburger in a bun positioned near some cups?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does a hot dog in a bun appear to be indoors or at a nighttime event?",
+      "modified": "Does a hamburger in a bun appear to be indoors or at a nighttime event?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is a hot dog in a bun one of the main foods being served here?",
+      "modified": "Is a hamburger in a bun one of the main foods being served here?",
+      "false_premise": true
+    }
+  ]
+}

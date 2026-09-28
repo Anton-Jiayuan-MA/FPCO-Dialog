@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3363",
+    "source": "COCO",
+    "complexity": 3,
+    "category": 3,
+    "target": "sheep"
+  },
+  "base": {
+    "target_description": "the black-faced sheep in front",
+    "modified_target_description": "the black-faced sheep in back",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the black-faced sheep in front walking along the road?",
+      "modified": "Is the black-faced sheep in front walking along the road?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the black-faced sheep in front appear to be part of a larger flock?",
+      "modified": "Does the black-faced sheep in front appear to be part of a larger flock?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the black-faced sheep in front facing toward the camera?",
+      "modified": "Is the black-faced sheep in front facing toward the camera?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the black-faced sheep in front closer to the viewer than most of the other sheep?",
+      "modified": "Is the black-faced sheep in back closer to the viewer than most of the other sheep?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the black-faced sheep in front have light-colored wool on its body?",
+      "modified": "Does the black-faced sheep in back have light-colored wool on its body?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the black-faced sheep in front near the man on the road?",
+      "modified": "Is the black-faced sheep in back near the man on the road?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the black-faced sheep in front look like it is moving forward?",
+      "modified": "Does the black-faced sheep in back look like it is moving forward?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the black-faced sheep in front centered in the scene?",
+      "modified": "Is the black-faced sheep in back centered in the scene?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Can you clearly see the legs of the black-faced sheep in front?",
+      "modified": "Can you clearly see the legs of the black-faced sheep in back?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the black-faced sheep in front on a paved road?",
+      "modified": "Is the black-faced sheep in back on a paved road?",
+      "false_premise": true
+    }
+  ]
+}

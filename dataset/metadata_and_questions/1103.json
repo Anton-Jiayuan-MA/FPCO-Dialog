@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1103",
+    "source": "COCO",
+    "complexity": 1,
+    "category": 1,
+    "target": "man"
+  },
+  "base": {
+    "target_description": "the man in a red shirt eating pizza",
+    "modified_target_description": "the woman in a red shirt eating pizza",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the man in a red shirt eating pizza doing right now?",
+      "modified": "What is the man in a red shirt eating pizza doing right now?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the man in a red shirt eating pizza looking toward the camera or off to the side?",
+      "modified": "Is the man in a red shirt eating pizza looking toward the camera or off to the side?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "What is the man in a red shirt eating pizza holding in his hand?",
+      "modified": "What is the man in a red shirt eating pizza holding in his hand?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the man in a red shirt eating pizza seem to be sitting indoors?",
+      "modified": "Does the woman in a red shirt eating pizza seem to be sitting indoors?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the man in a red shirt eating pizza taking a bite of the food?",
+      "modified": "Is the woman in a red shirt eating pizza taking a bite of the food?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "What expression does the man in a red shirt eating pizza have on his face?",
+      "modified": "What expression does the woman in a red shirt eating pizza have on her face?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the man in a red shirt eating pizza close to a whiteboard?",
+      "modified": "Is the woman in a red shirt eating pizza close to a whiteboard?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "What color shirt is the man in a red shirt eating pizza wearing?",
+      "modified": "What color shirt is the woman in a red shirt eating pizza wearing?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the man in a red shirt eating pizza appear relaxed or busy?",
+      "modified": "Does the woman in a red shirt eating pizza appear relaxed or busy?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the man in a red shirt eating pizza shown in a close-up view?",
+      "modified": "Is the woman in a red shirt eating pizza shown in a close-up view?",
+      "false_premise": true
+    }
+  ]
+}

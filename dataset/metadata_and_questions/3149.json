@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3149",
+    "source": "COCO",
+    "complexity": 3,
+    "category": 1,
+    "target": "person"
+  },
+  "base": {
+    "target_description": "the tall man in a suit",
+    "modified_target_description": "the short man in a suit",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the tall man in a suit standing behind the other people in the photo?",
+      "modified": "Is the tall man in a suit standing behind the other people in the photo?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the tall man in a suit looking toward the camera?",
+      "modified": "Is the tall man in a suit looking toward the camera?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the tall man in a suit have a flower pinned to his jacket?",
+      "modified": "Does the tall man in a suit have a flower pinned to his jacket?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the tall man in a suit positioned near the center of the image?",
+      "modified": "Is the short man in a suit positioned near the center of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the tall man in a suit appear to be smiling slightly?",
+      "modified": "Does the short man in a suit appear to be smiling slightly?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the tall man in a suit wearing a tie?",
+      "modified": "Is the short man in a suit wearing a tie?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the tall man in a suit have short hair?",
+      "modified": "Does the short man in a suit have short hair?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the tall man in a suit the highest person in the group portrait?",
+      "modified": "Is the short man in a suit the highest person in the group portrait?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the tall man in a suit standing next to the woman on the left?",
+      "modified": "Is the short man in a suit standing next to the woman on the left?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the tall man in a suit appear to be part of a posed family portrait?",
+      "modified": "Does the short man in a suit appear to be part of a posed family portrait?",
+      "false_premise": true
+    }
+  ]
+}

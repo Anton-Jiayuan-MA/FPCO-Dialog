@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3441",
+    "source": "COCO",
+    "complexity": 3,
+    "category": 4,
+    "target": "banana"
+  },
+  "base": {
+    "target_description": "the bunch of yellow bananas",
+    "modified_target_description": "the bunch of green bananas",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Where is the bunch of yellow bananas placed in the display?",
+      "modified": "Where is the bunch of yellow bananas placed in the display?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the bunch of yellow bananas sitting in front of the price sign?",
+      "modified": "Is the bunch of yellow bananas sitting in front of the price sign?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the bunch of yellow bananas look ripe enough to eat?",
+      "modified": "Does the bunch of yellow bananas look ripe enough to eat?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "About how many bananas are visible in the bunch of yellow bananas?",
+      "modified": "About how many bananas are visible in the bunch of green bananas?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the bunch of yellow bananas closer to the bottom or the top of the image?",
+      "modified": "Is the bunch of green bananas closer to the bottom or the top of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the bunch of yellow bananas appear to be in a grocery store produce section?",
+      "modified": "Does the bunch of green bananas appear to be in a grocery store produce section?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Are there any brown spots visible on the bunch of yellow bananas?",
+      "modified": "Are there any brown spots visible on the bunch of green bananas?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the bunch of yellow bananas stacked with other bananas nearby?",
+      "modified": "Is the bunch of green bananas stacked with other bananas nearby?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "What is directly behind the bunch of yellow bananas?",
+      "modified": "What is directly behind the bunch of green bananas?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the bunch of yellow bananas look like it is being sold by weight?",
+      "modified": "Does the bunch of green bananas look like it is being sold by weight?",
+      "false_premise": true
+    }
+  ]
+}

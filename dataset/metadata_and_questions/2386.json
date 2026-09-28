@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2386",
+    "source": "COCO",
+    "complexity": 2,
+    "category": 3,
+    "target": "horse"
+  },
+  "base": {
+    "target_description": "the dark horse in the foreground",
+    "modified_target_description": "the dark horse in the background",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the dark horse in the foreground running across the grass?",
+      "modified": "Is the dark horse in the foreground running across the grass?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the dark horse in the foreground facing toward the right side of the image?",
+      "modified": "Is the dark horse in the foreground facing toward the right side of the image?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the dark horse in the foreground appear to be alone rather than next to another horse?",
+      "modified": "Does the dark horse in the foreground appear to be alone rather than next to another horse?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the dark horse in the foreground closer to the camera than most of the other horses?",
+      "modified": "Is the dark horse in the background closer to the camera than most of the other horses?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the dark horse in the foreground look like it is moving at a fast pace?",
+      "modified": "Does the dark horse in the background look like it is moving at a fast pace?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the dark horse in the foreground on green grass instead of near the water?",
+      "modified": "Is the dark horse in the background on green grass instead of near the water?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Can you see the legs of the dark horse in the foreground clearly?",
+      "modified": "Can you see the legs of the dark horse in the background clearly?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the dark horse in the foreground one of the largest horses visible in the scene?",
+      "modified": "Is the dark horse in the background one of the largest horses visible in the scene?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the dark horse in the foreground stand out against the lighter grass around it?",
+      "modified": "Does the dark horse in the background stand out against the lighter grass around it?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the dark horse in the foreground positioned near the bottom right area of the image?",
+      "modified": "Is the dark horse in the background positioned near the bottom right area of the image?",
+      "false_premise": true
+    }
+  ]
+}

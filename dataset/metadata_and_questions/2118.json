@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2118",
+    "source": "Open Images",
+    "complexity": 2,
+    "category": 1,
+    "target": "man"
+  },
+  "base": {
+    "target_description": "the man speaking at the podium",
+    "modified_target_description": "the woman speaking at the podium",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the man speaking at the podium doing in the scene?",
+      "modified": "What is the man speaking at the podium doing in the scene?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the man speaking at the podium wearing glasses?",
+      "modified": "Is the man speaking at the podium wearing glasses?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "What is the man speaking at the podium standing behind?",
+      "modified": "What is the man speaking at the podium standing behind?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the man speaking at the podium appear to be addressing an audience?",
+      "modified": "Does the woman speaking at the podium appear to be addressing an audience?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the man speaking at the podium dressed formally?",
+      "modified": "Is the woman speaking at the podium dressed formally?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "What is positioned in front of the man speaking at the podium?",
+      "modified": "What is positioned in front of the woman speaking at the podium?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the man speaking at the podium have a microphone near him?",
+      "modified": "Does the woman speaking at the podium have a microphone near her?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "What color is the tie worn by the man speaking at the podium?",
+      "modified": "What color is the tie worn by the woman speaking at the podium?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the man speaking at the podium indoors?",
+      "modified": "Is the woman speaking at the podium indoors?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Are there other people visible near the man speaking at the podium?",
+      "modified": "Are there other people visible near the woman speaking at the podium?",
+      "false_premise": true
+    }
+  ]
+}

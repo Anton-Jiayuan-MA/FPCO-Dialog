@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2229",
+    "source": "Open Images",
+    "complexity": 2,
+    "category": 2,
+    "target": "car"
+  },
+  "base": {
+    "target_description": "the black sedan parked at the curb",
+    "modified_target_description": "the black pickup truck parked at the curb",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the black sedan parked at the curb facing to the left or to the right?",
+      "modified": "Is the black sedan parked at the curb facing to the left or to the right?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the black sedan parked at the curb directly in front of the building?",
+      "modified": "Is the black sedan parked at the curb directly in front of the building?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the black sedan parked at the curb appear to be moving or standing still?",
+      "modified": "Does the black sedan parked at the curb appear to be moving or standing still?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the black sedan parked at the curb closer to the right side of the image?",
+      "modified": "Is the black pickup truck parked at the curb closer to the right side of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Can you see all four wheels of the black sedan parked at the curb?",
+      "modified": "Can you see all four wheels of the black pickup truck parked at the curb?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the black sedan parked at the curb parked behind a pickup truck?",
+      "modified": "Is the black pickup truck parked at the curb parked behind a pickup truck?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the black sedan parked at the curb have tinted-looking windows?",
+      "modified": "Does the black pickup truck parked at the curb have tinted-looking windows?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the black sedan parked at the curb parallel to the street?",
+      "modified": "Is the black pickup truck parked at the curb parallel to the street?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the black sedan parked at the curb sit in front of the entrance area with the lit tree nearby?",
+      "modified": "Does the black pickup truck parked at the curb sit in front of the entrance area with the lit tree nearby?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the black sedan parked at the curb the only car fully visible in the scene?",
+      "modified": "Is the black pickup truck parked at the curb the only car fully visible in the scene?",
+      "false_premise": true
+    }
+  ]
+}

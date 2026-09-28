@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1479",
+    "source": "COCO",
+    "complexity": 1,
+    "category": 4,
+    "target": "cake"
+  },
+  "base": {
+    "target_description": "the white birthday cake",
+    "modified_target_description": "the white birthday cake on the left",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is written on the white birthday cake?",
+      "modified": "What is written on the white birthday cake?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "What kind of design is shown on the white birthday cake?",
+      "modified": "What kind of design is shown on the white birthday cake?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the white birthday cake decorated for a child?",
+      "modified": "Is the white birthday cake decorated for a child?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the white birthday cake have a vehicle drawn on it?",
+      "modified": "Does the white birthday cake on the left have a vehicle drawn on it?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "What color frosting covers most of the white birthday cake?",
+      "modified": "What color frosting covers most of the white birthday cake on the left?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the white birthday cake rectangular or round?",
+      "modified": "Is the white birthday cake on the left rectangular or round?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the white birthday cake have cookies or crumbs along the bottom edge?",
+      "modified": "Does the white birthday cake on the left have cookies or crumbs along the bottom edge?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the white birthday cake being held by someone?",
+      "modified": "Is the white birthday cake on the left being held by someone?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the white birthday cake say Happy Birthday on it?",
+      "modified": "Does the white birthday cake on the left say Happy Birthday on it?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the white birthday cake made to look like a construction truck scene?",
+      "modified": "Is the white birthday cake on the left made to look like a construction truck scene?",
+      "false_premise": true
+    }
+  ]
+}

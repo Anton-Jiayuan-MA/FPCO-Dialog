@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1116",
+    "source": "COCO",
+    "complexity": 1,
+    "category": 1,
+    "target": "man"
+  },
+  "base": {
+    "target_description": "the mustached man in a suit",
+    "modified_target_description": "the mustached woman in a suit",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the mustached man in a suit facing toward the camera or turned to the side?",
+      "modified": "Is the mustached man in a suit facing toward the camera or turned to the side?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the mustached man in a suit look like he is sitting for a formal portrait?",
+      "modified": "Does the mustached man in a suit look like he is sitting for a formal portrait?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "What kind of expression does the mustached man in a suit have?",
+      "modified": "What kind of expression does the mustached man in a suit have?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the mustached man in a suit wearing a bow tie?",
+      "modified": "Is the mustached woman in a suit wearing a bow tie?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the mustached man in a suit have curly or straight hair?",
+      "modified": "Does the mustached woman in a suit have curly or straight hair?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the mustached man in a suit shown from close up or far away?",
+      "modified": "Is the mustached woman in a suit shown from close up or far away?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the mustached man in a suit appear to be indoors?",
+      "modified": "Does the mustached woman in a suit appear to be indoors?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the mustached man in a suit looking directly at the camera?",
+      "modified": "Is the mustached woman in a suit looking directly at the camera?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Can you see the upper body of the mustached man in a suit?",
+      "modified": "Can you see the upper body of the mustached woman in a suit?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the mustached man in a suit appear to be dressed formally?",
+      "modified": "Does the mustached woman in a suit appear to be dressed formally?",
+      "false_premise": true
+    }
+  ]
+}

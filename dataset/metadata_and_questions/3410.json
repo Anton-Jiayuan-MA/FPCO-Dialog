@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3410",
+    "source": "COCO",
+    "complexity": 3,
+    "category": 4,
+    "target": "apple"
+  },
+  "base": {
+    "target_description": "the red apple in the bowl",
+    "modified_target_description": "the red orange in the bowl",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the red apple in the bowl near the center of the image?",
+      "modified": "Is the red apple in the bowl near the center of the image?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the red apple in the bowl have a stem visible at the top?",
+      "modified": "Does the red apple in the bowl have a stem visible at the top?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the red apple in the bowl sitting behind another apple?",
+      "modified": "Is the red apple in the bowl sitting behind another apple?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the red apple in the bowl look shiny under the light?",
+      "modified": "Does the red orange in the bowl look shiny under the light?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the red apple in the bowl one of several apples grouped together?",
+      "modified": "Is the red orange in the bowl one of several apples grouped together?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the red apple in the bowl appear to be fresh?",
+      "modified": "Does the red orange in the bowl appear to be fresh?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the red apple in the bowl positioned toward the back of the bowl?",
+      "modified": "Is the red orange in the bowl positioned toward the back of the bowl?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Can you see the full shape of the red apple in the bowl?",
+      "modified": "Can you see the full shape of the red orange in the bowl?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the red apple in the bowl touching the other apples around it?",
+      "modified": "Is the red orange in the bowl touching the other apples around it?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the red apple in the bowl stand out because of its bright color?",
+      "modified": "Does the red orange in the bowl stand out because of its bright color?",
+      "false_premise": true
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2328",
+    "source": "Open Images",
+    "complexity": 2,
+    "category": 3,
+    "target": "sheep"
+  },
+  "base": {
+    "target_description": "the white sheep at the center",
+    "modified_target_description": "the white goat at the center",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the white sheep at the center looking toward?",
+      "modified": "What is the white sheep at the center looking toward?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the white sheep at the center standing behind a metal fence?",
+      "modified": "Is the white sheep at the center standing behind a metal fence?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the white sheep at the center have an ear tag visible?",
+      "modified": "Does the white sheep at the center have an ear tag visible?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the white sheep at the center facing the camera?",
+      "modified": "Is the white goat at the center facing the camera?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the white sheep at the center appear close to the viewer?",
+      "modified": "Does the white goat at the center appear close to the viewer?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the white sheep at the center surrounded by other sheep?",
+      "modified": "Is the white goat at the center surrounded by other sheep?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Can you see the full body of the white sheep at the center?",
+      "modified": "Can you see the full body of the white goat at the center?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the white sheep at the center have white wool?",
+      "modified": "Does the white goat at the center have white wool?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the white sheep at the center inside an outdoor enclosure?",
+      "modified": "Is the white goat at the center inside an outdoor enclosure?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the white sheep at the center appear calm?",
+      "modified": "Does the white goat at the center appear calm?",
+      "false_premise": true
+    }
+  ]
+}

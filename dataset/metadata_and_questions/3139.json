@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3139",
+    "source": "COCO",
+    "complexity": 3,
+    "category": 1,
+    "target": "man"
+  },
+  "base": {
+    "target_description": "the man in the center wearing a white Proctor shirt",
+    "modified_target_description": "the man in the center wearing a black Proctor shirt",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the man in the center wearing a white Proctor shirt holding in his hands?",
+      "modified": "What is the man in the center wearing a white Proctor shirt holding in his hands?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the man in the center wearing a white Proctor shirt standing on the steps?",
+      "modified": "Is the man in the center wearing a white Proctor shirt standing on the steps?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the man in the center wearing a white Proctor shirt appear to be part of a tennis team?",
+      "modified": "Does the man in the center wearing a white Proctor shirt appear to be part of a tennis team?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "What kind of expression does the man in the center wearing a white Proctor shirt have?",
+      "modified": "What kind of expression does the man in the center wearing a black Proctor shirt have?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the man in the center wearing a white Proctor shirt facing the camera?",
+      "modified": "Is the man in the center wearing a black Proctor shirt facing the camera?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Are the clothes on the man in the center wearing a white Proctor shirt mostly light colored?",
+      "modified": "Are the clothes on the man in the center wearing a black Proctor shirt mostly light colored?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the man in the center wearing a white Proctor shirt standing in the front row?",
+      "modified": "Is the man in the center wearing a black Proctor shirt standing in the front row?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the man in the center wearing a white Proctor shirt look like he is posing for a group photo?",
+      "modified": "Does the man in the center wearing a black Proctor shirt look like he is posing for a group photo?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the man in the center wearing a white Proctor shirt wearing shorts or long pants?",
+      "modified": "Is the man in the center wearing a black Proctor shirt wearing shorts or long pants?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the man in the center wearing a white Proctor shirt positioned between two other men in front?",
+      "modified": "Is the man in the center wearing a black Proctor shirt positioned between two other men in front?",
+      "false_premise": true
+    }
+  ]
+}

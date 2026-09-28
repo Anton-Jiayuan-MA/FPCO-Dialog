@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1202",
+    "source": "COCO",
+    "complexity": 1,
+    "category": 2,
+    "target": "motorcycle"
+  },
+  "base": {
+    "target_description": "the yellow Ducati motorcycle",
+    "modified_target_description": "the yellow Ducati bicycle",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the yellow Ducati motorcycle parked on the street?",
+      "modified": "Is the yellow Ducati motorcycle parked on the street?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the yellow Ducati motorcycle have a windshield on the front?",
+      "modified": "Does the yellow Ducati motorcycle have a windshield on the front?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the yellow Ducati motorcycle facing toward the left side of the image?",
+      "modified": "Is the yellow Ducati motorcycle facing toward the left side of the image?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the yellow Ducati motorcycle appear to be stationary?",
+      "modified": "Does the yellow Ducati bicycle appear to be stationary?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the yellow Ducati motorcycle positioned near a brick wall?",
+      "modified": "Is the yellow Ducati bicycle positioned near a brick wall?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Can you see the seat of the yellow Ducati motorcycle clearly?",
+      "modified": "Can you see the seat of the yellow Ducati bicycle clearly?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the yellow Ducati motorcycle have white wheels?",
+      "modified": "Does the yellow Ducati bicycle have white wheels?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the yellow Ducati motorcycle leaning on its kickstand?",
+      "modified": "Is the yellow Ducati bicycle leaning on its kickstand?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Can you see branding text on the yellow Ducati motorcycle?",
+      "modified": "Can you see branding text on the yellow Ducati bicycle?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the yellow Ducati motorcycle the main vehicle shown in the image?",
+      "modified": "Is the yellow Ducati bicycle the main vehicle shown in the image?",
+      "false_premise": true
+    }
+  ]
+}

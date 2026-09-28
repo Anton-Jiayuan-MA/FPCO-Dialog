@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3385",
+    "source": "Open Images",
+    "complexity": 3,
+    "category": 3,
+    "target": "sheep"
+  },
+  "base": {
+    "target_description": "the white sheep in the herd",
+    "modified_target_description": "the white sheep in the foreground",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "How many of the white sheep in the herd are visible in the image?",
+      "modified": "How many of the white sheep in the herd are visible in the image?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Are the white sheep in the herd standing close together or spread far apart?",
+      "modified": "Are the white sheep in the herd standing close together or spread far apart?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Do the white sheep in the herd appear to be walking across the dirt ground?",
+      "modified": "Do the white sheep in the herd appear to be walking across the dirt ground?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Are the white sheep in the herd facing mostly the same direction?",
+      "modified": "Are the white sheep in the foreground facing mostly the same direction?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the white sheep in the herd near a black dog?",
+      "modified": "Is the white sheep in the foreground near a black dog?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the white sheep in the herd look like it is being guided by a person?",
+      "modified": "Does the white sheep in the foreground look like it is being guided by a person?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Are the white sheep in the herd inside a fenced outdoor area?",
+      "modified": "Are the white sheep in the foreground inside a fenced outdoor area?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Do the white sheep in the herd have woolly coats?",
+      "modified": "Do the white sheep in the foreground have woolly coats?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Are the white sheep in the herd closer to the foreground or the background?",
+      "modified": "Are the white sheep in the foreground closer to the foreground or the background?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Do the white sheep in the herd seem calm as they move together?",
+      "modified": "Do the white sheep in the foreground seem calm as they move together?",
+      "false_premise": true
+    }
+  ]
+}

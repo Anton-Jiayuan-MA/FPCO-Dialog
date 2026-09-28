@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2344",
+    "source": "COCO",
+    "complexity": 2,
+    "category": 3,
+    "target": "cat"
+  },
+  "base": {
+    "target_description": "the larger gray tabby cat sitting on the floor",
+    "modified_target_description": "the larger orange tabby cat sitting on the floor",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the larger gray tabby cat sitting on the floor facing?",
+      "modified": "What is the larger gray tabby cat sitting on the floor facing?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the larger gray tabby cat sitting on the floor looking toward the television?",
+      "modified": "Is the larger gray tabby cat sitting on the floor looking toward the television?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the larger gray tabby cat sitting on the floor appear to be sitting still?",
+      "modified": "Does the larger gray tabby cat sitting on the floor appear to be sitting still?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the larger gray tabby cat sitting on the floor indoors?",
+      "modified": "Is the larger orange tabby cat sitting on the floor indoors?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the larger gray tabby cat sitting on the floor shown from behind?",
+      "modified": "Is the larger orange tabby cat sitting on the floor shown from behind?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the larger gray tabby cat sitting on the floor next to a smaller cat?",
+      "modified": "Is the larger orange tabby cat sitting on the floor next to a smaller cat?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "What is behind the larger gray tabby cat sitting on the floor?",
+      "modified": "What is behind the larger orange tabby cat sitting on the floor?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the larger gray tabby cat sitting on the floor seem to be watching the screen?",
+      "modified": "Does the larger orange tabby cat sitting on the floor seem to be watching the screen?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the tail of the larger gray tabby cat sitting on the floor visible?",
+      "modified": "Is the tail of the larger orange tabby cat sitting on the floor visible?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Where is the larger gray tabby cat sitting on the floor positioned in the room?",
+      "modified": "Where is the larger orange tabby cat sitting on the floor positioned in the room?",
+      "false_premise": true
+    }
+  ]
+}

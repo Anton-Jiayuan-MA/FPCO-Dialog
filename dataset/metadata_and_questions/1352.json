@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1352",
+    "source": "Open Images",
+    "complexity": 1,
+    "category": 3,
+    "target": "pig"
+  },
+  "base": {
+    "target_description": "the shaggy brown pig with black patches",
+    "modified_target_description": "the smooth brown pig with black patches",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the shaggy brown pig with black patches standing on?",
+      "modified": "What is the shaggy brown pig with black patches standing on?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the shaggy brown pig with black patches facing toward the camera?",
+      "modified": "Is the shaggy brown pig with black patches facing toward the camera?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the shaggy brown pig with black patches look close to the viewer?",
+      "modified": "Does the shaggy brown pig with black patches look close to the viewer?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Can you see the snout of the shaggy brown pig with black patches clearly?",
+      "modified": "Can you see the snout of the smooth brown pig with black patches clearly?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the shaggy brown pig with black patches walking forward in the image?",
+      "modified": "Is the smooth brown pig with black patches walking forward in the image?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the shaggy brown pig with black patches have visible tusks?",
+      "modified": "Does the smooth brown pig with black patches have visible tusks?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Are the ears of the shaggy brown pig with black patches upright?",
+      "modified": "Are the ears of the smooth brown pig with black patches upright?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the shaggy brown pig with black patches filling most of the frame?",
+      "modified": "Is the smooth brown pig with black patches filling most of the frame?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the shaggy brown pig with black patches appear to be outdoors?",
+      "modified": "Does the smooth brown pig with black patches appear to be outdoors?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Can you see one of the front legs of the shaggy brown pig with black patches?",
+      "modified": "Can you see one of the front legs of the smooth brown pig with black patches?",
+      "false_premise": true
+    }
+  ]
+}

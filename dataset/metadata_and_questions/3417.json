@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3417",
+    "source": "COCO",
+    "complexity": 3,
+    "category": 4,
+    "target": "banana"
+  },
+  "base": {
+    "target_description": "the yellow banana with a green sticker",
+    "modified_target_description": "the yellow apple with a green sticker",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is attached to the yellow banana with a green sticker?",
+      "modified": "What is attached to the yellow banana with a green sticker?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the yellow banana with a green sticker resting on top of oranges?",
+      "modified": "Is the yellow banana with a green sticker resting on top of oranges?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the yellow banana with a green sticker look ripe?",
+      "modified": "Does the yellow banana with a green sticker look ripe?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Are there any dark marks visible on the yellow banana with a green sticker?",
+      "modified": "Are there any dark marks visible on the yellow apple with a green sticker?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the yellow banana with a green sticker part of a bunch of bananas?",
+      "modified": "Is the yellow apple with a green sticker part of a bunch of bananas?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Where is the yellow banana with a green sticker positioned in the fruit pile?",
+      "modified": "Where is the yellow apple with a green sticker positioned in the fruit pile?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the yellow banana with a green sticker closer to the center or the right side of the image?",
+      "modified": "Is the yellow apple with a green sticker closer to the center or the right side of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the yellow banana with a green sticker appear to be touching an orange?",
+      "modified": "Does the yellow apple with a green sticker appear to be touching an orange?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "What color is the sticker on the yellow banana with a green sticker?",
+      "modified": "What color is the sticker on the yellow apple with a green sticker?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the yellow banana with a green sticker angled slightly downward?",
+      "modified": "Is the yellow apple with a green sticker angled slightly downward?",
+      "false_premise": true
+    }
+  ]
+}

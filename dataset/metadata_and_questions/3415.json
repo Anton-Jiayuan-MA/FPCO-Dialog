@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3415",
+    "source": "COCO",
+    "complexity": 3,
+    "category": 4,
+    "target": "apple"
+  },
+  "base": {
+    "target_description": "the red apple in the basket",
+    "modified_target_description": "the red orange in the basket",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What color is the red apple in the basket?",
+      "modified": "What color is the red apple in the basket?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the red apple in the basket near any peaches or nectarines?",
+      "modified": "Is the red apple in the basket near any peaches or nectarines?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the red apple in the basket look shiny in the light?",
+      "modified": "Does the red apple in the basket look shiny in the light?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the red apple in the basket whole or cut open?",
+      "modified": "Is the red orange in the basket whole or cut open?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Where is the red apple in the basket positioned among the fruit?",
+      "modified": "Where is the red orange in the basket positioned among the fruit?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the red apple in the basket appear larger than the nearby stone fruit?",
+      "modified": "Does the red orange in the basket appear larger than the nearby stone fruit?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the red apple in the basket resting underneath any other fruit?",
+      "modified": "Is the red orange in the basket resting underneath any other fruit?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the red apple in the basket have any visible stem?",
+      "modified": "Does the red orange in the basket have any visible stem?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the red apple in the basket close to the edge of the basket?",
+      "modified": "Is the red orange in the basket close to the edge of the basket?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the red apple in the basket stand out from the lighter green fruit nearby?",
+      "modified": "Does the red orange in the basket stand out from the lighter green fruit nearby?",
+      "false_premise": true
+    }
+  ]
+}

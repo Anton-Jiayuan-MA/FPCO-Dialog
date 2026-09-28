@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2215",
+    "source": "COCO",
+    "complexity": 2,
+    "category": 2,
+    "target": "bus"
+  },
+  "base": {
+    "target_description": "the white bus with an open door",
+    "modified_target_description": "the white truck with an open door",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the white bus with an open door parked on a gravel area?",
+      "modified": "Is the white bus with an open door parked on a gravel area?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Are people getting on or off the white bus with an open door?",
+      "modified": "Are people getting on or off the white bus with an open door?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the white bus with an open door appear to be stopped?",
+      "modified": "Does the white bus with an open door appear to be stopped?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the white bus with an open door facing toward the camera?",
+      "modified": "Is the white truck with an open door facing toward the camera?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the white bus with an open door have several side windows?",
+      "modified": "Does the white truck with an open door have several side windows?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the white bus with an open door behind a black SUV?",
+      "modified": "Is the white truck with an open door behind a black SUV?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the white bus with an open door look like a shuttle or transport bus?",
+      "modified": "Does the white truck with an open door look like a shuttle or transport bus?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the white bus with an open door near a wooded area?",
+      "modified": "Is the white truck with an open door near a wooded area?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Can you see the front of the white bus with an open door clearly?",
+      "modified": "Can you see the front of the white truck with an open door clearly?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the white bus with an open door the main vehicle in the background?",
+      "modified": "Is the white truck with an open door the main vehicle in the background?",
+      "false_premise": true
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3313",
+    "source": "COCO",
+    "complexity": 3,
+    "category": 3,
+    "target": "elephant"
+  },
+  "base": {
+    "target_description": "the young elephant in front",
+    "modified_target_description": "the young giraffe in front",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the young elephant in front doing in this scene?",
+      "modified": "What is the young elephant in front doing in this scene?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the young elephant in front standing still or moving?",
+      "modified": "Is the young elephant in front standing still or moving?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the young elephant in front appear to be carrying another elephant on its back?",
+      "modified": "Does the young elephant in front appear to be carrying another elephant on its back?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Which direction is the young elephant in front facing?",
+      "modified": "Which direction is the young giraffe in front facing?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Can you see the trunk of the young elephant in front clearly?",
+      "modified": "Can you see the trunk of the young giraffe in front clearly?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the young elephant in front look smaller than the other elephant?",
+      "modified": "Does the young giraffe in front look smaller than the other elephant?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the young elephant in front walking on dirt or grass?",
+      "modified": "Is the young giraffe in front walking on dirt or grass?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the young elephant in front seem calm or playful?",
+      "modified": "Does the young giraffe in front seem calm or playful?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Are the ears of the young elephant in front hanging down?",
+      "modified": "Are the ears of the young giraffe in front hanging down?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the young elephant in front close to another elephant?",
+      "modified": "Is the young giraffe in front close to another elephant?",
+      "false_premise": true
+    }
+  ]
+}

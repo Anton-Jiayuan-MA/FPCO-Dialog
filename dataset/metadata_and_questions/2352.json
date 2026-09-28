@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2352",
+    "source": "COCO",
+    "complexity": 2,
+    "category": 3,
+    "target": "cat"
+  },
+  "base": {
+    "target_description": "the black and white cat on the left cushion",
+    "modified_target_description": "the brown and white cat on the left cushion",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the black and white cat on the left cushion lying down or sitting up?",
+      "modified": "Is the black and white cat on the left cushion lying down or sitting up?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the black and white cat on the left cushion look relaxed?",
+      "modified": "Does the black and white cat on the left cushion look relaxed?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the black and white cat on the left cushion facing toward the camera?",
+      "modified": "Is the black and white cat on the left cushion facing toward the camera?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "What is the black and white cat on the left cushion resting on?",
+      "modified": "What is the brown and white cat on the left cushion resting on?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the black and white cat on the left cushion have its legs stretched out?",
+      "modified": "Does the brown and white cat on the left cushion have its legs stretched out?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the black and white cat on the left cushion next to another cat?",
+      "modified": "Is the brown and white cat on the left cushion next to another cat?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "What color markings are visible on the black and white cat on the left cushion?",
+      "modified": "What color markings are visible on the brown and white cat on the left cushion?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the black and white cat on the left cushion awake?",
+      "modified": "Is the brown and white cat on the left cushion awake?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Where on the bed is the black and white cat on the left cushion positioned?",
+      "modified": "Where on the bed is the brown and white cat on the left cushion positioned?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the black and white cat on the left cushion appear to be lounging comfortably?",
+      "modified": "Does the brown and white cat on the left cushion appear to be lounging comfortably?",
+      "false_premise": true
+    }
+  ]
+}

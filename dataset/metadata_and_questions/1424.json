@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1424",
+    "source": "Open Images",
+    "complexity": 1,
+    "category": 4,
+    "target": "cake"
+  },
+  "base": {
+    "target_description": "the slice of cake with whipped cream",
+    "modified_target_description": "the slice of pie with whipped cream",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What color is the slice of cake with whipped cream?",
+      "modified": "What color is the slice of cake with whipped cream?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the slice of cake with whipped cream sitting on a plate?",
+      "modified": "Is the slice of cake with whipped cream sitting on a plate?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the slice of cake with whipped cream have chocolate drizzle near it?",
+      "modified": "Does the slice of cake with whipped cream have chocolate drizzle near it?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "How many large whipped cream dollops are on the slice of cake with whipped cream?",
+      "modified": "How many large whipped cream dollops are on the slice of pie with whipped cream?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the slice of cake with whipped cream shown close up?",
+      "modified": "Is the slice of pie with whipped cream shown close up?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the slice of cake with whipped cream look like a dessert?",
+      "modified": "Does the slice of pie with whipped cream look like a dessert?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the slice of cake with whipped cream topped with any sprinkles or shavings?",
+      "modified": "Is the slice of pie with whipped cream topped with any sprinkles or shavings?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the slice of cake with whipped cream appear to have light-colored layers?",
+      "modified": "Does the slice of pie with whipped cream appear to have light-colored layers?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the slice of cake with whipped cream the main focus of the image?",
+      "modified": "Is the slice of pie with whipped cream the main focus of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the slice of cake with whipped cream look ready to be served?",
+      "modified": "Does the slice of pie with whipped cream look ready to be served?",
+      "false_premise": true
+    }
+  ]
+}

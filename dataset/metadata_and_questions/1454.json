@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1454",
+    "source": "Open Images",
+    "complexity": 1,
+    "category": 4,
+    "target": "soup"
+  },
+  "base": {
+    "target_description": "the white soup in the pot",
+    "modified_target_description": "the black soup in the pot",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the white soup in the pot being stirred with a wooden spoon?",
+      "modified": "Is the white soup in the pot being stirred with a wooden spoon?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the white soup in the pot look thick or watery?",
+      "modified": "Does the white soup in the pot look thick or watery?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the white soup in the pot close to the top of the pot?",
+      "modified": "Is the white soup in the pot close to the top of the pot?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the white soup in the pot appear to be cooking on a hot plate?",
+      "modified": "Does the black soup in the pot appear to be cooking on a hot plate?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the white soup in the pot smooth, or does it have lumps in it?",
+      "modified": "Is the black soup in the pot smooth, or does it have lumps in it?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the white soup in the pot being scooped up by the spoon?",
+      "modified": "Is the black soup in the pot being scooped up by the spoon?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the white soup in the pot fill most of the pot?",
+      "modified": "Does the black soup in the pot fill most of the pot?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the white soup in the pot the main food item shown in the image?",
+      "modified": "Is the black soup in the pot the main food item shown in the image?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the white soup in the pot look creamy in texture?",
+      "modified": "Does the black soup in the pot look creamy in texture?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the white soup in the pot shown from above at an angle?",
+      "modified": "Is the black soup in the pot shown from above at an angle?",
+      "false_premise": true
+    }
+  ]
+}

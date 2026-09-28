@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3407",
+    "source": "COCO",
+    "complexity": 3,
+    "category": 4,
+    "target": "broccoli"
+  },
+  "base": {
+    "target_description": "the green broccoli florets",
+    "modified_target_description": "the green cauliflower florets",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Are the green broccoli florets arranged around the edge of the plate?",
+      "modified": "Are the green broccoli florets arranged around the edge of the plate?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Do the green broccoli florets look cooked and ready to eat?",
+      "modified": "Do the green broccoli florets look cooked and ready to eat?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Are the green broccoli florets surrounding a larger pile of food in the middle?",
+      "modified": "Are the green broccoli florets surrounding a larger pile of food in the middle?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Do the green broccoli florets appear bright green in the image?",
+      "modified": "Do the green cauliflower florets appear bright green in the image?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Are the green broccoli florets served on a white plate?",
+      "modified": "Are the green cauliflower florets served on a white plate?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Do the green broccoli florets look like a side dish to the main food?",
+      "modified": "Do the green cauliflower florets look like a side dish to the main food?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Are the green broccoli florets placed near a fork on the right side?",
+      "modified": "Are the green cauliflower florets placed near a fork on the right side?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Do the green broccoli florets take up the front part of the plate?",
+      "modified": "Do the green cauliflower florets take up the front part of the plate?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Are the green broccoli florets shown in several separate pieces?",
+      "modified": "Are the green cauliflower florets shown in several separate pieces?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Do the green broccoli florets appear to be part of a plated meal?",
+      "modified": "Do the green cauliflower florets appear to be part of a plated meal?",
+      "false_premise": true
+    }
+  ]
+}

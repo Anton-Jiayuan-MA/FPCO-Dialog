@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2137",
+    "source": "Open Images",
+    "complexity": 2,
+    "category": 1,
+    "target": "woman"
+  },
+  "base": {
+    "target_description": "the woman in a striped dress and white hat",
+    "modified_target_description": "the woman in a polka-dot dress and white hat",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the woman in a striped dress and white hat doing in this scene?",
+      "modified": "What is the woman in a striped dress and white hat doing in this scene?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the woman in a striped dress and white hat smiling?",
+      "modified": "Is the woman in a striped dress and white hat smiling?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Where is the woman in a striped dress and white hat positioned among the group?",
+      "modified": "Where is the woman in a striped dress and white hat positioned among the group?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "What kind of shoes is the woman in a striped dress and white hat wearing?",
+      "modified": "What kind of shoes is the woman in a polka-dot dress and white hat wearing?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the woman in a striped dress and white hat appear to be walking or standing still?",
+      "modified": "Does the woman in a polka-dot dress and white hat appear to be walking or standing still?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the woman in a striped dress and white hat linking arms with the people beside her?",
+      "modified": "Is the woman in a polka-dot dress and white hat linking arms with the people beside her?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "What is the woman in a striped dress and white hat holding in her hands?",
+      "modified": "What is the woman in a polka-dot dress and white hat holding in her hands?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the woman in a striped dress and white hat outdoors?",
+      "modified": "Is the woman in a polka-dot dress and white hat outdoors?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "What expression does the woman in a striped dress and white hat have?",
+      "modified": "What expression does the woman in a polka-dot dress and white hat have?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the woman in a striped dress and white hat in front of a yellow backdrop?",
+      "modified": "Is the woman in a polka-dot dress and white hat in front of a yellow backdrop?",
+      "false_premise": true
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3332",
+    "source": "COCO",
+    "complexity": 3,
+    "category": 3,
+    "target": "cow"
+  },
+  "base": {
+    "target_description": "the black cow on the hillside",
+    "modified_target_description": "the brown cow on the hillside",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the black cow on the hillside standing still or moving?",
+      "modified": "Is the black cow on the hillside standing still or moving?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the black cow on the hillside facing toward the camera?",
+      "modified": "Is the black cow on the hillside facing toward the camera?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the black cow on the hillside appear to be grazing right now?",
+      "modified": "Does the black cow on the hillside appear to be grazing right now?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the black cow on the hillside standing near other cows?",
+      "modified": "Is the brown cow on the hillside standing near other cows?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the black cow on the hillside look higher up on the slope than the cow on the far left?",
+      "modified": "Does the brown cow on the hillside look higher up on the slope than the cow on the far left?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the black cow on the hillside in the center of the image?",
+      "modified": "Is the brown cow on the hillside in the center of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Can you see the legs of the black cow on the hillside clearly?",
+      "modified": "Can you see the legs of the brown cow on the hillside clearly?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the black cow on the hillside darker than the nearby brown-and-white cow?",
+      "modified": "Is the brown cow on the hillside darker than the nearby brown-and-white cow?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the black cow on the hillside appear larger than the cow in the background?",
+      "modified": "Does the brown cow on the hillside appear larger than the cow in the background?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the black cow on the hillside standing on dry grass?",
+      "modified": "Is the brown cow on the hillside standing on dry grass?",
+      "false_premise": true
+    }
+  ]
+}

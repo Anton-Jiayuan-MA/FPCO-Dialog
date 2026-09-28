@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1474",
+    "source": "COCO",
+    "complexity": 1,
+    "category": 4,
+    "target": "cake"
+  },
+  "base": {
+    "target_description": "the white dog-shaped cake",
+    "modified_target_description": "the white dog-shaped cake on the right",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What kind of dessert is the white dog-shaped cake?",
+      "modified": "What kind of dessert is the white dog-shaped cake?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the white dog-shaped cake sitting on a gold-colored board?",
+      "modified": "Is the white dog-shaped cake sitting on a gold-colored board?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the white dog-shaped cake have white frosting covering it?",
+      "modified": "Does the white dog-shaped cake have white frosting covering it?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the white dog-shaped cake decorated to look like a real dog?",
+      "modified": "Is the white dog-shaped cake on the right decorated to look like a real dog?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Can you see a knife cutting into the white dog-shaped cake?",
+      "modified": "Can you see a knife cutting into the white dog-shaped cake on the right?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the white dog-shaped cake placed on a table or countertop?",
+      "modified": "Is the white dog-shaped cake on the right placed on a table or countertop?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the white dog-shaped cake have a face with dark eyes and a nose?",
+      "modified": "Does the white dog-shaped cake on the right have a face with dark eyes and a nose?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the white dog-shaped cake shown from above at an angle?",
+      "modified": "Is the white dog-shaped cake on the right shown from above at an angle?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the white dog-shaped cake appear to be homemade or specially decorated?",
+      "modified": "Does the white dog-shaped cake on the right appear to be homemade or specially decorated?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is there blue writing next to the white dog-shaped cake on the board?",
+      "modified": "Is there blue writing next to the white dog-shaped cake on the right on the board?",
+      "false_premise": true
+    }
+  ]
+}

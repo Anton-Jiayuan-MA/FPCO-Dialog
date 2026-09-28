@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3188",
+    "source": "COCO",
+    "complexity": 3,
+    "category": 1,
+    "target": "person"
+  },
+  "base": {
+    "target_description": "the man in a white shirt at the center",
+    "modified_target_description": "the man in a white shirt on the left",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the man in a white shirt at the center doing with his hands?",
+      "modified": "What is the man in a white shirt at the center doing with his hands?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the man in a white shirt at the center leaning over the large striped surface?",
+      "modified": "Is the man in a white shirt at the center leaning over the large striped surface?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the man in a white shirt at the center appear to be working with other people?",
+      "modified": "Does the man in a white shirt at the center appear to be working with other people?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the man in a white shirt at the center standing or sitting?",
+      "modified": "Is the man in a white shirt on the left standing or sitting?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "What is directly in front of the man in a white shirt at the center?",
+      "modified": "What is directly in front of the man in a white shirt on the left?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the man in a white shirt at the center seem focused on the activity?",
+      "modified": "Does the man in a white shirt on the left seem focused on the activity?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the man in a white shirt at the center indoors or outdoors?",
+      "modified": "Is the man in a white shirt on the left indoors or outdoors?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Are there other people close to the man in a white shirt at the center?",
+      "modified": "Are there other people close to the man in a white shirt on the left?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the man in a white shirt at the center part of a group activity?",
+      "modified": "Is the man in a white shirt on the left part of a group activity?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "What section of the large display is the man in a white shirt at the center near?",
+      "modified": "What section of the large display is the man in a white shirt on the left near?",
+      "false_premise": true
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3357",
+    "source": "COCO",
+    "complexity": 3,
+    "category": 3,
+    "target": "zebra"
+  },
+  "base": {
+    "target_description": "the zebra in the foreground with its head lowered",
+    "modified_target_description": "the zebra in the foreground with its head raised",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the zebra in the foreground with its head lowered doing in the scene?",
+      "modified": "What is the zebra in the foreground with its head lowered doing in the scene?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the zebra in the foreground with its head lowered facing slightly to the left?",
+      "modified": "Is the zebra in the foreground with its head lowered facing slightly to the left?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the zebra in the foreground with its head lowered appear to be standing still?",
+      "modified": "Does the zebra in the foreground with its head lowered appear to be standing still?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Can you see the zebra in the foreground with its head lowered overlapping with another zebra?",
+      "modified": "Can you see the zebra in the foreground with its head raised overlapping with another zebra?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the zebra in the foreground with its head lowered closer to the camera than the other zebra?",
+      "modified": "Is the zebra in the foreground with its head raised closer to the camera than the other zebra?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the zebra in the foreground with its head lowered have clearly visible black-and-white stripes?",
+      "modified": "Does the zebra in the foreground with its head raised have clearly visible black-and-white stripes?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the zebra in the foreground with its head lowered shown from the side?",
+      "modified": "Is the zebra in the foreground with its head raised shown from the side?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the zebra in the foreground with its head lowered take up most of the right side of the image?",
+      "modified": "Does the zebra in the foreground with its head raised take up most of the right side of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the zebra in the foreground with its head lowered outdoors?",
+      "modified": "Is the zebra in the foreground with its head raised outdoors?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Can you see the face of the zebra in the foreground with its head lowered?",
+      "modified": "Can you see the face of the zebra in the foreground with its head raised?",
+      "false_premise": true
+    }
+  ]
+}

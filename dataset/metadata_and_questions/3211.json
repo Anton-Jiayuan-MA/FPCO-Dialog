@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3211",
+    "source": "COCO",
+    "complexity": 3,
+    "category": 2,
+    "target": "bus"
+  },
+  "base": {
+    "target_description": "the yellow school bus on the left",
+    "modified_target_description": "the yellow school truck on the left",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the yellow school bus on the left parked in a lot?",
+      "modified": "Is the yellow school bus on the left parked in a lot?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Can you see the front of the yellow school bus on the left clearly?",
+      "modified": "Can you see the front of the yellow school bus on the left clearly?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the yellow school bus on the left have its stop sign extended?",
+      "modified": "Does the yellow school bus on the left have its stop sign extended?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the yellow school bus on the left facing toward the camera?",
+      "modified": "Is the yellow school truck on the left facing toward the camera?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the yellow school bus on the left appear larger than the other bus in view?",
+      "modified": "Does the yellow school truck on the left appear larger than the other bus in view?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the yellow school bus on the left close to a chain-link fence?",
+      "modified": "Is the yellow school truck on the left close to a chain-link fence?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Can you read the school bus sign on the yellow school bus on the left?",
+      "modified": "Can you read the school bus sign on the yellow school truck on the left?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the yellow school bus on the left the most fully visible vehicle in the image?",
+      "modified": "Is the yellow school truck on the left the most fully visible vehicle in the image?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the yellow school bus on the left have black wheels?",
+      "modified": "Does the yellow school truck on the left have black wheels?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the yellow school bus on the left beside another school bus?",
+      "modified": "Is the yellow school truck on the left beside another school bus?",
+      "false_premise": true
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3158",
+    "source": "Open Images",
+    "complexity": 3,
+    "category": 1,
+    "target": "person"
+  },
+  "base": {
+    "target_description": "the man in a dark suit bending forward",
+    "modified_target_description": "the man in a light suit bending forward",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the man in a dark suit bending forward shaking hands with the little girl?",
+      "modified": "Is the man in a dark suit bending forward shaking hands with the little girl?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the man in a dark suit bending forward appear to be speaking to someone in front of him?",
+      "modified": "Does the man in a dark suit bending forward appear to be speaking to someone in front of him?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the man in a dark suit bending forward wearing a tie?",
+      "modified": "Is the man in a dark suit bending forward wearing a tie?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the man in a dark suit bending forward look like he is smiling?",
+      "modified": "Does the man in a light suit bending forward look like he is smiling?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the man in a dark suit bending forward facing toward the left side of the image?",
+      "modified": "Is the man in a light suit bending forward facing toward the left side of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the man in a dark suit bending forward interacting with a child?",
+      "modified": "Is the man in a light suit bending forward interacting with a child?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the man in a dark suit bending forward have one hand extended outward?",
+      "modified": "Does the man in a light suit bending forward have one hand extended outward?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the man in a dark suit bending forward indoors?",
+      "modified": "Is the man in a light suit bending forward indoors?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the man in a dark suit bending forward appear lower than the other adults because he is leaning down?",
+      "modified": "Does the man in a light suit bending forward appear lower than the other adults because he is leaning down?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the man in a dark suit bending forward the closest adult to the little girl?",
+      "modified": "Is the man in a light suit bending forward the closest adult to the little girl?",
+      "false_premise": true
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3335",
+    "source": "COCO",
+    "complexity": 3,
+    "category": 3,
+    "target": "giraffe"
+  },
+  "base": {
+    "target_description": "the tall spotted giraffe on the right",
+    "modified_target_description": "the short spotted giraffe on the right",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What direction is the tall spotted giraffe on the right facing?",
+      "modified": "What direction is the tall spotted giraffe on the right facing?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the tall spotted giraffe on the right standing close to the other giraffes?",
+      "modified": "Is the tall spotted giraffe on the right standing close to the other giraffes?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the tall spotted giraffe on the right have its head lowered or raised?",
+      "modified": "Does the tall spotted giraffe on the right have its head lowered or raised?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Can you clearly see the face of the tall spotted giraffe on the right?",
+      "modified": "Can you clearly see the face of the short spotted giraffe on the right?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the tall spotted giraffe on the right closer to the camera than the others?",
+      "modified": "Is the short spotted giraffe on the right closer to the camera than the others?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the tall spotted giraffe on the right appear to be calm?",
+      "modified": "Does the short spotted giraffe on the right appear to be calm?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the tall spotted giraffe on the right partly overlapping another giraffe?",
+      "modified": "Is the short spotted giraffe on the right partly overlapping another giraffe?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Are the ears of the tall spotted giraffe on the right visible?",
+      "modified": "Are the ears of the short spotted giraffe on the right visible?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the tall spotted giraffe on the right look like an adult?",
+      "modified": "Does the short spotted giraffe on the right look like an adult?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the tall spotted giraffe on the right standing outdoors?",
+      "modified": "Is the short spotted giraffe on the right standing outdoors?",
+      "false_premise": true
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3458",
+    "source": "Open Images",
+    "complexity": 3,
+    "category": 4,
+    "target": "vegetables"
+  },
+  "base": {
+    "target_description": "the large sweet potato on the cutting board",
+    "modified_target_description": "the small sweet potato on the cutting board",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the large sweet potato on the cutting board whole or sliced?",
+      "modified": "Is the large sweet potato on the cutting board whole or sliced?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "What color is the large sweet potato on the cutting board?",
+      "modified": "What color is the large sweet potato on the cutting board?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the large sweet potato on the cutting board lying near the front of the image?",
+      "modified": "Is the large sweet potato on the cutting board lying near the front of the image?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the large sweet potato on the cutting board look longer than the nearby onions?",
+      "modified": "Does the small sweet potato on the cutting board look longer than the nearby onions?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the large sweet potato on the cutting board placed beside some garlic bulbs?",
+      "modified": "Is the small sweet potato on the cutting board placed beside some garlic bulbs?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the large sweet potato on the cutting board appear raw?",
+      "modified": "Does the small sweet potato on the cutting board appear raw?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the large sweet potato on the cutting board curved in shape?",
+      "modified": "Is the small sweet potato on the cutting board curved in shape?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the large sweet potato on the cutting board one of the biggest vegetables shown?",
+      "modified": "Is the small sweet potato on the cutting board one of the biggest vegetables shown?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the large sweet potato on the cutting board have a smooth or rough-looking skin?",
+      "modified": "Does the small sweet potato on the cutting board have a smooth or rough-looking skin?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the large sweet potato on the cutting board resting horizontally across the lower right area?",
+      "modified": "Is the small sweet potato on the cutting board resting horizontally across the lower right area?",
+      "false_premise": true
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3472",
+    "source": "COCO",
+    "complexity": 3,
+    "category": 4,
+    "target": "sandwich"
+  },
+  "base": {
+    "target_description": "the sliced sandwich on the white plate",
+    "modified_target_description": "the sliced sandwich in the foreground on the white plate",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What fillings can you see in the sliced sandwich on the white plate?",
+      "modified": "What fillings can you see in the sliced sandwich on the white plate?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the sliced sandwich on the white plate cut into triangular pieces?",
+      "modified": "Is the sliced sandwich on the white plate cut into triangular pieces?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the sliced sandwich on the white plate look like it is ready to be eaten?",
+      "modified": "Does the sliced sandwich on the white plate look like it is ready to be eaten?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "What kind of bread does the sliced sandwich on the white plate appear to use?",
+      "modified": "What kind of bread does the sliced sandwich in the foreground on the white plate appear to use?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the sliced sandwich on the white plate sitting near a hot drink?",
+      "modified": "Is the sliced sandwich in the foreground on the white plate sitting near a hot drink?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the sliced sandwich on the white plate look stacked in more than one piece?",
+      "modified": "Does the sliced sandwich in the foreground on the white plate look stacked in more than one piece?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Can you see any lettuce in the sliced sandwich on the white plate?",
+      "modified": "Can you see any lettuce in the sliced sandwich in the foreground on the white plate?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the sliced sandwich on the white plate placed on a tray?",
+      "modified": "Is the sliced sandwich in the foreground on the white plate placed on a tray?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the sliced sandwich on the white plate appear to be part of a café meal?",
+      "modified": "Does the sliced sandwich in the foreground on the white plate appear to be part of a café meal?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the sliced sandwich on the white plate in the foreground of the image?",
+      "modified": "Is the sliced sandwich in the foreground on the white plate in the foreground of the image?",
+      "false_premise": true
+    }
+  ]
+}

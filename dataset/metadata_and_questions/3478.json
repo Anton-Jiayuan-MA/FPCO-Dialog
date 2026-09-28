@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3478",
+    "source": "COCO",
+    "complexity": 3,
+    "category": 4,
+    "target": "vegetables"
+  },
+  "base": {
+    "target_description": "the large head of broccoli",
+    "modified_target_description": "the large head of broccoli on the right",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What color is the large head of broccoli?",
+      "modified": "What color is the large head of broccoli?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the large head of broccoli sitting on the kitchen counter?",
+      "modified": "Is the large head of broccoli sitting on the kitchen counter?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the large head of broccoli look fresh in this image?",
+      "modified": "Does the large head of broccoli look fresh in this image?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "What vegetables are placed near the large head of broccoli?",
+      "modified": "What vegetables are placed near the large head of broccoli on the right?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the large head of broccoli closer to the front or the back of the counter?",
+      "modified": "Is the large head of broccoli on the right closer to the front or the back of the counter?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the large head of broccoli appear whole or cut up?",
+      "modified": "Does the large head of broccoli on the right appear whole or cut up?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the large head of broccoli next to any leafy greens?",
+      "modified": "Is the large head of broccoli on the right next to any leafy greens?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the large head of broccoli look bigger than the onions beside it?",
+      "modified": "Does the large head of broccoli on the right look bigger than the onions beside it?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the large head of broccoli positioned near the center of the image?",
+      "modified": "Is the large head of broccoli on the right positioned near the center of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Can you see the stalk of the large head of broccoli?",
+      "modified": "Can you see the stalk of the large head of broccoli on the right?",
+      "false_premise": true
+    }
+  ]
+}

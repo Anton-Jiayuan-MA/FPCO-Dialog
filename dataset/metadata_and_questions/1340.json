@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1340",
+    "source": "Open Images",
+    "complexity": 1,
+    "category": 3,
+    "target": "cat"
+  },
+  "base": {
+    "target_description": "the close-up cat with white fur and brown stripes",
+    "modified_target_description": "the close-up cat with black fur and brown stripes",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What direction is the close-up cat with white fur and brown stripes facing?",
+      "modified": "What direction is the close-up cat with white fur and brown stripes facing?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Can you see the eye of the close-up cat with white fur and brown stripes clearly?",
+      "modified": "Can you see the eye of the close-up cat with white fur and brown stripes clearly?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the close-up cat with white fur and brown stripes shown from the side?",
+      "modified": "Is the close-up cat with white fur and brown stripes shown from the side?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the close-up cat with white fur and brown stripes look calm in this image?",
+      "modified": "Does the close-up cat with black fur and brown stripes look calm in this image?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Are the whiskers of the close-up cat with white fur and brown stripes visible?",
+      "modified": "Are the whiskers of the close-up cat with black fur and brown stripes visible?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the nose of the close-up cat with white fur and brown stripes pink?",
+      "modified": "Is the nose of the close-up cat with black fur and brown stripes pink?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the close-up cat with white fur and brown stripes fill most of the frame?",
+      "modified": "Does the close-up cat with black fur and brown stripes fill most of the frame?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the close-up cat with white fur and brown stripes indoors?",
+      "modified": "Is the close-up cat with black fur and brown stripes indoors?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Can you see both eyes of the close-up cat with white fur and brown stripes?",
+      "modified": "Can you see both eyes of the close-up cat with black fur and brown stripes?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the close-up cat with white fur and brown stripes resting on something soft?",
+      "modified": "Is the close-up cat with black fur and brown stripes resting on something soft?",
+      "false_premise": true
+    }
+  ]
+}

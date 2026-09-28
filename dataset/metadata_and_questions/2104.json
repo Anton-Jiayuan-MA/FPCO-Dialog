@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2104",
+    "source": "Open Images",
+    "complexity": 2,
+    "category": 1,
+    "target": "man"
+  },
+  "base": {
+    "target_description": "the man in a dark military uniform",
+    "modified_target_description": "the woman in a dark military uniform",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the man in a dark military uniform holding in the photo?",
+      "modified": "What is the man in a dark military uniform holding in the photo?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the man in a dark military uniform standing beside another man?",
+      "modified": "Is the man in a dark military uniform standing beside another man?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the man in a dark military uniform appear to be receiving an award?",
+      "modified": "Does the man in a dark military uniform appear to be receiving an award?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "What kind of expression does the man in a dark military uniform have?",
+      "modified": "What kind of expression does the woman in a dark military uniform have?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the man in a dark military uniform looking toward the camera?",
+      "modified": "Is the woman in a dark military uniform looking toward the camera?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "What is the man in a dark military uniform wearing on his chest?",
+      "modified": "What is the woman in a dark military uniform wearing on her chest?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the man in a dark military uniform have gold stripes on his sleeve?",
+      "modified": "Does the woman in a dark military uniform have gold stripes on her sleeve?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the man in a dark military uniform indoors at an event?",
+      "modified": "Is the woman in a dark military uniform indoors at an event?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Who is standing next to the man in a dark military uniform?",
+      "modified": "Who is standing next to the woman in a dark military uniform?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the man in a dark military uniform helping hold a large trophy?",
+      "modified": "Is the woman in a dark military uniform helping hold a large trophy?",
+      "false_premise": true
+    }
+  ]
+}

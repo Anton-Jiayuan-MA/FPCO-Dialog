@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1105",
+    "source": "COCO",
+    "complexity": 1,
+    "category": 1,
+    "target": "man"
+  },
+  "base": {
+    "target_description": "the man in a gray beanie and sunglasses",
+    "modified_target_description": "the woman in a gray beanie and sunglasses",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the man in a gray beanie and sunglasses holding up to his ear?",
+      "modified": "What is the man in a gray beanie and sunglasses holding up to his ear?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the man in a gray beanie and sunglasses talking on the phone?",
+      "modified": "Is the man in a gray beanie and sunglasses talking on the phone?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "What kind of weather does the man in a gray beanie and sunglasses seem to be in?",
+      "modified": "What kind of weather does the man in a gray beanie and sunglasses seem to be in?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the man in a gray beanie and sunglasses wearing gloves?",
+      "modified": "Is the woman in a gray beanie and sunglasses wearing gloves?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "What expression does the man in a gray beanie and sunglasses have on his face?",
+      "modified": "What expression does the woman in a gray beanie and sunglasses have on her face?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the man in a gray beanie and sunglasses appear to be outdoors?",
+      "modified": "Does the woman in a gray beanie and sunglasses appear to be outdoors?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "What is the man in a gray beanie and sunglasses wearing on his head?",
+      "modified": "What is the woman in a gray beanie and sunglasses wearing on her head?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the man in a gray beanie and sunglasses dressed for cold weather?",
+      "modified": "Is the woman in a gray beanie and sunglasses dressed for cold weather?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "What is the man in a gray beanie and sunglasses doing with his right hand?",
+      "modified": "What is the woman in a gray beanie and sunglasses doing with her right hand?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the man in a gray beanie and sunglasses look like he is in the middle of a conversation?",
+      "modified": "Does the woman in a gray beanie and sunglasses look like she is in the middle of a conversation?",
+      "false_premise": true
+    }
+  ]
+}

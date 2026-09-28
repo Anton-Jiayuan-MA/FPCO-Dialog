@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1312",
+    "source": "Open Images",
+    "complexity": 1,
+    "category": 3,
+    "target": "chicken"
+  },
+  "base": {
+    "target_description": "the gray chicken with a red comb",
+    "modified_target_description": "the gray duck with a red comb",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the gray chicken with a red comb doing in the foreground?",
+      "modified": "What is the gray chicken with a red comb doing in the foreground?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the gray chicken with a red comb sitting on the ground?",
+      "modified": "Is the gray chicken with a red comb sitting on the ground?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the gray chicken with a red comb appear closer to the camera than the other birds?",
+      "modified": "Does the gray chicken with a red comb appear closer to the camera than the other birds?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the gray chicken with a red comb facing toward the right side of the image?",
+      "modified": "Is the gray duck with a red comb facing toward the right side of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the gray chicken with a red comb have fluffy feathers?",
+      "modified": "Does the gray duck with a red comb have fluffy feathers?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the gray chicken with a red comb the main subject in focus?",
+      "modified": "Is the gray duck with a red comb the main subject in focus?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Can you see the feet of the gray chicken with a red comb clearly?",
+      "modified": "Can you see the feet of the gray duck with a red comb clearly?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the gray chicken with a red comb look calm and still?",
+      "modified": "Does the gray duck with a red comb look calm and still?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the gray chicken with a red comb outdoors?",
+      "modified": "Is the gray duck with a red comb outdoors?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the gray chicken with a red comb positioned near the center of the image?",
+      "modified": "Is the gray duck with a red comb positioned near the center of the image?",
+      "false_premise": true
+    }
+  ]
+}

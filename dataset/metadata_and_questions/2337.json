@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2337",
+    "source": "Open Images",
+    "complexity": 2,
+    "category": 3,
+    "target": "sheep"
+  },
+  "base": {
+    "target_description": "the white sheep in the center",
+    "modified_target_description": "the black sheep in the center",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the white sheep in the center facing toward the camera?",
+      "modified": "Is the white sheep in the center facing toward the camera?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the white sheep in the center appear to be walking along the road?",
+      "modified": "Does the white sheep in the center appear to be walking along the road?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the white sheep in the center surrounded by other sheep?",
+      "modified": "Is the white sheep in the center surrounded by other sheep?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the white sheep in the center have curled horns?",
+      "modified": "Does the black sheep in the center have curled horns?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the white sheep in the center closer to the front of the flock than the back?",
+      "modified": "Is the black sheep in the center closer to the front of the flock than the back?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the white sheep in the center look larger than the lambs nearby?",
+      "modified": "Does the black sheep in the center look larger than the lambs nearby?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the white sheep in the center standing on a paved path?",
+      "modified": "Is the black sheep in the center standing on a paved path?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the white sheep in the center appear to be an adult sheep?",
+      "modified": "Does the black sheep in the center appear to be an adult sheep?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the white sheep in the center positioned between darker sheep?",
+      "modified": "Is the black sheep in the center positioned between darker sheep?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the white sheep in the center seem to be leading part of the group?",
+      "modified": "Does the black sheep in the center seem to be leading part of the group?",
+      "false_premise": true
+    }
+  ]
+}

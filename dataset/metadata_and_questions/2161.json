@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2161",
+    "source": "COCO",
+    "complexity": 2,
+    "category": 1,
+    "target": "man"
+  },
+  "base": {
+    "target_description": "the bearded man in a black shirt",
+    "modified_target_description": "the bearded man on the left side of the table",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the bearded man in a black shirt sitting at the dining table?",
+      "modified": "Is the bearded man in a black shirt sitting at the dining table?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the bearded man in a black shirt appear to be holding a fork?",
+      "modified": "Does the bearded man in a black shirt appear to be holding a fork?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the bearded man in a black shirt looking down toward his plate?",
+      "modified": "Is the bearded man in a black shirt looking down toward his plate?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the bearded man in a black shirt seated beside a woman in blue?",
+      "modified": "Is the bearded man on the left side of the table seated beside a woman in blue?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the bearded man in a black shirt have a drink in front of him on the table?",
+      "modified": "Does the bearded man on the left side of the table have a drink in front of him on the table?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the bearded man in a black shirt participating in the meal or celebration at the table?",
+      "modified": "Is the bearded man on the left side of the table participating in the meal or celebration at the table?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the bearded man in a black shirt on the right side of the table from the camera's view?",
+      "modified": "Is the bearded man on the left side of the table on the right side of the table from the camera's view?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the bearded man in a black shirt appear to have reddish hair?",
+      "modified": "Does the bearded man on the left side of the table appear to have reddish hair?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the bearded man in a black shirt facing slightly toward the center of the table?",
+      "modified": "Is the bearded man on the left side of the table facing slightly toward the center of the table?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the bearded man in a black shirt sitting near the cake?",
+      "modified": "Is the bearded man on the left side of the table sitting near the cake?",
+      "false_premise": true
+    }
+  ]
+}

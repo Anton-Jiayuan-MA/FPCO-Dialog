@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3238",
+    "source": "Open Images",
+    "complexity": 3,
+    "category": 2,
+    "target": "airplane"
+  },
+  "base": {
+    "target_description": "the white SriLankan airplane in the sky",
+    "modified_target_description": "the blue SriLankan airplane in the sky",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the white SriLankan airplane in the sky taking off or landing?",
+      "modified": "Is the white SriLankan airplane in the sky taking off or landing?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Are the wheels of the white SriLankan airplane in the sky still visible?",
+      "modified": "Are the wheels of the white SriLankan airplane in the sky still visible?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the white SriLankan airplane in the sky flying above another plane?",
+      "modified": "Is the white SriLankan airplane in the sky flying above another plane?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Can you see the engines on the white SriLankan airplane in the sky?",
+      "modified": "Can you see the engines on the blue SriLankan airplane in the sky?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the white SriLankan airplane in the sky appear close to the runway?",
+      "modified": "Does the blue SriLankan airplane in the sky appear close to the runway?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the white SriLankan airplane in the sky angled upward?",
+      "modified": "Is the blue SriLankan airplane in the sky angled upward?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the white SriLankan airplane in the sky have its landing gear down?",
+      "modified": "Does the blue SriLankan airplane in the sky have its landing gear down?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the white SriLankan airplane in the sky shown from the side?",
+      "modified": "Is the blue SriLankan airplane in the sky shown from the side?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the white SriLankan airplane in the sky look like a large passenger jet?",
+      "modified": "Does the blue SriLankan airplane in the sky look like a large passenger jet?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the white SriLankan airplane in the sky moving through cloudy weather?",
+      "modified": "Is the blue SriLankan airplane in the sky moving through cloudy weather?",
+      "false_premise": true
+    }
+  ]
+}

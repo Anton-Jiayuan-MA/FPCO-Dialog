@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3450",
+    "source": "Open Images",
+    "complexity": 3,
+    "category": 4,
+    "target": "apple"
+  },
+  "base": {
+    "target_description": "the red apple on the branch",
+    "modified_target_description": "the green apple on the branch",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the red apple on the branch still attached to the tree?",
+      "modified": "Is the red apple on the branch still attached to the tree?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the red apple on the branch look ripe?",
+      "modified": "Does the red apple on the branch look ripe?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Are there leaves partially covering the red apple on the branch?",
+      "modified": "Are there leaves partially covering the red apple on the branch?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the red apple on the branch growing among several other apples?",
+      "modified": "Is the green apple on the branch growing among several other apples?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the red apple on the branch have a smooth-looking surface?",
+      "modified": "Does the green apple on the branch have a smooth-looking surface?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the red apple on the branch hanging low in the frame?",
+      "modified": "Is the green apple on the branch hanging low in the frame?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the red apple on the branch appear larger than some of the other apples nearby?",
+      "modified": "Does the green apple on the branch appear larger than some of the other apples nearby?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the red apple on the branch surrounded by green leaves?",
+      "modified": "Is the green apple on the branch surrounded by green leaves?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the red apple on the branch have any visible water droplets on it?",
+      "modified": "Does the green apple on the branch have any visible water droplets on it?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the red apple on the branch part of a fruit tree in an orchard?",
+      "modified": "Is the green apple on the branch part of a fruit tree in an orchard?",
+      "false_premise": true
+    }
+  ]
+}

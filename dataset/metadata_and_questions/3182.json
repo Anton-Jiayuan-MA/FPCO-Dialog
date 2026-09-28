@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3182",
+    "source": "COCO",
+    "complexity": 3,
+    "category": 1,
+    "target": "person"
+  },
+  "base": {
+    "target_description": "the woman in a dark purple top",
+    "modified_target_description": "the woman in a dark purple top on the right",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the woman in a dark purple top looking at?",
+      "modified": "What is the woman in a dark purple top looking at?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the woman in a dark purple top standing beside the kitchen counter?",
+      "modified": "Is the woman in a dark purple top standing beside the kitchen counter?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the woman in a dark purple top appear to be holding a tablet or book?",
+      "modified": "Does the woman in a dark purple top appear to be holding a tablet or book?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the woman in a dark purple top facing toward the older woman nearby?",
+      "modified": "Is the woman in a dark purple top on the right facing toward the older woman nearby?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "What is the woman in a dark purple top doing with her hands?",
+      "modified": "What is the woman in a dark purple top on the right doing with her hands?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the woman in a dark purple top engaged in the conversation or focused on what she is holding?",
+      "modified": "Is the woman in a dark purple top on the right engaged in the conversation or focused on what she is holding?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the woman in a dark purple top standing or sitting?",
+      "modified": "Is the woman in a dark purple top on the right standing or sitting?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the woman in a dark purple top have her hair tied back?",
+      "modified": "Does the woman in a dark purple top on the right have her hair tied back?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the woman in a dark purple top near the refrigerator?",
+      "modified": "Is the woman in a dark purple top on the right near the refrigerator?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Would you say the woman in a dark purple top is indoors in a kitchen?",
+      "modified": "Would you say the woman in a dark purple top on the right is indoors in a kitchen?",
+      "false_premise": true
+    }
+  ]
+}

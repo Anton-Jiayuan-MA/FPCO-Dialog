@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3443",
+    "source": "COCO",
+    "complexity": 3,
+    "category": 4,
+    "target": "banana"
+  },
+  "base": {
+    "target_description": "the yellow banana in the fruit bowl",
+    "modified_target_description": "the green banana in the fruit bowl",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the yellow banana in the fruit bowl ripe enough to eat?",
+      "modified": "Is the yellow banana in the fruit bowl ripe enough to eat?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the yellow banana in the fruit bowl have any brown spots on it?",
+      "modified": "Does the yellow banana in the fruit bowl have any brown spots on it?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the yellow banana in the fruit bowl curved toward the right side of the image?",
+      "modified": "Is the yellow banana in the fruit bowl curved toward the right side of the image?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the yellow banana in the fruit bowl resting on top of other bananas?",
+      "modified": "Is the green banana in the fruit bowl resting on top of other bananas?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the yellow banana in the fruit bowl look smooth and unpeeled?",
+      "modified": "Does the green banana in the fruit bowl look smooth and unpeeled?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the yellow banana in the fruit bowl partly covering the fruit behind it?",
+      "modified": "Is the green banana in the fruit bowl partly covering the fruit behind it?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the yellow banana in the fruit bowl appear to be the most prominent fruit in the image?",
+      "modified": "Does the green banana in the fruit bowl appear to be the most prominent fruit in the image?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the yellow banana in the fruit bowl lying horizontally across the bowl?",
+      "modified": "Is the green banana in the fruit bowl lying horizontally across the bowl?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the yellow banana in the fruit bowl look fresh rather than overripe?",
+      "modified": "Does the green banana in the fruit bowl look fresh rather than overripe?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the yellow banana in the fruit bowl near the front edge of the bowl?",
+      "modified": "Is the green banana in the fruit bowl near the front edge of the bowl?",
+      "false_premise": true
+    }
+  ]
+}

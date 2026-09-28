@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1343",
+    "source": "Open Images",
+    "complexity": 1,
+    "category": 3,
+    "target": "bird"
+  },
+  "base": {
+    "target_description": "the pale bird on the branch",
+    "modified_target_description": "the dark bird on the branch",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the pale bird on the branch doing in the image?",
+      "modified": "What is the pale bird on the branch doing in the image?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Which direction is the pale bird on the branch facing?",
+      "modified": "Which direction is the pale bird on the branch facing?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the pale bird on the branch perched calmly or moving?",
+      "modified": "Is the pale bird on the branch perched calmly or moving?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Can you see the pale bird on the branch from the side or from the front?",
+      "modified": "Can you see the dark bird on the branch from the side or from the front?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the pale bird on the branch appear to be sitting high in a tree?",
+      "modified": "Does the dark bird on the branch appear to be sitting high in a tree?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Are the wings of the pale bird on the branch folded or spread out?",
+      "modified": "Are the wings of the dark bird on the branch folded or spread out?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the pale bird on the branch alone in the scene?",
+      "modified": "Is the dark bird on the branch alone in the scene?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "What color does the pale bird on the branch look overall?",
+      "modified": "What color does the dark bird on the branch look overall?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the pale bird on the branch standing on a thick or thin branch?",
+      "modified": "Is the dark bird on the branch standing on a thick or thin branch?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the pale bird on the branch have its tail stretched out behind it?",
+      "modified": "Does the dark bird on the branch have its tail stretched out behind it?",
+      "false_premise": true
+    }
+  ]
+}

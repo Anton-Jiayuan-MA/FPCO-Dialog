@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3286",
+    "source": "Open Images",
+    "complexity": 3,
+    "category": 2,
+    "target": "car"
+  },
+  "base": {
+    "target_description": "the beige vintage car with whitewall tires",
+    "modified_target_description": "the beige vintage car with whitewall tires on the right",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the beige vintage car with whitewall tires parked on grass?",
+      "modified": "Is the beige vintage car with whitewall tires parked on grass?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the beige vintage car with whitewall tires have its roof up?",
+      "modified": "Does the beige vintage car with whitewall tires have its roof up?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the beige vintage car with whitewall tires facing toward the left side of the image?",
+      "modified": "Is the beige vintage car with whitewall tires facing toward the left side of the image?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the beige vintage car with whitewall tires appear to be part of a car show?",
+      "modified": "Does the beige vintage car with whitewall tires on the right appear to be part of a car show?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Can you see a paper displayed on the windshield of the beige vintage car with whitewall tires?",
+      "modified": "Can you see a paper displayed on the windshield of the beige vintage car with whitewall tires on the right?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the beige vintage car with whitewall tires longer than most of the other cars nearby?",
+      "modified": "Is the beige vintage car with whitewall tires on the right longer than most of the other cars nearby?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the beige vintage car with whitewall tires have shiny chrome bumpers?",
+      "modified": "Does the beige vintage car with whitewall tires on the right have shiny chrome bumpers?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Are both side doors of the beige vintage car with whitewall tires visible in the image?",
+      "modified": "Are both side doors of the beige vintage car with whitewall tires on the right visible in the image?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the beige vintage car with whitewall tires positioned in the center foreground of the scene?",
+      "modified": "Is the beige vintage car with whitewall tires on the right positioned in the center foreground of the scene?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the beige vintage car with whitewall tires have prominent tail fins at the back?",
+      "modified": "Does the beige vintage car with whitewall tires on the right have prominent tail fins at the back?",
+      "false_premise": true
+    }
+  ]
+}

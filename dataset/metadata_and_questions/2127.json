@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2127",
+    "source": "COCO",
+    "complexity": 2,
+    "category": 1,
+    "target": "man"
+  },
+  "base": {
+    "target_description": "the man in a white shirt serving a tennis ball",
+    "modified_target_description": "the woman in a white shirt serving a tennis ball",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the man in a white shirt serving a tennis ball doing with his racket?",
+      "modified": "What is the man in a white shirt serving a tennis ball doing with his racket?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the man in a white shirt serving a tennis ball in the middle of a tennis serve?",
+      "modified": "Is the man in a white shirt serving a tennis ball in the middle of a tennis serve?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Where is the man in a white shirt serving a tennis ball standing on the court?",
+      "modified": "Where is the man in a white shirt serving a tennis ball standing on the court?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the man in a white shirt serving a tennis ball have one foot lifted off the ground?",
+      "modified": "Does the woman in a white shirt serving a tennis ball have one foot lifted off the ground?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the man in a white shirt serving a tennis ball looking up at the ball?",
+      "modified": "Is the woman in a white shirt serving a tennis ball looking up at the ball?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "What sport is the man in a white shirt serving a tennis ball playing?",
+      "modified": "What sport is the woman in a white shirt serving a tennis ball playing?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the man in a white shirt serving a tennis ball holding the racket above his head?",
+      "modified": "Is the woman in a white shirt serving a tennis ball holding the racket above her head?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the man in a white shirt serving a tennis ball appear to be outdoors?",
+      "modified": "Does the woman in a white shirt serving a tennis ball appear to be outdoors?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the man in a white shirt serving a tennis ball near the baseline?",
+      "modified": "Is the woman in a white shirt serving a tennis ball near the baseline?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "What color shorts is the man in a white shirt serving a tennis ball wearing?",
+      "modified": "What color shorts is the woman in a white shirt serving a tennis ball wearing?",
+      "false_premise": true
+    }
+  ]
+}

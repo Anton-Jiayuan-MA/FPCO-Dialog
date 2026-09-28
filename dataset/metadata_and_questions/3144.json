@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3144",
+    "source": "COCO",
+    "complexity": 3,
+    "category": 1,
+    "target": "man"
+  },
+  "base": {
+    "target_description": "the man in the green soccer uniform",
+    "modified_target_description": "the man in the blue soccer uniform",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the man in the green soccer uniform jumping up to head the ball?",
+      "modified": "Is the man in the green soccer uniform jumping up to head the ball?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the man in the green soccer uniform have his eyes closed in this moment?",
+      "modified": "Does the man in the green soccer uniform have his eyes closed in this moment?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the man in the green soccer uniform positioned on the left side of the image?",
+      "modified": "Is the man in the green soccer uniform positioned on the left side of the image?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the man in the green soccer uniform reaching one arm forward while contesting the ball?",
+      "modified": "Is the man in the blue soccer uniform reaching one arm forward while contesting the ball?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the man in the green soccer uniform appear to be in midair?",
+      "modified": "Does the man in the blue soccer uniform appear to be in midair?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the man in the green soccer uniform directly under the soccer ball?",
+      "modified": "Is the man in the blue soccer uniform directly under the soccer ball?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the man in the green soccer uniform seem to be colliding with another player?",
+      "modified": "Does the man in the blue soccer uniform seem to be colliding with another player?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the man in the green soccer uniform wearing shorts that match his jersey?",
+      "modified": "Is the man in the blue soccer uniform wearing shorts that match his jersey?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the man in the green soccer uniform look like he is focused on the play despite his eyes being shut?",
+      "modified": "Does the man in the blue soccer uniform look like he is focused on the play despite his eyes being shut?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the man in the green soccer uniform the player highest off the ground?",
+      "modified": "Is the man in the blue soccer uniform the player highest off the ground?",
+      "false_premise": true
+    }
+  ]
+}

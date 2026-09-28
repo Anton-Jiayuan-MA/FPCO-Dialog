@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3476",
+    "source": "COCO",
+    "complexity": 3,
+    "category": 4,
+    "target": "banana"
+  },
+  "base": {
+    "target_description": "the bunches of yellow bananas on the market stall",
+    "modified_target_description": "the bunches of yellow bananas under the market stall",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Are the bunches of yellow bananas on the market stall piled up high?",
+      "modified": "Are the bunches of yellow bananas on the market stall piled up high?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Do the bunches of yellow bananas on the market stall look ripe?",
+      "modified": "Do the bunches of yellow bananas on the market stall look ripe?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Are the bunches of yellow bananas on the market stall being sold in an indoor market?",
+      "modified": "Are the bunches of yellow bananas on the market stall being sold in an indoor market?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Do the bunches of yellow bananas on the market stall take up most of the counter space?",
+      "modified": "Do the bunches of yellow bananas under the market stall take up most of the counter space?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Are the bunches of yellow bananas on the market stall stacked close together?",
+      "modified": "Are the bunches of yellow bananas under the market stall stacked close together?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Do the bunches of yellow bananas on the market stall appear fresh?",
+      "modified": "Do the bunches of yellow bananas under the market stall appear fresh?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Are the bunches of yellow bananas on the market stall in front of the vendor?",
+      "modified": "Are the bunches of yellow bananas under the market stall in front of the vendor?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Do the bunches of yellow bananas on the market stall extend across the length of the stall?",
+      "modified": "Do the bunches of yellow bananas under the market stall extend across the length of the stall?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Are the bunches of yellow bananas on the market stall the main food item visible here?",
+      "modified": "Are the bunches of yellow bananas under the market stall the main food item visible here?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Do the bunches of yellow bananas on the market stall look ready for customers to buy?",
+      "modified": "Do the bunches of yellow bananas under the market stall look ready for customers to buy?",
+      "false_premise": true
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3402",
+    "source": "COCO",
+    "complexity": 3,
+    "category": 4,
+    "target": "apple"
+  },
+  "base": {
+    "target_description": "the shiny red apple in the center",
+    "modified_target_description": "the shiny red tomato in the center",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What color is the shiny red apple in the center?",
+      "modified": "What color is the shiny red apple in the center?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the shiny red apple in the center look fresh?",
+      "modified": "Does the shiny red apple in the center look fresh?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the shiny red apple in the center surrounded by other fruit?",
+      "modified": "Is the shiny red apple in the center surrounded by other fruit?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Can you see the stem area on the shiny red apple in the center?",
+      "modified": "Can you see the stem area on the shiny red tomato in the center?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the shiny red apple in the center have a smooth surface?",
+      "modified": "Does the shiny red tomato in the center have a smooth surface?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the shiny red apple in the center whole or sliced?",
+      "modified": "Is the shiny red tomato in the center whole or sliced?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the shiny red apple in the center appear close to the camera?",
+      "modified": "Does the shiny red tomato in the center appear close to the camera?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the shiny red apple in the center partially blocked by other fruit?",
+      "modified": "Is the shiny red tomato in the center partially blocked by other fruit?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the shiny red apple in the center have any visible blemishes?",
+      "modified": "Does the shiny red tomato in the center have any visible blemishes?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Would you say the shiny red apple in the center is the main focus of the image?",
+      "modified": "Would you say the shiny red tomato in the center is the main focus of the image?",
+      "false_premise": true
+    }
+  ]
+}

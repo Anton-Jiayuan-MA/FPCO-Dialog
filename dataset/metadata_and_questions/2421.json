@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2421",
+    "source": "Open Images",
+    "complexity": 2,
+    "category": 4,
+    "target": "apple"
+  },
+  "base": {
+    "target_description": "the red and yellow apple on the ground",
+    "modified_target_description": "the red and yellow pear on the ground",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the red and yellow apple on the ground whole or cut open?",
+      "modified": "Is the red and yellow apple on the ground whole or cut open?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the red and yellow apple on the ground look bruised or damaged?",
+      "modified": "Does the red and yellow apple on the ground look bruised or damaged?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the red and yellow apple on the ground lying among other apples?",
+      "modified": "Is the red and yellow apple on the ground lying among other apples?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the red and yellow apple on the ground appear ripe?",
+      "modified": "Does the red and yellow pear on the ground appear ripe?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the red and yellow apple on the ground touching any leaves or grass?",
+      "modified": "Is the red and yellow pear on the ground touching any leaves or grass?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the red and yellow apple on the ground have more red than yellow on its skin?",
+      "modified": "Does the red and yellow pear on the ground have more red than yellow on its skin?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the red and yellow apple on the ground near the center of the image?",
+      "modified": "Is the red and yellow pear on the ground near the center of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the red and yellow apple on the ground look clean or dirty?",
+      "modified": "Does the red and yellow pear on the ground look clean or dirty?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the red and yellow apple on the ground resting flat on the soil?",
+      "modified": "Is the red and yellow pear on the ground resting flat on the soil?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Can you clearly see the full shape of the red and yellow apple on the ground?",
+      "modified": "Can you clearly see the full shape of the red and yellow pear on the ground?",
+      "false_premise": true
+    }
+  ]
+}

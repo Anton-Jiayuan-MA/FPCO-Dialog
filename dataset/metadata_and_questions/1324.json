@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1324",
+    "source": "COCO",
+    "complexity": 1,
+    "category": 3,
+    "target": "elephant"
+  },
+  "base": {
+    "target_description": "the elephant wearing a red head covering",
+    "modified_target_description": "the horse wearing a red head covering",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What color is the elephant wearing a red head covering?",
+      "modified": "What color is the elephant wearing a red head covering?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the elephant wearing a red head covering shown close up in the image?",
+      "modified": "Is the elephant wearing a red head covering shown close up in the image?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Can you see one eye on the elephant wearing a red head covering?",
+      "modified": "Can you see one eye on the elephant wearing a red head covering?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the elephant wearing a red head covering have a visible tusk?",
+      "modified": "Does the horse wearing a red head covering have a visible tusk?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the elephant wearing a red head covering facing toward the right side of the image?",
+      "modified": "Is the horse wearing a red head covering facing toward the right side of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the elephant wearing a red head covering appear decorated?",
+      "modified": "Does the horse wearing a red head covering appear decorated?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Can you see the ear of the elephant wearing a red head covering?",
+      "modified": "Can you see the ear of the horse wearing a red head covering?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the elephant wearing a red head covering the main subject of the photo?",
+      "modified": "Is the horse wearing a red head covering the main subject of the photo?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the elephant wearing a red head covering look calm?",
+      "modified": "Does the horse wearing a red head covering look calm?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the elephant wearing a red head covering outdoors?",
+      "modified": "Is the horse wearing a red head covering outdoors?",
+      "false_premise": true
+    }
+  ]
+}

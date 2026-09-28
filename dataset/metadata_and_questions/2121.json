@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2121",
+    "source": "COCO",
+    "complexity": 2,
+    "category": 1,
+    "target": "man"
+  },
+  "base": {
+    "target_description": "the man in a blue shirt on a skateboard",
+    "modified_target_description": "the woman in a blue shirt on a skateboard",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the man in a blue shirt on a skateboard doing in the scene?",
+      "modified": "What is the man in a blue shirt on a skateboard doing in the scene?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the man in a blue shirt on a skateboard balancing on a ramp?",
+      "modified": "Is the man in a blue shirt on a skateboard balancing on a ramp?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Are the arms of the man in a blue shirt on a skateboard stretched out?",
+      "modified": "Are the arms of the man in a blue shirt on a skateboard stretched out?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the man in a blue shirt on a skateboard wearing a hat?",
+      "modified": "Is the woman in a blue shirt on a skateboard wearing a hat?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the man in a blue shirt on a skateboard appear to be moving?",
+      "modified": "Does the woman in a blue shirt on a skateboard appear to be moving?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the man in a blue shirt on a skateboard leaning to one side?",
+      "modified": "Is the woman in a blue shirt on a skateboard leaning to one side?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Where is the man in a blue shirt on a skateboard positioned in the skate park?",
+      "modified": "Where is the woman in a blue shirt on a skateboard positioned in the skate park?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the man in a blue shirt on a skateboard near the edge of the ramp?",
+      "modified": "Is the woman in a blue shirt on a skateboard near the edge of the ramp?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the man in a blue shirt on a skateboard look like he is performing a trick?",
+      "modified": "Does the woman in a blue shirt on a skateboard look like she is performing a trick?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "What kind of surface is the man in a blue shirt on a skateboard riding on?",
+      "modified": "What kind of surface is the woman in a blue shirt on a skateboard riding on?",
+      "false_premise": true
+    }
+  ]
+}

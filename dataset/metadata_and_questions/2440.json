@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2440",
+    "source": "COCO",
+    "complexity": 2,
+    "category": 4,
+    "target": "banana"
+  },
+  "base": {
+    "target_description": "the sliced bananas on the toast",
+    "modified_target_description": "the whole bananas on the toast",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "How many pieces of the sliced bananas on the toast are visible?",
+      "modified": "How many pieces of the sliced bananas on the toast are visible?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Are the sliced bananas on the toast spread out evenly or clustered together?",
+      "modified": "Are the sliced bananas on the toast spread out evenly or clustered together?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Do the sliced bananas on the toast look freshly cut?",
+      "modified": "Do the sliced bananas on the toast look freshly cut?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Are the sliced bananas on the toast sitting on top of a chocolate spread?",
+      "modified": "Are the whole bananas on the toast sitting on top of a chocolate spread?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Do the sliced bananas on the toast cover most of the bread or just part of it?",
+      "modified": "Do the whole bananas on the toast cover most of the bread or just part of it?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Are the sliced bananas on the toast arranged in a single layer?",
+      "modified": "Are the whole bananas on the toast arranged in a single layer?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Do the sliced bananas on the toast look ripe?",
+      "modified": "Do the whole bananas on the toast look ripe?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Are the sliced bananas on the toast near the center of the plate?",
+      "modified": "Are the whole bananas on the toast near the center of the plate?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Do the sliced bananas on the toast appear to be part of a prepared snack or breakfast?",
+      "modified": "Do the whole bananas on the toast appear to be part of a prepared snack or breakfast?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Are the sliced bananas on the toast clearly visible in the foreground?",
+      "modified": "Are the whole bananas on the toast clearly visible in the foreground?",
+      "false_premise": true
+    }
+  ]
+}

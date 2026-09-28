@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3311",
+    "source": "Open Images",
+    "complexity": 3,
+    "category": 3,
+    "target": "sheep"
+  },
+  "base": {
+    "target_description": "the black-faced sheep lying on the grass",
+    "modified_target_description": "the black-faced dog lying on the grass",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the black-faced sheep lying on the grass resting or standing up?",
+      "modified": "Is the black-faced sheep lying on the grass resting or standing up?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "What direction is the black-faced sheep lying on the grass facing?",
+      "modified": "What direction is the black-faced sheep lying on the grass facing?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the black-faced sheep lying on the grass appear to be alone or near other sheep?",
+      "modified": "Does the black-faced sheep lying on the grass appear to be alone or near other sheep?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the black-faced sheep lying on the grass on the right side of the image?",
+      "modified": "Is the black-faced dog lying on the grass on the right side of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the black-faced sheep lying on the grass have thick wool?",
+      "modified": "Does the black-faced dog lying on the grass have thick wool?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the black-faced sheep lying on the grass in a sunny grassy area?",
+      "modified": "Is the black-faced dog lying on the grass in a sunny grassy area?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Can you see an ear tag on the black-faced sheep lying on the grass?",
+      "modified": "Can you see an ear tag on the black-faced dog lying on the grass?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the black-faced sheep lying on the grass closer to the camera than the other sheep?",
+      "modified": "Is the black-faced dog lying on the grass closer to the camera than the other sheep?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the black-faced sheep lying on the grass have a mostly white body?",
+      "modified": "Does the black-faced dog lying on the grass have a mostly white body?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the black-faced sheep lying on the grass looking toward the left?",
+      "modified": "Is the black-faced dog lying on the grass looking toward the left?",
+      "false_premise": true
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1204",
+    "source": "COCO",
+    "complexity": 1,
+    "category": 2,
+    "target": "bus"
+  },
+  "base": {
+    "target_description": "the yellow school bus",
+    "modified_target_description": "the yellow truck",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the yellow school bus facing toward the camera?",
+      "modified": "Is the yellow school bus facing toward the camera?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the yellow school bus have its front visible in the image?",
+      "modified": "Does the yellow school bus have its front visible in the image?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Can you see the words on top of the yellow school bus?",
+      "modified": "Can you see the words on top of the yellow school bus?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the yellow school bus parked rather than moving?",
+      "modified": "Is the yellow truck parked rather than moving?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the yellow school bus appear to be on a road or paved area?",
+      "modified": "Does the yellow truck appear to be on a road or paved area?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Are the headlights of the yellow school bus visible?",
+      "modified": "Are the headlights of the yellow truck visible?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Can you see the windshield of the yellow school bus clearly?",
+      "modified": "Can you see the windshield of the yellow truck clearly?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the yellow school bus centered in the picture?",
+      "modified": "Is the yellow truck centered in the picture?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the yellow school bus have side mirrors sticking out on both sides?",
+      "modified": "Does the yellow truck have side mirrors sticking out on both sides?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the yellow school bus shown outdoors?",
+      "modified": "Is the yellow truck shown outdoors?",
+      "false_premise": true
+    }
+  ]
+}

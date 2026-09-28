@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1418",
+    "source": "Open Images",
+    "complexity": 1,
+    "category": 4,
+    "target": "cake"
+  },
+  "base": {
+    "target_description": "the slice of cheesecake with berry sauce",
+    "modified_target_description": "the slice of pizza with berry sauce",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What color is the topping on the slice of cheesecake with berry sauce?",
+      "modified": "What color is the topping on the slice of cheesecake with berry sauce?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the slice of cheesecake with berry sauce sitting on a white plate?",
+      "modified": "Is the slice of cheesecake with berry sauce sitting on a white plate?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the slice of cheesecake with berry sauce look partially eaten or untouched?",
+      "modified": "Does the slice of cheesecake with berry sauce look partially eaten or untouched?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is there a small fruit garnish on top of the slice of cheesecake with berry sauce?",
+      "modified": "Is there a small fruit garnish on top of the slice of pizza with berry sauce?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the slice of cheesecake with berry sauce have a browned top surface?",
+      "modified": "Does the slice of pizza with berry sauce have a browned top surface?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Are there nuts placed around the slice of cheesecake with berry sauce?",
+      "modified": "Are there nuts placed around the slice of pizza with berry sauce?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the slice of cheesecake with berry sauce appear thick and creamy?",
+      "modified": "Does the slice of pizza with berry sauce appear thick and creamy?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the slice of cheesecake with berry sauce served as a dessert?",
+      "modified": "Is the slice of pizza with berry sauce served as a dessert?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the slice of cheesecake with berry sauce near the center of the plate?",
+      "modified": "Is the slice of pizza with berry sauce near the center of the plate?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the slice of cheesecake with berry sauce have sauce pooled around it?",
+      "modified": "Does the slice of pizza with berry sauce have sauce pooled around it?",
+      "false_premise": true
+    }
+  ]
+}

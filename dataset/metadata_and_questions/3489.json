@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3489",
+    "source": "Open Images",
+    "complexity": 3,
+    "category": 4,
+    "target": "cheese"
+  },
+  "base": {
+    "target_description": "the round wheel of cheese with a red N marker",
+    "modified_target_description": "the round wheel of cheese with a red N marker on the right",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the round wheel of cheese with a red N marker sitting on a wooden board?",
+      "modified": "Is the round wheel of cheese with a red N marker sitting on a wooden board?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the round wheel of cheese with a red N marker appear to be near the front of the table?",
+      "modified": "Does the round wheel of cheese with a red N marker appear to be near the front of the table?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the round wheel of cheese with a red N marker a darker yellow than some of the other cheeses?",
+      "modified": "Is the round wheel of cheese with a red N marker a darker yellow than some of the other cheeses?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the round wheel of cheese with a red N marker have a smooth outer surface?",
+      "modified": "Does the round wheel of cheese with a red N marker on the right have a smooth outer surface?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the round wheel of cheese with a red N marker displayed among several other cheese wheels?",
+      "modified": "Is the round wheel of cheese with a red N marker on the right displayed among several other cheese wheels?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the round wheel of cheese with a red N marker look whole rather than cut into slices?",
+      "modified": "Does the round wheel of cheese with a red N marker on the right look whole rather than cut into slices?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the round wheel of cheese with a red N marker placed on a green tablecloth?",
+      "modified": "Is the round wheel of cheese with a red N marker on the right placed on a green tablecloth?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the round wheel of cheese with a red N marker have a small wedge-shaped cut visible on top?",
+      "modified": "Does the round wheel of cheese with a red N marker on the right have a small wedge-shaped cut visible on top?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the round wheel of cheese with a red N marker part of what looks like a judging or display setup?",
+      "modified": "Is the round wheel of cheese with a red N marker on the right part of what looks like a judging or display setup?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the round wheel of cheese with a red N marker closer to the camera than most of the people in the background?",
+      "modified": "Is the round wheel of cheese with a red N marker on the right closer to the camera than most of the people in the background?",
+      "false_premise": true
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2182",
+    "source": "Open Images",
+    "complexity": 2,
+    "category": 1,
+    "target": "person"
+  },
+  "base": {
+    "target_description": "the tall man in a gray T-shirt",
+    "modified_target_description": "the tall man on the left",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the tall man in a gray T-shirt standing behind the market table?",
+      "modified": "Is the tall man in a gray T-shirt standing behind the market table?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the tall man in a gray T-shirt smiling at the camera?",
+      "modified": "Is the tall man in a gray T-shirt smiling at the camera?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the tall man in a gray T-shirt appear to be under a canopy?",
+      "modified": "Does the tall man in a gray T-shirt appear to be under a canopy?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the tall man in a gray T-shirt standing next to a woman?",
+      "modified": "Is the tall man on the left standing next to a woman?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the tall man in a gray T-shirt look like he is helping at the stall?",
+      "modified": "Does the tall man on the left look like he is helping at the stall?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the tall man in a gray T-shirt positioned near the center of the image?",
+      "modified": "Is the tall man on the left positioned near the center of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the tall man in a gray T-shirt facing forward?",
+      "modified": "Is the tall man on the left facing forward?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the tall man in a gray T-shirt have light-colored hair?",
+      "modified": "Does the tall man on the left have light-colored hair?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the tall man in a gray T-shirt in front of a sign?",
+      "modified": "Is the tall man on the left in front of a sign?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the tall man in a gray T-shirt appear relaxed in the scene?",
+      "modified": "Does the tall man on the left appear relaxed in the scene?",
+      "false_premise": true
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2146",
+    "source": "Open Images",
+    "complexity": 2,
+    "category": 1,
+    "target": "man"
+  },
+  "base": {
+    "target_description": "the man in a black suit with glasses",
+    "modified_target_description": "the man in a white suit with glasses",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the man in a black suit with glasses smiling in the image?",
+      "modified": "Is the man in a black suit with glasses smiling in the image?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the man in a black suit with glasses standing beside the woman in the blue dress?",
+      "modified": "Is the man in a black suit with glasses standing beside the woman in the blue dress?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the man in a black suit with glasses appear to be dressed formally?",
+      "modified": "Does the man in a black suit with glasses appear to be dressed formally?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the man in a black suit with glasses looking toward the two women?",
+      "modified": "Is the man in a white suit with glasses looking toward the two women?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the man in a black suit with glasses have a flower pinned to his jacket?",
+      "modified": "Does the man in a white suit with glasses have a flower pinned to his jacket?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the man in a black suit with glasses indoors in this scene?",
+      "modified": "Is the man in a white suit with glasses indoors in this scene?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the man in a black suit with glasses appear to be part of a celebration?",
+      "modified": "Does the man in a white suit with glasses appear to be part of a celebration?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the man in a black suit with glasses wearing a tie?",
+      "modified": "Is the man in a white suit with glasses wearing a tie?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the man in a black suit with glasses standing near the decorative floral arrangement?",
+      "modified": "Is the man in a white suit with glasses standing near the decorative floral arrangement?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the man in a black suit with glasses seem relaxed and cheerful?",
+      "modified": "Does the man in a white suit with glasses seem relaxed and cheerful?",
+      "false_premise": true
+    }
+  ]
+}

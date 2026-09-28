@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1117",
+    "source": "COCO",
+    "complexity": 1,
+    "category": 1,
+    "target": "man"
+  },
+  "base": {
+    "target_description": "the man in a black jacket and ski goggles",
+    "modified_target_description": "the woman in a black jacket and ski goggles",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the man in a black jacket and ski goggles holding to his ear?",
+      "modified": "What is the man in a black jacket and ski goggles holding to his ear?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the man in a black jacket and ski goggles standing outside in the snow?",
+      "modified": "Is the man in a black jacket and ski goggles standing outside in the snow?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the man in a black jacket and ski goggles look like he is talking on the phone?",
+      "modified": "Does the man in a black jacket and ski goggles look like he is talking on the phone?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "What kind of expression does the man in a black jacket and ski goggles have on his face?",
+      "modified": "What kind of expression does the woman in a black jacket and ski goggles have on her face?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the man in a black jacket and ski goggles wearing the goggles over his eyes or on his head?",
+      "modified": "Is the woman in a black jacket and ski goggles wearing the goggles over her eyes or on her head?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "What color is the jacket worn by the man in a black jacket and ski goggles?",
+      "modified": "What color is the jacket worn by the woman in a black jacket and ski goggles?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the man in a black jacket and ski goggles appear to be in a winter setting?",
+      "modified": "Does the woman in a black jacket and ski goggles appear to be in a winter setting?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the man in a black jacket and ski goggles wearing a hat under the goggles?",
+      "modified": "Is the woman in a black jacket and ski goggles wearing a hat under the goggles?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "What is the man in a black jacket and ski goggles doing with his left hand?",
+      "modified": "What is the woman in a black jacket and ski goggles doing with her left hand?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Can you see snow behind the man in a black jacket and ski goggles?",
+      "modified": "Can you see snow behind the woman in a black jacket and ski goggles?",
+      "false_premise": true
+    }
+  ]
+}

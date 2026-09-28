@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1387",
+    "source": "COCO",
+    "complexity": 1,
+    "category": 3,
+    "target": "cat"
+  },
+  "base": {
+    "target_description": "the curled-up tabby cat on the dark bed",
+    "modified_target_description": "the curled-up tabby cat on the left side of the bed",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the curled-up tabby cat on the dark bed asleep?",
+      "modified": "Is the curled-up tabby cat on the dark bed asleep?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "What is the curled-up tabby cat on the dark bed resting on?",
+      "modified": "What is the curled-up tabby cat on the dark bed resting on?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the curled-up tabby cat on the dark bed look comfortable?",
+      "modified": "Does the curled-up tabby cat on the dark bed look comfortable?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the curled-up tabby cat on the dark bed near the middle of the bed?",
+      "modified": "Is the curled-up tabby cat on the left side of the bed near the middle of the bed?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Can you see the face of the curled-up tabby cat on the dark bed clearly?",
+      "modified": "Can you see the face of the curled-up tabby cat on the left side of the bed clearly?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the curled-up tabby cat on the dark bed tucked into a tight ball?",
+      "modified": "Is the curled-up tabby cat on the left side of the bed tucked into a tight ball?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "What color is the curled-up tabby cat on the dark bed?",
+      "modified": "What color is the curled-up tabby cat on the left side of the bed?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the curled-up tabby cat on the dark bed appear to be alone?",
+      "modified": "Does the curled-up tabby cat on the left side of the bed appear to be alone?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the curled-up tabby cat on the dark bed lying on top of the blanket?",
+      "modified": "Is the curled-up tabby cat on the left side of the bed lying on top of the blanket?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the curled-up tabby cat on the dark bed have its head tucked in?",
+      "modified": "Does the curled-up tabby cat on the left side of the bed have its head tucked in?",
+      "false_premise": true
+    }
+  ]
+}

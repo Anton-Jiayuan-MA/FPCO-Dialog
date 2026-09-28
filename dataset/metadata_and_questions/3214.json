@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3214",
+    "source": "COCO",
+    "complexity": 3,
+    "category": 2,
+    "target": "motorcycle"
+  },
+  "base": {
+    "target_description": "the red motorcycle with the number 42",
+    "modified_target_description": "the red bicycle with the number 42",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the red motorcycle with the number 42 parked indoors?",
+      "modified": "Is the red motorcycle with the number 42 parked indoors?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the red motorcycle with the number 42 appear to be on display?",
+      "modified": "Does the red motorcycle with the number 42 appear to be on display?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the red motorcycle with the number 42 facing slightly toward the camera?",
+      "modified": "Is the red motorcycle with the number 42 facing slightly toward the camera?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the red motorcycle with the number 42 have a front wheel turned a bit to the side?",
+      "modified": "Does the red bicycle with the number 42 have a front wheel turned a bit to the side?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the red motorcycle with the number 42 positioned in front of another motorcycle?",
+      "modified": "Is the red bicycle with the number 42 positioned in front of another motorcycle?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the red motorcycle with the number 42 have a large number plate on the front?",
+      "modified": "Does the red bicycle with the number 42 have a large number plate on the front?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the red motorcycle with the number 42 resting on a stand?",
+      "modified": "Is the red bicycle with the number 42 resting on a stand?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the red motorcycle with the number 42 look like a racing-style bike?",
+      "modified": "Does the red bicycle with the number 42 look like a racing-style bike?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Can you clearly see the front tire of the red motorcycle with the number 42?",
+      "modified": "Can you clearly see the front tire of the red bicycle with the number 42?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the red motorcycle with the number 42 the closest vehicle to the camera?",
+      "modified": "Is the red bicycle with the number 42 the closest vehicle to the camera?",
+      "false_premise": true
+    }
+  ]
+}

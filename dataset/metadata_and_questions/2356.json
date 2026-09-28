@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2356",
+    "source": "COCO",
+    "complexity": 2,
+    "category": 3,
+    "target": "giraffe"
+  },
+  "base": {
+    "target_description": "the young giraffe in the grass",
+    "modified_target_description": "the adult giraffe in the grass",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the young giraffe in the grass looking toward?",
+      "modified": "What is the young giraffe in the grass looking toward?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the young giraffe in the grass standing close to another giraffe?",
+      "modified": "Is the young giraffe in the grass standing close to another giraffe?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the young giraffe in the grass appear smaller than the other giraffe nearby?",
+      "modified": "Does the young giraffe in the grass appear smaller than the other giraffe nearby?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the young giraffe in the grass facing the camera?",
+      "modified": "Is the adult giraffe in the grass facing the camera?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "What color patterns are visible on the young giraffe in the grass?",
+      "modified": "What color patterns are visible on the adult giraffe in the grass?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the young giraffe in the grass standing still or walking?",
+      "modified": "Is the adult giraffe in the grass standing still or walking?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "How tall does the young giraffe in the grass look compared with the bushes around it?",
+      "modified": "How tall does the adult giraffe in the grass look compared with the bushes around it?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Where is the young giraffe in the grass positioned in the scene?",
+      "modified": "Where is the adult giraffe in the grass positioned in the scene?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Can you see the full body of the young giraffe in the grass?",
+      "modified": "Can you see the full body of the adult giraffe in the grass?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the young giraffe in the grass appear to be in a natural habitat?",
+      "modified": "Does the adult giraffe in the grass appear to be in a natural habitat?",
+      "false_premise": true
+    }
+  ]
+}

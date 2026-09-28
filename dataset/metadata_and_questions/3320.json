@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3320",
+    "source": "COCO",
+    "complexity": 3,
+    "category": 3,
+    "target": "cow"
+  },
+  "base": {
+    "target_description": "the brown and white cow with long horns",
+    "modified_target_description": "the brown and white horse with long horns",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What direction is the brown and white cow with long horns facing?",
+      "modified": "What direction is the brown and white cow with long horns facing?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the brown and white cow with long horns standing in a grassy area?",
+      "modified": "Is the brown and white cow with long horns standing in a grassy area?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the brown and white cow with long horns have tags on its ears?",
+      "modified": "Does the brown and white cow with long horns have tags on its ears?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the brown and white cow with long horns looking toward the camera?",
+      "modified": "Is the brown and white horse with long horns looking toward the camera?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "How much of the brown and white cow with long horns is visible in the image?",
+      "modified": "How much of the brown and white horse with long horns is visible in the image?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the brown and white cow with long horns appear to be standing still?",
+      "modified": "Does the brown and white horse with long horns appear to be standing still?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Can you see the face of the brown and white cow with long horns clearly?",
+      "modified": "Can you see the face of the brown and white horse with long horns clearly?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the brown and white cow with long horns closer to the camera than the other cow?",
+      "modified": "Is the brown and white horse with long horns closer to the camera than the other cow?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Are both horns of the brown and white cow with long horns visible?",
+      "modified": "Are both horns of the brown and white horse with long horns visible?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the brown and white cow with long horns the main subject of the image?",
+      "modified": "Is the brown and white horse with long horns the main subject of the image?",
+      "false_premise": true
+    }
+  ]
+}

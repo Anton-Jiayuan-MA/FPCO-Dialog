@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1444",
+    "source": "Open Images",
+    "complexity": 1,
+    "category": 4,
+    "target": "ice cream"
+  },
+  "base": {
+    "target_description": "the scoop of ice cream in the dark mug",
+    "modified_target_description": "the scoop of ice cream in the light mug",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What color is the scoop of ice cream in the dark mug?",
+      "modified": "What color is the scoop of ice cream in the dark mug?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the scoop of ice cream in the dark mug starting to melt?",
+      "modified": "Is the scoop of ice cream in the dark mug starting to melt?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the scoop of ice cream in the dark mug sitting on top of a hot drink?",
+      "modified": "Is the scoop of ice cream in the dark mug sitting on top of a hot drink?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the scoop of ice cream in the dark mug look smooth or textured?",
+      "modified": "Does the scoop of ice cream in the light mug look smooth or textured?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the scoop of ice cream in the dark mug fully inside the mug or sticking up above the rim?",
+      "modified": "Is the scoop of ice cream in the light mug fully inside the mug or sticking up above the rim?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the scoop of ice cream in the dark mug appear to be vanilla?",
+      "modified": "Does the scoop of ice cream in the light mug appear to be vanilla?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the scoop of ice cream in the dark mug the main focus of the image?",
+      "modified": "Is the scoop of ice cream in the light mug the main focus of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the scoop of ice cream in the dark mug look like it is floating in the drink?",
+      "modified": "Does the scoop of ice cream in the light mug look like it is floating in the drink?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the scoop of ice cream in the dark mug near the left side of the image?",
+      "modified": "Is the scoop of ice cream in the light mug near the left side of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Would you say the scoop of ice cream in the dark mug looks freshly served?",
+      "modified": "Would you say the scoop of ice cream in the light mug looks freshly served?",
+      "false_premise": true
+    }
+  ]
+}

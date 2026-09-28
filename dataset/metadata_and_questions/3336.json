@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3336",
+    "source": "COCO",
+    "complexity": 3,
+    "category": 3,
+    "target": "cow"
+  },
+  "base": {
+    "target_description": "the black and white cow in the middle",
+    "modified_target_description": "the brown and white cow in the middle",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the black and white cow in the middle standing on grass?",
+      "modified": "Is the black and white cow in the middle standing on grass?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the black and white cow in the middle appear to be facing the camera?",
+      "modified": "Does the black and white cow in the middle appear to be facing the camera?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the black and white cow in the middle larger than the other cows nearby?",
+      "modified": "Is the black and white cow in the middle larger than the other cows nearby?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Can you see the udder of the black and white cow in the middle?",
+      "modified": "Can you see the udder of the brown and white cow in the middle?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the black and white cow in the middle have its ears pointed outward?",
+      "modified": "Does the brown and white cow in the middle have its ears pointed outward?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the black and white cow in the middle closer to the camera than the brown cow beside it?",
+      "modified": "Is the brown and white cow in the middle closer to the camera than the brown cow beside it?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the black and white cow in the middle look like it is calmly standing still?",
+      "modified": "Does the brown and white cow in the middle look like it is calmly standing still?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the black and white cow in the middle the most prominent animal in the scene?",
+      "modified": "Is the brown and white cow in the middle the most prominent animal in the scene?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the black and white cow in the middle have a white patch on its forehead?",
+      "modified": "Does the brown and white cow in the middle have a white patch on its forehead?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the black and white cow in the middle looking downward slightly?",
+      "modified": "Is the brown and white cow in the middle looking downward slightly?",
+      "false_premise": true
+    }
+  ]
+}

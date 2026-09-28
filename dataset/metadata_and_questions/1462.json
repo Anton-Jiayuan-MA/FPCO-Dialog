@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1462",
+    "source": "COCO",
+    "complexity": 1,
+    "category": 4,
+    "target": "soup"
+  },
+  "base": {
+    "target_description": "the orange soup in a blue bowl",
+    "modified_target_description": "the orange soup in a blue bowl on the right",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What color is the orange soup in a blue bowl?",
+      "modified": "What color is the orange soup in a blue bowl?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the orange soup in a blue bowl topped with any garnish?",
+      "modified": "Is the orange soup in a blue bowl topped with any garnish?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the orange soup in a blue bowl look smooth or chunky?",
+      "modified": "Does the orange soup in a blue bowl look smooth or chunky?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the orange soup in a blue bowl served hot or cold?",
+      "modified": "Is the orange soup in a blue bowl on the right served hot or cold?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "What is sitting on top of the orange soup in a blue bowl?",
+      "modified": "What is sitting on top of the orange soup in a blue bowl on the right?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the orange soup in a blue bowl placed on a table?",
+      "modified": "Is the orange soup in a blue bowl on the right placed on a table?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the orange soup in a blue bowl appear freshly served?",
+      "modified": "Does the orange soup in a blue bowl on the right appear freshly served?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the orange soup in a blue bowl next to a spoon?",
+      "modified": "Is the orange soup in a blue bowl on the right next to a spoon?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the orange soup in a blue bowl fill most of the bowl?",
+      "modified": "Does the orange soup in a blue bowl on the right fill most of the bowl?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the orange soup in a blue bowl the main focus of the image?",
+      "modified": "Is the orange soup in a blue bowl on the right the main focus of the image?",
+      "false_premise": true
+    }
+  ]
+}

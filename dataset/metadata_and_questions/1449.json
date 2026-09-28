@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1449",
+    "source": "Open Images",
+    "complexity": 1,
+    "category": 4,
+    "target": "cake"
+  },
+  "base": {
+    "target_description": "the frosted cupcake with lavender on top",
+    "modified_target_description": "the unfrosted cupcake with lavender on top",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What color is the wrapper around the frosted cupcake with lavender on top?",
+      "modified": "What color is the wrapper around the frosted cupcake with lavender on top?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the frosted cupcake with lavender on top sitting on a plate?",
+      "modified": "Is the frosted cupcake with lavender on top sitting on a plate?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the frosted cupcake with lavender on top have white icing?",
+      "modified": "Does the frosted cupcake with lavender on top have white icing?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the frosted cupcake with lavender on top shown close up in the image?",
+      "modified": "Is the unfrosted cupcake with lavender on top shown close up in the image?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Are there dried lavender pieces sprinkled over the frosted cupcake with lavender on top?",
+      "modified": "Are there dried lavender pieces sprinkled over the unfrosted cupcake with lavender on top?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the frosted cupcake with lavender on top look homemade?",
+      "modified": "Does the unfrosted cupcake with lavender on top look homemade?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the frosted cupcake with lavender on top centered in the picture?",
+      "modified": "Is the unfrosted cupcake with lavender on top centered in the picture?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Can you see the brown cake beneath the frosting on the frosted cupcake with lavender on top?",
+      "modified": "Can you see the brown cake beneath the frosting on the unfrosted cupcake with lavender on top?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the frosted cupcake with lavender on top the main focus of the image?",
+      "modified": "Is the unfrosted cupcake with lavender on top the main focus of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the frosted cupcake with lavender on top appear to be a single serving dessert?",
+      "modified": "Does the unfrosted cupcake with lavender on top appear to be a single serving dessert?",
+      "false_premise": true
+    }
+  ]
+}

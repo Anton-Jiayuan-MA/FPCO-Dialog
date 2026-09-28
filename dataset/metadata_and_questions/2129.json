@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2129",
+    "source": "COCO",
+    "complexity": 2,
+    "category": 1,
+    "target": "surfer"
+  },
+  "base": {
+    "target_description": "the surfer in a black wetsuit",
+    "modified_target_description": "the kayaker in a black wetsuit",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the surfer in a black wetsuit doing in the water?",
+      "modified": "What is the surfer in a black wetsuit doing in the water?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the surfer in a black wetsuit standing upright on a board?",
+      "modified": "Is the surfer in a black wetsuit standing upright on a board?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Which direction is the surfer in a black wetsuit moving along the wave?",
+      "modified": "Which direction is the surfer in a black wetsuit moving along the wave?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the surfer in a black wetsuit closer to the right side of the image?",
+      "modified": "Is the kayaker in a black wetsuit closer to the right side of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the surfer in a black wetsuit appear to be riding through rough water?",
+      "modified": "Does the kayaker in a black wetsuit appear to be riding through rough water?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the surfer in a black wetsuit facing away from the camera?",
+      "modified": "Is the kayaker in a black wetsuit facing away from the camera?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "What part of the wave is the surfer in a black wetsuit riding on?",
+      "modified": "What part of the wave is the kayaker in a black wetsuit riding on?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "How much of the surfboard under the surfer in a black wetsuit is visible?",
+      "modified": "How much of the surfboard under the kayaker in a black wetsuit is visible?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the surfer in a black wetsuit lower in the frame than the kayakers?",
+      "modified": "Is the kayaker in a black wetsuit lower in the frame than the kayakers?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the surfer in a black wetsuit seem balanced while riding the wave?",
+      "modified": "Does the kayaker in a black wetsuit seem balanced while riding the wave?",
+      "false_premise": true
+    }
+  ]
+}

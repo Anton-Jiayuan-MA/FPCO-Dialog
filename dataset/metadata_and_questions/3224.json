@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3224",
+    "source": "COCO",
+    "complexity": 3,
+    "category": 2,
+    "target": "airplane"
+  },
+  "base": {
+    "target_description": "the white Qantas airplane",
+    "modified_target_description": "the white Qantas truck",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the white Qantas airplane parked at an airport gate?",
+      "modified": "Is the white Qantas airplane parked at an airport gate?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Can you see the white Qantas airplane from the side?",
+      "modified": "Can you see the white Qantas airplane from the side?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the white Qantas airplane appear to be stationary in this image?",
+      "modified": "Does the white Qantas airplane appear to be stationary in this image?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the white Qantas airplane positioned in the foreground of the scene?",
+      "modified": "Is the white Qantas truck positioned in the foreground of the scene?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the white Qantas airplane have a red tail fin?",
+      "modified": "Does the white Qantas truck have a red tail fin?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the white Qantas airplane connected to a boarding bridge?",
+      "modified": "Is the white Qantas truck connected to a boarding bridge?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Can you read airline branding on the white Qantas airplane?",
+      "modified": "Can you read airline branding on the white Qantas truck?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the engine of the white Qantas airplane visible?",
+      "modified": "Is the engine of the white Qantas truck visible?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the white Qantas airplane look ready for boarding?",
+      "modified": "Does the white Qantas truck look ready for boarding?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the white Qantas airplane on the ground rather than in the air?",
+      "modified": "Is the white Qantas truck on the ground rather than in the air?",
+      "false_premise": true
+    }
+  ]
+}

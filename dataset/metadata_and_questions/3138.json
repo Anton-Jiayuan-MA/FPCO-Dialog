@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3138",
+    "source": "COCO",
+    "complexity": 3,
+    "category": 1,
+    "target": "child"
+  },
+  "base": {
+    "target_description": "the child in a white helmet",
+    "modified_target_description": "the child in a black helmet",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the child in a white helmet doing in this moment?",
+      "modified": "What is the child in a white helmet doing in this moment?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the child in a white helmet in the air or on the ground?",
+      "modified": "Is the child in a white helmet in the air or on the ground?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "What color shirt is the child in a white helmet wearing?",
+      "modified": "What color shirt is the child in a white helmet wearing?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the child in a white helmet appear to be reaching toward the flying disc?",
+      "modified": "Does the child in a black helmet appear to be reaching toward the flying disc?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the child in a white helmet above another player in the scene?",
+      "modified": "Is the child in a black helmet above another player in the scene?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Which direction is the child in a white helmet facing?",
+      "modified": "Which direction is the child in a black helmet facing?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the child in a white helmet look balanced or off balance here?",
+      "modified": "Does the child in a black helmet look balanced or off balance here?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "How close is the child in a white helmet to the frisbee?",
+      "modified": "How close is the child in a black helmet to the frisbee?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Are the arms of the child in a white helmet stretched out?",
+      "modified": "Are the arms of the child in a black helmet stretched out?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the child in a white helmet actively involved in the play?",
+      "modified": "Is the child in a black helmet actively involved in the play?",
+      "false_premise": true
+    }
+  ]
+}

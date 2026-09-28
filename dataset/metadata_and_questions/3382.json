@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3382",
+    "source": "Open Images",
+    "complexity": 3,
+    "category": 3,
+    "target": "chicken"
+  },
+  "base": {
+    "target_description": "the brown chicken in the barn",
+    "modified_target_description": "the brown chicken outside the barn",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Where is the brown chicken in the barn standing?",
+      "modified": "Where is the brown chicken in the barn standing?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the brown chicken in the barn on the floor or perched up higher?",
+      "modified": "Is the brown chicken in the barn on the floor or perched up higher?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "What is the brown chicken in the barn doing in the scene?",
+      "modified": "What is the brown chicken in the barn doing in the scene?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the brown chicken in the barn appear to be near other chickens?",
+      "modified": "Does the brown chicken outside the barn appear to be near other chickens?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the brown chicken in the barn facing toward the camera or away from it?",
+      "modified": "Is the brown chicken outside the barn facing toward the camera or away from it?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Can you see the full body of the brown chicken in the barn?",
+      "modified": "Can you see the full body of the brown chicken outside the barn?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the brown chicken in the barn look like it is moving or staying still?",
+      "modified": "Does the brown chicken outside the barn look like it is moving or staying still?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the brown chicken in the barn close to any feeding area?",
+      "modified": "Is the brown chicken outside the barn close to any feeding area?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "What color are the feathers on the brown chicken in the barn?",
+      "modified": "What color are the feathers on the brown chicken outside the barn?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the brown chicken in the barn blend in with the other chickens around it?",
+      "modified": "Does the brown chicken outside the barn blend in with the other chickens around it?",
+      "false_premise": true
+    }
+  ]
+}

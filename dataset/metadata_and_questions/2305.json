@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2305",
+    "source": "COCO",
+    "complexity": 2,
+    "category": 3,
+    "target": "horse"
+  },
+  "base": {
+    "target_description": "the brown horse carrying bags",
+    "modified_target_description": "the brown dog carrying bags",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the brown horse carrying bags standing in the water?",
+      "modified": "Is the brown horse carrying bags standing in the water?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the brown horse carrying bags facing toward the left side of the image?",
+      "modified": "Is the brown horse carrying bags facing toward the left side of the image?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the brown horse carrying bags appear to be walking across the stream?",
+      "modified": "Does the brown horse carrying bags appear to be walking across the stream?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the brown horse carrying bags closer to the left side of the image than the right?",
+      "modified": "Is the brown dog carrying bags closer to the left side of the image than the right?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the brown horse carrying bags have its head lowered?",
+      "modified": "Does the brown dog carrying bags have its head lowered?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the brown horse carrying bags surrounded by rocks in the stream?",
+      "modified": "Is the brown dog carrying bags surrounded by rocks in the stream?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the brown horse carrying bags look like it is moving through shallow water?",
+      "modified": "Does the brown dog carrying bags look like it is moving through shallow water?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the brown horse carrying bags in front of a forested background?",
+      "modified": "Is the brown dog carrying bags in front of a forested background?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the brown horse carrying bags appear to be carrying a load on its back?",
+      "modified": "Does the brown dog carrying bags appear to be carrying a load on its back?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the brown horse carrying bags near another horse in the scene?",
+      "modified": "Is the brown dog carrying bags near another horse in the scene?",
+      "false_premise": true
+    }
+  ]
+}

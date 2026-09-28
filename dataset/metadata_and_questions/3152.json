@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3152",
+    "source": "COCO",
+    "complexity": 3,
+    "category": 1,
+    "target": "person"
+  },
+  "base": {
+    "target_description": "the man in a blue shirt on the right",
+    "modified_target_description": "the man in a red shirt on the right",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the man in a blue shirt on the right smiling at the camera?",
+      "modified": "Is the man in a blue shirt on the right smiling at the camera?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the man in a blue shirt on the right seated at the dining table?",
+      "modified": "Is the man in a blue shirt on the right seated at the dining table?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the man in a blue shirt on the right appear to be wearing glasses?",
+      "modified": "Does the man in a blue shirt on the right appear to be wearing glasses?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the man in a blue shirt on the right closer to the camera than most of the other diners?",
+      "modified": "Is the man in a red shirt on the right closer to the camera than most of the other diners?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the man in a blue shirt on the right have a plate in front of him?",
+      "modified": "Does the man in a red shirt on the right have a plate in front of him?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the man in a blue shirt on the right turned slightly toward the center of the table?",
+      "modified": "Is the man in a red shirt on the right turned slightly toward the center of the table?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the man in a blue shirt on the right look relaxed in the scene?",
+      "modified": "Does the man in a red shirt on the right look relaxed in the scene?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the man in a blue shirt on the right sitting beside another man with glasses?",
+      "modified": "Is the man in a red shirt on the right sitting beside another man with glasses?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the man in a blue shirt on the right appear to be part of the group having a meal?",
+      "modified": "Does the man in a red shirt on the right appear to be part of the group having a meal?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the man in a blue shirt on the right positioned at the near end of the table?",
+      "modified": "Is the man in a red shirt on the right positioned at the near end of the table?",
+      "false_premise": true
+    }
+  ]
+}

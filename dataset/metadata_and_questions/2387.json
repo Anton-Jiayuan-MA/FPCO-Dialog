@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2387",
+    "source": "COCO",
+    "complexity": 2,
+    "category": 3,
+    "target": "sheep"
+  },
+  "base": {
+    "target_description": "the white sheep in the arena",
+    "modified_target_description": "the white sheep near the fence",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the white sheep in the arena facing?",
+      "modified": "What is the white sheep in the arena facing?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the white sheep in the arena standing still or moving?",
+      "modified": "Is the white sheep in the arena standing still or moving?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the white sheep in the arena appear to be looking at the dog?",
+      "modified": "Does the white sheep in the arena appear to be looking at the dog?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Where is the white sheep in the arena positioned relative to the black and white dog?",
+      "modified": "Where is the white sheep near the fence positioned relative to the black and white dog?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the white sheep in the arena close to the fence?",
+      "modified": "Is the white sheep near the fence close to the fence?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the white sheep in the arena look calm or startled?",
+      "modified": "Does the white sheep near the fence look calm or startled?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the white sheep in the arena the only sheep fully visible in the scene?",
+      "modified": "Is the white sheep near the fence the only sheep fully visible in the scene?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "What kind of ground is the white sheep in the arena standing on?",
+      "modified": "What kind of ground is the white sheep near the fence standing on?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the white sheep in the arena inside an enclosed area?",
+      "modified": "Is the white sheep near the fence inside an enclosed area?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the white sheep in the arena appear to be part of a herding event?",
+      "modified": "Does the white sheep near the fence appear to be part of a herding event?",
+      "false_premise": true
+    }
+  ]
+}

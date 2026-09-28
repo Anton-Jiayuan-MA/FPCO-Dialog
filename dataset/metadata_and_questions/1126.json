@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1126",
+    "source": "COCO",
+    "complexity": 1,
+    "category": 1,
+    "target": "man"
+  },
+  "base": {
+    "target_description": "the smiling man in a gray shirt and patterned tie",
+    "modified_target_description": "the smiling woman in a gray shirt and patterned tie",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the smiling man in a gray shirt and patterned tie doing in the scene?",
+      "modified": "What is the smiling man in a gray shirt and patterned tie doing in the scene?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the smiling man in a gray shirt and patterned tie sitting down?",
+      "modified": "Is the smiling man in a gray shirt and patterned tie sitting down?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "What is the smiling man in a gray shirt and patterned tie wearing on his chest?",
+      "modified": "What is the smiling man in a gray shirt and patterned tie wearing on his chest?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the smiling man in a gray shirt and patterned tie appear to be indoors?",
+      "modified": "Does the smiling woman in a gray shirt and patterned tie appear to be indoors?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the smiling man in a gray shirt and patterned tie looking toward the camera?",
+      "modified": "Is the smiling woman in a gray shirt and patterned tie looking toward the camera?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "What kind of expression does the smiling man in a gray shirt and patterned tie have?",
+      "modified": "What kind of expression does the smiling woman in a gray shirt and patterned tie have?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the smiling man in a gray shirt and patterned tie surrounded by empty chairs?",
+      "modified": "Is the smiling woman in a gray shirt and patterned tie surrounded by empty chairs?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the smiling man in a gray shirt and patterned tie have a name tag visible?",
+      "modified": "Does the smiling woman in a gray shirt and patterned tie have a name tag visible?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "What color is the tie worn by the smiling man in a gray shirt and patterned tie?",
+      "modified": "What color is the tie worn by the smiling woman in a gray shirt and patterned tie?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the smiling man in a gray shirt and patterned tie attending some kind of seated event?",
+      "modified": "Is the smiling woman in a gray shirt and patterned tie attending some kind of seated event?",
+      "false_premise": true
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2256",
+    "source": "COCO",
+    "complexity": 2,
+    "category": 2,
+    "target": "bus"
+  },
+  "base": {
+    "target_description": "the red double-decker bus",
+    "modified_target_description": "the blue double-decker bus",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the red double-decker bus parked in a row with other buses?",
+      "modified": "Is the red double-decker bus parked in a row with other buses?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "What direction is the red double-decker bus facing in the image?",
+      "modified": "What direction is the red double-decker bus facing in the image?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the red double-decker bus appear to be an older vintage model?",
+      "modified": "Does the red double-decker bus appear to be an older vintage model?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the red double-decker bus positioned near the center of the scene?",
+      "modified": "Is the blue double-decker bus positioned near the center of the scene?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Can you see people standing or walking beside the red double-decker bus?",
+      "modified": "Can you see people standing or walking beside the blue double-decker bus?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "What route number or destination is shown on the red double-decker bus?",
+      "modified": "What route number or destination is shown on the blue double-decker bus?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the red double-decker bus fully visible from front to back?",
+      "modified": "Is the blue double-decker bus fully visible from front to back?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the red double-decker bus have windows on both levels?",
+      "modified": "Does the blue double-decker bus have windows on both levels?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the red double-decker bus parked outdoors in a bus yard or lot?",
+      "modified": "Is the blue double-decker bus parked outdoors in a bus yard or lot?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "How close is the red double-decker bus to the buses beside it?",
+      "modified": "How close is the blue double-decker bus to the buses beside it?",
+      "false_premise": true
+    }
+  ]
+}

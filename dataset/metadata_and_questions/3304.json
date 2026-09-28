@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3304",
+    "source": "COCO",
+    "complexity": 3,
+    "category": 3,
+    "target": "elephant"
+  },
+  "base": {
+    "target_description": "the large gray elephant legs",
+    "modified_target_description": "the large gray giraffe legs",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Are the large gray elephant legs standing in the foreground of the image?",
+      "modified": "Are the large gray elephant legs standing in the foreground of the image?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Do the large gray elephant legs appear to be surrounding some zebras?",
+      "modified": "Do the large gray elephant legs appear to be surrounding some zebras?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Are the large gray elephant legs planted on sandy ground?",
+      "modified": "Are the large gray elephant legs planted on sandy ground?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Do the large gray elephant legs take up much of the frame?",
+      "modified": "Do the large gray giraffe legs take up much of the frame?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Are the large gray elephant legs shown from close range?",
+      "modified": "Are the large gray giraffe legs shown from close range?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Do the large gray elephant legs belong to an elephant that is mostly out of view?",
+      "modified": "Do the large gray giraffe legs belong to an elephant that is mostly out of view?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Are the large gray elephant legs casting some shade in the scene?",
+      "modified": "Are the large gray giraffe legs casting some shade in the scene?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Do the large gray elephant legs look thick and wrinkled?",
+      "modified": "Do the large gray giraffe legs look thick and wrinkled?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Are the large gray elephant legs positioned around the center area of the photo?",
+      "modified": "Are the large gray giraffe legs positioned around the center area of the photo?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Do the large gray elephant legs help frame the animals behind them?",
+      "modified": "Do the large gray giraffe legs help frame the animals behind them?",
+      "false_premise": true
+    }
+  ]
+}

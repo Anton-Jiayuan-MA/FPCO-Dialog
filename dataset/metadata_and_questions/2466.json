@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2466",
+    "source": "COCO",
+    "complexity": 2,
+    "category": 4,
+    "target": "fruit"
+  },
+  "base": {
+    "target_description": "the sliced red apple on the plate",
+    "modified_target_description": "the sliced red apple beside the plate",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What color is the sliced red apple on the plate?",
+      "modified": "What color is the sliced red apple on the plate?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the sliced red apple on the plate cut into pieces or left whole?",
+      "modified": "Is the sliced red apple on the plate cut into pieces or left whole?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Where on the dish is the sliced red apple on the plate placed?",
+      "modified": "Where on the dish is the sliced red apple on the plate placed?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "What food is sitting next to the sliced red apple on the plate?",
+      "modified": "What food is sitting next to the sliced red apple beside the plate?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the sliced red apple on the plate look fresh?",
+      "modified": "Does the sliced red apple beside the plate look fresh?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the sliced red apple on the plate near the macaroni salad?",
+      "modified": "Is the sliced red apple beside the plate near the macaroni salad?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Would you say the sliced red apple on the plate is one of the larger items shown?",
+      "modified": "Would you say the sliced red apple beside the plate is one of the larger items shown?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the sliced red apple on the plate arranged with other fruits or vegetables?",
+      "modified": "Is the sliced red apple beside the plate arranged with other fruits or vegetables?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Can you see the skin on the sliced red apple on the plate?",
+      "modified": "Can you see the skin on the sliced red apple beside the plate?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the sliced red apple on the plate closer to the top or bottom of the plate?",
+      "modified": "Is the sliced red apple beside the plate closer to the top or bottom of the plate?",
+      "false_premise": true
+    }
+  ]
+}

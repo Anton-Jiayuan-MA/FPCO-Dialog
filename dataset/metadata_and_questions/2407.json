@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2407",
+    "source": "COCO",
+    "complexity": 2,
+    "category": 4,
+    "target": "pizza"
+  },
+  "base": {
+    "target_description": "the pizza with melted cheese and tomato sauce",
+    "modified_target_description": "the sandwich with melted cheese and tomato sauce",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the pizza with melted cheese and tomato sauce on a plate?",
+      "modified": "Is the pizza with melted cheese and tomato sauce on a plate?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the pizza with melted cheese and tomato sauce look freshly baked?",
+      "modified": "Does the pizza with melted cheese and tomato sauce look freshly baked?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the pizza with melted cheese and tomato sauce whole or already sliced?",
+      "modified": "Is the pizza with melted cheese and tomato sauce whole or already sliced?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the pizza with melted cheese and tomato sauce have a thick crust?",
+      "modified": "Does the sandwich with melted cheese and tomato sauce have a thick crust?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the pizza with melted cheese and tomato sauce topped with any green leaves?",
+      "modified": "Is the sandwich with melted cheese and tomato sauce topped with any green leaves?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the pizza with melted cheese and tomato sauce appear to be plain or heavily topped?",
+      "modified": "Does the sandwich with melted cheese and tomato sauce appear to be plain or heavily topped?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the pizza with melted cheese and tomato sauce next to another pizza?",
+      "modified": "Is the sandwich with melted cheese and tomato sauce next to another pizza?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the pizza with melted cheese and tomato sauce have browned spots on the crust?",
+      "modified": "Does the sandwich with melted cheese and tomato sauce have browned spots on the crust?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the pizza with melted cheese and tomato sauce taking up most of the right side of the image?",
+      "modified": "Is the sandwich with melted cheese and tomato sauce taking up most of the right side of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Would you say the pizza with melted cheese and tomato sauce looks round?",
+      "modified": "Would you say the sandwich with melted cheese and tomato sauce looks round?",
+      "false_premise": true
+    }
+  ]
+}

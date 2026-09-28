@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3234",
+    "source": "COCO",
+    "complexity": 3,
+    "category": 2,
+    "target": "truck"
+  },
+  "base": {
+    "target_description": "the yellow waste management truck",
+    "modified_target_description": "the green waste management truck",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the yellow waste management truck parked at the side of the street?",
+      "modified": "Is the yellow waste management truck parked at the side of the street?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the yellow waste management truck appear to be facing toward the camera?",
+      "modified": "Does the yellow waste management truck appear to be facing toward the camera?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the yellow waste management truck larger than the nearby cars in the scene?",
+      "modified": "Is the yellow waste management truck larger than the nearby cars in the scene?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the yellow waste management truck have any writing or logos on its front?",
+      "modified": "Does the green waste management truck have any writing or logos on its front?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the yellow waste management truck positioned near a traffic light?",
+      "modified": "Is the green waste management truck positioned near a traffic light?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Can you see multiple wheels on the yellow waste management truck?",
+      "modified": "Can you see multiple wheels on the green waste management truck?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the yellow waste management truck occupying the foreground of the image?",
+      "modified": "Is the green waste management truck occupying the foreground of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the yellow waste management truck look like it is used for collecting trash or recycling?",
+      "modified": "Does the green waste management truck look like it is used for collecting trash or recycling?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the yellow waste management truck on a city street with other vehicles nearby?",
+      "modified": "Is the green waste management truck on a city street with other vehicles nearby?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Can you clearly see the cab of the yellow waste management truck from this angle?",
+      "modified": "Can you clearly see the cab of the green waste management truck from this angle?",
+      "false_premise": true
+    }
+  ]
+}

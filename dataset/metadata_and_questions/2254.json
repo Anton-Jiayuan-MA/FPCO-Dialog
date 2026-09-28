@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2254",
+    "source": "COCO",
+    "complexity": 2,
+    "category": 2,
+    "target": "car"
+  },
+  "base": {
+    "target_description": "the dark gray sedan parked by the curb",
+    "modified_target_description": "the light gray sedan parked by the curb",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What direction is the dark gray sedan parked by the curb facing?",
+      "modified": "What direction is the dark gray sedan parked by the curb facing?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the dark gray sedan parked by the curb closer to the bench or farther away from it?",
+      "modified": "Is the dark gray sedan parked by the curb closer to the bench or farther away from it?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the dark gray sedan parked by the curb appear to be occupied?",
+      "modified": "Does the dark gray sedan parked by the curb appear to be occupied?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the dark gray sedan parked by the curb on the street or on the sidewalk?",
+      "modified": "Is the light gray sedan parked by the curb on the street or on the sidewalk?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "How many doors are visible on the dark gray sedan parked by the curb?",
+      "modified": "How many doors are visible on the light gray sedan parked by the curb?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the dark gray sedan parked by the curb parked in front of some shops?",
+      "modified": "Is the light gray sedan parked by the curb parked in front of some shops?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the dark gray sedan parked by the curb look like it is moving or stationary?",
+      "modified": "Does the light gray sedan parked by the curb look like it is moving or stationary?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "What color are the wheels on the dark gray sedan parked by the curb?",
+      "modified": "What color are the wheels on the light gray sedan parked by the curb?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the dark gray sedan parked by the curb next to another vehicle?",
+      "modified": "Is the light gray sedan parked by the curb next to another vehicle?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Are any trees casting shade over the dark gray sedan parked by the curb?",
+      "modified": "Are any trees casting shade over the light gray sedan parked by the curb?",
+      "false_premise": true
+    }
+  ]
+}

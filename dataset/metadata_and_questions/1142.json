@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1142",
+    "source": "Open Images",
+    "complexity": 1,
+    "category": 1,
+    "target": "man"
+  },
+  "base": {
+    "target_description": "the man in a white T-shirt and black cap",
+    "modified_target_description": "the man in a black T-shirt and black cap",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the man in a white T-shirt and black cap doing by the window?",
+      "modified": "What is the man in a white T-shirt and black cap doing by the window?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the man in a white T-shirt and black cap standing inside or outside the building?",
+      "modified": "Is the man in a white T-shirt and black cap standing inside or outside the building?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the man in a white T-shirt and black cap appear to be applying something to the glass?",
+      "modified": "Does the man in a white T-shirt and black cap appear to be applying something to the glass?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the man in a white T-shirt and black cap wearing glasses?",
+      "modified": "Is the man in a black T-shirt and black cap wearing glasses?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "What is the man in a white T-shirt and black cap holding in his hands?",
+      "modified": "What is the man in a black T-shirt and black cap holding in his hands?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the man in a white T-shirt and black cap next to a ladder?",
+      "modified": "Is the man in a black T-shirt and black cap next to a ladder?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the man in a white T-shirt and black cap look focused on his task?",
+      "modified": "Does the man in a black T-shirt and black cap look focused on his task?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the man in a white T-shirt and black cap facing the window?",
+      "modified": "Is the man in a black T-shirt and black cap facing the window?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Would you say the man in a white T-shirt and black cap is working on a storefront window?",
+      "modified": "Would you say the man in a black T-shirt and black cap is working on a storefront window?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the man in a white T-shirt and black cap close to the center of the image?",
+      "modified": "Is the man in a black T-shirt and black cap close to the center of the image?",
+      "false_premise": true
+    }
+  ]
+}

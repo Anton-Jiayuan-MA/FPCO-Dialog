@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3466",
+    "source": "COCO",
+    "complexity": 3,
+    "category": 4,
+    "target": "vegetables"
+  },
+  "base": {
+    "target_description": "the bunch of orange carrots with green tops",
+    "modified_target_description": "the bunch of orange carrots with green tops on the right",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "How many of the bunch of orange carrots with green tops are visible on the counter?",
+      "modified": "How many of the bunch of orange carrots with green tops are visible on the counter?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Are the bunch of orange carrots with green tops lying flat on the cutting board?",
+      "modified": "Are the bunch of orange carrots with green tops lying flat on the cutting board?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Do the bunch of orange carrots with green tops look fresh in this image?",
+      "modified": "Do the bunch of orange carrots with green tops look fresh in this image?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Are the bunch of orange carrots with green tops placed near some other vegetables?",
+      "modified": "Are the bunch of orange carrots with green tops on the right placed near some other vegetables?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Do the bunch of orange carrots with green tops have their stems attached?",
+      "modified": "Do the bunch of orange carrots with green tops on the right have their stems attached?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Are the bunch of orange carrots with green tops closer to the left side or the right side of the image?",
+      "modified": "Are the bunch of orange carrots with green tops on the right closer to the left side or the right side of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Do the bunch of orange carrots with green tops appear to be raw and uncut?",
+      "modified": "Do the bunch of orange carrots with green tops on the right appear to be raw and uncut?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Are the bunch of orange carrots with green tops resting in a kitchen setting?",
+      "modified": "Are the bunch of orange carrots with green tops on the right resting in a kitchen setting?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Do the bunch of orange carrots with green tops extend diagonally across the scene?",
+      "modified": "Do the bunch of orange carrots with green tops on the right extend diagonally across the scene?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Are the bunch of orange carrots with green tops one of the main vegetables shown in the image?",
+      "modified": "Are the bunch of orange carrots with green tops on the right one of the main vegetables shown in the image?",
+      "false_premise": true
+    }
+  ]
+}

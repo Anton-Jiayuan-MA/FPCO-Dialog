@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1327",
+    "source": "COCO",
+    "complexity": 1,
+    "category": 3,
+    "target": "giraffe"
+  },
+  "base": {
+    "target_description": "the giraffe with brown and white patches",
+    "modified_target_description": "the zebra with brown and white patches",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What direction is the giraffe with brown and white patches facing?",
+      "modified": "What direction is the giraffe with brown and white patches facing?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the giraffe with brown and white patches looking toward the camera?",
+      "modified": "Is the giraffe with brown and white patches looking toward the camera?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the giraffe with brown and white patches have its mouth open?",
+      "modified": "Does the giraffe with brown and white patches have its mouth open?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Are the ears of the giraffe with brown and white patches sticking outward?",
+      "modified": "Are the ears of the zebra with brown and white patches sticking outward?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Can you clearly see the face of the giraffe with brown and white patches?",
+      "modified": "Can you clearly see the face of the zebra with brown and white patches?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the giraffe with brown and white patches shown up close in the image?",
+      "modified": "Is the zebra with brown and white patches shown up close in the image?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the giraffe with brown and white patches appear to be standing outdoors?",
+      "modified": "Does the zebra with brown and white patches appear to be standing outdoors?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the neck of the giraffe with brown and white patches visible in the picture?",
+      "modified": "Is the neck of the zebra with brown and white patches visible in the picture?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the giraffe with brown and white patches appear calm?",
+      "modified": "Does the zebra with brown and white patches appear calm?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the giraffe with brown and white patches the main subject of the photo?",
+      "modified": "Is the zebra with brown and white patches the main subject of the photo?",
+      "false_premise": true
+    }
+  ]
+}

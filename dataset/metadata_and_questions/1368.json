@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1368",
+    "source": "Open Images",
+    "complexity": 1,
+    "category": 3,
+    "target": "tortoise"
+  },
+  "base": {
+    "target_description": "the large tortoise eating watermelon",
+    "modified_target_description": "the large tortoise eating watermelon on the right",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the large tortoise eating watermelon doing in the grass?",
+      "modified": "What is the large tortoise eating watermelon doing in the grass?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the large tortoise eating watermelon facing toward the camera?",
+      "modified": "Is the large tortoise eating watermelon facing toward the camera?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "What food is directly in front of the large tortoise eating watermelon?",
+      "modified": "What food is directly in front of the large tortoise eating watermelon?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the large tortoise eating watermelon outdoors?",
+      "modified": "Is the large tortoise eating watermelon on the right outdoors?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "What color is the shell of the large tortoise eating watermelon?",
+      "modified": "What color is the shell of the large tortoise eating watermelon on the right?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the large tortoise eating watermelon appear to be eating a fruit slice?",
+      "modified": "Does the large tortoise eating watermelon on the right appear to be eating a fruit slice?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the large tortoise eating watermelon surrounded by green plants?",
+      "modified": "Is the large tortoise eating watermelon on the right surrounded by green plants?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "How close is the large tortoise eating watermelon to the watermelon rind?",
+      "modified": "How close is the large tortoise eating watermelon on the right to the watermelon rind?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the large tortoise eating watermelon have its head extended forward?",
+      "modified": "Does the large tortoise eating watermelon on the right have its head extended forward?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "What is beside the large tortoise eating watermelon in the foreground?",
+      "modified": "What is beside the large tortoise eating watermelon on the right in the foreground?",
+      "false_premise": true
+    }
+  ]
+}

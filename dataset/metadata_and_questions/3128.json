@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3128",
+    "source": "COCO",
+    "complexity": 3,
+    "category": 1,
+    "target": "child"
+  },
+  "base": {
+    "target_description": "the young girl with pigtails at the table",
+    "modified_target_description": "the young boy with pigtails at the table",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the young girl with pigtails at the table looking toward?",
+      "modified": "What is the young girl with pigtails at the table looking toward?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the young girl with pigtails at the table sitting beside an adult?",
+      "modified": "Is the young girl with pigtails at the table sitting beside an adult?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "What color is the shirt worn by the young girl with pigtails at the table?",
+      "modified": "What color is the shirt worn by the young girl with pigtails at the table?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the young girl with pigtails at the table appear to be waiting for food?",
+      "modified": "Does the young boy with pigtails at the table appear to be waiting for food?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the young girl with pigtails at the table close to the pizza?",
+      "modified": "Is the young boy with pigtails at the table close to the pizza?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the young girl with pigtails at the table seem to be indoors?",
+      "modified": "Does the young boy with pigtails at the table seem to be indoors?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "What expression does the young girl with pigtails at the table have?",
+      "modified": "What expression does the young boy with pigtails at the table have?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the young girl with pigtails at the table facing the camera or looking away?",
+      "modified": "Is the young boy with pigtails at the table facing the camera or looking away?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the young girl with pigtails at the table seated in a restaurant?",
+      "modified": "Is the young boy with pigtails at the table seated in a restaurant?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Who is sitting next to the young girl with pigtails at the table?",
+      "modified": "Who is sitting next to the young boy with pigtails at the table?",
+      "false_premise": true
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2378",
+    "source": "Open Images",
+    "complexity": 2,
+    "category": 3,
+    "target": "hummingbird"
+  },
+  "base": {
+    "target_description": "the hummingbird on the right with a long beak",
+    "modified_target_description": "the hummingbird on the left with a long beak",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the hummingbird on the right with a long beak perched on the feeder?",
+      "modified": "Is the hummingbird on the right with a long beak perched on the feeder?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the hummingbird on the right with a long beak facing toward the center of the feeder?",
+      "modified": "Is the hummingbird on the right with a long beak facing toward the center of the feeder?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the hummingbird on the right with a long beak have dark feathers around its throat?",
+      "modified": "Does the hummingbird on the right with a long beak have dark feathers around its throat?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Can you see the hummingbird on the right with a long beak from the side?",
+      "modified": "Can you see the hummingbird on the left with a long beak from the side?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the hummingbird on the right with a long beak looking toward the other bird?",
+      "modified": "Is the hummingbird on the left with a long beak looking toward the other bird?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the hummingbird on the right with a long beak appear still rather than flying?",
+      "modified": "Does the hummingbird on the left with a long beak appear still rather than flying?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the hummingbird on the right with a long beak standing on the red plastic ring?",
+      "modified": "Is the hummingbird on the left with a long beak standing on the red plastic ring?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the hummingbird on the right with a long beak have green feathers on its back?",
+      "modified": "Does the hummingbird on the left with a long beak have green feathers on its back?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the hummingbird on the right with a long beak close to the yellow flower-shaped part of the feeder?",
+      "modified": "Is the hummingbird on the left with a long beak close to the yellow flower-shaped part of the feeder?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the hummingbird on the right with a long beak positioned higher than the bottom of the feeder?",
+      "modified": "Is the hummingbird on the left with a long beak positioned higher than the bottom of the feeder?",
+      "false_premise": true
+    }
+  ]
+}

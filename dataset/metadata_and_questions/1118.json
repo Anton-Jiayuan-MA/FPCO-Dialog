@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1118",
+    "source": "COCO",
+    "complexity": 1,
+    "category": 1,
+    "target": "man"
+  },
+  "base": {
+    "target_description": "the elderly man with white hair in a brown suit",
+    "modified_target_description": "the elderly woman with white hair in a brown suit",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the elderly man with white hair in a brown suit looking at?",
+      "modified": "What is the elderly man with white hair in a brown suit looking at?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the elderly man with white hair in a brown suit standing outdoors?",
+      "modified": "Is the elderly man with white hair in a brown suit standing outdoors?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the elderly man with white hair in a brown suit appear to be looking downward?",
+      "modified": "Does the elderly man with white hair in a brown suit appear to be looking downward?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "What color shirt is the elderly man with white hair in a brown suit wearing?",
+      "modified": "What color shirt is the elderly woman with white hair in a brown suit wearing?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the elderly man with white hair in a brown suit dressed formally?",
+      "modified": "Is the elderly woman with white hair in a brown suit dressed formally?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the elderly man with white hair in a brown suit seem to be in sunlight?",
+      "modified": "Does the elderly woman with white hair in a brown suit seem to be in sunlight?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "What expression does the elderly man with white hair in a brown suit have?",
+      "modified": "What expression does the elderly woman with white hair in a brown suit have?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the elderly man with white hair in a brown suit wearing a tie?",
+      "modified": "Is the elderly woman with white hair in a brown suit wearing a tie?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Can you see the face of the elderly man with white hair in a brown suit clearly?",
+      "modified": "Can you see the face of the elderly woman with white hair in a brown suit clearly?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the elderly man with white hair in a brown suit shown close up in the image?",
+      "modified": "Is the elderly woman with white hair in a brown suit shown close up in the image?",
+      "false_premise": true
+    }
+  ]
+}

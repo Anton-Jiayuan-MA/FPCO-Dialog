@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2325",
+    "source": "Open Images",
+    "complexity": 2,
+    "category": 3,
+    "target": "sheep"
+  },
+  "base": {
+    "target_description": "the sheep in the center",
+    "modified_target_description": "the dog in the center",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the sheep in the center facing toward the camera?",
+      "modified": "Is the sheep in the center facing toward the camera?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the sheep in the center appear to be standing still?",
+      "modified": "Does the sheep in the center appear to be standing still?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the sheep in the center surrounded by other sheep?",
+      "modified": "Is the sheep in the center surrounded by other sheep?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the sheep in the center have light-colored wool?",
+      "modified": "Does the dog in the center have light-colored wool?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the sheep in the center standing on dry grass?",
+      "modified": "Is the dog in the center standing on dry grass?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Can you see the face of the sheep in the center clearly?",
+      "modified": "Can you see the face of the dog in the center clearly?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the sheep in the center look like it is outdoors in a field?",
+      "modified": "Does the dog in the center look like it is outdoors in a field?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Are the ears of the sheep in the center sticking out to the sides?",
+      "modified": "Are the ears of the dog in the center sticking out to the sides?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the sheep in the center closer to the front of the group than the background?",
+      "modified": "Is the dog in the center closer to the front of the group than the background?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the sheep in the center appear to be part of a flock?",
+      "modified": "Does the dog in the center appear to be part of a flock?",
+      "false_premise": true
+    }
+  ]
+}

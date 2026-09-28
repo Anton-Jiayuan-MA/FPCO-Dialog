@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1173",
+    "source": "Open Images",
+    "complexity": 1,
+    "category": 1,
+    "target": "woman"
+  },
+  "base": {
+    "target_description": "the woman leaning over a laptop",
+    "modified_target_description": "the woman beside a laptop",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the woman leaning over a laptop doing in the scene?",
+      "modified": "What is the woman leaning over a laptop doing in the scene?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the woman leaning over a laptop looking at the screen?",
+      "modified": "Is the woman leaning over a laptop looking at the screen?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "What is the woman leaning over a laptop wearing?",
+      "modified": "What is the woman leaning over a laptop wearing?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the woman leaning over a laptop appear to be typing or using the computer?",
+      "modified": "Does the woman beside a laptop appear to be typing or using the computer?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Where is the woman leaning over a laptop positioned in the room?",
+      "modified": "Where is the woman beside a laptop positioned in the room?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the woman leaning over a laptop standing or sitting?",
+      "modified": "Is the woman beside a laptop standing or sitting?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the woman leaning over a laptop seem focused on something?",
+      "modified": "Does the woman beside a laptop seem focused on something?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "What is next to the woman leaning over a laptop?",
+      "modified": "What is next to the woman beside a laptop?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the woman leaning over a laptop indoors?",
+      "modified": "Is the woman beside a laptop indoors?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "How is the woman leaning over a laptop supporting herself while using the computer?",
+      "modified": "How is the woman beside a laptop supporting herself while using the computer?",
+      "false_premise": true
+    }
+  ]
+}

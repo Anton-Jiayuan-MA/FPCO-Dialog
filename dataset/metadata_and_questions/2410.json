@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2410",
+    "source": "Open Images",
+    "complexity": 2,
+    "category": 4,
+    "target": "dough"
+  },
+  "base": {
+    "target_description": "the round pieces of dough on the tray",
+    "modified_target_description": "the round pieces of fruit on the tray",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "How many of the round pieces of dough on the tray are visible?",
+      "modified": "How many of the round pieces of dough on the tray are visible?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Are the round pieces of dough on the tray arranged in neat rows or more loosely placed?",
+      "modified": "Are the round pieces of dough on the tray arranged in neat rows or more loosely placed?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Do the round pieces of dough on the tray all look about the same size?",
+      "modified": "Do the round pieces of dough on the tray all look about the same size?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is there any flour visible around the round pieces of dough on the tray?",
+      "modified": "Is there any flour visible around the round pieces of fruit on the tray?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Are the round pieces of dough on the tray smooth or slightly lumpy in shape?",
+      "modified": "Are the round pieces of fruit on the tray smooth or slightly lumpy in shape?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Do the round pieces of dough on the tray look ready to be baked?",
+      "modified": "Do the round pieces of fruit on the tray look ready to be baked?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Are the round pieces of dough on the tray sitting on a metal baking surface?",
+      "modified": "Are the round pieces of fruit on the tray sitting on a metal baking surface?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Do the round pieces of dough on the tray appear freshly shaped by hand?",
+      "modified": "Do the round pieces of fruit on the tray appear freshly shaped by hand?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is someone standing behind the round pieces of dough on the tray?",
+      "modified": "Is someone standing behind the round pieces of fruit on the tray?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Are the round pieces of dough on the tray spread out with space between them?",
+      "modified": "Are the round pieces of fruit on the tray spread out with space between them?",
+      "false_premise": true
+    }
+  ]
+}

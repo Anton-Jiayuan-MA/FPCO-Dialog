@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3247",
+    "source": "Open Images",
+    "complexity": 3,
+    "category": 2,
+    "target": "bicycle"
+  },
+  "base": {
+    "target_description": "the red bicycle missing its front wheel",
+    "modified_target_description": "the blue bicycle missing its front wheel",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Where is the red bicycle missing its front wheel parked?",
+      "modified": "Where is the red bicycle missing its front wheel parked?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the red bicycle missing its front wheel locked to a bike rack?",
+      "modified": "Is the red bicycle missing its front wheel locked to a bike rack?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the red bicycle missing its front wheel appear to be missing any other parts besides the front wheel?",
+      "modified": "Does the red bicycle missing its front wheel appear to be missing any other parts besides the front wheel?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "What color is the frame of the red bicycle missing its front wheel?",
+      "modified": "What color is the frame of the blue bicycle missing its front wheel?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the red bicycle missing its front wheel positioned between two cars?",
+      "modified": "Is the blue bicycle missing its front wheel positioned between two cars?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the red bicycle missing its front wheel have drop handlebars?",
+      "modified": "Does the blue bicycle missing its front wheel have drop handlebars?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the red bicycle missing its front wheel standing upright on its own or supported by something?",
+      "modified": "Is the blue bicycle missing its front wheel standing upright on its own or supported by something?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the red bicycle missing its front wheel look like a road bike or a mountain bike?",
+      "modified": "Does the blue bicycle missing its front wheel look like a road bike or a mountain bike?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "What is the red bicycle missing its front wheel attached to?",
+      "modified": "What is the blue bicycle missing its front wheel attached to?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the red bicycle missing its front wheel on a sidewalk or in the street?",
+      "modified": "Is the blue bicycle missing its front wheel on a sidewalk or in the street?",
+      "false_premise": true
+    }
+  ]
+}

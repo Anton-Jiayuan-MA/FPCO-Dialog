@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1254",
+    "source": "Open Images",
+    "complexity": 1,
+    "category": 2,
+    "target": "boat"
+  },
+  "base": {
+    "target_description": "the colorful sailboat with large black sails",
+    "modified_target_description": "the colorful sailboat with large white sails",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the colorful sailboat with large black sails moving across the water?",
+      "modified": "Is the colorful sailboat with large black sails moving across the water?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "How many people are visible on the colorful sailboat with large black sails?",
+      "modified": "How many people are visible on the colorful sailboat with large black sails?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Are the sails on the colorful sailboat with large black sails fully raised?",
+      "modified": "Are the sails on the colorful sailboat with large black sails fully raised?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the colorful sailboat with large black sails look like it is part of a race?",
+      "modified": "Does the colorful sailboat with large white sails look like it is part of a race?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "What color patterns can be seen on the colorful sailboat with large black sails?",
+      "modified": "What color patterns can be seen on the colorful sailboat with large white sails?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the colorful sailboat with large black sails tilted slightly to one side?",
+      "modified": "Is the colorful sailboat with large white sails tilted slightly to one side?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Can you see crew members sitting along the edge of the colorful sailboat with large black sails?",
+      "modified": "Can you see crew members sitting along the edge of the colorful sailboat with large white sails?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the colorful sailboat with large black sails close to the camera?",
+      "modified": "Is the colorful sailboat with large white sails close to the camera?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the colorful sailboat with large black sails have identification text visible on its sails?",
+      "modified": "Does the colorful sailboat with large white sails have identification text visible on its sails?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the colorful sailboat with large black sails the main focus of the image?",
+      "modified": "Is the colorful sailboat with large white sails the main focus of the image?",
+      "false_premise": true
+    }
+  ]
+}

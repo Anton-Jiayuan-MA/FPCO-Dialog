@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1388",
+    "source": "COCO",
+    "complexity": 1,
+    "category": 3,
+    "target": "cat"
+  },
+  "base": {
+    "target_description": "the black and white cat on the umbrella",
+    "modified_target_description": "the black and white cat under the umbrella",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the black and white cat on the umbrella doing?",
+      "modified": "What is the black and white cat on the umbrella doing?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the black and white cat on the umbrella sitting calmly?",
+      "modified": "Is the black and white cat on the umbrella sitting calmly?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Where in the room is the black and white cat on the umbrella positioned?",
+      "modified": "Where in the room is the black and white cat on the umbrella positioned?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the black and white cat on the umbrella appear to be looking toward the camera?",
+      "modified": "Does the black and white cat under the umbrella appear to be looking toward the camera?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "What color markings are visible on the black and white cat on the umbrella?",
+      "modified": "What color markings are visible on the black and white cat under the umbrella?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the black and white cat on the umbrella indoors?",
+      "modified": "Is the black and white cat under the umbrella indoors?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "What is directly underneath the black and white cat on the umbrella?",
+      "modified": "What is directly underneath the black and white cat under the umbrella?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the black and white cat on the umbrella seem relaxed or alert?",
+      "modified": "Does the black and white cat under the umbrella seem relaxed or alert?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the black and white cat on the umbrella near a patterned rug?",
+      "modified": "Is the black and white cat under the umbrella near a patterned rug?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Can you see the paws of the black and white cat on the umbrella clearly?",
+      "modified": "Can you see the paws of the black and white cat under the umbrella clearly?",
+      "false_premise": true
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3355",
+    "source": "COCO",
+    "complexity": 3,
+    "category": 3,
+    "target": "giraffe"
+  },
+  "base": {
+    "target_description": "the giraffe on top",
+    "modified_target_description": "the standing giraffe",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the giraffe on top doing in this image?",
+      "modified": "What is the giraffe on top doing in this image?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the giraffe on top standing in a normal position?",
+      "modified": "Is the giraffe on top standing in a normal position?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Where is the giraffe on top placed relative to the other giraffe?",
+      "modified": "Where is the giraffe on top placed relative to the other giraffe?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the giraffe on top have its legs wrapped around the other giraffe?",
+      "modified": "Does the standing giraffe have its legs wrapped around the other giraffe?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the giraffe on top facing toward the left side of the image?",
+      "modified": "Is the standing giraffe facing toward the left side of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the giraffe on top look like it is climbing or balancing?",
+      "modified": "Does the standing giraffe look like it is climbing or balancing?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Can you see the full body of the giraffe on top?",
+      "modified": "Can you see the full body of the standing giraffe?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the giraffe on top higher than everything else in the scene?",
+      "modified": "Is the standing giraffe higher than everything else in the scene?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the giraffe on top appear to be interacting directly with another giraffe?",
+      "modified": "Does the standing giraffe appear to be interacting directly with another giraffe?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the giraffe on top in an unusual pose?",
+      "modified": "Is the standing giraffe in an unusual pose?",
+      "false_premise": true
+    }
+  ]
+}

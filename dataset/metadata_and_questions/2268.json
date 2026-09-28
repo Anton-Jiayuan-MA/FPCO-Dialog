@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2268",
+    "source": "Open Images",
+    "complexity": 2,
+    "category": 2,
+    "target": "bicycle"
+  },
+  "base": {
+    "target_description": "the light blue bicycle with a rear rack",
+    "modified_target_description": "the light blue bicycle with a rear rack on the right",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the light blue bicycle with a rear rack parked in a bike rack?",
+      "modified": "Is the light blue bicycle with a rear rack parked in a bike rack?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the light blue bicycle with a rear rack appear to be lying at an angle?",
+      "modified": "Does the light blue bicycle with a rear rack appear to be lying at an angle?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Can you see both wheels of the light blue bicycle with a rear rack?",
+      "modified": "Can you see both wheels of the light blue bicycle with a rear rack?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the light blue bicycle with a rear rack closer to the bottom of the image than the top?",
+      "modified": "Is the light blue bicycle with a rear rack on the right closer to the bottom of the image than the top?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Does the light blue bicycle with a rear rack have curved handlebars?",
+      "modified": "Does the light blue bicycle with a rear rack on the right have curved handlebars?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the light blue bicycle with a rear rack positioned in front of the other bicycles?",
+      "modified": "Is the light blue bicycle with a rear rack on the right positioned in front of the other bicycles?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Can you see a bell on the light blue bicycle with a rear rack?",
+      "modified": "Can you see a bell on the light blue bicycle with a rear rack on the right?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the light blue bicycle with a rear rack look upright or tipped sideways?",
+      "modified": "Does the light blue bicycle with a rear rack on the right look upright or tipped sideways?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the light blue bicycle with a rear rack attached to the metal stand?",
+      "modified": "Is the light blue bicycle with a rear rack on the right attached to the metal stand?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Would you say the light blue bicycle with a rear rack is the most prominent bicycle in the image?",
+      "modified": "Would you say the light blue bicycle with a rear rack on the right is the most prominent bicycle in the image?",
+      "false_premise": true
+    }
+  ]
+}

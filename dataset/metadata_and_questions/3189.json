@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3189",
+    "source": "COCO",
+    "complexity": 3,
+    "category": 1,
+    "target": "person"
+  },
+  "base": {
+    "target_description": "the woman in a black jacket and tan pants",
+    "modified_target_description": "the woman in a black jacket and tan pants on the right",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the woman in a black jacket and tan pants doing in the street scene?",
+      "modified": "What is the woman in a black jacket and tan pants doing in the street scene?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the woman in a black jacket and tan pants walking toward the camera?",
+      "modified": "Is the woman in a black jacket and tan pants walking toward the camera?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Where is the woman in a black jacket and tan pants positioned relative to the crosswalk?",
+      "modified": "Where is the woman in a black jacket and tan pants positioned relative to the crosswalk?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the woman in a black jacket and tan pants appear to be alone or with anyone nearby?",
+      "modified": "Does the woman in a black jacket and tan pants on the right appear to be alone or with anyone nearby?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "What direction is the woman in a black jacket and tan pants facing?",
+      "modified": "What direction is the woman in a black jacket and tan pants on the right facing?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the woman in a black jacket and tan pants on the sidewalk or in the roadway?",
+      "modified": "Is the woman in a black jacket and tan pants on the right on the sidewalk or in the roadway?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the woman in a black jacket and tan pants seem to be crossing the street?",
+      "modified": "Does the woman in a black jacket and tan pants on the right seem to be crossing the street?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "What is the woman in a black jacket and tan pants wearing on her upper body?",
+      "modified": "What is the woman in a black jacket and tan pants on the right wearing on her upper body?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "How close is the woman in a black jacket and tan pants to the viewer compared with the other pedestrians?",
+      "modified": "How close is the woman in a black jacket and tan pants on the right to the viewer compared with the other pedestrians?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the woman in a black jacket and tan pants near the corner of the intersection?",
+      "modified": "Is the woman in a black jacket and tan pants on the right near the corner of the intersection?",
+      "false_premise": true
+    }
+  ]
+}

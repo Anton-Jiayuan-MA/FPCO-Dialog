@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3387",
+    "source": "COCO",
+    "complexity": 3,
+    "category": 3,
+    "target": "sheep"
+  },
+  "base": {
+    "target_description": "the cream-colored sheep grazing in the field",
+    "modified_target_description": "the cream-colored sheep in the background",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the cream-colored sheep grazing in the field doing right now?",
+      "modified": "What is the cream-colored sheep grazing in the field doing right now?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the cream-colored sheep grazing in the field standing alone or near other sheep?",
+      "modified": "Is the cream-colored sheep grazing in the field standing alone or near other sheep?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the cream-colored sheep grazing in the field have its head down?",
+      "modified": "Does the cream-colored sheep grazing in the field have its head down?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Where in the scene is the cream-colored sheep grazing in the field located?",
+      "modified": "Where in the scene is the cream-colored sheep in the background located?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the cream-colored sheep grazing in the field closer to the foreground or the background?",
+      "modified": "Is the cream-colored sheep in the background closer to the foreground or the background?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the cream-colored sheep grazing in the field appear to be eating grass?",
+      "modified": "Does the cream-colored sheep in the background appear to be eating grass?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the cream-colored sheep grazing in the field facing toward the camera or away from it?",
+      "modified": "Is the cream-colored sheep in the background facing toward the camera or away from it?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the cream-colored sheep grazing in the field blend in with the other sheep nearby?",
+      "modified": "Does the cream-colored sheep in the background blend in with the other sheep nearby?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the cream-colored sheep grazing in the field part of a larger flock?",
+      "modified": "Is the cream-colored sheep in the background part of a larger flock?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Can you see the full body of the cream-colored sheep grazing in the field?",
+      "modified": "Can you see the full body of the cream-colored sheep in the background?",
+      "false_premise": true
+    }
+  ]
+}

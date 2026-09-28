@@ -1,0 +1,11 @@
+k,overall_correctiontpatk_gpt54,overall_correctiontpatk_gemini31pro,overall_correctiontpatk_average,identity_correctiontpatk_gpt54,identity_correctiontpatk_gemini31pro,identity_correctiontpatk_average,attribute_correctiontpatk_gpt54,attribute_correctiontpatk_gemini31pro,attribute_correctiontpatk_average,location_correctiontpatk_gpt54,location_correctiontpatk_gemini31pro,location_correctiontpatk_average,overall_correctionfpatk_gpt54,overall_correctionfpatk_gemini31pro,overall_correctionfpatk_average,identity_correctionfpatk_gpt54,identity_correctionfpatk_gemini31pro,identity_correctionfpatk_average,attribute_correctionfpatk_gpt54,attribute_correctionfpatk_gemini31pro,attribute_correctionfpatk_average,location_correctionfpatk_gpt54,location_correctionfpatk_gemini31pro,location_correctionfpatk_average
+1,,,,,,,,,,,,,0.017,0.016,0.017,0.014,0.014,0.014,0.019,0.019,0.019,0.017,0.014,0.015
+2,,,,,,,,,,,,,0.017,0.017,0.017,0.013,0.014,0.013,0.019,0.019,0.019,0.018,0.017,0.018
+3,,,,,,,,,,,,,0.017,0.016,0.017,0.013,0.014,0.013,0.019,0.019,0.019,0.019,0.016,0.018
+4,0.707,0.699,0.703,0.967,0.972,0.970,0.831,0.819,0.825,0.325,0.306,0.316,0.017,0.016,0.017,0.013,0.014,0.013,0.019,0.019,0.019,0.019,0.016,0.018
+5,0.697,0.691,0.694,0.963,0.969,0.966,0.812,0.808,0.810,0.317,0.296,0.306,0.017,0.016,0.017,0.013,0.014,0.013,0.019,0.019,0.019,0.019,0.016,0.018
+6,0.694,0.690,0.692,0.958,0.967,0.962,0.809,0.806,0.808,0.316,0.295,0.305,0.017,0.016,0.017,0.013,0.014,0.013,0.019,0.019,0.019,0.019,0.016,0.018
+7,0.692,0.686,0.689,0.958,0.965,0.962,0.803,0.799,0.801,0.315,0.293,0.304,0.017,0.016,0.017,0.013,0.014,0.013,0.019,0.019,0.019,0.019,0.016,0.018
+8,0.690,0.685,0.688,0.957,0.964,0.960,0.803,0.798,0.800,0.312,0.293,0.302,0.017,0.016,0.017,0.013,0.014,0.013,0.019,0.019,0.019,0.019,0.016,0.018
+9,0.690,0.685,0.688,0.956,0.964,0.960,0.800,0.796,0.798,0.312,0.296,0.304,0.017,0.016,0.017,0.013,0.014,0.013,0.019,0.019,0.019,0.019,0.016,0.018
+10,0.689,0.687,0.688,0.956,0.963,0.960,0.800,0.794,0.797,0.313,0.302,0.307,0.017,0.016,0.017,0.013,0.014,0.013,0.019,0.019,0.019,0.019,0.016,0.018

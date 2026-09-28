@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "2488",
+    "source": "Open Images",
+    "complexity": 2,
+    "category": 4,
+    "target": "tea"
+  },
+  "base": {
+    "target_description": "the dark tea in a clear glass",
+    "modified_target_description": "the dark tea in a clear glass on the left",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "Is the dark tea in a clear glass sitting on a white saucer?",
+      "modified": "Is the dark tea in a clear glass sitting on a white saucer?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Does the dark tea in a clear glass appear to be hot?",
+      "modified": "Does the dark tea in a clear glass appear to be hot?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Is the dark tea in a clear glass filled close to the top?",
+      "modified": "Is the dark tea in a clear glass filled close to the top?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the dark tea in a clear glass placed on a tray?",
+      "modified": "Is the dark tea in a clear glass on the left placed on a tray?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the dark tea in a clear glass next to a small bowl of lemon slices?",
+      "modified": "Is the dark tea in a clear glass on the left next to a small bowl of lemon slices?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the dark tea in a clear glass have a spoon resting nearby?",
+      "modified": "Does the dark tea in a clear glass on the left have a spoon resting nearby?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the dark tea in a clear glass the main drink shown in the scene?",
+      "modified": "Is the dark tea in a clear glass on the left the main drink shown in the scene?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the dark tea in a clear glass served indoors on a table?",
+      "modified": "Is the dark tea in a clear glass on the left served indoors on a table?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the dark tea in a clear glass beside a small bowl of cookies?",
+      "modified": "Is the dark tea in a clear glass on the left beside a small bowl of cookies?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Does the dark tea in a clear glass look ready to drink?",
+      "modified": "Does the dark tea in a clear glass on the left look ready to drink?",
+      "false_premise": true
+    }
+  ]
+}

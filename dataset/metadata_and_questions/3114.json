@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3114",
+    "source": "COCO",
+    "complexity": 3,
+    "category": 1,
+    "target": "child"
+  },
+  "base": {
+    "target_description": "the blond child in yellow pajamas",
+    "modified_target_description": "the blond dog in yellow pajamas",
+    "false_class": "identity"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the blond child in yellow pajamas looking at?",
+      "modified": "What is the blond child in yellow pajamas looking at?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the blond child in yellow pajamas sitting on someone's lap?",
+      "modified": "Is the blond child in yellow pajamas sitting on someone's lap?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the blond child in yellow pajamas appear interested in the food on the table?",
+      "modified": "Does the blond child in yellow pajamas appear interested in the food on the table?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "What is the blond child in yellow pajamas doing with their hands?",
+      "modified": "What is the blond dog in yellow pajamas doing with their hands?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the blond child in yellow pajamas facing toward the plate?",
+      "modified": "Is the blond dog in yellow pajamas facing toward the plate?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the blond child in yellow pajamas seem happy or serious?",
+      "modified": "Does the blond dog in yellow pajamas seem happy or serious?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the blond child in yellow pajamas close to the table?",
+      "modified": "Is the blond dog in yellow pajamas close to the table?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "What is directly in front of the blond child in yellow pajamas?",
+      "modified": "What is directly in front of the blond dog in yellow pajamas?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the blond child in yellow pajamas being held by an adult?",
+      "modified": "Is the blond dog in yellow pajamas being held by an adult?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Would you say the blond child in yellow pajamas is indoors?",
+      "modified": "Would you say the blond dog in yellow pajamas is indoors?",
+      "false_premise": true
+    }
+  ]
+}

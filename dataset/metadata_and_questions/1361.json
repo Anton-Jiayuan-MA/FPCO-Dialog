@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1361",
+    "source": "Open Images",
+    "complexity": 1,
+    "category": 3,
+    "target": "bird"
+  },
+  "base": {
+    "target_description": "the black and white bird on the wooden box",
+    "modified_target_description": "the black and white bird beside the wooden box",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the black and white bird on the wooden box doing in the image?",
+      "modified": "What is the black and white bird on the wooden box doing in the image?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the black and white bird on the wooden box standing still or about to fly away?",
+      "modified": "Is the black and white bird on the wooden box standing still or about to fly away?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Which direction is the black and white bird on the wooden box facing?",
+      "modified": "Which direction is the black and white bird on the wooden box facing?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the black and white bird on the wooden box appear to be perched securely?",
+      "modified": "Does the black and white bird beside the wooden box appear to be perched securely?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Can you see the tail of the black and white bird on the wooden box clearly?",
+      "modified": "Can you see the tail of the black and white bird beside the wooden box clearly?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the black and white bird on the wooden box the main subject of the photo?",
+      "modified": "Is the black and white bird beside the wooden box the main subject of the photo?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Does the black and white bird on the wooden box look small compared with the box?",
+      "modified": "Does the black and white bird beside the wooden box look small compared with the box?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the black and white bird on the wooden box shown from the side?",
+      "modified": "Is the black and white bird beside the wooden box shown from the side?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the black and white bird on the wooden box have a dark head?",
+      "modified": "Does the black and white bird beside the wooden box have a dark head?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the black and white bird on the wooden box outdoors?",
+      "modified": "Is the black and white bird beside the wooden box outdoors?",
+      "false_premise": true
+    }
+  ]
+}

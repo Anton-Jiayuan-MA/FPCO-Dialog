@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1265",
+    "source": "Open Images",
+    "complexity": 1,
+    "category": 2,
+    "target": "car"
+  },
+  "base": {
+    "target_description": "the teal classic car",
+    "modified_target_description": "the teal classic car on the right",
+    "false_class": "location"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What color is the teal classic car?",
+      "modified": "What color is the teal classic car?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the teal classic car parked or moving in this scene?",
+      "modified": "Is the teal classic car parked or moving in this scene?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Does the teal classic car appear to be an older model vehicle?",
+      "modified": "Does the teal classic car appear to be an older model vehicle?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Is the teal classic car facing toward the camera?",
+      "modified": "Is the teal classic car on the right facing toward the camera?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Can you see the front grille of the teal classic car clearly?",
+      "modified": "Can you see the front grille of the teal classic car on the right clearly?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Does the teal classic car have a visible license plate on the front?",
+      "modified": "Does the teal classic car on the right have a visible license plate on the front?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Are the headlights of the teal classic car visible in the image?",
+      "modified": "Are the headlights of the teal classic car on the right visible in the image?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Is the teal classic car positioned in front of a building?",
+      "modified": "Is the teal classic car on the right positioned in front of a building?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Does the teal classic car take up most of the foreground?",
+      "modified": "Does the teal classic car on the right take up most of the foreground?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Are there people standing behind the teal classic car?",
+      "modified": "Are there people standing behind the teal classic car on the right?",
+      "false_premise": true
+    }
+  ]
+}

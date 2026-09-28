@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "1141",
+    "source": "Open Images",
+    "complexity": 1,
+    "category": 1,
+    "target": "child"
+  },
+  "base": {
+    "target_description": "the child in a blue dress and hat",
+    "modified_target_description": "the child in a red dress and hat",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the child in a blue dress and hat holding in one hand?",
+      "modified": "What is the child in a blue dress and hat holding in one hand?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the child in a blue dress and hat standing or sitting?",
+      "modified": "Is the child in a blue dress and hat standing or sitting?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "What color is the outfit worn by the child in a blue dress and hat?",
+      "modified": "What color is the outfit worn by the child in a blue dress and hat?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the child in a blue dress and hat appear to be outdoors?",
+      "modified": "Does the child in a red dress and hat appear to be outdoors?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "What kind of hat is the child in a blue dress and hat wearing?",
+      "modified": "What kind of hat is the child in a red dress and hat wearing?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "Is the child in a blue dress and hat looking toward the viewer?",
+      "modified": "Is the child in a red dress and hat looking toward the viewer?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "What is attached near the waist of the child in a blue dress and hat?",
+      "modified": "What is attached near the waist of the child in a red dress and hat?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the child in a blue dress and hat have anything decorated on the dress?",
+      "modified": "Does the child in a red dress and hat have anything decorated on the dress?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "How is the child in a blue dress and hat positioned in the scene?",
+      "modified": "How is the child in a red dress and hat positioned in the scene?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Is the child in a blue dress and hat the main focus of the image?",
+      "modified": "Is the child in a red dress and hat the main focus of the image?",
+      "false_premise": true
+    }
+  ]
+}

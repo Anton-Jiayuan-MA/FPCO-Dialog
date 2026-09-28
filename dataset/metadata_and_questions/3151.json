@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "id": "3151",
+    "source": "COCO",
+    "complexity": 3,
+    "category": 1,
+    "target": "person"
+  },
+  "base": {
+    "target_description": "the person in a red poncho",
+    "modified_target_description": "the person in a blue poncho",
+    "false_class": "attribute"
+  },
+  "question": [
+    {
+      "id": 1,
+      "content": "What is the person in a red poncho doing with one arm?",
+      "modified": "What is the person in a red poncho doing with one arm?",
+      "false_premise": false
+    },
+    {
+      "id": 2,
+      "content": "Is the person in a red poncho walking on the wet road?",
+      "modified": "Is the person in a red poncho walking on the wet road?",
+      "false_premise": false
+    },
+    {
+      "id": 3,
+      "content": "Which direction is the person in a red poncho facing?",
+      "modified": "Which direction is the person in a red poncho facing?",
+      "false_premise": false
+    },
+    {
+      "id": 4,
+      "content": "Does the person in a red poncho appear to be part of the group of walkers?",
+      "modified": "Does the person in a blue poncho appear to be part of the group of walkers?",
+      "false_premise": true
+    },
+    {
+      "id": 5,
+      "content": "Is the person in a red poncho near the left side of the image?",
+      "modified": "Is the person in a blue poncho near the left side of the image?",
+      "false_premise": true
+    },
+    {
+      "id": 6,
+      "content": "What is the person in a red poncho wearing besides the poncho?",
+      "modified": "What is the person in a blue poncho wearing besides the poncho?",
+      "false_premise": true
+    },
+    {
+      "id": 7,
+      "content": "Is the person in a red poncho close to other people on the road?",
+      "modified": "Is the person in a blue poncho close to other people on the road?",
+      "false_premise": true
+    },
+    {
+      "id": 8,
+      "content": "Does the person in a red poncho seem to be out in the rain?",
+      "modified": "Does the person in a blue poncho seem to be out in the rain?",
+      "false_premise": true
+    },
+    {
+      "id": 9,
+      "content": "Is the person in a red poncho under the highway signs or still before them?",
+      "modified": "Is the person in a blue poncho under the highway signs or still before them?",
+      "false_premise": true
+    },
+    {
+      "id": 10,
+      "content": "Can you see the legs of the person in a red poncho below the poncho?",
+      "modified": "Can you see the legs of the person in a blue poncho below the poncho?",
+      "false_premise": true
+    }
+  ]
+}

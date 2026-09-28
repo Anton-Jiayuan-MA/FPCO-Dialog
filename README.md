@@ -10,6 +10,41 @@ Official code and dataset for FPCO-Dialog, accepted at EMNLP2026 Main Conference
 
 Click the figure to view or download the original PDF.
 
+## Quicker Start (AI-Assisted)
+
+Copy the prompt below into an AI coding assistant with terminal and file access:
+
+```text
+Help me evaluate my chosen model(s) using FPCO-Dialog:
+https://github.com/lab-klc/FPCO-Dialog
+
+Read README.md and code/README.md first, then:
+
+1. Ask which model(s) I want to evaluate, including exact model IDs,
+   API provider or local checkpoint, evaluation scope, and budget.
+   Evaluate only my selected models, not the example models by default.
+
+2. Check compatibility and available hardware. Set up an isolated
+   environment using the documented dependencies, then run dataset
+   validation and offline tests. Ask before adapting code for
+   unsupported models or downloading large model weights.
+
+3. Guide me to configure credentials locally through environment
+   variables. Never request keys in chat, print them, or commit them.
+
+4. Preserve the published dataset and documented evaluation protocol,
+   including judge models. Keep each configuration's outputs separate
+   and do not overwrite existing results.
+
+5. Confirm any costs before running a one-image, 10-turn end-to-end
+   test: inference, both response detectors, and metrics.
+   Report the outcome and ask before scaling up.
+
+6. Summarize the commit, model and judge versions, commands, results,
+   output paths, and limitations. Never invent results or claim that
+   a smoke test reproduces the paper's scores.
+```
+
 ## Quick start
 
 Use Python 3.10 for the reference environment. The published dataset already

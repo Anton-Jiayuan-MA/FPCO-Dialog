@@ -2,6 +2,13 @@
 
 Official code and dataset for FPCO-Dialog, accepted at EMNLP2026 Main Conference.
 
+FPCO-Dialog evaluates how vision-language models respond when users repeatedly ask
+questions based on incorrect assumptions about an image. It contains 1,080 images
+and 10,800 question turns, organized into 10-turn dialogues with three
+premise-correct turns followed by seven turns sharing the same false premise.
+Use the provided dataset and evaluation pipeline to benchmark supported API or
+local models and measure their correction and cooperation behavior.
+
 **arXiv:** https://arxiv.org/abs/2609.03331
 
 ## Overview
